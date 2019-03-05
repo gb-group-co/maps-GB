@@ -53,6 +53,7 @@
 
         gtag('config', 'UA-130035950-3');
       </script>
+      <script data-main="scripts/main" src="js/require.js"></script>
 
   </head>
   <body>
@@ -88,7 +89,7 @@
           </div>
         </nav>
         <div class="titre">
-          <h3 class="text-center">Trouvez votre concessionnaire le plus proche</h3>
+          <h3 class="text-center">Find your nearest dealer</h3>
         </div>
     <!--The div element for the map -->
     <div id="map"></div>
@@ -96,7 +97,7 @@
     <div class="cookies" id="bandeau-cookies">
       <div class="row">
         <div class="col-md-8 col-sm-6">
-            <small><p>En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies pour réaliser des statistiques, analyser votre navigation, personnaliser votre itinéraire, vous proposer des publicités ciblées et adaptées à vos centres d'intérêts, des communications et des contenus personnalisés, et mener des actions de prospection commerciale directe (email, SMS ...)</p></small>
+            <small><p>By continuing your visit to this site, you accept the use of cookies to perform statistics, analyze your navigation, customize your route, offer targeted advertising tailored to your interests, communications and personalized content, and carry out direct commercial prospecting actions (email, SMS ...)</p></small>
         </div>
         <div class="col-md-2 responsive text-center">
             <button class="btn btn-GB" id="cookies" onClick="infoRemove()">OK</button>
@@ -107,7 +108,9 @@
       
       </div>
     </div>
+    <script src="data/france.geojson"></script>
     <script src="js/banner.js"></script>
+    
     <script src="js/script.js"></script>
     <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
     <script src="js/jquery-3.2.1.slim.min.js"></script>

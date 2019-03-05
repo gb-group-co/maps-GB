@@ -1,9 +1,10 @@
+let dataFrance = require('../data/france.geojson');
+let dataGermany = require('../data/german.geojson');
+let dataCanada = require('../data/canada.geojson');
+let dataItaly = require('../data/italy.geojson');
+let dataWorld = require('../data/export.geojson');
+let dataEngland = require('../data/england.geojson');
 
-
-let france = new XMLHttpRequest();
-france.open('GET','../data/france.geojson', true);
-france.send();
- 
 
 function initMap() {
   var styledMapType = new google.maps.StyledMapType(
@@ -352,7 +353,7 @@ function initMap() {
       {name: 'Styled Map'});
 
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 6,
+    zoom: 3,
     center: {lat: 46.227638,lng: 2.213749},
     mapTypeControlsOptions: {
       mapTypeId: 'roadmap'
@@ -383,22 +384,22 @@ function setMarkers(map) {
     rabe: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
         scale: 2,
-        strokeWeight:2,
+        strokeWeight:1,
         strokeColor:"#0076BD"
     },
     gregoire: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
         scale: 2,
-        strokeWeight:2,
+        strokeWeight:1,
         strokeColor:"#B40404"
     },
     group: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
         scale: 2,
-        strokeWeight:2,
+        strokeWeight:1,
         strokeColor:"#3C3C3B"
     }
-    };
+  };
 
   for (var i = 0; i < france.length; i++) {
     var data = france[i];
@@ -415,18 +416,18 @@ function setMarkers(map) {
     }
 
     var content = '<div id="content" class="infowindow">'+
-      '<h6 id="firstHeading" class="text-center">' + data.properties.Nom + '</h6>'+
+      '<h6 id="firstHeading" class="text-center">' + data.properties.Name + '</h6>'+
       '<p class="infoWindowPara"><strong>Adresse :</strong> ' + data.properties.Adresse1 + ', ' + data.properties.Adresse2 + '</br>'+
-      '<strong>Code Postal :</strong> ' + data.properties.CP + '</br>'+
-      '<strong>Ville :</strong> ' + data.properties.Ville + '</br>' +
-      '<strong>Pays :</strong> ' + data.properties.Pays + ' </br>' +
+      '<strong>Code Postal :</strong> ' + data.properties.Zip_code + '</br>'+
+      '<strong>Ville :</strong> ' + data.properties.City + '</br>' +
+      '<strong>Pays :</strong> ' + data.properties.Country + ' </br>' +
       '<strong> Marque distribuée : ' + logo(data.properties.Brand) +
       '</p>' +
       '<p class="text-center" style="font-size:11px, padding-bottom:-2px"><strong>Notre Responsable de secteur</strong></p>' +
       '<p class="infoWindowPara">' + 
-      '<strong>Nom : </strong>' + data.properties.Commercial + '</br>' +
-      '<strong>Mail : </strong>' + data.properties.Mail_Commercial_GBGroup + '</br>' +
-      '<strong>Tel : </strong>' + data.properties.Tel_commercial_GBGroup + '</br>' +
+      '<strong>Nom : </strong>' + data.properties.GBgroup_salesman + '</br>' +
+      '<strong>Mail : </strong>' + data.properties.GBgroup_salesman_eMail + '</br>' +
+      '<strong>Tel : </strong>' + data.properties.GBgroup_salesman_Phonenumber + '</br>' +
       '</p>' +
       '</div>';
 
@@ -439,7 +440,7 @@ function setMarkers(map) {
       position: {lat: data.geometry.coordinates[1], lng: data.geometry.coordinates[0]},
       map: map,
       icon: image[data.properties.Brand],
-      title: data.properties.Nom,
+      title: data.properties.Name,
       info: content
     });
 
@@ -448,4 +449,6 @@ function setMarkers(map) {
         infowindow.open(map, this);
     });
   }
+ 
 }
+
