@@ -1,0 +1,305 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.181870,43.482060 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRIWAY Srl",
+    "Brand":"GB",
+    "Adresse1":"Via dell'Industria 9",
+    "Adresse2":"",
+    "Zip code":"60030",
+    "City":"MONTE ROBERTO (AN)",
+    "Country":"ITALY",
+    "e-Mail_adress":"italy.contact@gb-group.co",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.496341,43.358226 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"VIOLINI SRL",
+    "Brand":"GB",
+    "Adresse1":"Via Maestri del Lavoro 2",
+    "Adresse2":"",
+    "Zip code":"62019",
+    "City":"RECANATI (MC)",
+    "Country":"ITALY",
+    "e-Mail_adress":"sandro@violinisandro.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.949788,45.335119 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRIMEC",
+    "Brand":"RABE",
+    "Adresse1":"Via Vittorio Veneto 11",
+    "Adresse2":"",
+    "Zip code":"10030",
+    "City":"VISCHE (TO)",
+    "Country":"ITALY",
+    "e-Mail_adress":"amministrazione@agrimecvalle.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.640944,41.332391 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"LOMBARDI",
+    "Brand":"GB",
+    "Adresse1":"SP79 Contrada Spartivento",
+    "Adresse2":"",
+    "Zip code":"71040",
+    "City":"ORDONA (FG)",
+    "Country":"ITALY",
+    "e-Mail_adress":"r.volpone@lombardiluigia.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.829555,40.347109 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"SEVERI ATTILIO",
+    "Brand":"GB",
+    "Adresse1":"SP25Bis Via Grumentina 80",
+    "Adresse2":"",
+    "Zip code":"85050",
+    "City":"VILLA D'AGRI (PZ)",
+    "Country":"ITALY",
+    "e-Mail_adress":"attilioseveri@tiscali.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.008784,45.003607 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"SELLA SRL",
+    "Brand":"GB",
+    "Adresse1":"Strada Oriolo 168",
+    "Adresse2":"",
+    "Zip code":"27058",
+    "City":"VOGHERA (PV)",
+    "Country":"ITALY",
+    "e-Mail_adress":"officina4@zella.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.866552,43.479982 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRIMACCHINE SERAFINI",
+    "Brand":"GB",
+    "Adresse1":"Via Sette Ponti 56/10",
+    "Adresse2":"",
+    "Zip code":"52100",
+    "City":"AREZZO",
+    "Country":"ITALY",
+    "e-Mail_adress":"massimo@agrimacchineserafini.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.506914,41.231648 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"CST CENTRO SUD TRATTORI",
+    "Brand":"GB",
+    "Adresse1":"SP46",
+    "Adresse2":"",
+    "Zip code":"82035",
+    "City":"SAN SALVATORE TELESINO (BN)",
+    "Country":"ITALY",
+    "e-Mail_adress":"venditecentrosud trattori@gmail.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.120950,45.175563 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"SERAFIN MACCHINE AGRICOLE",
+    "Brand":"GB",
+    "Adresse1":"Via Tavanara 1",
+    "Adresse2":"",
+    "Zip code":"37054",
+    "City":"NOGARA (VR)",
+    "Country":"ITALY",
+    "e-Mail_adress":"info@serafinmacchine.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.362194,44.605281 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"RENI MACCHINE",
+    "Brand":"GB",
+    "Adresse1":"Via Marzabotto 162",
+    "Adresse2":"",
+    "Zip code":"40050",
+    "City":"FUNO DI ARGELATO (BO)",
+    "Country":"ITALY",
+    "e-Mail_adress":"maurizio.squarzola@renimacchine.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.364424,43.077066 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"MAIP GROUP SPA",
+    "Brand":"GB",
+    "Adresse1":"Via Settevalli 435",
+    "Adresse2":"",
+    "Zip code":"                 O6129 ",
+    "City":"PERUGIA",
+    "Country":"ITALY",
+    "e-Mail_adress":"info@maipgroup.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.587188,42.056553 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"GIERRE SRL",
+    "Brand":"GB",
+    "Adresse1":"S.S. Tiburtina Valeria 5",
+    "Adresse2":"",
+    "Zip code":"67041",
+    "City":"AIELLI (AQ)",
+    "Country":"ITALY",
+    "e-Mail_adress":"r.dascanio@gierresrl.net",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.933910,44.915734 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRIFUTURA",
+    "Brand":"GB",
+    "Adresse1":"Via Emilia Ovest 47",
+    "Adresse2":"",
+    "Zip code":"29017",
+    "City":"FIORENZUOLA D'ARDA (PC)",
+    "Country":"ITALY",
+    "e-Mail_adress":"v.bernardoni@agrifutura.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.398720,45.806263 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRICOLA CHITTARO SRL",
+    "Brand":"RABE",
+    "Adresse1":"SS14",
+    "Adresse2":"",
+    "Zip code":"33059",
+    "City":"VILLA VICENTINA (UD)",
+    "Country":"ITALY",
+    "e-Mail_adress":"maurizio@agricolachittaro.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.701526,45.681765 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"FAV SNC",
+    "Brand":"RABE",
+    "Adresse1":"Via Ronchi 16",
+    "Adresse2":"",
+    "Zip code":"21019",
+    "City":"SOMMA LOMBARDO (VA)",
+    "Country":"ITALY",
+    "e-Mail_adress":"info@favdischiavi.it",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  }
+]
+}

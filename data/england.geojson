@@ -1,0 +1,745 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.18232239999999,46.0881447 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGIRTEX BERTHIERVILLE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"550, rue Notre-Dame",
+    "Adresse2":"",
+    "Zip code":"J0K 1A0",
+    "City":"BERTHIERVILLE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5080159,45.9104162 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX DRUMONDVILLE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"150, rue Robert-Bernard",
+    "Adresse2":"",
+    "Zip code":"J2C 8N1 ",
+    "City":"DRUMMONDVILLE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.1995484,46.57083979999999 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX LA PÉRADE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"420, boul. de Lanaudière",
+    "Adresse2":"",
+    "Zip code":"G0X 2J0",
+    "City":"ST-ANNE DE LA PÉRADE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3282182,46.6854676 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX QUÉBEC",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1016, chemin Olivier",
+    "Adresse2":"",
+    "Zip code":"G7A 2M7",
+    "City":"LÉVIS",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.1284491,45.6682467 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX RICHMOND",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1006, rue Craig",
+    "Adresse2":"",
+    "Zip code":"J0B 2H0\n",
+    "City":"RICHMOND",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.133569,49.1665898 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX ST-CELESTIN",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"230, Marquis",
+    "Adresse2":"",
+    "Zip code":"J0C 1G0",
+    "City":"ST-CÉLESTIN",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.43841309999999,46.2184521 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX ST-JACQUES",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"748, rang du Coteau",
+    "Adresse2":"",
+    "Zip code":"J0J 1Z0",
+    "City":"ST-JACQUES LE MINEUR",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.45270409999999,45.1965815 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX ST-POLYCARPE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1700, rue Ste-Catherine",
+    "Adresse2":"",
+    "Zip code":"J0P 1X0",
+    "City":"ST-POLYCARPE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.3215617,45.2917162 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX ST-ROCH",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"520, Joseph-Oswald-Forest",
+    "Adresse2":"",
+    "Zip code":"J0K 3H0",
+    "City":"ST-ROCH DE L'ACHIGAN",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6091984,45.827986 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX STE-MARTINE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1320, boul. St-Jean-Baptiste",
+    "Adresse2":"",
+    "Zip code":"J0S 1V0",
+    "City":"STE-MARTINE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8161065,45.2263155 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX VICTORIAVILLE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"650, boul. Pierre-Roux Est ",
+    "Adresse2":"",
+    "Zip code":"G6T 1T2",
+    "City":"VICTORIAVILLE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.9590717,46.07756639999999 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRITEX YAMASKA",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"305, route Marie-Victorin",
+    "Adresse2":"",
+    "Zip code":"J0G 1X1",
+    "City":"YAMASKA",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.8855725,46.0094005 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE LAVAL",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"3900, autoroute 440 est",
+    "Adresse2":"",
+    "Zip code":"H7E 5N2",
+    "City":"LAVAL",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6747922,45.6141921 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE VARENNES",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"590, Boulevard Lionel-Boulet",
+    "Adresse2":"",
+    "Zip code":"J3X 1P7",
+    "City":"VARENNES",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4164576,45.6514771 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE MIRABEL",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"12535, Route Arthur Sauvé",
+    "Adresse2":"",
+    "Zip code":"J7N 2C2",
+    "City":"MIRABEL",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.03163119999999,45.5939239 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE ST-HYACINTHE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"6620, Rue des Seigneurs Est",
+    "Adresse2":"",
+    "Zip code":"J2R 2A1",
+    "City":"ST-HYACINTHE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.89041499999999,45.65916 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE ANGE GARDIEN",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"122, Rue Laguë",
+    "Adresse2":"",
+    "Zip code":"J0E 1E0",
+    "City":"ANGE GARDIEN",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9380389,45.3623129 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE PIKE RIVER",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"7, Rang Saint-Joseph",
+    "Adresse2":"",
+    "Zip code":"J0J 1P0",
+    "City":"PIKE RIVER",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.0759922,45.1256526 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE ST-ISIDORE",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"3905, Corbeil Road, C.P. 29",
+    "Adresse2":"",
+    "Zip code":"K0C 2B0",
+    "City":"ST-ISIDORE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.9023715,45.3445313 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE WINCHESTER",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"2227, County Road 31",
+    "Adresse2":"",
+    "Zip code":"K0C 2K0",
+    "City":"WINCHESTER",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.372755,45.083946 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE COATICOOK",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"544, Rue Main Ouest",
+    "Adresse2":"",
+    "Zip code":"J1A 2S5",
+    "City":"COATICOOK",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.82420979999999,45.131735 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE ST-BRUNO",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1000, route 169",
+    "Adresse2":"",
+    "Zip code":"G0W 2L0",
+    "City":"ST-BRUNO",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6589173,48.508304 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"JLD LAGÜE ST-PASCAL",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"345, 2e rang Est",
+    "Adresse2":"",
+    "Zip code":"G0L 3Y0",
+    "City":"ST-PASCAL",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.695745,47.64794029999999 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR EXETER",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"39995 Harvest Road",
+    "Adresse2":"",
+    "Zip code":"N0M 1S3",
+    "City":"EXETER",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4867657,43.367763 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR BLYTH",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"216 Blyth Road",
+    "Adresse2":"",
+    "Zip code":"N0M 1H0",
+    "City":"BLYTH",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.43209499999999,43.731157 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR THAMESFORD",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"37 Elgin Road",
+    "Adresse2":"",
+    "Zip code":" N0M 2M0",
+    "City":"THAMESFORD",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.05492540000002,43.039389 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR ST-THOMAS",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"43900 Talbot Line",
+    "Adresse2":"",
+    "Zip code":"N0M 1C0",
+    "City":"ST-THOMAS",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1365647,42.7783507 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR MITCHELL",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"5936 Perth Line 44",
+    "Adresse2":"",
+    "Zip code":"N0K 1N0",
+    "City":"MTCHELL",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.136941,43.528317 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR WALKERTON",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"6 Durham Road",
+    "Adresse2":"",
+    "Zip code":"N0G 2V0",
+    "City":"WALKERTON",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2049753,44.1275838 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR CHATSWORTH",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"802802 Grey Road 40",
+    "Adresse2":"",
+    "Zip code":"N0H 1G0",
+    "City":"CHATSWORTH",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8682902,44.445237 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HURON TRACTOR STAYNER",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"7040 County Road 9",
+    "Adresse2":"",
+    "Zip code":"L0M 1S0",
+    "City":"STAYNER",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.08108039999999,44.3362815 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"MAXVILLE FARM MACHINERY",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"2508 County Rd 20",
+    "Adresse2":"",
+    "Zip code":"K0C 1T0",
+    "City":"MAXVILLE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.8502996,45.2821514 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"FOSTER AGRI-WORLD",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1120 8th Ave. West box 210",
+    "Adresse2":"",
+    "Zip code":"T0H 0C0",
+    "City":"BEAVERLODGE",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.43737,55.212879 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"STOLTZ SALES AND SERVICE ELMIRA",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"6805 Line 86 West Box 235",
+    "Adresse2":"",
+    "Zip code":"N3B 2Z6",
+    "City":"ELMIRA",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5862777,43.6028365 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"STOLTZ SALES AND SERVICE LISTOWEL",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"8499 ON-23 Box 131",
+    "Adresse2":"",
+    "Zip code":"N4W 3H2",
+    "City":"LISTOWEL",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.92942649999999,43.7598745 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"STOLTZ SALES AND SERVICE MILDMAY",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"1405 Hwy 9 Box 285",
+    "Adresse2":"",
+    "Zip code":"N0G 2J0",
+    "City":"MILDMAY",
+    "Country":"CANADA",
+    "e-Mail_adress":"j.cadiou@gb-group.co",
+    "GB-group_salesman":"Julien CADIOU",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.13714,44.0653334 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"",
+    "Brand":"GREGOIRE BESSON",
+    "Adresse1":"",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"",
+    "Country":"",
+    "e-Mail_adress":"",
+    "GB-group_salesman":"",
+    "GB-group_salesman_Phonenumber":"",
+    "GB-group_salesman_eMail":""
+    }
+  }
+]
+}

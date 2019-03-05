@@ -1,6 +1,5 @@
-{
-   "type": "FeatureCollection",
-   "features": [
+export default {
+  france = [
   {
     "type": "Feature",
     "geometry": {
@@ -4362,4 +4361,3 @@
     }
   }
 ]
-}

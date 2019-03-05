@@ -1,0 +1,1045 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.378806,59.341444 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Agroproff OÜ",
+    "Brand":"Rabe",
+    "Adresse1":"Piiri 12",
+    "Adresse2":"Lääne Virumaa",
+    "Zip code":"44312",
+    "City":"Rakvere",
+    "Country":"Estonia",
+    "e-Mail_adress":"info@agroproff.ee",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.286794,54.710655 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"UAB \"Rovaltra\"",
+    "Brand":"Gregoire-Besson",
+    "Adresse1":"Kalvarijų g. 125-602",
+    "Adresse2":"",
+    "Zip code":"LT-08221",
+    "City":"Vilnius",
+    "Country":"Lithuania",
+    "e-Mail_adress":"justas@rovaltra.lt/jonas@rovaltra.lt",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.402603,58.738322 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"A.Tammel AS",
+    "Brand":"GB",
+    "Adresse1":"Turu 7",
+    "Adresse2":"",
+    "Zip code":"48303",
+    "City":"Jõgeva",
+    "Country":"Estonia",
+    "e-Mail_adress":"info@atammel.ee",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.6344252,56.4192661 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"LPKS LATRAPS",
+    "Brand":"GB",
+    "Adresse1":"Lietuvas street 16A,",
+    "Adresse2":"",
+    "Zip code":"LV-3023",
+    "City":"Eleja, Elejas,",
+    "Country":"Latvia",
+    "e-Mail_adress":"aigars@latraps.com",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.213148,58.5934641 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Nordfarm Maskin AB",
+    "Brand":"GB",
+    "Adresse1":"Surgatan",
+    "Adresse2":"",
+    "Zip code":"SE-601 14",
+    "City":"Norrköping",
+    "Country":"Sweden",
+    "e-Mail_adress":"info@nordfarm.se",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.5972212,55.9401953 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"UAB IVABALTĖ",
+    "Brand":"Rabe",
+    "Adresse1":"Stoties g. 23,",
+    "Adresse2":"",
+    "Zip code":"LT 42164",
+    "City":"Rokiškis",
+    "Country":"Lithuania",
+    "e-Mail_adress":"ivabalte@ivabalte.lt; sigitas@ivabalte.lt",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.245258,56.77028199999999 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"SIA DOJUS Latvija",
+    "Brand":"Rabe",
+    "Adresse1":"„Ceļa zeme”, Ķekavas pagasts",
+    "Adresse2":"",
+    "Zip code":"LV-2123",
+    "City":"Ķekavas",
+    "Country":"Latvia",
+    "e-Mail_adress":"info@dojuslatvija.lv; mantvydas.bauras@dojusgroup.lt",
+    "GB-group_salesman":"Linas Karalkevicius",
+    "GB-group_salesman_Phonenumber":"37061616168",
+    "GB-group_salesman_eMail":"l.karalkevicius@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.9846004,46.1846158 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Axiál Kft.",
+    "Brand":"GB",
+    "Adresse1":"Szegedi út 147",
+    "Adresse2":"",
+    "Zip code":"6500",
+    "City":"Baja",
+    "Country":"Hungary",
+    "e-Mail_adress":"liszp@axial.hu",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.1743768,47.4265419 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Kite Zrt.",
+    "Brand":"Rabe",
+    "Adresse1":"Bem József út 1.",
+    "Adresse2":"",
+    "Zip code":"4181",
+    "City":"Nádudvar",
+    "Country":"Hungary",
+    "e-Mail_adress":"szucssandor@kite.hu",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4686024,49.1139286 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Moreau Agri s.r.o.",
+    "Brand":"GB",
+    "Adresse1":"Hustenovice 370",
+    "Adresse2":"",
+    "Zip code":"68703",
+    "City":"Hustenovice",
+    "Country":"Czek",
+    "e-Mail_adress":"zalubil@moreauagri.cz",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7881766,48.4898198 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Moreau Agri spol. S R.o.",
+    "Brand":"GB",
+    "Adresse1":"Druzstevná 616/13",
+    "Adresse2":"",
+    "Zip code":"92242",
+    "City":"Madunice",
+    "Country":"Slovak",
+    "e-Mail_adress":"velcicky@moreauagri.sk",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0744821,48.2889297 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Hriadel s.r.o.",
+    "Brand":"Rabe",
+    "Adresse1":"Cabajská 28 A",
+    "Adresse2":"",
+    "Zip code":"94901",
+    "City":"Nitra",
+    "Country":"Slovak",
+    "e-Mail_adress":"cacho@hriadel.sk",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.1025384,44.4267674 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Titan Machinery SRL",
+    "Brand":"GB",
+    "Adresse1":"Austrostrada Bucuresti-Pitesti, km 13,2",
+    "Adresse2":"",
+    "Zip code":"77096",
+    "City":"Bukarest",
+    "Country":"Romania",
+    "e-Mail_adress":"manfred.spendier@titanmachinery.ro",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.2839004,45.725849 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Munax SRL",
+    "Brand":"Rabe",
+    "Adresse1":"Calea Buziasului 105",
+    "Adresse2":"",
+    "Zip code":"300701",
+    "City":"Timisoara",
+    "Country":"Romania",
+    "e-Mail_adress":"cmatei@munax.ro",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4104853,46.196957 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Trboje D.O.O.",
+    "Brand":"GB",
+    "Adresse1":"Trboje 10",
+    "Adresse2":"",
+    "Zip code":"4000",
+    "City":"Kranj",
+    "Country":"Slovenia",
+    "e-Mail_adress":"kmetijska.mechanizacija@siol.net",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.6375118,46.4109506 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Agromax D.O.O.",
+    "Brand":"Rabe",
+    "Adresse1":"Spodnja Polskava 105",
+    "Adresse2":"",
+    "Zip code":"2331",
+    "City":"Pragersko",
+    "Country":"Slovenia",
+    "e-Mail_adress":"info@agromax.si",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.7121418,45.5530999 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Agro PMD",
+    "Brand":"Rabe",
+    "Adresse1":"Juzno pregrade 38",
+    "Adresse2":"",
+    "Zip code":"31000",
+    "City":"Osijek",
+    "Country":"Croatia",
+    "e-Mail_adress":"terek@agropmd.hr",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.915652,45.1510562 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"PMT D.O.O.",
+    "Brand":"GB",
+    "Adresse1":"Skorotinci 4",
+    "Adresse2":"",
+    "Zip code":"32252",
+    "City":"Otok",
+    "Country":"Croatia",
+    "e-Mail_adress":"adam.dominkovic@pmt.hr",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.94961,45.983137 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Agrotek D.O.O.",
+    "Brand":"GB",
+    "Adresse1":"Topolski put 2",
+    "Adresse2":"",
+    "Zip code":"24426",
+    "City":"Tresnjevac",
+    "Country":"Serbia",
+    "e-Mail_adress":"adzic@agrotek.rs",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.8053417,45.2516469 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Kite D.O.O.",
+    "Brand":"Rabe",
+    "Adresse1":"Bulevar Slobodana Jovanovica 4",
+    "Adresse2":"",
+    "Zip code":"21000",
+    "City":"Novi Sad",
+    "Country":"Serbia",
+    "e-Mail_adress":"kissimre@kite.hu",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.6482546,42.4017581 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Zlatex",
+    "Brand":"Rabe",
+    "Adresse1":"Patriarh Evtimij 52",
+    "Adresse2":"",
+    "Zip code":"6006",
+    "City":"Stara Zagora",
+    "Country":"Bulgaria",
+    "e-Mail_adress":"antoniya.dimitrova@zlatex.net",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.4028397,42.6822242 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Interagri",
+    "Brand":"GB",
+    "Adresse1":"Hristofor Kolumb Bulevard 64",
+    "Adresse2":"Sofia Aiport Center Building A2 Ground Floor Office 011",
+    "Zip code":"1592",
+    "City":"Sofia",
+    "Country":"Bulgaria",
+    "e-Mail_adress":"rumen.petrov@interagribg.com",
+    "GB-group_salesman":"Csaba Urban",
+    "GB-group_salesman_Phonenumber":"3659415033",
+    "GB-group_salesman_eMail":"c.urban@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.599188,-26.854541 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"VALTRAC LTD",
+    "Brand":"GB",
+    "Adresse1":"R59 Road",
+    "Adresse2":"",
+    "Zip code":"9785",
+    "City":"PARYS",
+    "Country":"AFRIQUE DU SUD",
+    "e-Mail_adress":"george@valtrac.co.za",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.280340,36.757562 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"ETS ROUIBA MATERIEL",
+    "Brand":"GB",
+    "Adresse1":"04 Rue Hassiba Ben Bouali",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"ROUIBA",
+    "Country":"ALGERIE",
+    "e-Mail_adress":"rouibamatagri@yahoo.fr",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.249187,30.048344 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"ECAD",
+    "Brand":"GB",
+    "Adresse1":"105 Abdel Aziz Al Seoud st.Manial",
+    "Adresse2":"",
+    "Zip code":"11451",
+    "City":"CAIRO",
+    "Country":"EGYPTE",
+    "e-Mail_adress":"omar.elhefny@ecadeg.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.775685,8.892182 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"MGK MAKONNEN",
+    "Brand":"GB",
+    "Adresse1":"House No.108 Akaki Kality Subcity",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"ADDIS ABABA",
+    "Country":"ETHIOPIE",
+    "e-Mail_adress":"mgkethiopia@gmail.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.310126,-3.332111 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"TPC LIMITED",
+    "Brand":"GB",
+    "Adresse1":"P.O. Box 93 Moshi",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"KILIMANJARO",
+    "Country":"TANZANIE",
+    "e-Mail_adress":"negoce@tsd-export.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.161681,5.637829 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"GOLDEN EXOTICS LTD",
+    "Brand":"GB",
+    "Adresse1":"P.O. Box K.I.A.",
+    "Adresse2":"",
+    "Zip code":"16105",
+    "City":"ACCRA",
+    "Country":"GHANA",
+    "e-Mail_adress":"d.amoah@gelgh.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.556500,16.253040 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"SODIMAT",
+    "Brand":"GB",
+    "Adresse1":"Rue Th. Edison",
+    "Adresse2":"",
+    "Zip code":"97122",
+    "City":"BAIE-MAHAULT",
+    "Country":"GUADELOUPE",
+    "e-Mail_adress":"cpioche@sodimatgp.fr",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.330667,4.895092 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"MACHDEAL",
+    "Brand":"GB",
+    "Adresse1":"Carrefour Du Larivot",
+    "Adresse2":"",
+    "Zip code":"97351",
+    "City":"MATOURY",
+    "Country":"GUYANE FRANCAISE",
+    "e-Mail_adress":"yana.wadycki@machdeal.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -52.333257,4.894354 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"SORELOC",
+    "Brand":"GB",
+    "Adresse1":"8 Lot Dalmazir",
+    "Adresse2":"",
+    "Zip code":"97351",
+    "City":"MATOURY",
+    "Country":"GUYANE FRANCAISE",
+    "e-Mail_adress":"natacha.misran@soreloc-guyane.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.819026,-1.290084 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"TOYOTA TUSHO",
+    "Brand":"GB",
+    "Adresse1":"Toyata Building Uhuru Highway",
+    "Adresse2":"",
+    "Zip code":"               OO100",
+    "City":"NAIROBI",
+    "Country":"KENYA",
+    "e-Mail_adress":"ian.allen@ttea.co.ke",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.621653,-20.913672 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"FOUCQUE MATERIEL",
+    "Brand":"GB",
+    "Adresse1":"1 Ter Rue de l'Adour",
+    "Adresse2":"",
+    "Zip code":"97441",
+    "City":"SAINTE-SUZANNE",
+    "Country":"LA REUNION",
+    "e-Mail_adress":"d.lacaille@foucque.fr",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.945742,14.676371 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AMS/AGRI-TP",
+    "Brand":"GB",
+    "Adresse1":"Mansarde Catalogne",
+    "Adresse2":"",
+    "Zip code":"97231",
+    "City":"LE ROBERT",
+    "Country":"MARTINIQUE",
+    "e-Mail_adress":"r.adelaide@amsantilles.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.469583,-22.247454 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"CIPAC",
+    "Brand":"GB",
+    "Adresse1":"210 Rue Gervolino",
+    "Adresse2":"",
+    "Zip code":"9800",
+    "City":"NOUMEA",
+    "Country":"NOUVELLE CALEDONIE",
+    "e-Mail_adress":"mblancheton@cipac-industrie.nc",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.226981,36.764373 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"MOTEUR DIESEL",
+    "Brand":"GB",
+    "Adresse1":"Avenue de Paris",
+    "Adresse2":"",
+    "Zip code":"2033",
+    "City":"MEGRINE",
+    "Country":"TUNISIE",
+    "e-Mail_adress":"maniaci.massimo@moteurdiesel.com.tn",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.559927,15.519678 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"ICS SUDAN",
+    "Brand":"GB",
+    "Adresse1":"",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"KHARTOUM",
+    "Country":"SOUDAN",
+    "e-Mail_adress":"phguyon.ics@gmail.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.470754,14.718472 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"ICS SENEGAL",
+    "Brand":"GB",
+    "Adresse1":"Sacré-coeur 3",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"DAKAR",
+    "Country":"SENEGAL",
+    "e-Mail_adress":"jmv.ics@gmail.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.914509,12.663046 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"ICS MALI",
+    "Brand":"GB",
+    "Adresse1":"Quartier Sotuba",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"BAMAKO",
+    "Country":"MALI",
+    "e-Mail_adress":"jmv.ics@gmail.com",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.739227,24.758272 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"ICS SAUDIA ARABIA",
+    "Brand":"GB",
+    "Adresse1":"P.O. BOX 25867",
+    "Adresse2":"",
+    "Zip code":"11476",
+    "City":"RIYADH",
+    "Country":"ARABIE SAOUDITE",
+    "e-Mail_adress":"muneer@ics-can.com.sa",
+    "GB-group_salesman":"Ricci Francesco",
+    "GB-group_salesman_Phonenumber":"0033 624291639",
+    "GB-group_salesman_eMail":"f.ricci@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.8015174,40.6717164 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGER",
+    "Brand":"GB",
+    "Adresse1":"8 TH KM THESSALONIKI ATHENS",
+    "Adresse2":"PO BOX 154",
+    "Zip code":"57400",
+    "City":"SINDOS",
+    "Country":"GREECE",
+    "e-Mail_adress":"ager@otenet.gr",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7159646,42.2840543 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"MOWERS IBERICA 2008",
+    "Brand":"GB + RABE",
+    "Adresse1":"POL IND EL CLAVILLO",
+    "Adresse2":"C/RIO OCA, 10-14",
+    "Zip code":"9195",
+    "City":"VILLARIEZO",
+    "Country":"SPAIN",
+    "e-Mail_adress":"dacero@mowersiberica.com",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.232428499999999,52.6563092 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"I A M",
+    "Brand":"GB + RABE",
+    "Adresse1":"HEBRON IND ESTATE",
+    "Adresse2":"HEBRON ROAD, BLANCHFIELDSLAND",
+    "Zip code":"R95 R2TA ",
+    "City":"KILKENNY",
+    "Country":"IRELANDE",
+    "e-Mail_adress":"pat.kenny@iam.ie",
+    "GB-group_salesman":"Rob Thurkettle",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"r.thurketlle@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4792999,25.5845283 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGROSERVICIOS DEL NORTE / ANSA",
+    "Brand":"GB",
+    "Adresse1":"Perif Torreón Gómez Lerdo km 3.5",
+    "Adresse2":"DURANGO",
+    "Zip code":"35078",
+    "City":"GOMEZ PALACIO",
+    "Country":"MEXICO",
+    "e-Mail_adress":"norte@ansamex.com",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.339958,43.06072 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"HFT JAPAN",
+    "Brand":"GB",
+    "Adresse1":"Takeda Sapporo Building 6F",
+    "Adresse2":"4, Kita 1, Nishi 13, Chuo-ku",
+    "Zip code":"060-0001",
+    "City":"SAPPORO",
+    "Country":"JAPAN",
+    "e-Mail_adress":"sapporo-homeoffice@nh-hft.co.jp",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7538016,-37.8135673 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"FARMGUARD",
+    "Brand":"GB + AGRIWAY",
+    "Adresse1":"15 Paraweena Dr, ",
+    "Adresse2":"",
+    "Zip code":"VIC 3029",
+    "City":"TRUGANINA",
+    "Country":"AUSTRALIA",
+    "e-Mail_adress":"sales@farmgard.com.au",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2984621,-36.36315829999999 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"BURDER INDUSTRIE",
+    "Brand":"RABE",
+    "Adresse1":"4-8 Kerr St.",
+    "Adresse2":"",
+    "Zip code":"VIC 6377",
+    "City":"WANGARATTA",
+    "Country":"AUSTRALIA",
+    "e-Mail_adress":"sales@burder.com.au",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3376617,32.63671540000001 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"Zach Agricultural Equipment Afula, LTD",
+    "Brand":"GB",
+    "Adresse1":"Industrial Zone Afula Yilit Haoreg St. No. 4,",
+    "Adresse2":"",
+    "Zip code":"18121",
+    "City":"AFULA",
+    "Country":"ISRAEL",
+    "e-Mail_adress":"eli@zach-agri.com",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.0877989,42.9281616 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRIDIRECT",
+    "Brand":"RABE",
+    "Adresse1":"Nord Nord Lignes 18 - 7",
+    "Adresse2":"",
+    "Zip code":"082-0004 ",
+    "City":"District de Hokkaido Kasai Shigubocho Tobudai",
+    "Country":"JAPAN",
+    "e-Mail_adress":"hoge@agridirect.jp",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9285546,46.8095253 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"AGRIDUBEY",
+    "Brand":"GB",
+    "Adresse1":"19 rue de chatelard",
+    "Adresse2":"",
+    "Zip code":"1530",
+    "City":"PAYERNE",
+    "Country":"SUISSE",
+    "e-Mail_adress":"pierre-alain.dubey@agridubey.ch",
+    "GB-group_salesman":"René Morales",
+    "GB-group_salesman_Phonenumber":"0033 6 07 18 26 99",
+    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.195397,35.86166 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"GB CHINA",
+    "Brand":"GB + RABE",
+    "Adresse1":"",
+    "Adresse2":"",
+    "Zip code":"",
+    "City":"",
+    "Country":"CHINE",
+    "e-Mail_adress":"gregoirebessonchina@126.com",
+    "GB-group_salesman":"JACQUES",
+    "GB-group_salesman_Phonenumber":"861065080640",
+    "GB-group_salesman_eMail":"gregoirebessonchina@126.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6973571,35.0241873 ]
+    },
+    "properties": {
+    "Name of the dealer / importer":"NEW ZEALAND TRACTORS",
+    "Brand":"GB",
+    "Adresse1":"Spring Farm, Winslow, No.5 R.D",
+    "Adresse2":"",
+    "Zip code":"7775",
+    "City":"ASHBURTON",
+    "Country":"NEW ZEALAND",
+    "e-Mail_adress":"info@nzt.nz",
+    "GB-group_salesman":"Edouard Patin",
+    "GB-group_salesman_Phonenumber":"0033 2 41 64 72 67",
+    "GB-group_salesman_eMail":"e.patin@gb-group.co"
+    }
+  }
+]
+}
