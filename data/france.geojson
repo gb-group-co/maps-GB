@@ -13046,7 +13046,7 @@ const france = [
        "coordinates":  [ -0.7469606000000001,50.9776784 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FAROL LTD",
+    "Name":"FAROL LTD",
     "Brand":"Gregoire-besson",
     "Adresse1":"HOLMBUSH HOUSE",
     "Adresse2":"HOLMBUSH INDUSTRIAL ESTATE ",
@@ -13054,9 +13054,9 @@ const france = [
     "City":"Midhurst",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13066,7 +13066,7 @@ const france = [
        "coordinates":  [ 1.1756272,51.1480731 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Agwood Ltd RABE",
+    "Name":"Agwood Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Swingfield",
     "Adresse2":"",
@@ -13074,9 +13074,9 @@ const france = [
     "City":"Dover",
     "Country":"England",
     "e-Mail_adress":"ian.wood@agwood.co.uk ",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13086,7 +13086,7 @@ const france = [
        "coordinates":  [ -2.014753,55.7893152 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ancroft Tractors Ltd",
+    "Name":"Ancroft Tractors Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Windmill Way West",
     "Adresse2":"Ramparts Business Park ",
@@ -13094,9 +13094,9 @@ const france = [
     "City":"Berwick-upon-tweed",
     "Country":"England",
     "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13106,7 +13106,7 @@ const france = [
        "coordinates":  [ -2.8913642,55.946869 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ancroft Tractors Ltd",
+    "Name":"Ancroft Tractors Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Unit 1 & 2 Macmerry Industrial Estate",
     "Adresse2":"Macmerry Tranent",
@@ -13114,9 +13114,9 @@ const france = [
     "City":"",
     "Country":"Scotland",
     "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13126,7 +13126,7 @@ const france = [
        "coordinates":  [ -2.4248718,55.5898747 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ancroft Tractors Ltd",
+    "Name":"Ancroft Tractors Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Pinacclehill Industrial Estate",
     "Adresse2":"Kelso",
@@ -13134,9 +13134,9 @@ const france = [
     "City":"Kelso",
     "Country":"Scotland",
     "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13146,7 +13146,7 @@ const france = [
        "coordinates":  [ -2.951159999999959,53.21005359999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Atkinson Tractors",
+    "Name":"Atkinson Tractors",
     "Brand":"Gregoire-besson",
     "Adresse1":"Wayside",
     "Adresse2":"Capenhurst Lane ",
@@ -13154,9 +13154,9 @@ const france = [
     "City":"Capenhurst",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13166,7 +13166,7 @@ const france = [
        "coordinates":  [ 1.3078007,52.6120899 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ben Burgess & Co (Norwich)",
+    "Name":"Ben Burgess & Co (Norwich)",
     "Brand":"Gregoire-besson",
     "Adresse1":"38 Europa Way",
     "Adresse2":"Martineau Lane ",
@@ -13174,9 +13174,9 @@ const france = [
     "City":"Norwich",
     "Country":"England",
     "e-Mail_adress":"helentalbot@benburgess.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13186,7 +13186,7 @@ const france = [
        "coordinates":  [ 1.266345,52.803377 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ben Burgess (Aylsham)",
+    "Name":"Ben Burgess (Aylsham)",
     "Brand":"Gregoire-besson",
     "Adresse1":"Aylesham Industrial Estate",
     "Adresse2":"Dunkirk ",
@@ -13194,9 +13194,9 @@ const france = [
     "City":"Aylesham",
     "Country":"England",
     "e-Mail_adress":"helentalbot@benburgess.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13206,7 +13206,7 @@ const france = [
        "coordinates":  [ 0.8311839999999999,52.70112 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ben Burgess (Beeston)",
+    "Name":"Ben Burgess (Beeston)",
     "Brand":"Gregoire-besson",
     "Adresse1":"Dereham Road,",
     "Adresse2":"Beeston ",
@@ -13214,9 +13214,9 @@ const france = [
     "City":"Kings Lynn",
     "Country":"England",
     "e-Mail_adress":"helentalbot@benburgess.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13226,7 +13226,7 @@ const france = [
        "coordinates":  [ -0.0495818,52.5717078 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ben Burgess Coates",
+    "Name":"Ben Burgess Coates",
     "Brand":"Gregoire-besson",
     "Adresse1":"Eldernell Lane",
     "Adresse2":"Coates ",
@@ -13234,9 +13234,9 @@ const france = [
     "City":"Peterborough",
     "Country":"England",
     "e-Mail_adress":"helentalbot@benburgess.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13246,7 +13246,7 @@ const france = [
        "coordinates":  [ -0.303099,52.334754 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ben Burgess Ellington",
+    "Name":"Ben Burgess Ellington",
     "Brand":"Gregoire-besson",
     "Adresse1":"Brook Farm Industrial Estate",
     "Adresse2":"Ellington ",
@@ -13254,9 +13254,9 @@ const france = [
     "City":"Huntingdon",
     "Country":"England",
     "e-Mail_adress":"helentalbot@benburgess.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13266,7 +13266,7 @@ const france = [
        "coordinates":  [ 0.3870581,52.2681055 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ben Burgess Newmarket Ltd",
+    "Name":"Ben Burgess Newmarket Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Windmill Hill",
     "Adresse2":"Exning ",
@@ -13274,9 +13274,9 @@ const france = [
     "City":"Newmarket",
     "Country":"England",
     "e-Mail_adress":"helentalbot@benburgess.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13286,7 +13286,7 @@ const france = [
        "coordinates":  [ 0.9644203,52.0511138 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Brad Farm Machinery Ltd RABE",
+    "Name":"Brad Farm Machinery Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"41C Lady Lane Ind Estate",
     "Adresse2":"Hadleigh ",
@@ -13294,9 +13294,9 @@ const france = [
     "City":"Ipswich",
     "Country":"England",
     "e-Mail_adress":"sales@bradfarm.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13306,7 +13306,7 @@ const france = [
        "coordinates":  [ -1.3581846,54.1822487 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Brockhills of Yorkshire Ltd",
+    "Name":"Brockhills of Yorkshire Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Dalton Lane",
     "Adresse2":"Dalton ",
@@ -13314,9 +13314,9 @@ const france = [
     "City":"Thirsk",
     "Country":"England",
     "e-Mail_adress":"sales@brockhills.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13326,7 +13326,7 @@ const france = [
        "coordinates":  [ -1.4596983,52.0821913 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Bruce Hopkins Ltd",
+    "Name":"Bruce Hopkins Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Shenington Airfield",
     "Adresse2":"Banbury ",
@@ -13334,9 +13334,9 @@ const france = [
     "City":"Oxon",
     "Country":"England",
     "e-Mail_adress":"bruce@brucehopkins.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13346,7 +13346,7 @@ const france = [
        "coordinates":  [ 0.6469827,51.3243776 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Burden Bros Agri Ltd",
+    "Name":"Burden Bros Agri Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Church Farm",
     "Adresse2":"Church Lane        ",
@@ -13354,9 +13354,9 @@ const france = [
     "City":"Stockbury",
     "Country":"England",
     "e-Mail_adress":"paul.gasson@burdenbross.com",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13366,7 +13366,7 @@ const france = [
        "coordinates":  [ 0.0974027,52.1489652 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Cambridge Farm Machinery Ltd",
+    "Name":"Cambridge Farm Machinery Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Church Road",
     "Adresse2":"Hauxton        ",
@@ -13374,9 +13374,9 @@ const france = [
     "City":"Cambridge ",
     "Country":"England",
     "e-Mail_adress":"jnoble@cambridgefarmmachinery.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13386,7 +13386,7 @@ const france = [
        "coordinates":  [ -2.8909132,54.8917307 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Carrs Billington Agri (Sales)",
+    "Name":"Carrs Billington Agri (Sales)",
     "Brand":"Gregoire-besson",
     "Adresse1":"Montgomery Way",
     "Adresse2":"Rosehill Industrial Estate ",
@@ -13394,9 +13394,9 @@ const france = [
     "City":"Carlisle",
     "Country":"England",
     "e-Mail_adress":"dexter.hubbard@carrs-billington.com",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13406,7 +13406,7 @@ const france = [
        "coordinates":  [ 1.1197779,52.4776073 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Chris Girdlestone Ltd RABE",
+    "Name":"Chris Girdlestone Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"White Lodge Farm",
     "Adresse2":"Fen Road Carleton Rode ",
@@ -13414,9 +13414,9 @@ const france = [
     "City":"Norwich",
     "Country":"England",
     "e-Mail_adress":"chrisgirdlestone@unicombox",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13426,7 +13426,7 @@ const france = [
        "coordinates":  [ -2.6250081,53.8525761 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Clayton Farm Machinery Ltd",
+    "Name":"Clayton Farm Machinery Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Holwood Barn",
     "Adresse2":"Back Lane Goosnargh ",
@@ -13434,9 +13434,9 @@ const france = [
     "City":"Preston",
     "Country":"England",
     "e-Mail_adress":"claytonsmachinery@tiscali.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13446,7 +13446,7 @@ const france = [
        "coordinates":  [ -2.6628465,54.6982803 ]
     },
     "properties": {
-    "Name of the dealer / importer":"D W Toppin",
+    "Name":"D W Toppin",
     "Brand":"Gregoire-besson",
     "Adresse1":"Green Lane Workshops",
     "Adresse2":"Langwathby ",
@@ -13454,9 +13454,9 @@ const france = [
     "City":"Penrith",
     "Country":"England",
     "e-Mail_adress":"sales@dwtoppin.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13466,7 +13466,7 @@ const france = [
        "coordinates":  [ -0.7324796,52.3111969 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Day & Coles (Agri) Ltd RABE",
+    "Name":"Day & Coles (Agri) Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Newton Close",
     "Adresse2":"Park Farm Ind Estate ",
@@ -13474,9 +13474,9 @@ const france = [
     "City":"Wellingborough",
     "Country":"England",
     "e-Mail_adress":"c.white@dayandcoles.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13486,7 +13486,7 @@ const france = [
        "coordinates":  [ -3.5594292,55.93234 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DKR Agricultural Services Ltd",
+    "Name":"DKR Agricultural Services Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Westfield",
     "Adresse2":"Coulter        ",
@@ -13494,9 +13494,9 @@ const france = [
     "City":"Biggar",
     "Country":"England",
     "e-Mail_adress":"david@dkragricultural.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13506,7 +13506,7 @@ const france = [
        "coordinates":  [ -1.9819026,51.0828827 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Drews of Dinton Ltd",
+    "Name":"Drews of Dinton Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Hindon Road",
     "Adresse2":"Dinton ",
@@ -13514,9 +13514,9 @@ const france = [
     "City":"Salisbury",
     "Country":"England",
     "e-Mail_adress":"sales@drewsofdinton.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13526,7 +13526,7 @@ const france = [
        "coordinates":  [ -1.4726156,52.1816833 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ellis Machinery",
+    "Name":"Ellis Machinery",
     "Brand":"Gregoire-besson",
     "Adresse1":"Gaydon Farm",
     "Adresse2":"Gaydon ",
@@ -13534,9 +13534,9 @@ const france = [
     "City":"Warwick",
     "Country":"England",
     "e-Mail_adress":"sales@ellismachinery.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13546,7 +13546,7 @@ const france = [
        "coordinates":  [ 0.6280884000000001,51.7610122 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ernest Doe & Sons Limited",
+    "Name":"Ernest Doe & Sons Limited",
     "Brand":"Gregoire-besson",
     "Adresse1":"Ulting",
     "Adresse2":"Maldon",
@@ -13554,9 +13554,9 @@ const france = [
     "City":"Maldon",
     "Country":"England",
     "e-Mail_adress":"geraldsilvey@ernestdoe.com ",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13566,7 +13566,7 @@ const france = [
        "coordinates":  [ -2.1023601,54.9752397 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Everitt & Marshall Ltd",
+    "Name":"Everitt & Marshall Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"24 Haugh Lane Industrial Estate",
     "Adresse2":"Hexham",
@@ -13574,9 +13574,9 @@ const france = [
     "City":"Hexham",
     "Country":"England",
     "e-Mail_adress":"adrian@hexham.eri",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13586,7 +13586,7 @@ const france = [
        "coordinates":  [ -1.0434863,51.7284808 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Farol Ltd",
+    "Name":"Farol Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Rycote Lane Farm",
     "Adresse2":"Milton Common ",
@@ -13594,9 +13594,9 @@ const france = [
     "City":"Thame",
     "Country":"England",
     "e-Mail_adress":"purchase@farol.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13606,7 +13606,7 @@ const france = [
        "coordinates":  [ -0.7469606000000001,50.9776784 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Farol Ltd",
+    "Name":"Farol Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Holmbush House",
     "Adresse2":"Holmbush Industrial Estate ",
@@ -13614,9 +13614,9 @@ const france = [
     "City":"Midhurst",
     "Country":"England",
     "e-Mail_adress":"purchase@farol.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13626,7 +13626,7 @@ const france = [
        "coordinates":  [ -1.4002151,52.5374184 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Farol Ltd",
+    "Name":"Farol Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Wharf Farm",
     "Adresse2":"Coventry Road ",
@@ -13634,9 +13634,9 @@ const france = [
     "City":"Hinckley",
     "Country":"England",
     "e-Mail_adress":"purchase@farol.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13646,7 +13646,7 @@ const france = [
        "coordinates":  [ -1.2480417,52.1773209 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Farol Ltd",
+    "Name":"Farol Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Boddington Road",
     "Adresse2":"Byfield",
@@ -13654,9 +13654,9 @@ const france = [
     "City":"Daventry",
     "Country":"England",
     "e-Mail_adress":"purchase@farol.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13666,7 +13666,7 @@ const france = [
        "coordinates":  [ -1.4672313,51.4634362 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Farol Ltd",
+    "Name":"Farol Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Coldridge Copse",
     "Adresse2":"Shefford Woodland ",
@@ -13674,9 +13674,9 @@ const france = [
     "City":"Hungerford",
     "Country":"England",
     "e-Mail_adress":"purchase@farol.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13686,7 +13686,7 @@ const france = [
        "coordinates":  [ -0.1383898,52.8103636 ]
     },
     "properties": {
-    "Name of the dealer / importer":"G & J Peck Ltd",
+    "Name":"G & J Peck Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Elsom Way",
     "Adresse2":"Wardentree Park       ",
@@ -13694,9 +13694,9 @@ const france = [
     "City":"Pinchbeck",
     "Country":"England",
     "e-Mail_adress":"stewartb@peck.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13706,7 +13706,7 @@ const france = [
        "coordinates":  [ 0.2268859999999999,52.38681529999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"G & J Peck Ltd",
+    "Name":"G & J Peck Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"90 Lancaster Way",
     "Adresse2":"Business Park ",
@@ -13714,9 +13714,9 @@ const france = [
     "City":"Ely ",
     "Country":"England",
     "e-Mail_adress":"ian@peck.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13726,7 +13726,7 @@ const france = [
        "coordinates":  [ -0.1470411,52.49531289999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"G & J Peck Ltd",
+    "Name":"G & J Peck Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"456a Herne Road",
     "Adresse2":"Ramsey St Mary's ",
@@ -13734,9 +13734,9 @@ const france = [
     "City":"Huntingdon",
     "Country":"England",
     "e-Mail_adress":"darren@peck.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13746,7 +13746,7 @@ const france = [
        "coordinates":  [ -3.4628284,56.2011104 ]
     },
     "properties": {
-    "Name of the dealer / importer":"George Colliar Ltd RABE",
+    "Name":"George Colliar Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Middle Balado",
     "Adresse2":"Balado ",
@@ -13754,9 +13754,9 @@ const france = [
     "City":"Kinross",
     "Country":"Scotland",
     "e-Mail_adress":"duncan@balado.org",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13766,7 +13766,7 @@ const france = [
        "coordinates":  [ -3.207882,50.9843535 ]
     },
     "properties": {
-    "Name of the dealer / importer":"H Curtis & Sons",
+    "Name":"H Curtis & Sons",
     "Brand":"Gregoire-besson",
     "Adresse1":"Unit C3-4 Monument View",
     "Adresse2":"Chelston Business Park ",
@@ -13774,9 +13774,9 @@ const france = [
     "City":"Wellington",
     "Country":"England",
     "e-Mail_adress":"ian@hcurtis.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13786,7 +13786,7 @@ const france = [
        "coordinates":  [ -0.3137015,52.7720566 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Horsch UK Ltd",
+    "Name":"Horsch UK Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Spalding Road",
     "Adresse2":"Bourne",
@@ -13794,9 +13794,9 @@ const france = [
     "City":"Bourne",
     "Country":"England",
     "e-Mail_adress":"david.goodin@horsch.com",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13806,7 +13806,7 @@ const france = [
        "coordinates":  [ -7.2314197,52.65535879999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"I.A.M Agri Machinery Ltd",
+    "Name":"I.A.M Agri Machinery Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Hebron Industrial Estate",
     "Adresse2":"Kilkenny Kilkenny",
@@ -13814,9 +13814,9 @@ const france = [
     "City":"Kilkenny",
     "Country":"Ireland",
     "e-Mail_adress":"pat.kenny@iam.ie",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13826,7 +13826,7 @@ const france = [
        "coordinates":  [ -0.3733674,52.7570271 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J J Mac Ltd",
+    "Name":"J J Mac Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"2 Tilia Way",
     "Adresse2":"Bourne",
@@ -13834,9 +13834,9 @@ const france = [
     "City":"Bourne",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13846,7 +13846,7 @@ const france = [
        "coordinates":  [ -5.145740099999999,51.72028419999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J Llewellin & Co",
+    "Name":"J Llewellin & Co",
     "Brand":"Gregoire-besson",
     "Adresse1":"Trewarren Farm",
     "Adresse2":"St Ishmaels        ",
@@ -13854,9 +13854,9 @@ const france = [
     "City":"Haverfordwest",
     "Country":"England",
     "e-Mail_adress":"mail@jllewellin.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13866,7 +13866,7 @@ const france = [
        "coordinates":  [ -1.0474644,53.0424512 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J S Peake & Sons",
+    "Name":"J S Peake & Sons",
     "Brand":"Gregoire-besson",
     "Adresse1":"Hill Farm",
     "Adresse2":"Chapel Lane        ",
@@ -13874,9 +13874,9 @@ const france = [
     "City":"Epperstone",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13886,7 +13886,7 @@ const france = [
        "coordinates":  [ 0.0247136,52.7491701 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J W Doubleday Ltd - Holbeach",
+    "Name":"J W Doubleday Ltd - Holbeach",
     "Brand":"Gregoire-besson",
     "Adresse1":"Old Fendyke",
     "Adresse2":"Holbeach St John",
@@ -13894,9 +13894,9 @@ const france = [
     "City":"Spalding",
     "Country":"England",
     "e-Mail_adress":"accounts@doubledaygroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13906,7 +13906,7 @@ const france = [
        "coordinates":  [ 0.3612528,52.7009971 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J W Doubleday Ltd - Kings Lynn",
+    "Name":"J W Doubleday Ltd - Kings Lynn",
     "Brand":"Gregoire-besson",
     "Adresse1":"Lynn Road",
     "Adresse2":"St Germans        ",
@@ -13914,9 +13914,9 @@ const france = [
     "City":"Kings Lynn",
     "Country":"England",
     "e-Mail_adress":"accounts@doubledaygroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13926,7 +13926,7 @@ const france = [
        "coordinates":  [ -0.1774997,52.9596884 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J W Doubleday Ltd - Swineshead",
+    "Name":"J W Doubleday Ltd - Swineshead",
     "Brand":"Gregoire-besson",
     "Adresse1":"Station Road",
     "Adresse2":"Swineshead ",
@@ -13934,9 +13934,9 @@ const france = [
     "City":"Swineshead",
     "Country":"England",
     "e-Mail_adress":"accounts@doubledaygroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -13946,7 +13946,7 @@ const france = [
        "coordinates":  [ -1.876956,52.292509 ]
     },
     "properties": {
-    "Name of the dealer / importer":"James Green Farm Machinery",
+    "Name":"James Green Farm Machinery",
     "Brand":"Gregoire-besson",
     "Adresse1":"Brookfields Farm",
     "Adresse2":"Haye Lane ",
@@ -13954,9 +13954,9 @@ const france = [
     "City":"Studley",
     "Country":"England",
     "e-Mail_adress":"james@jgfm.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13966,7 +13966,7 @@ const france = [
        "coordinates":  [ -2.8371124,52.4441267 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Jim Price Machinery Ltd RABE",
+    "Name":"Jim Price Machinery Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Farmore Mills",
     "Adresse2":"Craven Arms",
@@ -13974,9 +13974,9 @@ const france = [
     "City":"Craven Arms",
     "Country":"England",
     "e-Mail_adress":"sales@jimpricemachinery.couk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -13986,7 +13986,7 @@ const france = [
        "coordinates":  [ -2.4073209,52.6488042 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Keith Davies Agricultural Ltd",
+    "Name":"Keith Davies Agricultural Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Hem Manor Farm",
     "Adresse2":"Hem Lane ",
@@ -13994,9 +13994,9 @@ const france = [
     "City":"Shifnal",
     "Country":"England",
     "e-Mail_adress":"keith@keithdaviesagricultural.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14006,7 +14006,7 @@ const france = [
        "coordinates":  [ -0.598218,52.608233 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Knight Farm Machinery Ltd",
+    "Name":"Knight Farm Machinery Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Wireless Hill Ind Estate",
     "Adresse2":"South Luffenham        ",
@@ -14014,9 +14014,9 @@ const france = [
     "City":"Oakham",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14026,7 +14026,7 @@ const france = [
        "coordinates":  [ -2.9490117,54.9226422 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Lloyd Group",
+    "Name":"Lloyd Group",
     "Brand":"Gregoire-besson",
     "Adresse1":"Kingstown Broadway",
     "Adresse2":"Carlisle",
@@ -14034,9 +14034,9 @@ const france = [
     "City":"Carlisle",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14046,7 +14046,7 @@ const france = [
        "coordinates":  [ -2.8906807,55.9472771 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Lothian Tractors Ltd",
+    "Name":"Lothian Tractors Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"No 5 Macmerry Ind Est",
     "Adresse2":"Tranent        ",
@@ -14054,9 +14054,9 @@ const france = [
     "City":"East Lothian",
     "Country":"Scotland",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14066,7 +14066,7 @@ const france = [
        "coordinates":  [ -2.325932,50.7040884 ]
     },
     "properties": {
-    "Name of the dealer / importer":"M J Fry Agricultural Engineering",
+    "Name":"M J Fry Agricultural Engineering",
     "Brand":"Gregoire-besson",
     "Adresse1":"HIgher Woodsford",
     "Adresse2":"Crossways ",
@@ -14074,9 +14074,9 @@ const france = [
     "City":"Dorchester",
     "Country":"England",
     "e-Mail_adress":"ben@mjfry.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14086,7 +14086,7 @@ const france = [
        "coordinates":  [ -0.0008542,52.21860119999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Mark Weatherhead Ltd RABE",
+    "Name":"Mark Weatherhead Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Ashworth House",
     "Adresse2":"St Neots Road ",
@@ -14094,9 +14094,9 @@ const france = [
     "City":"Hardwick",
     "Country":"England",
     "e-Mail_adress":"sandier@markweatherhead.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14106,7 +14106,7 @@ const france = [
        "coordinates":  [ 0.4389273,52.0413357 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Mark Weatherhead Ltd RABE",
+    "Name":"Mark Weatherhead Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Helions Road",
     "Adresse2":"Steeple Bumpstead ",
@@ -14114,9 +14114,9 @@ const france = [
     "City":"Haverhill",
     "Country":"England",
     "e-Mail_adress":"sandier@markweatherhead.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14126,7 +14126,7 @@ const france = [
        "coordinates":  [ -4.4404319,57.5992317 ]
     },
     "properties": {
-    "Name of the dealer / importer":"McLaren Tractors",
+    "Name":"McLaren Tractors",
     "Brand":"Gregoire-besson",
     "Adresse1":"Strathpeffer Road",
     "Adresse2":"Dingwall ",
@@ -14134,9 +14134,9 @@ const france = [
     "City":"Ross-shire",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14146,7 +14146,7 @@ const france = [
        "coordinates":  [ -3.4792149,50.9041741 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Medland, Sanders & Twose Ltd",
+    "Name":"Medland, Sanders & Twose Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Blundells Road",
     "Adresse2":"Tiverton",
@@ -14154,9 +14154,9 @@ const france = [
     "City":"Tiverton",
     "Country":"England",
     "e-Mail_adress":"mark.lyes@mstgroup.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14166,7 +14166,7 @@ const france = [
        "coordinates":  [ -2.878878,53.6567334 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Nigel Quinn (AMS) Ltd",
+    "Name":"Nigel Quinn (AMS) Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"89 The Marshes Lane",
     "Adresse2":"Mere Brow ",
@@ -14174,9 +14174,9 @@ const france = [
     "City":"Preston",
     "Country":"England",
     "e-Mail_adress":"nigelq@btconnect.com",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14186,7 +14186,7 @@ const france = [
        "coordinates":  [ -3.0067275,56.7148358 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Norman F Ogg",
+    "Name":"Norman F Ogg",
     "Brand":"Gregoire-besson",
     "Adresse1":"West Kinwhirrie",
     "Adresse2":"by Kirriemuir ",
@@ -14194,9 +14194,9 @@ const france = [
     "City":"Tayside",
     "Country":"Scotland",
     "e-Mail_adress":"kinwhirrie@gmail.com",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14206,7 +14206,7 @@ const france = [
        "coordinates":  [ -1.8689629,55.1288668 ]
     },
     "properties": {
-    "Name of the dealer / importer":"North Country Services",
+    "Name":"North Country Services",
     "Brand":"Gregoire-besson",
     "Adresse1":"SW House",
     "Adresse2":"Bolam Belsay  ",
@@ -14214,9 +14214,9 @@ const france = [
     "City":"Newcastle",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14226,7 +14226,7 @@ const france = [
        "coordinates":  [ 1.2470542,52.268999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Worlingworth",
     "Adresse2":"Woodbridge",
@@ -14234,9 +14234,9 @@ const france = [
     "City":"Woodbridge",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14246,7 +14246,7 @@ const france = [
        "coordinates":  [ 0.9820553,51.9172662 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Ardleigh Hall",
     "Adresse2":"Ardleigh ",
@@ -14254,9 +14254,9 @@ const france = [
     "City":"Colchester",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14266,7 +14266,7 @@ const france = [
        "coordinates":  [ -0.1280732,51.91763049999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"High Street",
     "Adresse2":"Cromer",
@@ -14274,9 +14274,9 @@ const france = [
     "City":"Stevenage",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14286,7 +14286,7 @@ const france = [
        "coordinates":  [ -0.4638216000000001,52.01812690000001 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"New Road",
     "Adresse2":"Maulden        ",
@@ -14294,9 +14294,9 @@ const france = [
     "City":"Maulden",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14306,7 +14306,7 @@ const france = [
        "coordinates":  [ 0.3721742,51.8658155 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Ind Est",
     "Adresse2":"Chelmsford Road        ",
@@ -14314,9 +14314,9 @@ const france = [
     "City":"Gt Dunmow",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14326,7 +14326,7 @@ const france = [
        "coordinates":  [ 0.5932393,51.6058105 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Rawreth Ind Est",
     "Adresse2":"Rawreth Lane ",
@@ -14334,9 +14334,9 @@ const france = [
     "City":"Rayleigh",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14346,7 +14346,7 @@ const france = [
        "coordinates":  [ 0.7505006,52.04140659999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"P Tuckwell Ltd",
+    "Name":"P Tuckwell Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Windham Road",
     "Adresse2":"Chilton Ind Est",
@@ -14354,9 +14354,9 @@ const france = [
     "City":"Sudbury",
     "Country":"England",
     "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14366,7 +14366,7 @@ const france = [
        "coordinates":  [ -0.610692,52.926246 ]
     },
     "properties": {
-    "Name of the dealer / importer":"R C Setchfield",
+    "Name":"R C Setchfield",
     "Brand":"Gregoire-besson",
     "Adresse1":"Unit 10",
     "Adresse2":"Withambrook Ind Park ",
@@ -14374,9 +14374,9 @@ const france = [
     "City":"Grantham",
     "Country":"England",
     "e-Mail_adress":"ian@setchfield.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14386,7 +14386,7 @@ const france = [
        "coordinates":  [ -1.4189327,51.1402387 ]
     },
     "properties": {
-    "Name of the dealer / importer":"R Hunt (Agric Eng) Ltd",
+    "Name":"R Hunt (Agric Eng) Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"St Martins Lane",
     "Adresse2":"Chilbolton ",
@@ -14394,9 +14394,9 @@ const france = [
     "City":"Stockbridge",
     "Country":"England",
     "e-Mail_adress":"tim@rhunt.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14406,7 +14406,7 @@ const france = [
        "coordinates":  [ -1.277927,50.6543035 ]
     },
     "properties": {
-    "Name of the dealer / importer":"R Hunt (Agric Eng) Ltd",
+    "Name":"R Hunt (Agric Eng) Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Pritchetts Way",
     "Adresse2":"Rookley Ind Est  ",
@@ -14414,9 +14414,9 @@ const france = [
     "City":"Rookley Ventor",
     "Country":"England",
     "e-Mail_adress":"jim@rhunt.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14426,7 +14426,7 @@ const france = [
        "coordinates":  [ -0.67589,53.862595 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RBM Agricultural Ltd",
+    "Name":"RBM Agricultural Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Holme Road",
     "Adresse2":"Market Weighton        ",
@@ -14434,9 +14434,9 @@ const france = [
     "City":"York",
     "Country":"England",
     "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14446,7 +14446,7 @@ const france = [
        "coordinates":  [ -0.8143668,54.12604229999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RBM Agricultural Ltd",
+    "Name":"RBM Agricultural Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Derwent Road",
     "Adresse2":"Malton",
@@ -14454,9 +14454,9 @@ const france = [
     "City":"Malton",
     "Country":"England",
     "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14466,7 +14466,7 @@ const france = [
        "coordinates":  [ -0.8929024999999999,53.3508431 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RBM Agricultural Ltd",
+    "Name":"RBM Agricultural Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Clarborough Hill",
     "Adresse2":"Retford",
@@ -14474,9 +14474,9 @@ const france = [
     "City":"Retford",
     "Country":"England",
     "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14486,7 +14486,7 @@ const france = [
        "coordinates":  [ -0.4812392,53.5477561 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RBM Agricultural Ltd",
+    "Name":"RBM Agricultural Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Westrum Lane",
     "Adresse2":"Brigg",
@@ -14494,9 +14494,9 @@ const france = [
     "City":"Brigg",
     "Country":"England",
     "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14506,7 +14506,7 @@ const france = [
        "coordinates":  [ -0.0078055,53.38354589999999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RBM Agricultural Ltd",
+    "Name":"RBM Agricultural Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"19 Bollingbroke Road",
     "Adresse2":"Fairfield Industrial Estate        ",
@@ -14514,9 +14514,9 @@ const france = [
     "City":"Louth",
     "Country":"England",
     "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14526,7 +14526,7 @@ const france = [
        "coordinates":  [ -2.2670163,50.7851991 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Redlynch Agric Eng Ltd RABE",
+    "Name":"Redlynch Agric Eng Ltd RABE",
     "Brand":"Gregoire-besson",
     "Adresse1":"Deverel Farm",
     "Adresse2":"Milborne St Andrew        ",
@@ -14534,9 +14534,9 @@ const france = [
     "City":"Blandford",
     "Country":"England",
     "e-Mail_adress":"martin@redlynchtractors.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14546,7 +14546,7 @@ const france = [
        "coordinates":  [ -2.9884537,56.3239958 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Reekie Ltd",
+    "Name":"Reekie Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Cupar Trading Estate",
     "Adresse2":"Cupar ",
@@ -14554,9 +14554,9 @@ const france = [
     "City":"Fife",
     "Country":"Scotland",
     "e-Mail_adress":"bhamilton@reekie.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14566,7 +14566,7 @@ const france = [
        "coordinates":  [ -3.4815455,56.4176728 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Reekie Ltd",
+    "Name":"Reekie Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Ruthvenfield Road",
     "Adresse2":"Inveralmond Ind Estate ",
@@ -14574,9 +14574,9 @@ const france = [
     "City":"Perth",
     "Country":"Scotland",
     "e-Mail_adress":"smercer@reekie.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14586,7 +14586,7 @@ const france = [
        "coordinates":  [ 0.2431696,52.6572 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Richard Askew Agri Supplies RA",
+    "Name":"Richard Askew Agri Supplies RA",
     "Brand":"Gregoire-besson",
     "Adresse1":"344 Smeeth Road",
     "Adresse2":"Marshland St James        ",
@@ -14594,9 +14594,9 @@ const france = [
     "City":"Wisbech",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14606,7 +14606,7 @@ const france = [
        "coordinates":  [ -4.834702,55.2630358 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Robert Cook",
+    "Name":"Robert Cook",
     "Brand":"Gregoire-besson",
     "Adresse1":"Unit 12 Grangestone Industrial Estate",
     "Adresse2":"Ladywell Avenue        ",
@@ -14614,9 +14614,9 @@ const france = [
     "City":"Girvan",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14626,7 +14626,7 @@ const france = [
        "coordinates":  [ -2.4168836,56.7773052 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ross Agri Services Limited",
+    "Name":"Ross Agri Services Limited",
     "Brand":"Gregoire-besson",
     "Adresse1":"Invergarry",
     "Adresse2":"St Cyrus        ",
@@ -14634,9 +14634,9 @@ const france = [
     "City":"Montrose",
     "Country":"Scotland",
     "e-Mail_adress":"martin@rossagri.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14646,7 +14646,7 @@ const france = [
        "coordinates":  [ -4.3535077,50.8207505 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Smallridge Bros Ltd",
+    "Name":"Smallridge Bros Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Neet Way",
     "Adresse2":"Holsworthy Ind. Est. ",
@@ -14654,9 +14654,9 @@ const france = [
     "City":"Holsworthy",
     "Country":"England",
     "e-Mail_adress":"paul@smallridgebros.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14666,7 +14666,7 @@ const france = [
        "coordinates":  [ -4.076214999999999,51.039171 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Smallridge Bros Ltd",
+    "Name":"Smallridge Bros Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"East Collabear",
     "Adresse2":"Tawstock ",
@@ -14674,9 +14674,9 @@ const france = [
     "City":"Barnstable",
     "Country":"England",
     "e-Mail_adress":"sales@smallridgebros.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14686,7 +14686,7 @@ const france = [
        "coordinates":  [ -2.3903386,50.7704979 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Smart Ag Services Ltd",
+    "Name":"Smart Ag Services Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Unit 51 Enterprise Park",
     "Adresse2":"Piddlehinton ",
@@ -14694,9 +14694,9 @@ const france = [
     "City":"Dorchester",
     "Country":"England",
     "e-Mail_adress":"colin@smartagservices.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14706,7 +14706,7 @@ const france = [
        "coordinates":  [ -0.3137015,52.7720566 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Sulky Burel UK Ltd",
+    "Name":"Sulky Burel UK Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Spalding Road",
     "Adresse2":"Bourne",
@@ -14714,9 +14714,9 @@ const france = [
     "City":"Bourne",
     "Country":"England",
     "e-Mail_adress":"parts@sulky-burel.co.uk",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14726,7 +14726,7 @@ const france = [
        "coordinates":  [ -1.94677,52.09214900000001 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Tallis Amos Group Ltd",
+    "Name":"Tallis Amos Group Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Hinton On The Green",
     "Adresse2":"Evesham",
@@ -14734,9 +14734,9 @@ const france = [
     "City":"Evesham",
     "Country":"England",
     "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14746,7 +14746,7 @@ const france = [
        "coordinates":  [ -2.7352,52.2175156 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Tallis Amos Group Ltd",
+    "Name":"Tallis Amos Group Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Southern Avenue",
     "Adresse2":"Leominster",
@@ -14754,9 +14754,9 @@ const france = [
     "City":"Leominster",
     "Country":"England",
     "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14766,7 +14766,7 @@ const france = [
        "coordinates":  [ -1.8563049,51.7587424 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Tallis Amos Group Ltd",
+    "Name":"Tallis Amos Group Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Meadowlands",
     "Adresse2":"Bibury        ",
@@ -14774,9 +14774,9 @@ const france = [
     "City":"Cirencester",
     "Country":"England",
     "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14786,7 +14786,7 @@ const france = [
        "coordinates":  [ -2.357508,55.6714551 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Thomas Sherriff & Co Ltd",
+    "Name":"Thomas Sherriff & Co Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Orange Lane",
     "Adresse2":"Leitholm ",
@@ -14794,9 +14794,9 @@ const france = [
     "City":"Coldstream",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14806,7 +14806,7 @@ const france = [
        "coordinates":  [ -0.4000199,53.0082878 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TRP (Scotland) Ltd",
+    "Name":"TRP (Scotland) Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"Pride Parkway",
     "Adresse2":"Enterprise Park        ",
@@ -14814,9 +14814,9 @@ const france = [
     "City":"Sleaford",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Harvey Sherwin",
-    "GB-group_salesman_Phonenumber":447891634994,
-    "GB-group_salesman_eMail":"h.sherwin@gb-group.co"
+    "GBgroup_salesman":"Harvey Sherwin",
+    "GBgroup_salesman_Phonenumber":447891634994,
+    "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
     }
   },
   {
@@ -14826,7 +14826,7 @@ const france = [
        "coordinates":  [ -2.7593017,53.8744094 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Whittinghams Farm Supplies Ltd",
+    "Name":"Whittinghams Farm Supplies Ltd",
     "Brand":"Gregoire-besson",
     "Adresse1":"119 Garstang Road",
     "Adresse2":"Claughton on Brock        ",
@@ -14834,9 +14834,9 @@ const france = [
     "City":"Preston",
     "Country":"England",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -14846,7 +14846,7 @@ const france = [
        "coordinates":  [ -3.4726791,56.5307408 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Wilks Brothers",
+    "Name":"Wilks Brothers",
     "Brand":"Gregoire-besson",
     "Adresse1":"Murthly",
     "Adresse2":"Perthshire",
@@ -14854,9 +14854,9 @@ const france = [
     "City":"Perthshire",
     "Country":"Scotland",
     "e-Mail_adress":"",
-    "GB-group_salesman":"Rob Thurkettle",
-    "GB-group_salesman_Phonenumber":447741643968,
-    "GB-group_salesman_eMail":"r.thurkettle@gb-group.co"
+    "GBgroup_salesman":"Rob Thurkettle",
+    "GBgroup_salesman_Phonenumber":447741643968,
+    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   }
 ]
