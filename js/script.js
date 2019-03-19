@@ -356,8 +356,47 @@ function initMap(filter) {
   map.mapTypes.set('styled_map', styledMapType);
   map.setMapTypeId('styled_map');
 
-  var oms = new OverlappingMarkerSpiderfier(map);
+  setMarkers(map, filter)
 
+  google.maps.event.addDomListener(map, 'click', function() {
+    console.log("ok")
+    window.alert(map.getZoom());
+  });
+
+}
+
+const logo = (brand) => {
+  if (brand === "rabe") {
+     var logo = '<a href="http://www.rabe-gb.de/fr/" target="_blank"><img src="img/rabe.png" alt="Rabe"></a>'
+  } else if (brand === "gregoire") {
+    logo = '<a href="https://www.gregoire-besson.com/fr" target="_blank"><img src="img/gregoire-besson.png" alt="Gregoire-Besson"></a>'
+  } else {
+    logo = '<a href="https://www.gregoire-besson.com/fr" target="_blank"><img src="img/gregoire-besson.png" alt="GB-group"></a>&nbsp;&nbsp;<a href="http://www.rabe-gb.de/fr/" target="_blank"><img src="img/rabe.png" alt="Rabe"></a>'
+  }
+  return logo;
+}
+
+const createContent = (data) => {
+  content ='<div id="content" class="infowindow">'+
+  '<h6 id="firstHeading" class="text-center">' + data.properties.Name + '</h6>'+
+  '<p class="infoWindowPara"><strong>Adresse :</strong> ' + data.properties.Adresse1 + ', ' + data.properties.Adresse2 + '</br>'+
+  '<strong>Code Postal :</strong> ' + data.properties.Zip_code + '</br>'+
+  '<strong>Ville :</strong> ' + data.properties.City + '</br>' +
+  '<strong>Pays :</strong> ' + data.properties.Country + ' </br>' +
+  '<strong> Marque distribuée : ' + logo(data.properties.Brand) +
+  '</p>' +
+  '<p class="text-center" style="font-size:11px, padding-bottom:-2px"><strong>Notre Responsable de secteur</strong></p>' +
+  '<p class="infoWindowPara">' + 
+  '<strong>Nom : </strong>' + data.properties.GBgroup_salesman + '</br>' +
+  '<strong>Mail : </strong>' + data.properties.GBgroup_salesman_eMail + '</br>' +
+  '<strong>Tel : </strong>' + data.properties.GBgroup_salesman_Phonenumber + '</br>' +
+  '</p>' +
+  '</div>';
+  return content
+}
+
+const setMarkers = (map, filter) => {
+  var oms = new OverlappingMarkerSpiderfier(map);
   var shape = {
     coords: [1, 1, 1, 20, 18, 20, 18, 1],
     type: 'poly'
@@ -388,37 +427,6 @@ function initMap(filter) {
   for (var i = 0; i < france.length; i++) {
     var data = france[i];
 
-    const logo = (brand) => {
-        if (brand === "rabe") {
-           var logo = '<a href="http://www.rabe-gb.de/fr/" target="_blank"><img src="img/rabe.png" alt="Rabe"></a>'
-        } else if (brand === "gregoire") {
-          logo = '<a href="https://www.gregoire-besson.com/fr" target="_blank"><img src="img/gregoire-besson.png" alt="Gregoire-Besson"></a>'
-        } else {
-          logo = '<a href="https://www.gregoire-besson.com/fr" target="_blank"><img src="img/gregoire-besson.png" alt="GB-group"></a>&nbsp;&nbsp;<a href="http://www.rabe-gb.de/fr/" target="_blank"><img src="img/rabe.png" alt="Rabe"></a>'
-        }
-        return logo;
-    }
-
-    const createContent = (data) => {
-      content ='<div id="content" class="infowindow">'+
-      '<h6 id="firstHeading" class="text-center">' + data.properties.Name + '</h6>'+
-      '<p class="infoWindowPara"><strong>Adresse :</strong> ' + data.properties.Adresse1 + ', ' + data.properties.Adresse2 + '</br>'+
-      '<strong>Code Postal :</strong> ' + data.properties.Zip_code + '</br>'+
-      '<strong>Ville :</strong> ' + data.properties.City + '</br>' +
-      '<strong>Pays :</strong> ' + data.properties.Country + ' </br>' +
-      '<strong> Marque distribuée : ' + logo(data.properties.Brand) +
-      '</p>' +
-      '<p class="text-center" style="font-size:11px, padding-bottom:-2px"><strong>Notre Responsable de secteur</strong></p>' +
-      '<p class="infoWindowPara">' + 
-      '<strong>Nom : </strong>' + data.properties.GBgroup_salesman + '</br>' +
-      '<strong>Mail : </strong>' + data.properties.GBgroup_salesman_eMail + '</br>' +
-      '<strong>Tel : </strong>' + data.properties.GBgroup_salesman_Phonenumber + '</br>' +
-      '</p>' +
-      '</div>';
-      return content
-    }
-
-
     if (filter === undefined || filter === data.properties.Brand) {
       var infowindow = new google.maps.InfoWindow();
       var marker = new google.maps.Marker({
@@ -437,7 +445,6 @@ function initMap(filter) {
       markers.push(marker);
       oms.addMarker(marker);
     } 
-    
   }
 
   var markerClusterer = new MarkerClusterer(map, markers, {
@@ -457,5 +464,13 @@ function initMap(filter) {
         map.setZoom(14);
     }
   });
+
+
+
 }
 
+function initNewMap(filter) {
+  console.log(map.getZoom);
+  initMap(filter)
+
+}
