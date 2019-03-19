@@ -1,4 +1,4 @@
-function initMap() {
+function initMap(filter) {
   var styledMapType = new google.maps.StyledMapType(
     [
 {
@@ -345,7 +345,7 @@ function initMap() {
       {name: 'Styled Map'});
 
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 3,
+    zoom: 4,
     center: {lat: 46.227638,lng: 2.213749},
     mapTypeControlsOptions: {
       mapTypeId: 'roadmap'
@@ -399,7 +399,8 @@ function initMap() {
         return logo;
     }
 
-    var content = '<div id="content" class="infowindow">'+
+    const createContent = (data) => {
+      content ='<div id="content" class="infowindow">'+
       '<h6 id="firstHeading" class="text-center">' + data.properties.Name + '</h6>'+
       '<p class="infoWindowPara"><strong>Adresse :</strong> ' + data.properties.Adresse1 + ', ' + data.properties.Adresse2 + '</br>'+
       '<strong>Code Postal :</strong> ' + data.properties.Zip_code + '</br>'+
@@ -414,24 +415,28 @@ function initMap() {
       '<strong>Tel : </strong>' + data.properties.GBgroup_salesman_Phonenumber + '</br>' +
       '</p>' +
       '</div>';
+      return content
+    }
 
-    var infowindow = new google.maps.InfoWindow(content);
+    if (filter === undefined || filter === data.properties.Brand) {
+      var infowindow = new google.maps.InfoWindow();
+      var marker = new google.maps.Marker({
+        position: {lat: data.geometry.coordinates[1], lng: data.geometry.coordinates[0]},
+        map: map,
+        icon: image[data.properties.Brand],
+        title: data.properties.Name,
+        info : createContent(data)
+      });
 
-    var marker = new google.maps.Marker({
-      position: {lat: data.geometry.coordinates[1], lng: data.geometry.coordinates[0]},
-      map: map,
-      icon: image[data.properties.Brand],
-      title: data.properties.Name,
-      info : content
-    });
+      google.maps.event.addListener(marker, 'click', function() {
+        infowindow.setContent( this.info );
+        infowindow.open(map, this);
+      });
 
-    google.maps.event.addListener(marker, 'click', function() {
-      infowindow.setContent( this.info );
-      infowindow.open(map, this);
-  });
-
-    markers.push(marker);
-    oms.addMarker(marker);
+      markers.push(marker);
+      oms.addMarker(marker);
+    } 
+    
   }
 
   var markerClusterer = new MarkerClusterer(map, markers, {
@@ -444,8 +449,6 @@ function initMap() {
       bounds.extend(this.markers[i].position);
   }
   map.fitBounds(bounds);
-
-  
 
   google.maps.event.addListener(markerClusterer, 'clusterclick', function(cluster) {
     map.fitBounds(cluster.getBounds());
