@@ -1,11 +1,3 @@
-let dataFrance = require('../data/france.geojson');
-let dataGermany = require('../data/german.geojson');
-let dataCanada = require('../data/canada.geojson');
-let dataItaly = require('../data/italy.geojson');
-let dataWorld = require('../data/export.geojson');
-let dataEngland = require('../data/england.geojson');
-
-
 function initMap() {
   var styledMapType = new google.maps.StyledMapType(
     [
@@ -359,21 +351,12 @@ function initMap() {
       mapTypeId: 'roadmap'
     }
   });
-  
+
   //Associate the styled map with the MapTypeId and set it to display.
   map.mapTypes.set('styled_map', styledMapType);
   map.setMapTypeId('styled_map');
 
-  setMarkers(map)
-}
-
-function setMarkers(map) {
-  var image = {
-    path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
-    scale: 2,
-    strokeWeight:2,
-    strokeColor:"#B40404"
-  };
+  var oms = new OverlappingMarkerSpiderfier(map);
 
   var shape = {
     coords: [1, 1, 1, 20, 18, 20, 18, 1],
@@ -383,24 +366,25 @@ function setMarkers(map) {
   var image = {
     rabe: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
-        scale: 2,
-        strokeWeight:1,
+        scale: 4,
+        strokeWeight:2,
         strokeColor:"#0076BD"
     },
     gregoire: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
-        scale: 2,
-        strokeWeight:1,
+        scale: 4,
+        strokeWeight:2,
         strokeColor:"#B40404"
     },
     group: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
-        scale: 2,
-        strokeWeight:1,
+        scale: 4,
+        strokeWeight:2,
         strokeColor:"#3C3C3B"
     }
   };
 
+  var markers = [];
   for (var i = 0; i < france.length; i++) {
     var data = france[i];
 
@@ -431,11 +415,6 @@ function setMarkers(map) {
       '</p>' +
       '</div>';
 
-    var infowindow = new google.maps.InfoWindow({ 
-      content: content,
-      maxWidth: 250
-    });
-
     var marker = new google.maps.Marker({
       position: {lat: data.geometry.coordinates[1], lng: data.geometry.coordinates[0]},
       map: map,
@@ -443,12 +422,32 @@ function setMarkers(map) {
       title: data.properties.Name,
       info: content
     });
+    markers.push(marker);
+    oms.addMarker(marker);
 
-    google.maps.event.addListener(marker, 'click', function() {
-        infowindow.setContent( this.info );
-        infowindow.open(map, this);
+    var infowindow = new google.maps.InfoWindow();
+    oms.addListener('click', function(marker, event) {
+      infoWindow.setContent(content);
+      infoWindow.open(map, marker);
     });
   }
- 
+
+  var markerClusterer = new MarkerClusterer(map, markers, {
+    maxZoom: 6, // maxZoom set when clustering will stop
+    imagePath: 'img/m'
+  });
+
+  var bounds = new google.maps.LatLngBounds();
+  for (var i = 0; i < markers.length; ++i) {
+      bounds.extend(this.markers[i].position);
+  }
+  map.fitBounds(bounds);
+
+  google.maps.event.addListener(markerClusterer, 'clusterclick', function(cluster) {
+    map.fitBounds(cluster.getBounds());
+    if (map.getZoom() > 14) {
+        map.setZoom(14);
+    }
+  });
 }
 

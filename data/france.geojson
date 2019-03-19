@@ -6743,7 +6743,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.167028999999999,50.82970599999999 ]
+       "coordinates":  [ 6.167028999,50.82970599 ]
     },
     "properties": {
     "Name":"Becker, Willi",
@@ -6903,7 +6903,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.517192000000001,49.3163653 ]
+       "coordinates":  [ 7.517192,49.3163653 ]
     },
     "properties": {
     "Name":"Glass-Landtechnik & Kleingeräte",
@@ -6923,7 +6923,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.924188399999999,51.0206761 ]
+       "coordinates":  [ 4.924188,51.0206761 ]
     },
     "properties": {
     "Name":"AGRATEAM BVBA",
@@ -7163,7 +7163,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 5.563665299999999,51.1410901 ]
+       "coordinates":  [ 5.563665,51.1410901 ]
     },
     "properties": {
     "Name":"Limburgs Agro Mechanisatiebedrijf",
@@ -7203,7 +7203,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 5.5430657,50.84460259999999 ]
+       "coordinates":  [ 5.5430657,50.84460 ]
     },
     "properties": {
     "Name":"Geurts H. & Zonen",
@@ -7523,7 +7523,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6301814,52.56180490000001 ]
+       "coordinates":  [ 6.6301814,52.561804 ]
     },
     "properties": {
     "Name":"Timmerman B.V. Landbouwhuis",
@@ -7543,7 +7543,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.015503600000001,52.3875854 ]
+       "coordinates":  [ 7.015503,52.3875854 ]
     },
     "properties": {
     "Name":"Timmermann B V",
@@ -7563,7 +7563,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.608403699999999,53.4028449 ]
+       "coordinates":  [ 6.608403,53.4028449 ]
     },
     "properties": {
     "Name":"Kazemier V.O.F.",
@@ -7643,7 +7643,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 5.802335999999999,51.43936799999999 ]
+       "coordinates":  [ 5.802335,51.439367 ]
     },
     "properties": {
     "Name":"Lammers",
@@ -7843,7 +7843,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 5.864893899999999,52.707057 ]
+       "coordinates":  [ 5.86489,52.707057 ]
     },
     "properties": {
     "Name":"Mechanisatiebedrijf Weevers",
@@ -7923,7 +7923,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.836378799999999,51.4975907 ]
+       "coordinates":  [ 4.836378,51.4975907 ]
     },
     "properties": {
     "Name":"MERTENS AGRI",
@@ -8046,7 +8046,7 @@ const france = [
        "coordinates":  [ 5.0468719,50.2939753 ]
     },
     "properties": {
-    "Name":"B U R L E T S.P.R.L.",
+    "Name":"BURLET S.P.R.L.",
     "Brand":"rabe",
     "Adresse1":"Machines agricoles",
     "Adresse2":"Rue de croix 5",
@@ -8066,7 +8066,7 @@ const france = [
        "coordinates":  [ 4.6611109,50.3224691 ]
     },
     "properties": {
-    "Name":"S T E E N Agri S.P.R.L.",
+    "Name":"STEEN Agri S.P.R.L.",
     "Brand":"rabe",
     "Adresse1":"Machines agricoles",
     "Adresse2":"Rue Croix de Bourgogne 11",
@@ -8083,7 +8083,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.5752282,50.24605589999999 ]
+       "coordinates":  [ 4.5752282,50.246055 ]
     },
     "properties": {
     "Name":"Ets HALLOY et FILS",
@@ -8123,7 +8123,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.482145699999998,51.22469359999999 ]
+       "coordinates":  [ 7.4821456,51.2246935]
     },
     "properties": {
     "Name":"Rademacher OHG",
@@ -8143,7 +8143,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.4114176,54.59305459999999 ]
+       "coordinates":  [ 9.4114176,54.593054 ]
     },
     "properties": {
     "Name":"Hand Landmaschinen",
@@ -8203,7 +8203,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10.64176,53.56621999999999 ]
+       "coordinates":  [ 10.64176,53.566219 ]
     },
     "properties": {
     "Name":"Schmahl. Heinrich",
@@ -8223,7 +8223,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.487031500000001,53.5001524 ]
+       "coordinates":  [ 7.4870315,53.5001524 ]
     },
     "properties": {
     "Name":"Raiffeisen Technik",
@@ -8243,7 +8243,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.176513399999999,52.7161971 ]
+       "coordinates":  [ 7.1765133,52.7161971 ]
     },
     "properties": {
     "Name":"AGRAVIS Technik Münsterland-Ems GmbH",
@@ -8263,7 +8263,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.376192800000001,52.9688483 ]
+       "coordinates":  [ 7.3761928,52.9688483 ]
     },
     "properties": {
     "Name":"AGRAVIS Technik Münsterland-Ems GmbH",
@@ -8283,7 +8283,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.983759999999999,52.51248 ]
+       "coordinates":  [ 6.983759,52.51248 ]
     },
     "properties": {
     "Name":"AGRAVIS Technik Münsterland-Ems GmbH",
@@ -8323,7 +8323,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.382899999999999,51.69896 ]
+       "coordinates":  [ 7.3828999,51.69896 ]
     },
     "properties": {
     "Name":"AGRAVIS Technik Münsterland-Ems GmbH",
@@ -8363,7 +8363,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.420969999999999,51.93707999999999 ]
+       "coordinates":  [ 8.420969,51.937079 ]
     },
     "properties": {
     "Name":"Theilmeier-Landtechnik GmbH",
@@ -8603,7 +8603,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.846219999999999,52.43736999999999 ]
+       "coordinates":  [ 7.846219,52.437369 ]
     },
     "properties": {
     "Name":"Brüwer",
@@ -8703,7 +8703,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.510034899999999,53.4475163 ]
+       "coordinates":  [ 9.5100348,53.4475163 ]
     },
     "properties": {
     "Name":"Fricke Landmaschinen GmbH",
@@ -8763,7 +8763,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.332984399999999,53.3195586 ]
+       "coordinates":  [ 9.3329843,53.3195586 ]
     },
     "properties": {
     "Name":"Fricke Landmaschinen GmbH",
@@ -8803,7 +8803,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.0870847,54.23162929999999 ]
+       "coordinates":  [ 9.0870847,54.231629 ]
     },
     "properties": {
     "Name":"CLAAS Weddingstedt",
@@ -8863,7 +8863,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.926673899999999,53.7897013 ]
+       "coordinates":  [ 9.926673,53.7897013 ]
     },
     "properties": {
     "Name":"CLAAS Alveslohe",
@@ -8883,7 +8883,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.931704399999998,52.8477044 ]
+       "coordinates":  [ 7.9317043,52.8477044 ]
     },
     "properties": {
     "Name":"CLAAS Weser Ems GmbH",
@@ -8903,7 +8903,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.402203499999999,52.9619839 ]
+       "coordinates":  [ 8.4022034,52.9619839 ]
     },
     "properties": {
     "Name":"CLAAS Weser Ems GmbH",
@@ -8963,7 +8963,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.195898,54.34147309999999 ]
+       "coordinates":  [ 9.195898,54.341473 ]
     },
     "properties": {
     "Name":"MARXEN LANDTECHNIK GMBH&CO.KG",
@@ -9003,7 +9003,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -7.2314197,52.65535879999999 ]
+       "coordinates":  [ -7.2314197,52.655358 ]
     },
     "properties": {
     "Name":"I.A.M.",
@@ -9043,7 +9043,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -72.98561769999999,45.4121461 ]
+       "coordinates":  [ -72.985617,45.4121461 ]
     },
     "properties": {
     "Name":"Machinerie Agricole St",
@@ -9052,7 +9052,7 @@ const france = [
     "Adresse2":"650 Route 112",
     "Zip_code":"JOL 1TO",
     "City":"St. Cesaire PQ",
-    "Country":"KANADA",
+    "Country":"CANADA",
     "e-Mail_adress":"machineriesagricole@qc.aira.com",
     "GBgroup_salesman":"GB Germany",
     "GBgroup_salesman_Phonenumber":"",
@@ -9083,7 +9083,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.360199999999999,52.32912 ]
+       "coordinates":  [ 9.3601999,52.32912 ]
     },
     "properties": {
     "Name":"Schaumburger Landtechnik",
@@ -9123,7 +9123,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10.5437479,52.47295949999999 ]
+       "coordinates":  [ 10.5437479,52.4729594 ]
     },
     "properties": {
     "Name":"LVB - Steinbrink GmbH",
@@ -9163,7 +9163,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10.217,52.47 ]
+       "coordinates":  [ 10.1581,52.4713 ]
     },
     "properties": {
     "Name":"LVB - Steinbrink GmbH",
@@ -9403,7 +9403,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 11.085258,53.03808189999999 ]
+       "coordinates":  [ 11.085258,53.0380818]
     },
     "properties": {
     "Name":"Raiffeisen-Waren-",
@@ -9423,7 +9423,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 11.2206191,52.95358299999999 ]
+       "coordinates":  [ 11.2206191,52.953582 ]
     },
     "properties": {
     "Name":"VR PLUS",
@@ -9443,7 +9443,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.766183900000001,50.78496999999999 ]
+       "coordinates":  [ 8.766183,50.784969 ]
     },
     "properties": {
     "Name":"Raiffeisen Waren GmbH",
@@ -9463,7 +9463,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.864886900000002,51.28223209999999 ]
+       "coordinates":  [ 8.864886,51.282232 ]
     },
     "properties": {
     "Name":"Raiffeisen Waren GmbH",
@@ -9563,7 +9563,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.938155799999999,51.1385529 ]
+       "coordinates":  [ 9.9381557,51.1385529 ]
     },
     "properties": {
     "Name":"Bornmann",
@@ -9743,7 +9743,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.4915,52.34070999999999 ]
+       "coordinates":  [ 8.4915,52.3407099 ]
     },
     "properties": {
     "Name":"Poggemann Landtechnik",
@@ -9843,7 +9843,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.057989,50.72713100000001 ]
+       "coordinates":  [ 9.057989,50.727131 ]
     },
     "properties": {
     "Name":"RIESS-Landtechnik e.K.",
@@ -9863,7 +9863,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.964908699999999,51.298667 ]
+       "coordinates":  [ 9.9649086,51.298667 ]
     },
     "properties": {
     "Name":"Stöber",
@@ -9903,7 +9903,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.931292500000001,51.0941608 ]
+       "coordinates":  [ 8.9312925,51.0941608 ]
     },
     "properties": {
     "Name":"Schellberg, Kurt",
@@ -9923,7 +9923,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.621699999999999,50.53898 ]
+       "coordinates":  [ 8.621699,50.53898 ]
     },
     "properties": {
     "Name":"ZÖRB Landtechnik e.K.",
@@ -9983,7 +9983,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.256300000000001,50.74037 ]
+       "coordinates":  [ 9.2563000,50.74037 ]
     },
     "properties": {
     "Name":"Landtechnik-Zentrum",
@@ -10003,7 +10003,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 11.0485482,52.95911899999999 ]
+       "coordinates":  [ 11.0485482,52.959118 ]
     },
     "properties": {
     "Name":"Schulze, Walter",
@@ -10223,7 +10223,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.076799,51.83631399999999 ]
+       "coordinates":  [ 9.076799,51.836313 ]
     },
     "properties": {
     "Name":"Stücker",
@@ -10243,7 +10243,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 52.4713,10.1581 ]
     },
     "properties": {
     "Name":"Meier, Hans Landmaschinen OHG",
@@ -10303,7 +10303,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 12.7494647,53.69586469999999 ]
+       "coordinates":  [ 12.7494647,53.695864]
     },
     "properties": {
     "Name":"Land- und Gartentechnik Center",
@@ -10863,7 +10863,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.973641299999999,49.1019777 ]
+       "coordinates":  [ 8.97364129,49.1019777 ]
     },
     "properties": {
     "Name":"Kraichgau Raiffeisen",
@@ -10883,7 +10883,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.89203,47.91155999999999 ]
+       "coordinates":  [ 9.89203,47.9115599 ]
     },
     "properties": {
     "Name":"Raiffeisen BAG eG Bad Wurzach",
@@ -10903,7 +10903,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.505939999999999,49.20204 ]
+       "coordinates":  [ 9.5059399,49.20204 ]
     },
     "properties": {
     "Name":"Willig, Richard",
@@ -10963,7 +10963,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.91857,48.57045000000001 ]
+       "coordinates":  [ 7.91857,48.5704500 ]
     },
     "properties": {
     "Name":"EBNER Forst- u. Landtechnik e.K.",
@@ -11043,7 +11043,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.655759999999999,48.27518 ]
+       "coordinates":  [ 8.6557599,48.27518 ]
     },
     "properties": {
     "Name":"Heckele.H., Landtechnik",
@@ -11063,7 +11063,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.81637,49.30569999999999 ]
+       "coordinates":  [ 8.81637,49.3056999 ]
     },
     "properties": {
     "Name":"AMIS Maschinen Vertriebs GmbH",
@@ -11083,7 +11083,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.128879999999999,47.94564 ]
+       "coordinates":  [ 9.1288799,47.94564 ]
     },
     "properties": {
     "Name":"Müller, Herbert",
@@ -11103,7 +11103,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.994040000000001,48.72019 ]
+       "coordinates":  [ 7.9940400,48.72019 ]
     },
     "properties": {
     "Name":"Schreier, Christian",
@@ -11123,7 +11123,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.370619999999999,49.56912000000001 ]
+       "coordinates":  [ 8.3706199,49.56912000 ]
     },
     "properties": {
     "Name":"AGRAVIS Technik-Hessen-Pfalz GmbH",
@@ -11203,7 +11203,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.792639999999999,49.13815 ]
+       "coordinates":  [ 9.79263999,49.13815 ]
     },
     "properties": {
     "Name":"Wurst, Ernst",
@@ -11303,7 +11303,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.424211099999999,47.9105606 ]
+       "coordinates":  [ 9.42421109,47.9105606 ]
     },
     "properties": {
     "Name":"Agrom",
@@ -11343,7 +11343,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.944862100000002,48.2819758 ]
+       "coordinates":  [ 9.94486210,48.2819758 ]
     },
     "properties": {
     "Name":"Weissenburger,J.A.,",
@@ -11363,7 +11363,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.97229,47.83654000000001 ]
+       "coordinates":  [ 8.97229,47.83654000 ]
     },
     "properties": {
     "Name":"Wohlgschaft GmbH",
@@ -11423,7 +11423,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.829834999999999,48.396718 ]
+       "coordinates":  [ 7.82983499,48.396718 ]
     },
     "properties": {
     "Name":"Kopf, Meinrad",
@@ -11623,7 +11623,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 12.68652,51.98856000000001 ]
+       "coordinates":  [ 12.68652,51.988561 ]
     },
     "properties": {
     "Name":"Worch",
@@ -11903,7 +11903,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.1726996,51.97563419999999 ]
+       "coordinates":  [ 13.1726996,51.9756341 ]
     },
     "properties": {
     "Name":"TECHNIKHOF MARKENDORF GMBH",
@@ -12123,7 +12123,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 24.245258,56.77028199999999 ]
+       "coordinates":  [ 24.245258,56.7702819]
     },
     "properties": {
     "Name":"SIA DOJUS Latvija",
