@@ -13023,7 +13023,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -110.6973571,35.0241873 ]
+       "coordinates":  [ 171.471,-43.9232 ]
     },
     "properties": {
     "Name":"NEW ZEALAND TRACTORS",
