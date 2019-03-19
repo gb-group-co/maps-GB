@@ -13047,7 +13047,7 @@ const france = [
     },
     "properties": {
     "Name":"FAROL LTD",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"HOLMBUSH HOUSE",
     "Adresse2":"HOLMBUSH INDUSTRIAL ESTATE ",
     "Zip code":"GU299XY",
@@ -13067,7 +13067,7 @@ const france = [
     },
     "properties": {
     "Name":"Agwood Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Swingfield",
     "Adresse2":"",
     "Zip code":"CT15 7HF",
@@ -13087,7 +13087,7 @@ const france = [
     },
     "properties": {
     "Name":"Ancroft Tractors Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Windmill Way West",
     "Adresse2":"Ramparts Business Park ",
     "Zip code":"TD15 1TB",
@@ -13107,7 +13107,7 @@ const france = [
     },
     "properties": {
     "Name":"Ancroft Tractors Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Unit 1 & 2 Macmerry Industrial Estate",
     "Adresse2":"Macmerry Tranent",
     "Zip code":"EH33 1RD",
@@ -13127,7 +13127,7 @@ const france = [
     },
     "properties": {
     "Name":"Ancroft Tractors Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Pinacclehill Industrial Estate",
     "Adresse2":"Kelso",
     "Zip code":"TD5 8DW",
@@ -13147,7 +13147,7 @@ const france = [
     },
     "properties": {
     "Name":"Atkinson Tractors",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Wayside",
     "Adresse2":"Capenhurst Lane ",
     "Zip code":"CH1 6HE",
@@ -13167,7 +13167,7 @@ const france = [
     },
     "properties": {
     "Name":"Ben Burgess & Co (Norwich)",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"38 Europa Way",
     "Adresse2":"Martineau Lane ",
     "Zip code":"NR1 2EN",
@@ -13187,7 +13187,7 @@ const france = [
     },
     "properties": {
     "Name":"Ben Burgess (Aylsham)",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Aylesham Industrial Estate",
     "Adresse2":"Dunkirk ",
     "Zip code":"NR11 6SU",
@@ -13207,7 +13207,7 @@ const france = [
     },
     "properties": {
     "Name":"Ben Burgess (Beeston)",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Dereham Road,",
     "Adresse2":"Beeston ",
     "Zip code":"PE32 2LE",
@@ -13227,7 +13227,7 @@ const france = [
     },
     "properties": {
     "Name":"Ben Burgess Coates",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Eldernell Lane",
     "Adresse2":"Coates ",
     "Zip code":"PE7 2DD",
@@ -13247,7 +13247,7 @@ const france = [
     },
     "properties": {
     "Name":"Ben Burgess Ellington",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Brook Farm Industrial Estate",
     "Adresse2":"Ellington ",
     "Zip code":"PE28 0AE",
@@ -13267,7 +13267,7 @@ const france = [
     },
     "properties": {
     "Name":"Ben Burgess Newmarket Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Windmill Hill",
     "Adresse2":"Exning ",
     "Zip code":"CB8 7NP",
@@ -13287,7 +13287,7 @@ const france = [
     },
     "properties": {
     "Name":"Brad Farm Machinery Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"41C Lady Lane Ind Estate",
     "Adresse2":"Hadleigh ",
     "Zip code":"IP7 6BQ",
@@ -13307,7 +13307,7 @@ const france = [
     },
     "properties": {
     "Name":"Brockhills of Yorkshire Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Dalton Lane",
     "Adresse2":"Dalton ",
     "Zip code":"YO7 3HR",
@@ -13327,7 +13327,7 @@ const france = [
     },
     "properties": {
     "Name":"Bruce Hopkins Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Shenington Airfield",
     "Adresse2":"Banbury ",
     "Zip code":"OX15 6NZ",
@@ -13347,7 +13347,7 @@ const france = [
     },
     "properties": {
     "Name":"Burden Bros Agri Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Church Farm",
     "Adresse2":"Church Lane        ",
     "Zip code":"ME9 7RD",
@@ -13367,7 +13367,7 @@ const france = [
     },
     "properties": {
     "Name":"Cambridge Farm Machinery Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Church Road",
     "Adresse2":"Hauxton        ",
     "Zip code":"CB2 5HS",
@@ -13387,7 +13387,7 @@ const france = [
     },
     "properties": {
     "Name":"Carrs Billington Agri (Sales)",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Montgomery Way",
     "Adresse2":"Rosehill Industrial Estate ",
     "Zip code":"CA1 2UY",
@@ -13407,7 +13407,7 @@ const france = [
     },
     "properties": {
     "Name":"Chris Girdlestone Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"White Lodge Farm",
     "Adresse2":"Fen Road Carleton Rode ",
     "Zip code":"NR16 1RT",
@@ -13427,7 +13427,7 @@ const france = [
     },
     "properties": {
     "Name":"Clayton Farm Machinery Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Holwood Barn",
     "Adresse2":"Back Lane Goosnargh ",
     "Zip code":"PR3 2WD",
@@ -13447,7 +13447,7 @@ const france = [
     },
     "properties": {
     "Name":"D W Toppin",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Green Lane Workshops",
     "Adresse2":"Langwathby ",
     "Zip code":"CA10 1NB",
@@ -13467,7 +13467,7 @@ const france = [
     },
     "properties": {
     "Name":"Day & Coles (Agri) Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Newton Close",
     "Adresse2":"Park Farm Ind Estate ",
     "Zip code":"NN8 6UW",
@@ -13487,7 +13487,7 @@ const france = [
     },
     "properties": {
     "Name":"DKR Agricultural Services Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Westfield",
     "Adresse2":"Coulter        ",
     "Zip code":"ML12 6HN",
@@ -13507,7 +13507,7 @@ const france = [
     },
     "properties": {
     "Name":"Drews of Dinton Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Hindon Road",
     "Adresse2":"Dinton ",
     "Zip code":"SP3 5EH",
@@ -13527,7 +13527,7 @@ const france = [
     },
     "properties": {
     "Name":"Ellis Machinery",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Gaydon Farm",
     "Adresse2":"Gaydon ",
     "Zip code":"CV35 0EP",
@@ -13547,7 +13547,7 @@ const france = [
     },
     "properties": {
     "Name":"Ernest Doe & Sons Limited",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Ulting",
     "Adresse2":"Maldon",
     "Zip code":"CM9 6QH",
@@ -13567,7 +13567,7 @@ const france = [
     },
     "properties": {
     "Name":"Everitt & Marshall Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"24 Haugh Lane Industrial Estate",
     "Adresse2":"Hexham",
     "Zip code":"NE46 3PU",
@@ -13587,7 +13587,7 @@ const france = [
     },
     "properties": {
     "Name":"Farol Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Rycote Lane Farm",
     "Adresse2":"Milton Common ",
     "Zip code":"OX9 2NX",
@@ -13607,7 +13607,7 @@ const france = [
     },
     "properties": {
     "Name":"Farol Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Holmbush House",
     "Adresse2":"Holmbush Industrial Estate ",
     "Zip code":"GU29 9XY",
@@ -13627,7 +13627,7 @@ const france = [
     },
     "properties": {
     "Name":"Farol Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Wharf Farm",
     "Adresse2":"Coventry Road ",
     "Zip code":"LE10 0NB",
@@ -13647,7 +13647,7 @@ const france = [
     },
     "properties": {
     "Name":"Farol Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Boddington Road",
     "Adresse2":"Byfield",
     "Zip code":"NN11 6FL",
@@ -13667,7 +13667,7 @@ const france = [
     },
     "properties": {
     "Name":"Farol Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Coldridge Copse",
     "Adresse2":"Shefford Woodland ",
     "Zip code":"RG17 7AB",
@@ -13687,7 +13687,7 @@ const france = [
     },
     "properties": {
     "Name":"G & J Peck Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Elsom Way",
     "Adresse2":"Wardentree Park       ",
     "Zip code":"PE11 3JG",
@@ -13707,7 +13707,7 @@ const france = [
     },
     "properties": {
     "Name":"G & J Peck Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"90 Lancaster Way",
     "Adresse2":"Business Park ",
     "Zip code":"CB6 3NX",
@@ -13727,7 +13727,7 @@ const france = [
     },
     "properties": {
     "Name":"G & J Peck Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"456a Herne Road",
     "Adresse2":"Ramsey St Mary's ",
     "Zip code":"PE26 2TJ",
@@ -13747,7 +13747,7 @@ const france = [
     },
     "properties": {
     "Name":"George Colliar Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Middle Balado",
     "Adresse2":"Balado ",
     "Zip code":"KY13 0NH",
@@ -13767,7 +13767,7 @@ const france = [
     },
     "properties": {
     "Name":"H Curtis & Sons",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Unit C3-4 Monument View",
     "Adresse2":"Chelston Business Park ",
     "Zip code":"TA21 9ND",
@@ -13787,7 +13787,7 @@ const france = [
     },
     "properties": {
     "Name":"Horsch UK Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Spalding Road",
     "Adresse2":"Bourne",
     "Zip code":"PE10 0AU",
@@ -13807,7 +13807,7 @@ const france = [
     },
     "properties": {
     "Name":"I.A.M Agri Machinery Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Hebron Industrial Estate",
     "Adresse2":"Kilkenny Kilkenny",
     "Zip code":"",
@@ -13827,7 +13827,7 @@ const france = [
     },
     "properties": {
     "Name":"J J Mac Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"2 Tilia Way",
     "Adresse2":"Bourne",
     "Zip code":"PE10 0QR",
@@ -13847,7 +13847,7 @@ const france = [
     },
     "properties": {
     "Name":"J Llewellin & Co",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Trewarren Farm",
     "Adresse2":"St Ishmaels        ",
     "Zip code":"SA62 3TJ",
@@ -13867,7 +13867,7 @@ const france = [
     },
     "properties": {
     "Name":"J S Peake & Sons",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Hill Farm",
     "Adresse2":"Chapel Lane        ",
     "Zip code":"NG14 6AQ",
@@ -13887,7 +13887,7 @@ const france = [
     },
     "properties": {
     "Name":"J W Doubleday Ltd - Holbeach",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Old Fendyke",
     "Adresse2":"Holbeach St John",
     "Zip code":"PE12 8SQ",
@@ -13907,7 +13907,7 @@ const france = [
     },
     "properties": {
     "Name":"J W Doubleday Ltd - Kings Lynn",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Lynn Road",
     "Adresse2":"St Germans        ",
     "Zip code":"PE34 3EU",
@@ -13927,7 +13927,7 @@ const france = [
     },
     "properties": {
     "Name":"J W Doubleday Ltd - Swineshead",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Station Road",
     "Adresse2":"Swineshead ",
     "Zip code":"PE20 3PN",
@@ -13947,7 +13947,7 @@ const france = [
     },
     "properties": {
     "Name":"James Green Farm Machinery",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Brookfields Farm",
     "Adresse2":"Haye Lane ",
     "Zip code":"B80 7BU",
@@ -13967,7 +13967,7 @@ const france = [
     },
     "properties": {
     "Name":"Jim Price Machinery Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Farmore Mills",
     "Adresse2":"Craven Arms",
     "Zip code":"SY7 9QG",
@@ -13987,7 +13987,7 @@ const france = [
     },
     "properties": {
     "Name":"Keith Davies Agricultural Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Hem Manor Farm",
     "Adresse2":"Hem Lane ",
     "Zip code":"TF11 9PT",
@@ -14007,7 +14007,7 @@ const france = [
     },
     "properties": {
     "Name":"Knight Farm Machinery Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Wireless Hill Ind Estate",
     "Adresse2":"South Luffenham        ",
     "Zip code":"LE15 8NF",
@@ -14027,7 +14027,7 @@ const france = [
     },
     "properties": {
     "Name":"Lloyd Group",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Kingstown Broadway",
     "Adresse2":"Carlisle",
     "Zip code":"CA3 0EF",
@@ -14047,7 +14047,7 @@ const france = [
     },
     "properties": {
     "Name":"Lothian Tractors Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"No 5 Macmerry Ind Est",
     "Adresse2":"Tranent        ",
     "Zip code":"EH33 1RD",
@@ -14067,7 +14067,7 @@ const france = [
     },
     "properties": {
     "Name":"M J Fry Agricultural Engineering",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"HIgher Woodsford",
     "Adresse2":"Crossways ",
     "Zip code":"DT2 8BL",
@@ -14087,7 +14087,7 @@ const france = [
     },
     "properties": {
     "Name":"Mark Weatherhead Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Ashworth House",
     "Adresse2":"St Neots Road ",
     "Zip code":"CB23 7QL",
@@ -14107,7 +14107,7 @@ const france = [
     },
     "properties": {
     "Name":"Mark Weatherhead Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Helions Road",
     "Adresse2":"Steeple Bumpstead ",
     "Zip code":"CB9 7DU",
@@ -14127,7 +14127,7 @@ const france = [
     },
     "properties": {
     "Name":"McLaren Tractors",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Strathpeffer Road",
     "Adresse2":"Dingwall ",
     "Zip code":"IV15 9QF",
@@ -14147,7 +14147,7 @@ const france = [
     },
     "properties": {
     "Name":"Medland, Sanders & Twose Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Blundells Road",
     "Adresse2":"Tiverton",
     "Zip code":"EX16 4DA",
@@ -14167,7 +14167,7 @@ const france = [
     },
     "properties": {
     "Name":"Nigel Quinn (AMS) Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"89 The Marshes Lane",
     "Adresse2":"Mere Brow ",
     "Zip code":"PR4 6JR",
@@ -14187,7 +14187,7 @@ const france = [
     },
     "properties": {
     "Name":"Norman F Ogg",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"West Kinwhirrie",
     "Adresse2":"by Kirriemuir ",
     "Zip code":"DD8 4QB",
@@ -14207,7 +14207,7 @@ const france = [
     },
     "properties": {
     "Name":"North Country Services",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"SW House",
     "Adresse2":"Bolam Belsay  ",
     "Zip code":"NE20 0HE",
@@ -14227,7 +14227,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Worlingworth",
     "Adresse2":"Woodbridge",
     "Zip code":"IP13 7HU",
@@ -14247,7 +14247,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Ardleigh Hall",
     "Adresse2":"Ardleigh ",
     "Zip code":"CO7 7LG",
@@ -14267,7 +14267,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"High Street",
     "Adresse2":"Cromer",
     "Zip code":"SG2 7QA",
@@ -14287,7 +14287,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"New Road",
     "Adresse2":"Maulden        ",
     "Zip code":"MK45 2BG",
@@ -14307,7 +14307,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Ind Est",
     "Adresse2":"Chelmsford Road        ",
     "Zip code":"CM6 1HD",
@@ -14327,7 +14327,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Rawreth Ind Est",
     "Adresse2":"Rawreth Lane ",
     "Zip code":"SS6 9RL",
@@ -14347,7 +14347,7 @@ const france = [
     },
     "properties": {
     "Name":"P Tuckwell Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Windham Road",
     "Adresse2":"Chilton Ind Est",
     "Zip code":"CO10 2XD",
@@ -14367,7 +14367,7 @@ const france = [
     },
     "properties": {
     "Name":"R C Setchfield",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Unit 10",
     "Adresse2":"Withambrook Ind Park ",
     "Zip code":"NG31 9ST",
@@ -14387,7 +14387,7 @@ const france = [
     },
     "properties": {
     "Name":"R Hunt (Agric Eng) Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"St Martins Lane",
     "Adresse2":"Chilbolton ",
     "Zip code":"SO20 6BL",
@@ -14407,7 +14407,7 @@ const france = [
     },
     "properties": {
     "Name":"R Hunt (Agric Eng) Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Pritchetts Way",
     "Adresse2":"Rookley Ind Est  ",
     "Zip code":"PO38 3LT",
@@ -14427,7 +14427,7 @@ const france = [
     },
     "properties": {
     "Name":"RBM Agricultural Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Holme Road",
     "Adresse2":"Market Weighton        ",
     "Zip code":"YO43 3EW",
@@ -14447,7 +14447,7 @@ const france = [
     },
     "properties": {
     "Name":"RBM Agricultural Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Derwent Road",
     "Adresse2":"Malton",
     "Zip code":"YO17 6YB",
@@ -14467,7 +14467,7 @@ const france = [
     },
     "properties": {
     "Name":"RBM Agricultural Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Clarborough Hill",
     "Adresse2":"Retford",
     "Zip code":"DN22 9EA",
@@ -14487,7 +14487,7 @@ const france = [
     },
     "properties": {
     "Name":"RBM Agricultural Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Westrum Lane",
     "Adresse2":"Brigg",
     "Zip code":"DN20 9EU",
@@ -14507,7 +14507,7 @@ const france = [
     },
     "properties": {
     "Name":"RBM Agricultural Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"19 Bollingbroke Road",
     "Adresse2":"Fairfield Industrial Estate        ",
     "Zip code":"LN11 0WA",
@@ -14527,7 +14527,7 @@ const france = [
     },
     "properties": {
     "Name":"Redlynch Agric Eng Ltd RABE",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Deverel Farm",
     "Adresse2":"Milborne St Andrew        ",
     "Zip code":"DT11 0HX",
@@ -14547,7 +14547,7 @@ const france = [
     },
     "properties": {
     "Name":"Reekie Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Cupar Trading Estate",
     "Adresse2":"Cupar ",
     "Zip code":"KY15 4SX",
@@ -14567,7 +14567,7 @@ const france = [
     },
     "properties": {
     "Name":"Reekie Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Ruthvenfield Road",
     "Adresse2":"Inveralmond Ind Estate ",
     "Zip code":"PH1 3EE",
@@ -14587,7 +14587,7 @@ const france = [
     },
     "properties": {
     "Name":"Richard Askew Agri Supplies RA",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"344 Smeeth Road",
     "Adresse2":"Marshland St James        ",
     "Zip code":"PE14 8EP",
@@ -14607,7 +14607,7 @@ const france = [
     },
     "properties": {
     "Name":"Robert Cook",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Unit 12 Grangestone Industrial Estate",
     "Adresse2":"Ladywell Avenue        ",
     "Zip code":"KA26 9PF",
@@ -14627,7 +14627,7 @@ const france = [
     },
     "properties": {
     "Name":"Ross Agri Services Limited",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Invergarry",
     "Adresse2":"St Cyrus        ",
     "Zip code":"DD10 0DE",
@@ -14647,7 +14647,7 @@ const france = [
     },
     "properties": {
     "Name":"Smallridge Bros Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Neet Way",
     "Adresse2":"Holsworthy Ind. Est. ",
     "Zip code":"EX22 6ES",
@@ -14667,7 +14667,7 @@ const france = [
     },
     "properties": {
     "Name":"Smallridge Bros Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"East Collabear",
     "Adresse2":"Tawstock ",
     "Zip code":"EX31 3JZ",
@@ -14687,7 +14687,7 @@ const france = [
     },
     "properties": {
     "Name":"Smart Ag Services Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Unit 51 Enterprise Park",
     "Adresse2":"Piddlehinton ",
     "Zip code":"DT2 7UA",
@@ -14707,7 +14707,7 @@ const france = [
     },
     "properties": {
     "Name":"Sulky Burel UK Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Spalding Road",
     "Adresse2":"Bourne",
     "Zip code":"PE10 0AU",
@@ -14727,7 +14727,7 @@ const france = [
     },
     "properties": {
     "Name":"Tallis Amos Group Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Hinton On The Green",
     "Adresse2":"Evesham",
     "Zip code":"WR11 6QT",
@@ -14747,7 +14747,7 @@ const france = [
     },
     "properties": {
     "Name":"Tallis Amos Group Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Southern Avenue",
     "Adresse2":"Leominster",
     "Zip code":"HR6 0QB",
@@ -14767,7 +14767,7 @@ const france = [
     },
     "properties": {
     "Name":"Tallis Amos Group Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Meadowlands",
     "Adresse2":"Bibury        ",
     "Zip code":"GL7 5LZ",
@@ -14787,7 +14787,7 @@ const france = [
     },
     "properties": {
     "Name":"Thomas Sherriff & Co Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Orange Lane",
     "Adresse2":"Leitholm ",
     "Zip code":"TD12 4LY",
@@ -14807,7 +14807,7 @@ const france = [
     },
     "properties": {
     "Name":"TRP (Scotland) Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Pride Parkway",
     "Adresse2":"Enterprise Park        ",
     "Zip code":"NG34 8GL",
@@ -14827,7 +14827,7 @@ const france = [
     },
     "properties": {
     "Name":"Whittinghams Farm Supplies Ltd",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"119 Garstang Road",
     "Adresse2":"Claughton on Brock        ",
     "Zip code":"PR3 0PH",
@@ -14847,7 +14847,7 @@ const france = [
     },
     "properties": {
     "Name":"Wilks Brothers",
-    "Brand":"Gregoire-besson",
+    "Brand":"gregoire",
     "Adresse1":"Murthly",
     "Adresse2":"Perthshire",
     "Zip code":"PH1 4HG",
