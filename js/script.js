@@ -415,21 +415,23 @@ function initMap() {
       '</p>' +
       '</div>';
 
+    var infowindow = new google.maps.InfoWindow(content);
+
     var marker = new google.maps.Marker({
       position: {lat: data.geometry.coordinates[1], lng: data.geometry.coordinates[0]},
       map: map,
       icon: image[data.properties.Brand],
       title: data.properties.Name,
-      info: content
+      info : content
     });
+
+    google.maps.event.addListener(marker, 'click', function() {
+      infowindow.setContent( this.info );
+      infowindow.open(map, this);
+  });
+
     markers.push(marker);
     oms.addMarker(marker);
-
-    var infowindow = new google.maps.InfoWindow();
-    oms.addListener('click', function(marker, event) {
-      infoWindow.setContent(content);
-      infoWindow.open(map, marker);
-    });
   }
 
   var markerClusterer = new MarkerClusterer(map, markers, {
@@ -442,6 +444,8 @@ function initMap() {
       bounds.extend(this.markers[i].position);
   }
   map.fitBounds(bounds);
+
+  
 
   google.maps.event.addListener(markerClusterer, 'clusterclick', function(cluster) {
     map.fitBounds(cluster.getBounds());
