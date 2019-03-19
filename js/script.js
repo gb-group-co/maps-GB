@@ -87,7 +87,7 @@ function initMap(filter) {
 "featureType": "landscape",
 "stylers": [
 {
-  "color": "#eeeeee"
+  "color": "#d5ffca"
 }
 ]
 },
@@ -96,7 +96,7 @@ function initMap(filter) {
 "elementType": "geometry",
 "stylers": [
 {
-  "color": "#eeeeee"
+  "color": "#d5ffca"
 }
 ]
 },
@@ -146,7 +146,7 @@ function initMap(filter) {
 "elementType": "geometry",
 "stylers": [
 {
-  "color": "#e1e1e1"
+  "color": "#9de889"
 }
 ]
 },
@@ -311,7 +311,7 @@ function initMap(filter) {
 "elementType": "geometry",
 "stylers": [
 {
-  "color": "#eeeeee"
+  "color": "#d5ffca"
 }
 ]
 },
@@ -417,6 +417,7 @@ function initMap(filter) {
       '</div>';
       return content
     }
+
 
     if (filter === undefined || filter === data.properties.Brand) {
       var infowindow = new google.maps.InfoWindow();
