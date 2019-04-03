@@ -6,17 +6,17 @@ const france = [
        "coordinates":  [ 4.774410,50.636510 ]
     },
     "properties": {
-    "Name":"FADEUR SPRL",
-    "Brand":"gregoire",
-    "Adresse1":"RUE CHAPELLE A LA BARRE 99",
-    "Adresse2":"",
-    "Zip_code":"1360",
-    "City":"THOREMBAIS-SAINT-TROND",
-    "Country":"Belgique",
-    "e-mail_adress":"didierfadeur@ge-mail_adress.com",
-    "GBgroup_salesman":"Xavier Vasseur",
-    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
-    "GBgroup_salesman_eMail":"x.vasseur@GBgroup.co"
+      "Name":"FADEUR SPRL",
+      "Brand":"gregoire",
+      "Adresse1":"RUE CHAPELLE A LA BARRE 99",
+      "Adresse2":"",
+      "Zip_code":"1360",
+      "City":"THOREMBAIS-SAINT-TROND",
+      "Country":"Belgique",
+      "e-mail_adress":"didierfadeur@ge-mail_adress.com",
+      "GBgroup_salesman":"Xavier Vasseur",
+      "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+      "GBgroup_salesman_eMail":"x.vasseur@GBgroup.co"
     }
   },
   {
@@ -5378,7 +5378,7 @@ const france = [
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
     "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
     }
-  }
+  },
   {
     "type": "Feature",
     "geometry": {
