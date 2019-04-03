@@ -464,13 +464,4 @@ const setMarkers = (map, filter) => {
         map.setZoom(14);
     }
   });
-
-
-
-}
-
-function initNewMap(filter) {
-  console.log(map.getZoom);
-  initMap(filter)
-
 }
