@@ -1,6 +1,3 @@
-{
-   "type": "FeatureCollection",
-   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -105,7 +102,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -72.438413,49.218586 ]
+       "coordinates":  [ -72.438413,46.218473 ]
     },
     "properties": {
     "Name":"AGRITEX ST-CELESTIN",
@@ -445,7 +442,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -71.658832,48.508438 ]
+       "coordinates":  [ -69.810779,47.542413 ]
     },
     "properties": {
     "Name":"JLD LAGÜE ST-PASCAL",
@@ -741,5 +738,3 @@
     "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   }
-]
-}
