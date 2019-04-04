@@ -4663,7 +4663,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.989308,40.741895 ]
+       "coordinates":  [ -73.182279,46.088301 ]
     },
     "properties": {
     "Name":"AGIRTEX BERTHIERVILLE",
@@ -4676,7 +4676,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4696,7 +4696,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4708,7 +4708,7 @@ const france = [
     "properties": {
     "Name":"AGRITEX LA PÉRADE",
     "Brand":"gregoire",
-    "Adresse1":"420, boul. de Lanaudière",
+    "Adresse1":"420, boulevard de Lanaudière",
     "Adresse2":"",
     "Zip_code":"G0X 2J0",
     "City":"ST-ANNE DE LA PÉRADE",
@@ -4716,7 +4716,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4736,7 +4736,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4756,14 +4756,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -123.133569,49.1665898 ]
+       "coordinates":  [ -72.438413,49.218586 ]
     },
     "properties": {
     "Name":"AGRITEX ST-CELESTIN",
@@ -4776,14 +4776,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.452671,45.196881 ]
+       "coordinates":  [ -73.452005,45.200871 ]
     },
     "properties": {
     "Name":"AGRITEX ST-JACQUES",
@@ -4796,7 +4796,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4816,19 +4816,19 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -74.3215617,45.2917162 ]
+       "coordinates":  [ -73.609284,45.828614 ]
     },
     "properties": {
     "Name":"AGRITEX ST-ROCH",
     "Brand":"gregoire",
-    "Adresse1":"520, Joseph-Oswald-Forest",
+    "Adresse1":"520, J.O.Forest",
     "Adresse2":"",
     "Zip_code":"J0K 3H0",
     "City":"ST-ROCH DE L'ACHIGAN",
@@ -4836,19 +4836,19 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.609188,45.828158 ]
+       "coordinates":  [ -73.790579,45.261079 ]
     },
     "properties": {
     "Name":"AGRITEX STE-MARTINE",
     "Brand":"gregoire",
-    "Adresse1":"1320, boul. St-Jean-Baptiste",
+    "Adresse1":"1320, boulevard St-Jean-Baptiste",
     "Adresse2":"",
     "Zip_code":"J0S 1V0",
     "City":"STE-MARTINE",
@@ -4856,7 +4856,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4868,7 +4868,7 @@ const france = [
     "properties": {
     "Name":"AGRITEX VICTORIAVILLE",
     "Brand":"gregoire",
-    "Adresse1":"650, boul. Pierre-Roux Est ",
+    "Adresse1":"650, boulevard Pierre-Roux Est ",
     "Adresse2":"",
     "Zip_code":"G6T 1T2",
     "City":"VICTORIAVILLE",
@@ -4876,14 +4876,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -72.885562,46.009624 ]
+       "coordinates":  [ -72.878610,46.012865 ]
     },
     "properties": {
     "Name":"AGRITEX YAMASKA",
@@ -4896,7 +4896,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -4916,14 +4916,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -73.4164576,45.6514771 ]
+       "coordinates":  [ -73.416490,45.651657 ]
     },
     "properties": {
     "Name":"JLD LAGÜE VARENNES",
@@ -4936,14 +4936,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -74.03163119999999,45.5939239 ]
+       "coordinates":  [ -74.0316310,45.594034 ]
     },
     "properties": {
     "Name":"JLD LAGÜE MIRABEL",
@@ -4956,14 +4956,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -72.89041499999999,45.65916 ]
+       "coordinates":  [ -72.889087,45.659286 ]
     },
     "properties": {
     "Name":"JLD LAGÜE ST-HYACINTHE",
@@ -4976,14 +4976,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -72.9380389,45.3623129 ]
+       "coordinates":  [ -72.937970,45.362399 ]
     },
     "properties": {
     "Name":"JLD LAGÜE ANGE GARDIEN",
@@ -4996,7 +4996,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -5016,14 +5016,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -74.9023715,45.3445313 ]
+       "coordinates":  [ -74.902361,45.344697 ]
     },
     "properties": {
     "Name":"JLD LAGÜE ST-ISIDORE",
@@ -5036,14 +5036,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -75.372755,45.083946 ]
+       "coordinates":  [ -75.372899,45.0936656 ]
     },
     "properties": {
     "Name":"JLD LAGÜE WINCHESTER",
@@ -5056,14 +5056,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -71.82420979999999,45.131735 ]
+       "coordinates":  [ -71.824224,45.131851 ]
     },
     "properties": {
     "Name":"JLD LAGÜE COATICOOK",
@@ -5076,7 +5076,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
@@ -5096,14 +5096,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -69.695745,47.64794029999999 ]
+       "coordinates":  [ -71.658832,48.508438 ]
     },
     "properties": {
     "Name":"JLD LAGÜE ST-PASCAL",
@@ -5116,14 +5116,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.4867657,43.367763 ]
+       "coordinates":  [ -81.431624,43.368000 ]
     },
     "properties": {
     "Name":"HURON TRACTOR EXETER",
@@ -5136,14 +5136,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.43209499999999,43.731157 ]
+       "coordinates":  [ -81.431624,43.731157 ]
     },
     "properties": {
     "Name":"HURON TRACTOR BLYTH",
@@ -5156,14 +5156,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.05492540000002,43.039389 ]
+       "coordinates":  [ -81.054915,43.039389 ]
     },
     "properties": {
     "Name":"HURON TRACTOR THAMESFORD",
@@ -5176,14 +5176,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.1365647,42.7783507 ]
+       "coordinates":  [ -81.137291,42.778752 ]
     },
     "properties": {
     "Name":"HURON TRACTOR ST-THOMAS",
@@ -5196,14 +5196,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.136941,43.528317 ]
+       "coordinates":  [ -81.136941,43.528480 ]
     },
     "properties": {
     "Name":"HURON TRACTOR MITCHELL",
@@ -5216,14 +5216,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.2049753,44.1275838 ]
+       "coordinates":  [ -81.205003,44.127838 ]
     },
     "properties": {
     "Name":"HURON TRACTOR WALKERTON",
@@ -5236,14 +5236,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -80.8682902,44.445237 ]
+       "coordinates":  [ -80.899705,44.441608 ]
     },
     "properties": {
     "Name":"HURON TRACTOR CHATSWORTH",
@@ -5256,14 +5256,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -80.08108039999999,44.3362815 ]
+       "coordinates":  [ -80.077331,44.337686 ]
     },
     "properties": {
     "Name":"HURON TRACTOR STAYNER",
@@ -5276,14 +5276,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -74.8502996,45.2821514 ]
+       "coordinates":  [ -74.850407,45.281747 ]
     },
     "properties": {
     "Name":"MAXVILLE FARM MACHINERY",
@@ -5296,14 +5296,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -119.43737,55.212879 ]
+       "coordinates":  [ -119.440238,55.213496 ]
     },
     "properties": {
     "Name":"FOSTER AGRI-WORLD",
@@ -5316,14 +5316,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -80.5862777,43.6028365 ]
+       "coordinates":  [ -80.587075,43.609547 ]
     },
     "properties": {
     "Name":"STOLTZ SALES AND SERVICE ELMIRA",
@@ -5336,14 +5336,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -80.92942649999999,43.7598745 ]
+       "coordinates":  [ -80.929329,43.765676 ]
     },
     "properties": {
     "Name":"STOLTZ SALES AND SERVICE LISTOWEL",
@@ -5356,14 +5356,14 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -81.13714,44.0653334 ]
+       "coordinates":  [ -81.136705,44.065505 ]
     },
     "properties": {
     "Name":"STOLTZ SALES AND SERVICE MILDMAY",
@@ -5376,7 +5376,7 @@ const france = [
     "e-Mail_adress":"j.cadiou@gb-group.co",
     "GBgroup_salesman":"Julien CADIOU",
     "GBgroup_salesman_eMail":"j.cadiou@gb-group.co",
-    "GBgroup_salesman_Phonenumber":"+1 450-799-5615"
+    "GBgroup_salesman_Phonenumber":"/+1 450-799-5615"
     }
   },
   {
