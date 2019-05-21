@@ -383,7 +383,7 @@ const france = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.915651,47.089794 ]
+       "coordinates":  [ 2.9445595,50.9099333 ]
     },
     "properties": {
     "Name":"PARREIN NV",
