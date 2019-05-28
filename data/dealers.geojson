@@ -1,4 +1,4 @@
-const france = [
+{
   {
     "type": "Feature",
     "geometry": {
@@ -14139,4 +14139,5 @@ const france = [
     "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   }
-]
+}
+

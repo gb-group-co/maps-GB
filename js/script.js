@@ -344,14 +344,14 @@ function initMap(filter) {
 ],
       {name: 'Styled Map'});
 
-  var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 4,
-    center: {lat: 46.227638,lng: 2.213749},
-    mapTypeControlsOptions: {
-      mapTypeId: 'roadmap'
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 4,
+      center: {lat: 46.227638,lng: 2.213749},
+      mapTypeControlsOptions: {
+        mapTypeId: 'roadmap'
+      }
     }
-  });
-
+  );
   //Associate the styled map with the MapTypeId and set it to display.
   map.mapTypes.set('styled_map', styledMapType);
   map.setMapTypeId('styled_map');
@@ -359,10 +359,8 @@ function initMap(filter) {
   setMarkers(map, filter)
 
   google.maps.event.addDomListener(map, 'click', function() {
-    console.log("ok")
     window.alert(map.getZoom());
-  });
-
+  });   
 }
 
 const logo = (brand) => {
@@ -424,8 +422,8 @@ const setMarkers = (map, filter) => {
   };
 
   var markers = [];
-  for (var i = 0; i < france.length; i++) {
-    var data = france[i];
+  for (var i = 0; i < dealers.length; i++) {
+    var data = dealers[i];
 
     if (filter === undefined || filter === data.properties.Brand) {
       var infowindow = new google.maps.InfoWindow();
