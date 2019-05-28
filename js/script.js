@@ -1,3 +1,10 @@
+$(document).ready(function() {
+  console.log("ok")
+  $.getJSON("https/maps.gb-group.co/data/dealers.geojson", function (dealers) {
+  console.log( dealers[0] );
+  });
+})
+
 function initMap(filter) {
   var styledMapType = new google.maps.StyledMapType(
     [
