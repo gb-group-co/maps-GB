@@ -1,4 +1,4 @@
-{
+[
   {
     "type": "Feature",
     "geometry": {
@@ -14139,5 +14139,5 @@
     "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   }
-}
+]
 
