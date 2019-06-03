@@ -14564,7 +14564,7 @@ const setMarkers = (map, filter) => {
     }
   };
 
-  console.log("dealers")
+
   var markers = [];
   for (var i = 0; i < dealers.length; i++) {
     var data = dealers[i];
