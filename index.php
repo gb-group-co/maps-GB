@@ -2,6 +2,7 @@
 <html>
   <?php
       header("Access-Control-Allow-Origin: *");
+      header("Access-Control-Allow-Credentials: true")
       header('Access-Control-Allow-Methods: POST, GET, OPTIONS');
       header('Content-type: application/json');
       readfile('data/dealers.geojson');
