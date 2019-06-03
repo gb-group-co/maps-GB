@@ -1,8 +1,11 @@
-<?php
-    header("Access-Control-Allow-Origin: *");
-?>
 <!DOCTYPE html>
 <html>
+  <?php
+      header("Access-Control-Allow-Origin: *");
+      header('Access-Control-Allow-Methods: POST, GET, OPTIONS');
+      header('Content-type: application/json');
+      readfile('data/dealers.geojson');
+  ?>
   <head>
   
       <meta charset="utf-8">
