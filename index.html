@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <?php
-      header("Access-Control-Allow-Origin: *");
-      header("Access-Control-Allow-Credentials: true")
-      header('Access-Control-Allow-Methods: POST, GET, OPTIONS');
-      header('Content-type: application/json');
-      readfile('data/dealers.geojson');
-  ?>
+
   <head>
   
       <meta charset="utf-8">
@@ -103,13 +97,13 @@
                   <h3 class="text-center">Find your nearest dealer</h3>
               </div>
               <div class="col-1">
-                <button onclick="initMap()" class="btn btn-GB">All</button>
+                <button onclick="initDealers()" class="btn btn-GB">All</button>
               </div>
               <div class="col-1">
-                <button onclick="initMap('gregoire')" class="btn btn-Gregoire">Gregoire <br>Besson</button>
+                <button onclick="initDealers('gregoire')" class="btn btn-Gregoire">Gregoire <br>Besson</button>
               </div>
               <div class="col-1">
-                <button onclick="initMap('rabe')" class="btn btn-Rabe">Rabe</button>
+                <button onclick="initDealers('rabe')" class="btn btn-Rabe">Rabe</button>
               </div>
             </div>
           </div>
@@ -138,7 +132,6 @@
     <script type="text/javascript" src="https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/src/markerclusterer.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-
     <script src="js/script.js"></script>
     
     </script>

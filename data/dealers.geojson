@@ -243,7 +243,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.161332,43.681051 ]
+       "coordinates":  [ 5.077620,50.4029 ]
     },
     "properties": {
     "Name":"MONFORT SA",
@@ -363,6 +363,46 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 4.003057,48.193281 ]
+    },
+    "properties": {
+    "Name":"VDM SARL",
+    "Brand":"gregoire",
+    "Adresse1":"22 RUE DE LA PAIX",
+    "Adresse2":"",
+    "Zip_code":"10320",
+    "City":"BOUILLY",
+    "Country":"France",
+    "e-mail_adress":"vincent-vdm@orange.fr",
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"j.brenckle@GBgroup.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.711309,48.223441 ]
+    },
+    "properties": {
+    "Name":"COMPTOIR AGRICOLE DE CHAMPAGNE",
+    "Brand":"gregoire",
+    "Adresse1":"ZI 27 rue Louis-Desprez BP77",
+    "Adresse2":"",
+    "Zip_code":"10202",
+    "City":"BAR SUR AUBE",
+    "Country":"France",
+    "e-mail_adress":"p.hubail@comptoir-agricole.com",
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"j.brenckle@GBgroup.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.891080,50.814250 ]
     },
     "properties": {
@@ -454,46 +494,6 @@
     "City":"FEUGES",
     "Country":"France",
     "e-mail_adress":"sandrine.e-mail_adresslot@pm-pro.fr",
-    "GBgroup_salesman":"René Morales",
-    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
-    "GBgroup_salesman_eMail":"r.morales@GBgroup.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.711309,48.223441 ]
-    },
-    "properties": {
-    "Name":"COMPTOIR AGRICOLE DE CHAMPAGNE",
-    "Brand":"gregoire",
-    "Adresse1":"ZI 27 rue Louis-Desprez BP77",
-    "Adresse2":"",
-    "Zip_code":"10202",
-    "City":"BAR SUR AUBE",
-    "Country":"France",
-    "e-mail_adress":"p.hubail@comptoir-agricole.com",
-    "GBgroup_salesman":"René Morales",
-    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
-    "GBgroup_salesman_eMail":"r.morales@GBgroup.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 4.003057,48.193281 ]
-    },
-    "properties": {
-    "Name":"VDM SARL",
-    "Brand":"gregoire",
-    "Adresse1":"22 RUE DE LA PAIX",
-    "Adresse2":"",
-    "Zip_code":"10320",
-    "City":"BOUILLY",
-    "Country":"France",
-    "e-mail_adress":"vincent-vdm@orange.fr",
     "GBgroup_salesman":"René Morales",
     "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
     "GBgroup_salesman_eMail":"r.morales@GBgroup.co"
@@ -923,7 +923,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.833932,43.175055 ]
+       "coordinates":  [ 2.833932,48.31748 ]
     },
     "properties": {
     "Name":"BERNARD",
