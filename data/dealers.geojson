@@ -14109,7 +14109,7 @@
     "Name":"Whittinghams Farm Supplies Ltd",
     "Brand":"gregoire",
     "Adresse1":"119 Garstang Road",
-    "Adresse2":"Claughton on Brock        ",
+    "Adresse2":"Claughton on Brocks",
     "Zip code":"PR3 0PH",
     "City":"Preston",
     "Country":"England",
@@ -14126,17 +14126,157 @@
        "coordinates":  [ -3.4726791,56.5307408 ]
     },
     "properties": {
-    "Name":"Wilks Brothers",
-    "Brand":"gregoire",
-    "Adresse1":"Murthly",
-    "Adresse2":"Perthshire",
-    "Zip code":"PH1 4HG",
-    "City":"Perthshire",
-    "Country":"Scotland",
-    "e-Mail_adress":"",
-    "GBgroup_salesman":"Rob Thurkettle",
-    "GBgroup_salesman_Phonenumber":447741643968,
-    "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
+      "Name":"Wilks Brothers",
+      "Brand":"gregoire",
+      "Adresse1":"Murthly",
+      "Adresse2":"Perthshire",
+      "Zip code":"PH1 4HG",
+      "City":"Perthshire",
+      "Country":"Scotland",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"Rob Thurkettle",
+      "GBgroup_salesman_Phonenumber":447741643968,
+      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.626975, 50.590434]
+    },
+    "properties": {
+      "Name":"ООО Грегуар-Бессон Восток",
+      "Brand":"gregoire",
+      "Adresse1":"ул. Корочанская, 132А",
+      "Adresse2":"",
+      "Zip code":"308006",
+      "City":"Белгород",
+      "Country":"Россия",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"Nicolas Petit",
+      "GBgroup_salesman_Phonenumber":+7 4722 402 210,
+      "GBgroup_salesman_eMail":"vostok.info@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.053753, 49.411758 ]
+    },
+    "properties": {
+      "Name":"ТОВ ГРЕГУАР-БЕССОН УКРАIНА",
+      "Brand":"gregoire",
+      "Adresse1":" вул. Самійла Кішки",
+      "Adresse2":"",
+      "Zip code":"18018",
+      "City":" Черкаси",
+      "Country":"Україна",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"Nicolas Petit",
+      "GBgroup_salesman_Phonenumber":+38 0472 712 823,
+      "GBgroup_salesman_eMail":"ukraine@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.863021 , 47.101458 ]
+    },
+    "properties": {
+      "Name":"Agroprofi",
+      "Brand":"gregoire",
+      "Adresse1":"шос. М2 Кишинэу-Сорока, 9 км",
+      "Adresse2":"",
+      "Zip code":"4839",
+      "City":"Кишинэу, коммуна Ставчены",
+      "Country":"Молдова ",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"",
+      "GBgroup_salesman_Phonenumber": +373 794 31 144,
+      "GBgroup_salesman_eMail":"igor.ciudnii@agroprofi.md"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.453146, 53.856271  ]
+    },
+    "properties": {
+      "Name":"AGRIMATKO",
+      "Brand":"gregoire",
+      "Adresse1":"Крапивы 24",
+      "Adresse2":"",
+      "Zip code":"220117",
+      "City":"Минск",
+      "Country":"Беларусь ",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"",
+      "GBgroup_salesman_Phonenumber": 8 (017) -274-75-99,8 (029) -674-75-99,
+      "GBgroup_salesman_eMail":"agrimatco.belarus@agrimatco-eu.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.901801, 47.921942  ]
+    },
+    "properties": {
+      "Name":"Ensada  ",
+      "Brand":"gregoire",
+      "Adresse1":"5-р хороо, М плаза, 17давхар",
+      "Adresse2":"",
+      "Zip code":"",
+      "City":"Улаанбаатар хот, Чингэлтэй дүүрэг",
+      "Country":"Mongolia",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"",
+      "GBgroup_salesman_Phonenumber": +976 9910 7302,
+      "GBgroup_salesman_eMail":"ensada@citcorp.ca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 69.344192, 41.309099 ]
+    },
+    "properties": {
+      "Name":"Landtech",
+      "Brand":"gregoire",
+      "Adresse1":" ул. Т.Малика 146",
+      "Adresse2":"",
+      "Zip code":"100050",
+      "City":"Ташкент",
+      "Country":"Узбекистан",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"",
+      "GBgroup_salesman_Phonenumber": +(99890) 3252999,
+      "GBgroup_salesman_eMail":"l.allyorova@ciseg.eu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.410029, 51.146383 ]
+    },
+    "properties": {
+      "Name":"ТОО Евразия Групп Казахстан",
+      "Brand":"gregoire",
+      "Adresse1":"район ЕСИЛЬ, микрорайон КАРАОТКЕЛЬ улица ҚАЗАНАТ, здание 1/1, 4 этаж",
+      "Adresse2":"",
+      "Zip code":"010000",
+      "City":"Нур-Султан",
+      "Country":"Казахстан",
+      "e-Mail_adress":"",
+      "GBgroup_salesman":"",
+      "GBgroup_salesman_Phonenumber": +7 (7172) 55-47-11,
+      "GBgroup_salesman_eMail":"vassiliy.demenkov@eurasia.kz"
     }
   }
 ]
