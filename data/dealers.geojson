@@ -9523,7 +9523,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 52.4713,10.1581 ]
+       "coordinates":  [ 10.1581 , 52.4713]
     },
     "properties": {
     "Name":"Meier, Hans Landmaschinen OHG",
