@@ -13,9 +13,9 @@
     "Zip code":"Marolles",
     "City":14100,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -32,9 +32,9 @@
     "Zip code":"Le Breuil-en-Auge",
     "City":14130,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -51,9 +51,9 @@
     "Zip code":"Grainville-Langannerie",
     "City":14190,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -70,9 +70,9 @@
     "Zip code":"Aunay-sur-Odon",
     "City":14260,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -89,9 +89,9 @@
     "Zip code":"Villers-Bocage",
     "City":14310,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -108,9 +108,9 @@
     "Zip code":"Vassy",
     "City":14410,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -127,9 +127,9 @@
     "Zip code":"Saint-Aignan-de-Cramesnil",
     "City":14540,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -146,9 +146,9 @@
     "Zip code":"Morteaux-Coulibœuf",
     "City":14620,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -165,9 +165,9 @@
     "Zip code":"Thue et Mue",
     "City":14740,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -184,9 +184,9 @@
     "Zip code":"Coudray",
     "City":27150,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -203,9 +203,9 @@
     "Zip code":"Saussay-la-Campagne",
     "City":27150,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -222,9 +222,9 @@
     "Zip code":"Conches-en-Ouche",
     "City":27190,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -241,9 +241,9 @@
     "Zip code":"Mousseaux-Neuville",
     "City":27220,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -260,9 +260,9 @@
     "Zip code":"Bourneville",
     "City":27500,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -279,9 +279,9 @@
     "Zip code":"Fontenay",
     "City":27510,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -298,9 +298,9 @@
     "Zip code":"Poilley",
     "City":50220,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -317,9 +317,9 @@
     "Zip code":"Beauchamps",
     "City":50320,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -336,9 +336,9 @@
     "Zip code":"Les Pieux",
     "City":50340,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -355,9 +355,9 @@
     "Zip code":"Montbray",
     "City":50410,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -374,9 +374,9 @@
     "Zip code":"Percy",
     "City":50410,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -393,9 +393,9 @@
     "Zip code":"Carentan",
     "City":50500,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -412,9 +412,9 @@
     "Zip code":"Saint-Laurent-de-Cuves",
     "City":50670,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -431,9 +431,9 @@
     "Zip code":"Saint-Clair-sur-l'Elle",
     "City":50680,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -450,9 +450,9 @@
     "Zip code":"Valognes",
     "City":50700,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -469,9 +469,9 @@
     "Zip code":"Sainte-Genevieve",
     "City":50760,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -488,9 +488,9 @@
     "Zip code":"Subligny",
     "City":50870,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -507,9 +507,9 @@
     "Zip code":"Condé-sur-Vire",
     "City":50890,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -526,9 +526,9 @@
     "Zip code":"Ahuillé",
     "City":53940,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -545,9 +545,9 @@
     "Zip code":"Saint-Georges-des-Groseillers",
     "City":61100,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -564,9 +564,9 @@
     "Zip code":"Bellou-en-Houlme",
     "City":61220,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -583,9 +583,9 @@
     "Zip code":"Saint-Sulpice-sur-Risle",
     "City":61300,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -602,9 +602,9 @@
     "Zip code":"La Baroche-sous-Lucé",
     "City":61330,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -621,9 +621,9 @@
     "Zip code":"Suré",
     "City":61360,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -640,9 +640,9 @@
     "Zip code":"Mortagne-au-Perche",
     "City":61400,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -659,9 +659,9 @@
     "Zip code":"Athis-de-l'Orne",
     "City":61430,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -678,9 +678,9 @@
     "Zip code":"Le Sap",
     "City":61470,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -697,9 +697,9 @@
     "Zip code":"Chailloué",
     "City":61500,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -716,9 +716,9 @@
     "Zip code":"Glos-la-Ferrière",
     "City":61550,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -735,9 +735,9 @@
     "Zip code":"La Ferté-Macé",
     "City":61600,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -754,9 +754,9 @@
     "Zip code":"Gonneville La Mallet",
     "City":76280,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -773,9 +773,9 @@
     "Zip code":"Mannevillette",
     "City":76290,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -792,9 +792,9 @@
     "Zip code":"Ronchois",
     "City":76390,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -811,9 +811,9 @@
     "Zip code":"Ouainville",
     "City":76450,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -830,9 +830,9 @@
     "Zip code":"Notre-Dame-d'Aliermont",
     "City":76510,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -849,9 +849,9 @@
     "Zip code":"Offranville",
     "City":76550,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -868,9 +868,9 @@
     "Zip code":"Saint-Laurent-en-Caux",
     "City":76560,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -887,9 +887,9 @@
     "Zip code":"Grandcourt",
     "City":76660,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -906,9 +906,9 @@
     "Zip code":"Buchy",
     "City":76750,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -925,9 +925,9 @@
     "Zip code":"Bosc-le-Hard",
     "City":76850,
     "Country":"France",
-    "GB-group_salesman":"David Louveau",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 95",
-    "GB-group_salesman_eMail":"d.louveau@gb-group.co"
+    "GBgroup_salesman":"David Louveau",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 95",
+    "GBgroup_salesman_eMail":"d.louveau@gb-group.co"
     }
   },
   {
@@ -944,9 +944,9 @@
     "Zip code":"Châteaubernard",
     "City":16100,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -963,9 +963,9 @@
     "Zip code":"Châteaubernard",
     "City":16100,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -982,9 +982,9 @@
     "Zip code":"Saint-Quentin-sur-Charente",
     "City":16150,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1001,9 +1001,9 @@
     "Zip code":"Orival",
     "City":16210,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1020,9 +1020,9 @@
     "Zip code":"Chasseneuil-sur-Bonnieure",
     "City":16260,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1039,9 +1039,9 @@
     "Zip code":"Vouharte",
     "City":16330,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1058,9 +1058,9 @@
     "Zip code":"Lesterps",
     "City":16420,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1077,9 +1077,9 @@
     "Zip code":"Matha",
     "City":17160,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1096,9 +1096,9 @@
     "Zip code":"Pont-l'Abbé-d'Arnoult",
     "City":17250,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1115,9 +1115,9 @@
     "Zip code":"Forges",
     "City":17290,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1134,9 +1134,9 @@
     "Zip code":"Archingeay",
     "City":17380,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1153,9 +1153,9 @@
     "Zip code":"Muron",
     "City":17430,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1172,9 +1172,9 @@
     "Zip code":"Réaux-Sur-Trèfle",
     "City":17500,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1191,9 +1191,9 @@
     "Zip code":"Saujon",
     "City":17600,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1210,9 +1210,9 @@
     "Zip code":"Pons",
     "City":17800,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1229,9 +1229,9 @@
     "Zip code":"Montils",
     "City":17800,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1248,9 +1248,9 @@
     "Zip code":"Excideuil",
     "City":24160,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1267,9 +1267,9 @@
     "Zip code":"Connezac",
     "City":24300,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1286,9 +1286,9 @@
     "Zip code":"Tocane-Saint-Apre",
     "City":24350,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1305,9 +1305,9 @@
     "Zip code":"Borrèze",
     "City":24590,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1324,9 +1324,9 @@
     "Zip code":"Châteaubriant",
     "City":44110,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1343,9 +1343,9 @@
     "Zip code":"Saint-Étienne-de-Mer-Morte",
     "City":44270,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1362,9 +1362,9 @@
     "Zip code":"La Limouzinière",
     "City":44310,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1381,9 +1381,9 @@
     "Zip code":"Saint-Père-en-Retz",
     "City":44320,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1400,9 +1400,9 @@
     "Zip code":"Saint-Julien-de-Concelles",
     "City":44450,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1419,9 +1419,9 @@
     "Zip code":"Saint-Gildas-des-Bois",
     "City":44530,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1438,9 +1438,9 @@
     "Zip code":"Saint-Hilaire-de-Chaléons",
     "City":44680,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1457,9 +1457,9 @@
     "Zip code":"Héric",
     "City":44810,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1476,9 +1476,9 @@
     "Zip code":"Orléans",
     "City":45100,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1495,9 +1495,9 @@
     "Zip code":"La Jumellière",
     "City":49120,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1514,9 +1514,9 @@
     "Zip code":"Corzé",
     "City":49140,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1533,9 +1533,9 @@
     "Zip code":"Longué-Jumelles",
     "City":49160,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1552,9 +1552,9 @@
     "Zip code":"Landemont",
     "City":49270,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1571,9 +1571,9 @@
     "Zip code":"Lys Haut Layon",
     "City":49310,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1590,9 +1590,9 @@
     "Zip code":"Somloire",
     "City":49360,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1609,9 +1609,9 @@
     "Zip code":"Saint-Lambert des Levées",
     "City":49400,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1628,9 +1628,9 @@
     "Zip code":"Jallais",
     "City":49510,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1647,9 +1647,9 @@
     "Zip code":"Chef-Boutonne",
     "City":79110,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1666,9 +1666,9 @@
     "Zip code":"Faye-sur-Ardin",
     "City":79160,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1685,9 +1685,9 @@
     "Zip code":"Paizay-le-Chapt",
     "City":79170,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1704,9 +1704,9 @@
     "Zip code":"Bressuire",
     "City":79300,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1723,9 +1723,9 @@
     "Zip code":"Nanteuil",
     "City":79400,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1742,9 +1742,9 @@
     "Zip code":"Bazoges-en-Paillers",
     "City":85130,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1761,9 +1761,9 @@
     "Zip code":"Sainte-Florence",
     "City":85140,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1780,9 +1780,9 @@
     "Zip code":"Les Essarts",
     "City":85140,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1799,9 +1799,9 @@
     "Zip code":"La Mothe-Achard",
     "City":85150,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1818,9 +1818,9 @@
     "Zip code":"Bellevigny",
     "City":85170,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1837,9 +1837,9 @@
     "Zip code":"Beaulieu-Sous-la-Roche",
     "City":85190,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1856,9 +1856,9 @@
     "Zip code":"Maché",
     "City":85190,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1875,9 +1875,9 @@
     "Zip code":"La Réorthe",
     "City":85210,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1894,9 +1894,9 @@
     "Zip code":"Saint-Fulgent",
     "City":85250,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1913,9 +1913,9 @@
     "Zip code":"SOULLANS",
     "City":85300,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1932,9 +1932,9 @@
     "Zip code":"Sainte-Gemme-la-Plaine",
     "City":85400,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1951,9 +1951,9 @@
     "Zip code":"Saint-Pierre-le-Vieux",
     "City":85420,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1970,9 +1970,9 @@
     "Zip code":"Talmont-Saint-Hilaire",
     "City":85440,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -1989,9 +1989,9 @@
     "Zip code":"Saint-Paul-en-Pareds",
     "City":85500,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2008,9 +2008,9 @@
     "Zip code":"Le Bernard",
     "City":85560,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2027,9 +2027,9 @@
     "Zip code":"Saint-Hilaire-de-Loulay",
     "City":85600,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2046,9 +2046,9 @@
     "Zip code":"Rocheservière",
     "City":85620,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2065,9 +2065,9 @@
     "Zip code":"Les Trois-Moutiers",
     "City":86120,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2084,9 +2084,9 @@
     "Zip code":"Saint-Genest-d'Ambière",
     "City":86140,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2103,9 +2103,9 @@
     "Zip code":"Millac",
     "City":86150,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2122,9 +2122,9 @@
     "Zip code":"Château-Larcher",
     "City":86370,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2141,9 +2141,9 @@
     "Zip code":"Linazay",
     "City":86400,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2160,9 +2160,9 @@
     "Zip code":"Domps",
     "City":87120,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2179,9 +2179,9 @@
     "Zip code":"Aureil",
     "City":87220,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2198,9 +2198,9 @@
     "Zip code":"Chalus",
     "City":87230,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2217,9 +2217,9 @@
     "Zip code":"Bonnac-la-Côte",
     "City":87270,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2236,9 +2236,9 @@
     "Zip code":"Coussac-Bonneval",
     "City":87500,
     "Country":"France",
-    "GB-group_salesman":"Denis Baudoin",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 42",
-    "GB-group_salesman_eMail":"d.baudoin@gb-group.co"
+    "GBgroup_salesman":"Denis Baudoin",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 42",
+    "GBgroup_salesman_eMail":"d.baudoin@gb-group.co"
     }
   },
   {
@@ -2255,9 +2255,9 @@
     "Zip code":"Voves",
     "City":28150,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2274,9 +2274,9 @@
     "Zip code":"La Chapelle-du-Noyer",
     "City":28200,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2293,9 +2293,9 @@
     "Zip code":"Autheuil",
     "City":28220,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2312,9 +2312,9 @@
     "Zip code":"Terminiers",
     "City":28270,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2331,9 +2331,9 @@
     "Zip code":"Gellainville",
     "City":28630,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2350,9 +2350,9 @@
     "Zip code":"Monthodon",
     "City":37110,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2369,9 +2369,9 @@
     "Zip code":"Chaveignes",
     "City":37120,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2388,9 +2388,9 @@
     "Zip code":"Benais",
     "City":37140,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2407,9 +2407,9 @@
     "Zip code":"Manthelan",
     "City":37240,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2426,9 +2426,9 @@
     "Zip code":"Neuvy-le-Roi",
     "City":37370,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2445,9 +2445,9 @@
     "Zip code":"Beaumont-Village",
     "City":37460,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2464,9 +2464,9 @@
     "Zip code":"Loches",
     "City":37600,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2483,9 +2483,9 @@
     "Zip code":"Conan",
     "City":41290,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2502,9 +2502,9 @@
     "Zip code":"Épuisay",
     "City":41360,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2521,9 +2521,9 @@
     "Zip code":"Douchy",
     "City":45220,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2540,9 +2540,9 @@
     "Zip code":"Pithiviers",
     "City":45300,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2559,9 +2559,9 @@
     "Zip code":"Pithiviers",
     "City":45300,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2578,9 +2578,9 @@
     "Zip code":"Courtenay",
     "City":45320,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2597,9 +2597,9 @@
     "Zip code":"Faverelles",
     "City":45420,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2616,9 +2616,9 @@
     "Zip code":"Bonnée",
     "City":45460,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2635,9 +2635,9 @@
     "Zip code":"Beaulieu-sur-Loire",
     "City":45630,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2654,9 +2654,9 @@
     "Zip code":"Saint-Hilaire-sur-Puiseaux",
     "City":45700,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2673,9 +2673,9 @@
     "Zip code":"Thorigné-sur-Dué",
     "City":72160,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2692,9 +2692,9 @@
     "Zip code":"Voivres-lès-le-Mans",
     "City":72210,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2711,9 +2711,9 @@
     "Zip code":"Malicorne-sur-Sarthe",
     "City":72270,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2730,9 +2730,9 @@
     "Zip code":"Oisseau-le-Petit",
     "City":72610,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2749,9 +2749,9 @@
     "Zip code":"Luché-Pringé",
     "City":72800,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2768,9 +2768,9 @@
     "Zip code":"Saint-Germain-d'Arcé",
     "City":72800,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2787,9 +2787,9 @@
     "Zip code":"Meaux",
     "City":77100,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2806,9 +2806,9 @@
     "Zip code":"Coulommiers",
     "City":77120,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2825,9 +2825,9 @@
     "Zip code":"Nangis",
     "City":77370,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2844,9 +2844,9 @@
     "Zip code":"Arville",
     "City":77890,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2863,9 +2863,9 @@
     "Zip code":"Bazainville",
     "City":78550,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2882,9 +2882,9 @@
     "Zip code":"Morigny-Champigny",
     "City":91150,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2901,9 +2901,9 @@
     "Zip code":"Angerville",
     "City":91670,
     "Country":"France",
-    "GB-group_salesman":"Gilles Colin",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"g.colin@gb-group.co"
+    "GBgroup_salesman":"Gilles Colin",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"g.colin@gb-group.co"
     }
   },
   {
@@ -2920,9 +2920,9 @@
     "Zip code":"Corny-Machéroménil",
     "City":8270,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -2939,9 +2939,9 @@
     "Zip code":"Pauvres",
     "City":8310,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -2958,9 +2958,9 @@
     "Zip code":"Feuges",
     "City":10150,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -2977,9 +2977,9 @@
     "Zip code":"Bar sur Aube",
     "City":10200,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -2996,9 +2996,9 @@
     "Zip code":"Plancy-l'Abbaye",
     "City":10380,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3015,9 +3015,9 @@
     "Zip code":"Plancy-l'Abbaye",
     "City":10380,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3034,9 +3034,9 @@
     "Zip code":"Rouvres-en-Plaine",
     "City":21110,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3053,9 +3053,9 @@
     "Zip code":"Is-sur-Tille",
     "City":21120,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3072,9 +3072,9 @@
     "Zip code":"Juilly",
     "City":21140,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3091,9 +3091,9 @@
     "Zip code":"Venarey-les-Laumes",
     "City":21150,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3110,9 +3110,9 @@
     "Zip code":"Ivry-en-Montagne",
     "City":21340,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3129,9 +3129,9 @@
     "Zip code":"Saffres",
     "City":21350,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3148,9 +3148,9 @@
     "Zip code":"Brazey-en-Plaine",
     "City":21470,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3167,9 +3167,9 @@
     "Zip code":"Soissons",
     "City":2200,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3186,9 +3186,9 @@
     "Zip code":"Vert-Toulon",
     "City":51130,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3205,9 +3205,9 @@
     "Zip code":"Fismes",
     "City":51170,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3224,9 +3224,9 @@
     "Zip code":"Connantre",
     "City":51230,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3243,9 +3243,9 @@
     "Zip code":"Val-de-Vesle",
     "City":51360,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3262,9 +3262,9 @@
     "Zip code":"Selles",
     "City":51490,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3281,9 +3281,9 @@
     "Zip code":"Matougues",
     "City":51510,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3300,9 +3300,9 @@
     "Zip code":"Oiry",
     "City":51530,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3319,9 +3319,9 @@
     "Zip code":"Bologne",
     "City":52310,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3338,9 +3338,9 @@
     "Zip code":"Andelot-Blancheville",
     "City":52700,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3357,9 +3357,9 @@
     "Zip code":"Toul",
     "City":54200,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3376,9 +3376,9 @@
     "Zip code":"Chanteheux",
     "City":54300,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3395,9 +3395,9 @@
     "Zip code":"Chauvoncourt",
     "City":55300,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3414,9 +3414,9 @@
     "Zip code":"Jouy-aux-Arches",
     "City":57130,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3433,9 +3433,9 @@
     "Zip code":"Momerstroff",
     "City":57220,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3452,9 +3452,9 @@
     "Zip code":"Merschweiller",
     "City":57480,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3471,9 +3471,9 @@
     "Zip code":"Maizeroy",
     "City":57530,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3490,9 +3490,9 @@
     "Zip code":"Volstroff",
     "City":57940,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3509,9 +3509,9 @@
     "Zip code":"Écuvilly",
     "City":60310,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3528,9 +3528,9 @@
     "Zip code":"Pontpoint",
     "City":60700,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3547,9 +3547,9 @@
     "Zip code":"Fréthun ",
     "City":62185,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3566,9 +3566,9 @@
     "Zip code":"Licques",
     "City":62850,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3585,9 +3585,9 @@
     "Zip code":"Fessenheim-le-Bas",
     "City":67117,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3604,9 +3604,9 @@
     "Zip code":"Oberlauterbach",
     "City":67160,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3623,9 +3623,9 @@
     "Zip code":"Benfeld",
     "City":67230,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3642,9 +3642,9 @@
     "Zip code":"Hoffen",
     "City":67250,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3661,9 +3661,9 @@
     "Zip code":"Wolfskirchen",
     "City":67260,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3680,9 +3680,9 @@
     "Zip code":"Hochfelden",
     "City":67270,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3699,9 +3699,9 @@
     "Zip code":"Ebersheim",
     "City":67600,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3718,9 +3718,9 @@
     "Zip code":"Waltenheim-sur-Zorn",
     "City":67670,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3737,9 +3737,9 @@
     "Zip code":"Hatten",
     "City":67690,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3756,9 +3756,9 @@
     "Zip code":"Dannemarie",
     "City":68210,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3775,9 +3775,9 @@
     "Zip code":"Dannemarie",
     "City":68210,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3794,9 +3794,9 @@
     "Zip code":"Artzenheim",
     "City":68320,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3813,9 +3813,9 @@
     "Zip code":"Muntzenheim",
     "City":68320,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3832,9 +3832,9 @@
     "Zip code":"Schlierbach",
     "City":68440,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3851,9 +3851,9 @@
     "Zip code":"Berrwiller",
     "City":68500,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3870,9 +3870,9 @@
     "Zip code":"Rantzwiller",
     "City":68510,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3889,9 +3889,9 @@
     "Zip code":"Raze",
     "City":70000,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3908,9 +3908,9 @@
     "Zip code":"Rioz",
     "City":70190,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3927,9 +3927,9 @@
     "Zip code":"Gevigney-et-Mercey",
     "City":70500,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3946,9 +3946,9 @@
     "Zip code":"Conflans-sur-Lanterne",
     "City":70800,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3965,9 +3965,9 @@
     "Zip code":"Beaumont-du-Gâtinais",
     "City":77890,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -3984,9 +3984,9 @@
     "Zip code":"Rosières-en-Santerre",
     "City":80170,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4003,9 +4003,9 @@
     "Zip code":"Matigny",
     "City":80400,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4022,9 +4022,9 @@
     "Zip code":"Revelles",
     "City":80540,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4041,9 +4041,9 @@
     "Zip code":"Juniville",
     "City":8310,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4060,9 +4060,9 @@
     "Zip code":"Dompaire",
     "City":88270,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4079,9 +4079,9 @@
     "Zip code":"Neufchâteau",
     "City":88300,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4098,9 +4098,9 @@
     "Zip code":"Mandres-sur-Vair",
     "City":88800,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4117,9 +4117,9 @@
     "Zip code":"Saint Clément",
     "City":89100,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4136,9 +4136,9 @@
     "Zip code":"Suarce",
     "City":90100,
     "Country":"France",
-    "GB-group_salesman":"Joseph Brenckle",
-    "GB-group_salesman_Phonenumber":"06 07 18 26 99",
-    "GB-group_salesman_eMail":"j.brenckle@gb-group.co"
+    "GBgroup_salesman":"Joseph Brenckle",
+    "GBgroup_salesman_Phonenumber":"06 07 18 26 99",
+    "GBgroup_salesman_eMail":"j.brenckle@gb-group.co"
     }
   },
   {
@@ -4155,9 +4155,9 @@
     "Zip code":"Montagnieu",
     "City":1470,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4174,9 +4174,9 @@
     "Zip code":"Chaleins",
     "City":1480,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4193,9 +4193,9 @@
     "Zip code":"Groslée",
     "City":1680,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4212,9 +4212,9 @@
     "Zip code":"Saint-André-sur-Vieux-Jonc",
     "City":1960,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4231,9 +4231,9 @@
     "Zip code":"Varennes-sur-Allier",
     "City":3150,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4250,9 +4250,9 @@
     "Zip code":"Ygrande",
     "City":3160,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4269,9 +4269,9 @@
     "Zip code":"Saint-Victor",
     "City":3410,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4288,9 +4288,9 @@
     "Zip code":"Saint-Flour",
     "City":15100,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4307,9 +4307,9 @@
     "Zip code":"Saignes",
     "City":15240,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4326,9 +4326,9 @@
     "Zip code":"Saint-Paul-des-Landes",
     "City":15250,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4345,9 +4345,9 @@
     "Zip code":"Marmanhac",
     "City":15250,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4364,9 +4364,9 @@
     "Zip code":"Cassaniouze",
     "City":15340,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4383,9 +4383,9 @@
     "Zip code":"Vieillespesse",
     "City":15500,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4402,9 +4402,9 @@
     "Zip code":"Saint-Amand-Montrond",
     "City":18200,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4421,9 +4421,9 @@
     "Zip code":"Henrichemont",
     "City":18250,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4440,9 +4440,9 @@
     "Zip code":"Vailly-sur-Sauldre",
     "City":18260,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4459,9 +4459,9 @@
     "Zip code":"Culan",
     "City":18270,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4478,9 +4478,9 @@
     "Zip code":"Saint-Satur",
     "City":18300,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4497,9 +4497,9 @@
     "Zip code":"Saint-Germain-du-Puy",
     "City":18390,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4516,9 +4516,9 @@
     "Zip code":"Saint-Pardoux-le-Vieux",
     "City":19200,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4535,9 +4535,9 @@
     "Zip code":"Lubersac",
     "City":19210,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4554,9 +4554,9 @@
     "Zip code":"Juillac",
     "City":19350,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4573,9 +4573,9 @@
     "Zip code":"Seilhac",
     "City":19700,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4592,9 +4592,9 @@
     "Zip code":"Châtillon-sur-Seine",
     "City":21400,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4611,9 +4611,9 @@
     "Zip code":"Varois-et-Chaignot",
     "City":21490,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4630,9 +4630,9 @@
     "Zip code":"Sannat",
     "City":23110,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4649,9 +4649,9 @@
     "Zip code":"Azerables",
     "City":23160,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4668,9 +4668,9 @@
     "Zip code":"Pontarion",
     "City":23250,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4687,9 +4687,9 @@
     "Zip code":"Saint-Silvain-Montaigut",
     "City":23320,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4706,9 +4706,9 @@
     "Zip code":"Colondannes",
     "City":23800,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4725,9 +4725,9 @@
     "Zip code":"Levier",
     "City":25270,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4744,9 +4744,9 @@
     "Zip code":"Coings",
     "City":36130,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4763,9 +4763,9 @@
     "Zip code":"Saint-Maur",
     "City":36250,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4782,9 +4782,9 @@
     "Zip code":"Le Poinçonnet",
     "City":36330,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4801,9 +4801,9 @@
     "Zip code":"Luçay-le-Mâle",
     "City":36360,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4820,9 +4820,9 @@
     "Zip code":"Vicq-Exemplet",
     "City":36400,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4839,9 +4839,9 @@
     "Zip code":"Rivarennes",
     "City":36800,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4858,9 +4858,9 @@
     "Zip code":"Renage",
     "City":38140,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4877,9 +4877,9 @@
     "Zip code":"Beaurepaire",
     "City":38270,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4896,9 +4896,9 @@
     "Zip code":"Ruy",
     "City":38300,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4915,9 +4915,9 @@
     "Zip code":"Annoire",
     "City":39120,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4934,9 +4934,9 @@
     "Zip code":"Le Deschaux",
     "City":39120,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4953,9 +4953,9 @@
     "Zip code":"Civens",
     "City":42110,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4972,9 +4972,9 @@
     "Zip code":"Burdignes",
     "City":42220,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -4991,9 +4991,9 @@
     "Zip code":"Saint-Chamond",
     "City":42400,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5010,9 +5010,9 @@
     "Zip code":"Neulise",
     "City":42590,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5029,9 +5029,9 @@
     "Zip code":"Monistrol-sur-Loire",
     "City":43120,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5048,9 +5048,9 @@
     "Zip code":"Saugues",
     "City":43170,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5067,9 +5067,9 @@
     "Zip code":"Lempdes-sur-Allagnon",
     "City":43410,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5086,9 +5086,9 @@
     "Zip code":"Craponne-sur-Arzon",
     "City":43500,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5105,9 +5105,9 @@
     "Zip code":"Saint-Jean-de-la-Haize",
     "City":50300,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5124,9 +5124,9 @@
     "Zip code":"Saint-Eloi",
     "City":58000,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5143,9 +5143,9 @@
     "Zip code":"Aunay-en-Bazois",
     "City":58110,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5162,9 +5162,9 @@
     "Zip code":"Tannay",
     "City":58190,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5181,9 +5181,9 @@
     "Zip code":"Donzy",
     "City":58220,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5200,9 +5200,9 @@
     "Zip code":"Saint-Julien-de-Coppel",
     "City":63160,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5219,9 +5219,9 @@
     "Zip code":"Riom",
     "City":63200,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5238,9 +5238,9 @@
     "Zip code":"Beaumont-lès-Randan",
     "City":63310,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5257,9 +5257,9 @@
     "Zip code":"Pontaumur",
     "City":63380,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5276,9 +5276,9 @@
     "Zip code":"Issoire",
     "City":63500,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5295,9 +5295,9 @@
     "Zip code":"Orliénas",
     "City":69530,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5314,9 +5314,9 @@
     "Zip code":"Saint-Symphorien-sur-Coise",
     "City":69590,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5333,9 +5333,9 @@
     "Zip code":"Brullioles",
     "City":69690,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5352,9 +5352,9 @@
     "Zip code":"Champlecy",
     "City":71120,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5371,9 +5371,9 @@
     "Zip code":"Chauffailles",
     "City":71170,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5390,9 +5390,9 @@
     "Zip code":"Saint-Germain-du-Bois",
     "City":71330,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5409,9 +5409,9 @@
     "Zip code":"Romenay",
     "City":71470,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5428,9 +5428,9 @@
     "Zip code":"Romenay",
     "City":71470,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5447,9 +5447,9 @@
     "Zip code":"Cussy-en-Morvan",
     "City":71550,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5466,9 +5466,9 @@
     "Zip code":"La Rochette",
     "City":73110,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5485,9 +5485,9 @@
     "Zip code":"Rumilly",
     "City":74150,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5504,9 +5504,9 @@
     "Zip code":"Bonne",
     "City":74380,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5523,9 +5523,9 @@
     "Zip code":"Saint-Félix",
     "City":74540,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5542,9 +5542,9 @@
     "Zip code":"Challonges",
     "City":74910,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5561,9 +5561,9 @@
     "Zip code":"Toucy",
     "City":89130,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5580,9 +5580,9 @@
     "Zip code":"Lézinnes",
     "City":89160,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5599,9 +5599,9 @@
     "Zip code":"Avallon",
     "City":89200,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5618,9 +5618,9 @@
     "Zip code":"Cerisiers",
     "City":89320,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5637,9 +5637,9 @@
     "Zip code":"Ouanne",
     "City":89560,
     "Country":"France",
-    "GB-group_salesman":"Maxime Pralus",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"m.pralus@gb-group.co"
+    "GBgroup_salesman":"Maxime Pralus",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"m.pralus@gb-group.co"
     }
   },
   {
@@ -5656,9 +5656,9 @@
     "Zip code":"Boqueho",
     "City":22170,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5675,9 +5675,9 @@
     "Zip code":"Plouguiel",
     "City":22220,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5694,9 +5694,9 @@
     "Zip code":"Merdrignac",
     "City":22230,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5713,9 +5713,9 @@
     "Zip code":"Trémeur",
     "City":22250,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5732,9 +5732,9 @@
     "Zip code":"Ploufragan",
     "City":22440,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5751,9 +5751,9 @@
     "Zip code":"Paimpol",
     "City":22500,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5770,9 +5770,9 @@
     "Zip code":"Plougonvelin",
     "City":29217,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5789,9 +5789,9 @@
     "Zip code":"Cléder",
     "City":29233,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5808,9 +5808,9 @@
     "Zip code":"Le Cloître-Saint-Thégonnec",
     "City":29410,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5827,9 +5827,9 @@
     "Zip code":"Ergué-Gabéric",
     "City":29500,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5846,9 +5846,9 @@
     "Zip code":"Briec",
     "City":29510,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5865,9 +5865,9 @@
     "Zip code":"Landrévarzec",
     "City":29510,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5884,9 +5884,9 @@
     "Zip code":"Plonévez-Porzay",
     "City":29550,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5903,9 +5903,9 @@
     "Zip code":"Pencran",
     "City":29800,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5922,9 +5922,9 @@
     "Zip code":"PLOUNEOUR TREZ",
     "City":29890,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5941,9 +5941,9 @@
     "Zip code":"Dol-de-Bretagne",
     "City":35120,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5960,9 +5960,9 @@
     "Zip code":"Pont-Péan",
     "City":35131,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5979,9 +5979,9 @@
     "Zip code":"Bédée",
     "City":35137,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -5998,9 +5998,9 @@
     "Zip code":"Vendel",
     "City":35140,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6017,9 +6017,9 @@
     "Zip code":"Corps-Nuds",
     "City":35150,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6036,9 +6036,9 @@
     "Zip code":"Retiers",
     "City":35240,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6055,9 +6055,9 @@
     "Zip code":"Pléchâtel",
     "City":35470,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6074,9 +6074,9 @@
     "Zip code":"Antrain",
     "City":35560,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6093,9 +6093,9 @@
     "Zip code":"Pacé",
     "City":35740,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6112,9 +6112,9 @@
     "Zip code":"Bazougers",
     "City":53170,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6131,9 +6131,9 @@
     "Zip code":"Meslay-du-Maine",
     "City":53170,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6150,9 +6150,9 @@
     "Zip code":"Cossé-le-Vivien",
     "City":53230,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6169,9 +6169,9 @@
     "Zip code":"Ambrières-les-Vallées",
     "City":53300,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6188,9 +6188,9 @@
     "Zip code":"Ballots",
     "City":53350,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6207,9 +6207,9 @@
     "Zip code":"Sainte-Gemmes-le-Robert",
     "City":53600,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6226,9 +6226,9 @@
     "Zip code":"Malestroit",
     "City":56140,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6245,9 +6245,9 @@
     "Zip code":"Limerzel",
     "City":56220,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6264,9 +6264,9 @@
     "Zip code":"Pontivy",
     "City":56300,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6283,9 +6283,9 @@
     "Zip code":"Pontivy",
     "City":56300,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6302,9 +6302,9 @@
     "Zip code":"Moréac",
     "City":56500,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6321,9 +6321,9 @@
     "Zip code":"Moréac",
     "City":56500,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6340,9 +6340,9 @@
     "Zip code":"Noyal-Pontivy",
     "City":56920,
     "Country":"France",
-    "GB-group_salesman":"Mickaël Le Roy",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"m.leroy@gb-group-co"
+    "GBgroup_salesman":"Mickaël Le Roy",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"m.leroy@gb-group-co"
     }
   },
   {
@@ -6359,9 +6359,9 @@
     "Zip code":"Manosque",
     "City":4100,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6378,9 +6378,9 @@
     "Zip code":"Riez",
     "City":4500,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6397,9 +6397,9 @@
     "Zip code":"Oraison",
     "City":4700,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6416,9 +6416,9 @@
     "Zip code":"Oraison",
     "City":4700,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6435,9 +6435,9 @@
     "Zip code":"Gap",
     "City":5000,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6454,9 +6454,9 @@
     "Zip code":"Vitrolles",
     "City":5110,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6473,9 +6473,9 @@
     "Zip code":"Vernoux-en-Vivarais",
     "City":7240,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6492,9 +6492,9 @@
     "Zip code":"Quintenas",
     "City":7290,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6511,9 +6511,9 @@
     "Zip code":"Valvignères",
     "City":7400,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6530,9 +6530,9 @@
     "Zip code":"Saint-Jean-du-Falga",
     "City":9100,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6549,9 +6549,9 @@
     "Zip code":"Lézignan-Corbières",
     "City":11200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6568,9 +6568,9 @@
     "Zip code":"Morlhon-le-Haut",
     "City":12200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6587,9 +6587,9 @@
     "Zip code":"Montlaur",
     "City":12400,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6606,9 +6606,9 @@
     "Zip code":"Rebourguil",
     "City":12400,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6625,9 +6625,9 @@
     "Zip code":"Curan",
     "City":12410,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6644,9 +6644,9 @@
     "Zip code":"Luc-la-Primaube",
     "City":12450,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6663,9 +6663,9 @@
     "Zip code":"Calmont",
     "City":12450,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6682,9 +6682,9 @@
     "Zip code":"Marseille",
     "City":13010,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6701,9 +6701,9 @@
     "Zip code":"Arles",
     "City":13200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6720,9 +6720,9 @@
     "Zip code":"Saint-Cannat",
     "City":13760,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6739,9 +6739,9 @@
     "Zip code":"Ghisonaccia",
     "City":20240,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6758,9 +6758,9 @@
     "Zip code":"Romans-sur-Isère",
     "City":26100,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6777,9 +6777,9 @@
     "Zip code":"Châteaudouble",
     "City":26120,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6796,9 +6796,9 @@
     "Zip code":"Anneyron",
     "City":26140,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6815,9 +6815,9 @@
     "Zip code":"Recoubeau-Jansac",
     "City":26310,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6834,9 +6834,9 @@
     "Zip code":"Saint-Christophe-et-le-Laris",
     "City":26350,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6853,9 +6853,9 @@
     "Zip code":"Crest",
     "City":26400,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6872,9 +6872,9 @@
     "Zip code":"Pont-de-l'Isère",
     "City":26600,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6891,9 +6891,9 @@
     "Zip code":"Saint-Laurent-des-Arbres",
     "City":30126,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6910,9 +6910,9 @@
     "Zip code":"Saint-Hilaire-de-Brethmas",
     "City":30560,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6929,9 +6929,9 @@
     "Zip code":"Miremont",
     "City":31190,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6948,9 +6948,9 @@
     "Zip code":"Vaudreuille",
     "City":31250,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6967,9 +6967,9 @@
     "Zip code":"Rieux-Volvestre",
     "City":31310,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -6986,9 +6986,9 @@
     "Zip code":"Rieumes",
     "City":31370,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7005,9 +7005,9 @@
     "Zip code":"Montjoire",
     "City":31380,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7024,9 +7024,9 @@
     "Zip code":"Lanne-Soubiran",
     "City":32110,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7043,9 +7043,9 @@
     "Zip code":"Gimont",
     "City":32200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7062,9 +7062,9 @@
     "Zip code":"Lombez",
     "City":32220,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7081,9 +7081,9 @@
     "Zip code":"Mauléon-d'Armagnac",
     "City":32240,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7100,9 +7100,9 @@
     "Zip code":"Montesquiou",
     "City":32320,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7119,9 +7119,9 @@
     "Zip code":"Réjaumont",
     "City":32390,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7138,9 +7138,9 @@
     "Zip code":"Sempesserre",
     "City":32700,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7157,9 +7157,9 @@
     "Zip code":"Gornac",
     "City":33540,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7176,9 +7176,9 @@
     "Zip code":"Cestas",
     "City":33610,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7195,9 +7195,9 @@
     "Zip code":"Nissan-lez-Enserune",
     "City":34440,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7214,9 +7214,9 @@
     "Zip code":"Narrosse",
     "City":40180,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7233,9 +7233,9 @@
     "Zip code":"Yzosse",
     "City":40180,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7252,9 +7252,9 @@
     "Zip code":"Labouheyre",
     "City":40210,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7271,9 +7271,9 @@
     "Zip code":"Peyrehorade",
     "City":40300,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7290,9 +7290,9 @@
     "Zip code":"Saint-Sever",
     "City":40500,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7309,9 +7309,9 @@
     "Zip code":"Lacapelle-Marival",
     "City":46120,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7328,9 +7328,9 @@
     "Zip code":"Sainte-Bazeille",
     "City":47180,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7347,9 +7347,9 @@
     "Zip code":"Virazeil",
     "City":47200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7366,9 +7366,9 @@
     "Zip code":"Saint-Eutrope-de-Born",
     "City":47210,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7385,9 +7385,9 @@
     "Zip code":"Bon-Encontre",
     "City":47240,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7404,9 +7404,9 @@
     "Zip code":"Castelculier",
     "City":47240,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7423,9 +7423,9 @@
     "Zip code":"Lauzun",
     "City":47410,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7442,9 +7442,9 @@
     "Zip code":"Saint-Chély-d'Apcher",
     "City":48200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7461,9 +7461,9 @@
     "Zip code":"Saint-Amans",
     "City":48700,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7480,9 +7480,9 @@
     "Zip code":"Saint-Palais",
     "City":64120,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7499,9 +7499,9 @@
     "Zip code":"Lombia",
     "City":64160,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7518,9 +7518,9 @@
     "Zip code":"Artix",
     "City":64170,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7537,9 +7537,9 @@
     "Zip code":"Navarrenx",
     "City":64190,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7556,9 +7556,9 @@
     "Zip code":"Saint-Boès",
     "City":64300,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7575,9 +7575,9 @@
     "Zip code":"Arrosés",
     "City":64350,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7594,9 +7594,9 @@
     "Zip code":"Lapeyre",
     "City":65220,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7613,9 +7613,9 @@
     "Zip code":"Luquet",
     "City":65320,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7632,9 +7632,9 @@
     "Zip code":"Lascazères",
     "City":65700,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7651,9 +7651,9 @@
     "Zip code":"Le Boulou",
     "City":66160,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7670,9 +7670,9 @@
     "Zip code":"Verdalle",
     "City":81110,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7689,9 +7689,9 @@
     "Zip code":"Réalmont",
     "City":81120,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7708,9 +7708,9 @@
     "Zip code":"Puygouzon",
     "City":81990,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7727,9 +7727,9 @@
     "Zip code":"Montesquieu",
     "City":82200,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7746,9 +7746,9 @@
     "Zip code":"Monteils",
     "City":82300,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7765,9 +7765,9 @@
     "Zip code":"Labastide-Saint-Pierre",
     "City":82370,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7784,9 +7784,9 @@
     "Zip code":"Brignoles",
     "City":83170,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7803,9 +7803,9 @@
     "Zip code":"Saint-Maximin-la-Sainte-Baume",
     "City":83470,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7822,9 +7822,9 @@
     "Zip code":"Vidauban",
     "City":83550,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7841,9 +7841,9 @@
     "Zip code":"La Cadière-d'Azur",
     "City":83740,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7860,9 +7860,9 @@
     "Zip code":"Entraigues-sur-la-Sorgue",
     "City":84320,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7879,9 +7879,9 @@
     "Zip code":"Mondragon",
     "City":84430,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7898,9 +7898,9 @@
     "Zip code":"Réalmont",
     "City":85700,
     "Country":"France",
-    "GB-group_salesman":"René Morales",
-    "GB-group_salesman_Phonenumber":"06 27 75 71 10",
-    "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    "GBgroup_salesman":"René Morales",
+    "GBgroup_salesman_Phonenumber":"06 27 75 71 10",
+    "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     }
   },
   {
@@ -7917,9 +7917,9 @@
     "Zip code":"Thorembais-Saint-Trond",
     "City":1360,
     "Country":"Belgique",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -7936,9 +7936,9 @@
     "Zip code":"Soissons",
     "City":2200,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -7955,9 +7955,9 @@
     "Zip code":"Fontenoy",
     "City":2290,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -7974,9 +7974,9 @@
     "Zip code":"Blesmes",
     "City":2400,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -7993,9 +7993,9 @@
     "Zip code":"Bermerain",
     "City":59213,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8012,9 +8012,9 @@
     "Zip code":"Looberghe",
     "City":59630,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8031,9 +8031,9 @@
     "Zip code":"Saint-Python",
     "City":59730,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8050,9 +8050,9 @@
     "Zip code":"La Chapelle-d'Armentières",
     "City":59930,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8069,9 +8069,9 @@
     "Zip code":"Beauvais",
     "City":60000,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8088,9 +8088,9 @@
     "Zip code":"Beauvais",
     "City":60000,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8107,9 +8107,9 @@
     "Zip code":"Formerie",
     "City":60220,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8126,9 +8126,9 @@
     "Zip code":"Saint-André-Farivillers",
     "City":60480,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8145,9 +8145,9 @@
     "Zip code":"Ledinghem",
     "City":62134,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8164,9 +8164,9 @@
     "Zip code":"Boyaval",
     "City":62134,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8183,9 +8183,9 @@
     "Zip code":"Tilloy-lès-Mofflaines",
     "City":62217,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8202,9 +8202,9 @@
     "Zip code":"Sainte-Catherine",
     "City":62223,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8221,9 +8221,9 @@
     "Zip code":"Blandecques",
     "City":62501,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8240,9 +8240,9 @@
     "Zip code":"Blangy-sur-Ternoise",
     "City":62770,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8259,9 +8259,9 @@
     "Zip code":"Campagne-lès-Hesdin",
     "City":62870,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8278,9 +8278,9 @@
     "Zip code":"Moulle",
     "City":62910,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8297,9 +8297,9 @@
     "Zip code":"Arsy",
     "City":67270,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8316,9 +8316,9 @@
     "Zip code":"Roye",
     "City":80700,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8335,9 +8335,9 @@
     "Zip code":"Saint-Aubin",
     "City":91190,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
@@ -8354,9 +8354,9 @@
     "Zip code":"Marines",
     "City":95640,
     "Country":"France",
-    "GB-group_salesman":"Xavier Vasseur",
-    "GB-group_salesman_Phonenumber":"06 80 21 67 36",
-    "GB-group_salesman_eMail":"x.vasseur@gb-group.co"
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
   {
