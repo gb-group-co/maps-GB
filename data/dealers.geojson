@@ -6,7 +6,7 @@
        "coordinates":  [ -0.4893637,49.1439168 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RUAUX AGRI",
+    "Name":"RUAUX AGRI",
     "Brand":"gregoire",
     "Adresse1":"85 Chemin des Carrières",
     "Adresse2":" ",
@@ -25,7 +25,7 @@
        "coordinates":  [ 0.2218828,49.2291619 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LETELLIER",
+    "Name":"LETELLIER",
     "Brand":"gregoire",
     "Adresse1":"Impasse du stade",
     "Adresse2":" ",
@@ -44,7 +44,7 @@
        "coordinates":  [ -0.2663733,49.0162843 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HOCHET TOUCHARD",
+    "Name":"HOCHET TOUCHARD",
     "Brand":"gregoire",
     "Adresse1":"31 Rue du Commerce",
     "Adresse2":" ",
@@ -63,7 +63,7 @@
        "coordinates":  [ -0.6344368,49.0217931 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DOUBLET GOSSELIN",
+    "Name":"DOUBLET GOSSELIN",
     "Brand":"gregoire",
     "Adresse1":"Rue des Aulnes",
     "Adresse2":" ",
@@ -82,7 +82,7 @@
        "coordinates":  [ -0.6578922,49.0842105 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI BELLAMY",
+    "Name":"AGRI BELLAMY",
     "Brand":"gregoire",
     "Adresse1":"Parc des Estuaire",
     "Adresse2":" ",
@@ -101,7 +101,7 @@
        "coordinates":  [ -0.6780283,48.8556724 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SEIGNEUR",
+    "Name":"SEIGNEUR",
     "Brand":"gregoire",
     "Adresse1":"Route d'Aunay",
     "Adresse2":" ",
@@ -120,7 +120,7 @@
        "coordinates":  [ -0.3062531,49.0890482 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SM3 CAEN",
+    "Name":"SM3 CAEN",
     "Brand":"gregoire",
     "Adresse1":"RN 158 - LORGUICHON",
     "Adresse2":" ",
@@ -139,7 +139,7 @@
        "coordinates":  [ -0.0863906,48.9266682 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BACHELEY",
+    "Name":"BACHELEY",
     "Brand":"gregoire",
     "Adresse1":"Le Petit Coulibœuf",
     "Adresse2":" ",
@@ -158,7 +158,7 @@
        "coordinates":  [ -0.515935,49.2063 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SAMA",
+    "Name":"SAMA",
     "Brand":"rabe",
     "Adresse1":"Rue de la Liberté",
     "Adresse2":" ",
@@ -177,7 +177,7 @@
        "coordinates":  [ 1.5517008,49.3123591 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BLANCARD (Le Thil en Vexin)",
+    "Name":"BLANCARD (Le Thil en Vexin)",
     "Brand":"gregoire",
     "Adresse1":"4 Rue des Sapins",
     "Adresse2":" ",
@@ -196,7 +196,7 @@
        "coordinates":  [ 1.5129851,49.3177029 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SN BEGUIN 27",
+    "Name":"SN BEGUIN 27",
     "Brand":"gregoire",
     "Adresse1":"1 Rue aux Merciers",
     "Adresse2":" ",
@@ -215,7 +215,7 @@
        "coordinates":  [ 0.9473673,48.9542631 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DIMOND",
+    "Name":"DIMOND",
     "Brand":"gregoire",
     "Adresse1":"26 Rue Eugène Pottier",
     "Adresse2":" ",
@@ -234,7 +234,7 @@
        "coordinates":  [ 1.3469809,48.9101867 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LE GOFF ET GILLE",
+    "Name":"LE GOFF ET GILLE",
     "Brand":"gregoire",
     "Adresse1":"1bis Route de Serez",
     "Adresse2":" ",
@@ -253,7 +253,7 @@
        "coordinates":  [ 0.6243387,49.3906237 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CREVEL AGRI",
+    "Name":"CREVEL AGRI",
     "Brand":"gregoire",
     "Adresse1":"142 Route de Routot",
     "Adresse2":" ",
@@ -272,7 +272,7 @@
        "coordinates":  [ 1.5723273,49.2098107 ]
     },
     "properties": {
-    "Name of the dealer / importer":"THOMAS MOTOCULTURE (Fontenay en Vexin)",
+    "Name":"THOMAS MOTOCULTURE (Fontenay en Vexin)",
     "Brand":"gregoire",
     "Adresse1":"28 rue des oliviers",
     "Adresse2":" ",
@@ -291,7 +291,7 @@
        "coordinates":  [ -1.3103971,48.6186594 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RAULT",
+    "Name":"RAULT",
     "Brand":"gregoire",
     "Adresse1":"Rue Hilaire Tabourel",
     "Adresse2":" ",
@@ -310,7 +310,7 @@
        "coordinates":  [ -1.3805668,48.8339149 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Mecagri 50",
+    "Name":"Mecagri 50",
     "Brand":"gregoire",
     "Adresse1":"10 Le Scion",
     "Adresse2":" ",
@@ -329,7 +329,7 @@
        "coordinates":  [ -1.8100911,49.5165967 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HOULLEGATTE",
+    "Name":"HOULLEGATTE",
     "Brand":"gregoire",
     "Adresse1":"28 Route de Dielette",
     "Adresse2":" ",
@@ -348,7 +348,7 @@
        "coordinates":  [ -1.1038634,48.8796831 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PERRARD",
+    "Name":"PERRARD",
     "Brand":"gregoire",
     "Adresse1":"Le Bourg Neuf",
     "Adresse2":" ",
@@ -367,7 +367,7 @@
        "coordinates":  [ -1.195706,48.911381 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LEBEURRIER",
+    "Name":"LEBEURRIER",
     "Brand":"gregoire",
     "Adresse1":"La gollerie",
     "Adresse2":" ",
@@ -386,7 +386,7 @@
        "coordinates":  [ -1.2584222,49.2912006 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HARDY",
+    "Name":"HARDY",
     "Brand":"gregoire",
     "Adresse1":"43 Route de Périers",
     "Adresse2":" ",
@@ -405,7 +405,7 @@
        "coordinates":  [ -1.1376053,48.7446494 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LCMA",
+    "Name":"LCMA",
     "Brand":"gregoire",
     "Adresse1":"26A Route de Brécey",
     "Adresse2":" ",
@@ -424,7 +424,7 @@
        "coordinates":  [ -1.0415339,49.1895592 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BELLAMY Michel",
+    "Name":"BELLAMY Michel",
     "Brand":"gregoire",
     "Adresse1":"1 Le Bas des Landes",
     "Adresse2":" ",
@@ -443,7 +443,7 @@
        "coordinates":  [ -1.455737,49.501455 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MOTIN FRERES",
+    "Name":"MOTIN FRERES",
     "Brand":"gregoire",
     "Adresse1":"Route de Montebourg",
     "Adresse2":" ",
@@ -462,7 +462,7 @@
        "coordinates":  [ -1.3070609,49.6651764 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MECASAIRE",
+    "Name":"MECASAIRE",
     "Brand":"gregoire",
     "Adresse1":"5 Route d'Arville",
     "Adresse2":" ",
@@ -481,7 +481,7 @@
        "coordinates":  [ -1.3547616,48.7569153 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LH AGRI",
+    "Name":"LH AGRI",
     "Brand":"gregoire",
     "Adresse1":"Route de la Haye Pesnel",
     "Adresse2":" ",
@@ -500,7 +500,7 @@
        "coordinates":  [ -1.0136587,49.0493885 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUILLET",
+    "Name":"GUILLET",
     "Brand":"gregoire",
     "Adresse1":"2 La Causcanière",
     "Adresse2":" ",
@@ -519,7 +519,7 @@
        "coordinates":  [ -0.8455191,47.9867245 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BEL AGRI",
+    "Name":"BEL AGRI",
     "Brand":"gregoire",
     "Adresse1":"La Graverie",
     "Adresse2":" ",
@@ -538,7 +538,7 @@
        "coordinates":  [ -0.5651811,48.77688 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SODEMAGRI",
+    "Name":"SODEMAGRI",
     "Brand":"gregoire",
     "Adresse1":"Rue Aubusson",
     "Adresse2":" ",
@@ -557,7 +557,7 @@
        "coordinates":  [ -0.4416233,48.6919138 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HUARD GERARD",
+    "Name":"HUARD GERARD",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Glycine",
     "Adresse2":" ",
@@ -576,7 +576,7 @@
        "coordinates":  [ 0.664936,48.766576 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LESIEUR",
+    "Name":"LESIEUR",
     "Brand":"rabe",
     "Adresse1":"La Pichotière",
     "Adresse2":" ",
@@ -595,7 +595,7 @@
        "coordinates":  [ -0.5844332,48.5362604 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Artimeca",
+    "Name":"Artimeca",
     "Brand":"gregoire",
     "Adresse1":"Lieu dit La Carrière",
     "Adresse2":" ",
@@ -614,7 +614,7 @@
        "coordinates":  [ 0.409337,48.350929 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS BEAUFILS",
+    "Name":"ETS BEAUFILS",
     "Brand":"rabe",
     "Adresse1":"La Mare Jaune",
     "Adresse2":" ",
@@ -633,7 +633,7 @@
        "coordinates":  [ 0.5380957,48.5236995 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOCAGRI",
+    "Name":"SOCAGRI",
     "Brand":"gregoire",
     "Adresse1":"59 Rue du Faubourg Saint-Eloi",
     "Adresse2":" ",
@@ -652,7 +652,7 @@
        "coordinates":  [ -0.5029643,48.8018303 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHANU MICHEL",
+    "Name":"CHANU MICHEL",
     "Brand":"gregoire",
     "Adresse1":"Lande Collet",
     "Adresse2":" ",
@@ -671,7 +671,7 @@
        "coordinates":  [ 0.339652,48.894471 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LOUVEL",
+    "Name":"LOUVEL",
     "Brand":"gregoire",
     "Adresse1":"Zoning Industriel",
     "Adresse2":" ",
@@ -690,7 +690,7 @@
        "coordinates":  [ 0.1936315,48.6512651 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MORINEAU",
+    "Name":"MORINEAU",
     "Brand":"gregoire",
     "Adresse1":"Rue du Bourg-Joli",
     "Adresse2":" ",
@@ -709,7 +709,7 @@
        "coordinates":  [ 0.6013672,48.8565702 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHEVALLIER",
+    "Name":"CHEVALLIER",
     "Brand":"gregoire",
     "Adresse1":"Rue Grande Rue",
     "Adresse2":" ",
@@ -728,7 +728,7 @@
        "coordinates":  [ -0.3449243,48.5958024 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LEMONNIER",
+    "Name":"LEMONNIER",
     "Brand":"gregoire",
     "Adresse1":"Zone Industrielle Des Peupliers",
     "Adresse2":"26 Route de Paris",
@@ -747,7 +747,7 @@
        "coordinates":  [ 0.2212807,49.6394389 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SIMON",
+    "Name":"SIMON",
     "Brand":"gregoire",
     "Adresse1":"Place Charles Pesquet",
     "Adresse2":" ",
@@ -766,7 +766,7 @@
        "coordinates":  [ 0.1732009,49.6044565 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PANCHOU",
+    "Name":"PANCHOU",
     "Brand":"gregoire",
     "Adresse1":"60 Rue d'estouville",
     "Adresse2":" ",
@@ -785,7 +785,7 @@
        "coordinates":  [ 1.628105,49.721637 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DERIEMACKER",
+    "Name":"DERIEMACKER",
     "Brand":"gregoire",
     "Adresse1":"Bourg",
     "Adresse2":" ",
@@ -804,7 +804,7 @@
        "coordinates":  [ -118.2436849,34.0522342 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NEUFVILLE",
+    "Name":"NEUFVILLE",
     "Brand":"gregoire",
     "Adresse1":"90 Zone Artisanale La Vernache",
     "Adresse2":" ",
@@ -823,7 +823,7 @@
        "coordinates":  [ 1.2845312,49.8421205 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUJARDIN",
+    "Name":"DUJARDIN",
     "Brand":"gregoire",
     "Adresse1":"400 La Briqueterie",
     "Adresse2":" ",
@@ -842,7 +842,7 @@
        "coordinates":  [ 1.052324,49.8663798 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUERARD",
+    "Name":"GUERARD",
     "Brand":"gregoire",
     "Adresse1":"Rue Ampère",
     "Adresse2":" ",
@@ -861,7 +861,7 @@
        "coordinates":  [ 1.0444971,49.8123228 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PASQUIER",
+    "Name":"PASQUIER",
     "Brand":"gregoire",
     "Adresse1":"Route de Bacqueville",
     "Adresse2":" ",
@@ -880,7 +880,7 @@
        "coordinates":  [ 1.4879926,49.9126553 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ANSELIN",
+    "Name":"ANSELIN",
     "Brand":"gregoire",
     "Adresse1":"1 Rue du Hamel",
     "Adresse2":" ",
@@ -899,7 +899,7 @@
        "coordinates":  [ 1.346558,49.5888054 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SN BEGUIN 76",
+    "Name":"SN BEGUIN 76",
     "Brand":"gregoire",
     "Adresse1":"1177 Parc d Activité des Cateliers",
     "Adresse2":" ",
@@ -918,7 +918,7 @@
        "coordinates":  [ 1.1771536,49.6314526 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGROTECH 76",
+    "Name":"AGROTECH 76",
     "Brand":"gregoire",
     "Adresse1":"Rue Joseph Caulle",
     "Adresse2":" ",
@@ -937,7 +937,7 @@
        "coordinates":  [ -0.306266,45.6738025 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RULLIER",
+    "Name":"RULLIER",
     "Brand":"gregoire",
     "Adresse1":"PARC D'ACTIVITE DU MAS DE LA COUR",
     "Adresse2":" ",
@@ -956,7 +956,7 @@
        "coordinates":  [ -0.308418,45.674918 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TERRAVI",
+    "Name":"TERRAVI",
     "Brand":"gregoire",
     "Adresse1":"Rue de Beauregard",
     "Adresse2":" ",
@@ -975,7 +975,7 @@
        "coordinates":  [ 0.6672841,45.8368708 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHABAUDIE",
+    "Name":"CHABAUDIE",
     "Brand":"gregoire",
     "Adresse1":"Le Bourg",
     "Adresse2":" ",
@@ -994,7 +994,7 @@
        "coordinates":  [ 0.071869,45.276866 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RULLIER FOYENNE",
+    "Name":"RULLIER FOYENNE",
     "Brand":"gregoire",
     "Adresse1":"Grande Piece du Maine Fort",
     "Adresse2":" ",
@@ -1013,7 +1013,7 @@
        "coordinates":  [ 0.445692,45.8141279 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LANAUD",
+    "Name":"LANAUD",
     "Brand":"gregoire",
     "Adresse1":"Zone d'emploi les Pièces de l'âge",
     "Adresse2":" ",
@@ -1032,7 +1032,7 @@
        "coordinates":  [ 0.0640121,45.8189496 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUCOURET (16)",
+    "Name":"DUCOURET (16)",
     "Brand":"gregoire",
     "Adresse1":"180 rue Principale",
     "Adresse2":" ",
@@ -1051,7 +1051,7 @@
        "coordinates":  [ 0.789119,46.012592 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GODINEAU",
+    "Name":"GODINEAU",
     "Brand":"gregoire",
     "Adresse1":"Les Pièces Rouges",
     "Adresse2":" ",
@@ -1070,7 +1070,7 @@
        "coordinates":  [ -0.3032574,45.8668832 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOISUMAULT",
+    "Name":"BOISUMAULT",
     "Brand":"gregoire",
     "Adresse1":"Zone Artisanale Godinières rte Angoulème",
     "Adresse2":" ",
@@ -1089,7 +1089,7 @@
        "coordinates":  [ -0.880095,45.8261302 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TERRAVI SAS",
+    "Name":"TERRAVI SAS",
     "Brand":"gregoire",
     "Adresse1":"57 Avenue du Maréchal Leclerc",
     "Adresse2":" ",
@@ -1108,7 +1108,7 @@
        "coordinates":  [ -0.8792689,46.1003897 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ROBLIN",
+    "Name":"ROBLIN",
     "Brand":"gregoire",
     "Adresse1":"Le Magnou",
     "Adresse2":" ",
@@ -1127,7 +1127,7 @@
        "coordinates":  [ -0.7039592,45.9390491 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI LARGE",
+    "Name":"AGRI LARGE",
     "Brand":"gregoire",
     "Adresse1":"15 Route de Tonnay Boutonne",
     "Adresse2":" ",
@@ -1146,7 +1146,7 @@
        "coordinates":  [ -0.828912,46.034389 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CENTRAL GARAGE",
+    "Name":"CENTRAL GARAGE",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Libération",
     "Adresse2":" ",
@@ -1165,7 +1165,7 @@
        "coordinates":  [ -0.3758706,45.4767732 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ARDOUIN",
+    "Name":"ARDOUIN",
     "Brand":"gregoire",
     "Adresse1":"30 Rue de Haute Saintonge",
     "Adresse2":" ",
@@ -1184,7 +1184,7 @@
        "coordinates":  [ -0.9253911,45.6676298 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ROY",
+    "Name":"ROY",
     "Brand":"gregoire",
     "Adresse1":"4 Chemin de Rangeard",
     "Adresse2":" ",
@@ -1203,7 +1203,7 @@
        "coordinates":  [ -0.5651351,45.5738014 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHAMBON",
+    "Name":"CHAMBON",
     "Brand":"gregoire",
     "Adresse1":"Rue de Coudenne",
     "Adresse2":"ZA de Coudenne II",
@@ -1222,7 +1222,7 @@
        "coordinates":  [ -0.5096213,45.6477552 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DAGNAUD",
+    "Name":"DAGNAUD",
     "Brand":"gregoire",
     "Adresse1":"17 Rue de la Sévigné",
     "Adresse2":" ",
@@ -1241,7 +1241,7 @@
        "coordinates":  [ 1.0671085,45.3359497 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUENON",
+    "Name":"GUENON",
     "Brand":"gregoire",
     "Adresse1":"ZA",
     "Adresse2":"La Tuilière",
@@ -1260,7 +1260,7 @@
        "coordinates":  [ 0.5274405,45.5198747 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FAURIE",
+    "Name":"FAURIE",
     "Brand":"gregoire",
     "Adresse1":"Lafarge",
     "Adresse2":" ",
@@ -1279,7 +1279,7 @@
        "coordinates":  [ 0.482169,45.2519975 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VITAGRI",
+    "Name":"VITAGRI",
     "Brand":"gregoire",
     "Adresse1":"Le Jarissou",
     "Adresse2":" ",
@@ -1298,7 +1298,7 @@
        "coordinates":  [ 1.3826672,44.9546831 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGROLEIX 24",
+    "Name":"AGROLEIX 24",
     "Brand":"gregoire",
     "Adresse1":"Le Bourg",
     "Adresse2":" ",
@@ -1317,7 +1317,7 @@
        "coordinates":  [ -1.4029288,47.7034046 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CASTEL AGRI",
+    "Name":"CASTEL AGRI",
     "Brand":"gregoire",
     "Adresse1":"Rue la Fayette",
     "Adresse2":" ",
@@ -1336,7 +1336,7 @@
        "coordinates":  [ -1.7431389,46.9310103 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JARNY",
+    "Name":"JARNY",
     "Brand":"gregoire",
     "Adresse1":"19 Rue de Nantes",
     "Adresse2":" ",
@@ -1355,7 +1355,7 @@
        "coordinates":  [ -1.6641443,46.996166 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AB 44",
+    "Name":"AB 44",
     "Brand":"gregoire",
     "Adresse1":"1 Les Jarries",
     "Adresse2":" ",
@@ -1374,7 +1374,7 @@
        "coordinates":  [ -2.030599,47.197283 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOUYER",
+    "Name":"BOUYER",
     "Brand":"gregoire",
     "Adresse1":"6 ZA de la Hurline",
     "Adresse2":" ",
@@ -1393,7 +1393,7 @@
        "coordinates":  [ -1.3501436,47.2681592 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CM AGRI SERVICE",
+    "Name":"CM AGRI SERVICE",
     "Brand":"gregoire",
     "Adresse1":"31 Route de la Loire",
     "Adresse2":" ",
@@ -1412,7 +1412,7 @@
        "coordinates":  [ -2.0446609,47.5212529 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DANET",
+    "Name":"DANET",
     "Brand":"gregoire",
     "Adresse1":"32 Route de Redon",
     "Adresse2":" ",
@@ -1431,7 +1431,7 @@
        "coordinates":  [ -1.8585714,47.1001458 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUITTENY AGRI SER",
+    "Name":"GUITTENY AGRI SER",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Petite Croix",
     "Adresse2":" ",
@@ -1450,7 +1450,7 @@
        "coordinates":  [ -1.6480193,47.3812533 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TERRINOV",
+    "Name":"TERRINOV",
     "Brand":"gregoire",
     "Adresse1":"Zone Industrielle de l'Erette",
     "Adresse2":" ",
@@ -1469,7 +1469,7 @@
        "coordinates":  [ 1.8932057,47.8877465 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI VS",
+    "Name":"AGRI VS",
     "Brand":"gregoire",
     "Adresse1":"49 Avenue de Saint-Mesmin",
     "Adresse2":" ",
@@ -1488,7 +1488,7 @@
        "coordinates":  [ -0.7084773,47.3048596 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BERNIER (49)",
+    "Name":"BERNIER (49)",
     "Brand":"gregoire",
     "Adresse1":"2 La Blinière",
     "Adresse2":" ",
@@ -1507,7 +1507,7 @@
        "coordinates":  [ -0.3796023,47.5552787 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SEMAC (Corzé)",
+    "Name":"SEMAC (Corzé)",
     "Brand":"gregoire",
     "Adresse1":"Maison Neuve Rn 23",
     "Adresse2":" ",
@@ -1526,7 +1526,7 @@
        "coordinates":  [ -0.0996812,47.3768542 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GABILLER",
+    "Name":"GABILLER",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Scierie",
     "Adresse2":" ",
@@ -1545,7 +1545,7 @@
        "coordinates":  [ -1.2562364,47.2847883 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CAM",
+    "Name":"CAM",
     "Brand":"gregoire",
     "Adresse1":"4 rue des Noisetiers ZA DES",
     "Adresse2":"Les Châtaigneraies",
@@ -1564,7 +1564,7 @@
        "coordinates":  [ -0.5354608,47.1452623 ]
     },
     "properties": {
-    "Name of the dealer / importer":"QUIGNON",
+    "Name":"QUIGNON",
     "Brand":"gregoire",
     "Adresse1":"8 Rue saint hilaire de Vihiers",
     "Adresse2":" ",
@@ -1583,7 +1583,7 @@
        "coordinates":  [ -0.6082966,47.0317245 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOM AGRI",
+    "Name":"SOM AGRI",
     "Brand":"gregoire",
     "Adresse1":"11 rue des Mauges",
     "Adresse2":" ",
@@ -1602,7 +1602,7 @@
        "coordinates":  [ -0.0493475,47.2842074 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MAISA 49",
+    "Name":"MAISA 49",
     "Brand":"gregoire",
     "Adresse1":"274 Avenue des Fusillés",
     "Adresse2":" ",
@@ -1621,7 +1621,7 @@
        "coordinates":  [ -0.8887928,47.1998625 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SERVIMAC",
+    "Name":"SERVIMAC",
     "Brand":"gregoire",
     "Adresse1":"Route de Beaupreau",
     "Adresse2":" ",
@@ -1640,7 +1640,7 @@
        "coordinates":  [ -0.1025661,46.1094091 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SAUQUET",
+    "Name":"SAUQUET",
     "Brand":"gregoire",
     "Adresse1":"6 Route de Niort",
     "Adresse2":" ",
@@ -1659,7 +1659,7 @@
        "coordinates":  [ -0.5126006,46.4500079 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHAUVET AGRI SER",
+    "Name":"CHAUVET AGRI SER",
     "Brand":"gregoire",
     "Adresse1":"2 Route de Niort",
     "Adresse2":" ",
@@ -1678,7 +1678,7 @@
        "coordinates":  [ -0.1784581,46.0827782 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PETRAULT",
+    "Name":"PETRAULT",
     "Brand":"gregoire",
     "Adresse1":"2 Route d'Aubigné",
     "Adresse2":" ",
@@ -1697,7 +1697,7 @@
        "coordinates":  [ -0.4688072,46.8500955 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHUPIN",
+    "Name":"CHUPIN",
     "Brand":"gregoire",
     "Adresse1":"81 Boulevard de Thouars",
     "Adresse2":" ",
@@ -1716,7 +1716,7 @@
        "coordinates":  [ -0.179703,46.4137958 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JLJ BONNAUD D",
+    "Name":"JLJ BONNAUD D",
     "Brand":"gregoire",
     "Adresse1":"19 Rue du Fief de la Barre",
     "Adresse2":" ",
@@ -1735,7 +1735,7 @@
        "coordinates":  [ -1.1297196,46.9102982 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MECHINEAU",
+    "Name":"MECHINEAU",
     "Brand":"gregoire",
     "Adresse1":"22 Rue d'Anjou",
     "Adresse2":" ",
@@ -1754,7 +1754,7 @@
        "coordinates":  [ -1.1399904,46.7908335 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MENANTEAU",
+    "Name":"MENANTEAU",
     "Brand":"gregoire",
     "Adresse1":"2 La Barre",
     "Adresse2":" ",
@@ -1773,7 +1773,7 @@
        "coordinates":  [ -1.2401686,46.7646288 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JARNY VENDÉE",
+    "Name":"JARNY VENDÉE",
     "Brand":"gregoire",
     "Adresse1":"18 rue du Champ Renard ZA les Charmettes",
     "Adresse2":"",
@@ -1792,7 +1792,7 @@
        "coordinates":  [ -1.6609916,46.6050988 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RAVON",
+    "Name":"RAVON",
     "Brand":"gregoire",
     "Adresse1":"4 Rue Jules Verne",
     "Adresse2":" ",
@@ -1811,7 +1811,7 @@
        "coordinates":  [ -1.4301105,46.8026707 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MAGAUD",
+    "Name":"MAGAUD",
     "Brand":"gregoire",
     "Adresse1":"10 Rue de l'Épine",
     "Adresse2":" ",
@@ -1830,7 +1830,7 @@
        "coordinates":  [ -1.6116216,46.6961598 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BARDEAU",
+    "Name":"BARDEAU",
     "Brand":"gregoire",
     "Adresse1":"2 Z.A. L'augizière",
     "Adresse2":" ",
@@ -1849,7 +1849,7 @@
        "coordinates":  [ -1.6811578,46.7544 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SIROT",
+    "Name":"SIROT",
     "Brand":"gregoire",
     "Adresse1":"Rue du lac",
     "Adresse2":" ",
@@ -1868,7 +1868,7 @@
        "coordinates":  [ -1.0411491,46.5884155 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LOUINEAU TURPAUD",
+    "Name":"LOUINEAU TURPAUD",
     "Brand":"gregoire",
     "Adresse1":"75 Rue des Diligentes",
     "Adresse2":" ",
@@ -1887,7 +1887,7 @@
        "coordinates":  [ -1.1823821,46.8619682 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PIVETEAU",
+    "Name":"PIVETEAU",
     "Brand":"gregoire",
     "Adresse1":"ZAI Le Grand Moulin",
     "Adresse2":" ",
@@ -1906,7 +1906,7 @@
        "coordinates":  [ -1.8892831,46.784521 ]
     },
     "properties": {
-    "Name of the dealer / importer":"A M V 85",
+    "Name":"A M V 85",
     "Brand":"gregoire",
     "Adresse1":"79 CHEMIN DES CORDES",
     "Adresse2":" ",
@@ -1925,7 +1925,7 @@
        "coordinates":  [ -1.110482,46.4672807 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JARNY MVS",
+    "Name":"JARNY MVS",
     "Brand":"gregoire",
     "Adresse1":"Les quatres chemins",
     "Adresse2":" ",
@@ -1944,7 +1944,7 @@
        "coordinates":  [ -0.7305902,46.3920444 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GEANT GAUDRY",
+    "Name":"GEANT GAUDRY",
     "Brand":"gregoire",
     "Adresse1":"Route de la Chicane",
     "Adresse2":" ",
@@ -1963,7 +1963,7 @@
        "coordinates":  [ -1.5723156,46.5073237 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DURANDET",
+    "Name":"DURANDET",
     "Brand":"gregoire",
     "Adresse1":"551 Rue du Moulin des Landes",
     "Adresse2":" ",
@@ -1982,7 +1982,7 @@
        "coordinates":  [ -0.9588513,46.8249582 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MC AGRI",
+    "Name":"MC AGRI",
     "Brand":"gregoire",
     "Adresse1":"Le Chêne Vert",
     "Adresse2":" ",
@@ -2001,7 +2001,7 @@
        "coordinates":  [ -1.4757842,46.4319609 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HYDRO AGRI",
+    "Name":"HYDRO AGRI",
     "Brand":"gregoire",
     "Adresse1":"Rue de vents",
     "Adresse2":" ",
@@ -2020,7 +2020,7 @@
        "coordinates":  [ -1.3391861,47.0022065 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LELOULAY AMB",
+    "Name":"LELOULAY AMB",
     "Brand":"gregoire",
     "Adresse1":"17 Rue des Peuplier",
     "Adresse2":" ",
@@ -2039,7 +2039,7 @@
        "coordinates":  [ -1.4997183,46.942415 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SAUVAMECA",
+    "Name":"SAUVAMECA",
     "Brand":"gregoire",
     "Adresse1":"Route de cholet",
     "Adresse2":" ",
@@ -2058,7 +2058,7 @@
        "coordinates":  [ 0.0053948,47.0681023 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MAS VAONNAISE",
+    "Name":"MAS VAONNAISE",
     "Brand":"gregoire",
     "Adresse1":"4 Route de Montreuil",
     "Adresse2":" ",
@@ -2077,7 +2077,7 @@
        "coordinates":  [ 0.33917,46.81634 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI 86",
+    "Name":"AGRI 86",
     "Brand":"gregoire",
     "Adresse1":"Route Chatellerault BP26",
     "Adresse2":" ",
@@ -2096,7 +2096,7 @@
        "coordinates":  [ 0.709397,46.231077 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOUCHAUD",
+    "Name":"SOUCHAUD",
     "Brand":"gregoire",
     "Adresse1":"Les champs des Chails",
     "Adresse2":" ",
@@ -2115,7 +2115,7 @@
        "coordinates":  [ 0.2690873,46.4526829 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VMA GROUPE B S",
+    "Name":"VMA GROUPE B S",
     "Brand":"rabe",
     "Adresse1":"L'anjouinière",
     "Adresse2":" ",
@@ -2134,7 +2134,7 @@
        "coordinates":  [ 0.1804632,46.1644592 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MICHELET",
+    "Name":"MICHELET",
     "Brand":"gregoire",
     "Adresse1":"8 RUE ST HILAIRE",
     "Adresse2":" ",
@@ -2153,7 +2153,7 @@
        "coordinates":  [ 1.7160907,45.6492315 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LASCAUD",
+    "Name":"LASCAUD",
     "Brand":"gregoire",
     "Adresse1":"Bos",
     "Adresse2":" ",
@@ -2172,7 +2172,7 @@
        "coordinates":  [ 1.393367,45.776228 ]
     },
     "properties": {
-    "Name of the dealer / importer":"REBEYROLLES",
+    "Name":"REBEYROLLES",
     "Brand":"gregoire",
     "Adresse1":"Le Bourg",
     "Adresse2":" ",
@@ -2191,7 +2191,7 @@
        "coordinates":  [ 0.9800554,45.6408382 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOUCHAUD",
+    "Name":"BOUCHAUD",
     "Brand":"gregoire",
     "Adresse1":"Beaubourg",
     "Adresse2":" ",
@@ -2210,7 +2210,7 @@
        "coordinates":  [ 1.3086118,45.934676 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARIDAT (87)",
+    "Name":"MARIDAT (87)",
     "Brand":"gregoire",
     "Adresse1":"26 Impasse de Maison Rouge",
     "Adresse2":" ",
@@ -2229,7 +2229,7 @@
        "coordinates":  [ 1.3146257,45.508025 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MACB FOUETILLOU",
+    "Name":"MACB FOUETILLOU",
     "Brand":"gregoire",
     "Adresse1":"2 Avenue de la Madone",
     "Adresse2":" ",
@@ -2248,7 +2248,7 @@
        "coordinates":  [ 1.6229608,48.2761372 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DURET (Voves)",
+    "Name":"DURET (Voves)",
     "Brand":"gregoire",
     "Adresse1":"25 Rue Paul Deschanel",
     "Adresse2":" ",
@@ -2267,7 +2267,7 @@
        "coordinates":  [ 1.331316,48.061866 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Chateaudun)",
+    "Name":"DEPUSSAY (Chateaudun)",
     "Brand":"gregoire",
     "Adresse1":"Route de Tours",
     "Adresse2":" ",
@@ -2286,7 +2286,7 @@
        "coordinates":  [ 1.2936876,48.0064931 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHENEAU (28)",
+    "Name":"CHENEAU (28)",
     "Brand":"gregoire",
     "Adresse1":"40 Rue Grande",
     "Adresse2":" ",
@@ -2305,7 +2305,7 @@
        "coordinates":  [ 1.7382042,48.0844414 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Treminiers)",
+    "Name":"DEPUSSAY (Treminiers)",
     "Brand":"gregoire",
     "Adresse1":"15 Rue Chanzy",
     "Adresse2":" ",
@@ -2324,7 +2324,7 @@
        "coordinates":  [ 1.5213156,48.4279173 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Gellainville)",
+    "Name":"DEPUSSAY (Gellainville)",
     "Brand":"gregoire",
     "Adresse1":"7 Avenue Louis Pasteur",
     "Adresse2":" ",
@@ -2343,7 +2343,7 @@
        "coordinates":  [ 0.8456379,47.6329379 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BERNY  M & S (37)",
+    "Name":"BERNY  M & S (37)",
     "Brand":"gregoire",
     "Adresse1":"La Bordé",
     "Adresse2":" ",
@@ -2362,7 +2362,7 @@
        "coordinates":  [ 0.3490478,47.0276116 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BRIANT",
+    "Name":"BRIANT",
     "Brand":"gregoire",
     "Adresse1":"12 Les Carrières de Chauvin",
     "Adresse2":" ",
@@ -2381,7 +2381,7 @@
        "coordinates":  [ 0.2109489,47.2978559 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RIVIERE",
+    "Name":"RIVIERE",
     "Brand":"gregoire",
     "Adresse1":"Le Clos Marsouille",
     "Adresse2":" ",
@@ -2400,7 +2400,7 @@
        "coordinates":  [ 0.813416,47.132255 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ANDRE (37)",
+    "Name":"ANDRE (37)",
     "Brand":"gregoire",
     "Adresse1":"Le Noyer Froid",
     "Adresse2":" ",
@@ -2419,7 +2419,7 @@
        "coordinates":  [ 0.5961467,47.6062702 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DMS 37",
+    "Name":"DMS 37",
     "Brand":"gregoire",
     "Adresse1":"10 Allée des Noyers",
     "Adresse2":" ",
@@ -2438,7 +2438,7 @@
        "coordinates":  [ 1.215058,47.1841547 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LOISEAU",
+    "Name":"LOISEAU",
     "Brand":"gregoire",
     "Adresse1":"12 Barillet",
     "Adresse2":" ",
@@ -2457,7 +2457,7 @@
        "coordinates":  [ 0.9737213,47.1056712 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MAISA 37",
+    "Name":"MAISA 37",
     "Brand":"gregoire",
     "Adresse1":"1 rue barbeneuve",
     "Adresse2":" ",
@@ -2476,7 +2476,7 @@
        "coordinates":  [ 1.2837954,47.7505533 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Conan)",
+    "Name":"DEPUSSAY (Conan)",
     "Brand":"gregoire",
     "Adresse1":"19 Rue des Étangs",
     "Adresse2":" ",
@@ -2495,7 +2495,7 @@
        "coordinates":  [ 0.9272131,47.8980027 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BEAUGER",
+    "Name":"BEAUGER",
     "Brand":"gregoire",
     "Adresse1":"La métairie",
     "Adresse2":"ZA route de Fortan",
@@ -2514,7 +2514,7 @@
        "coordinates":  [ 3.056996,47.948648 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SICAMAR",
+    "Name":"SICAMAR",
     "Brand":"gregoire",
     "Adresse1":"1 rue Initiative",
     "Adresse2":"ZA Douchy",
@@ -2533,7 +2533,7 @@
        "coordinates":  [ 2.233848,48.1706758 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Pithiviers)",
+    "Name":"DEPUSSAY (Pithiviers)",
     "Brand":"gregoire",
     "Adresse1":"Route de Toury",
     "Adresse2":" ",
@@ -2552,7 +2552,7 @@
        "coordinates":  [ 2.2376273,48.2058737 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CORNET (Pithiviers)",
+    "Name":"CORNET (Pithiviers)",
     "Brand":"gregoire",
     "Adresse1":"Route d'Étampes",
     "Adresse2":"BP 447",
@@ -2571,7 +2571,7 @@
        "coordinates":  [ 3.0744623,48.038452 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOURGOIN (45)",
+    "Name":"BOURGOIN (45)",
     "Brand":"gregoire",
     "Adresse1":"47 Rue de Joigny",
     "Adresse2":" ",
@@ -2590,7 +2590,7 @@
        "coordinates":  [ 2.9293035,47.5757619 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DERIVEAU",
+    "Name":"DERIVEAU",
     "Brand":"gregoire",
     "Adresse1":"Route Cosne",
     "Adresse2":" ",
@@ -2609,7 +2609,7 @@
        "coordinates":  [ 2.3790919,47.7914463 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CORDIER (45)",
+    "Name":"CORDIER (45)",
     "Brand":"gregoire",
     "Adresse1":"12 Route de Sully",
     "Adresse2":" ",
@@ -2628,7 +2628,7 @@
        "coordinates":  [ 2.811949,47.5452457 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BEAULIEU AGRI",
+    "Name":"BEAULIEU AGRI",
     "Brand":"gregoire",
     "Adresse1":"28 Rue de Châtillon",
     "Adresse2":" ",
@@ -2647,7 +2647,7 @@
        "coordinates":  [ 2.79958,47.9067123 ]
     },
     "properties": {
-    "Name of the dealer / importer":"KM Agri",
+    "Name":"KM Agri",
     "Brand":"gregoire",
     "Adresse1":"588 Route de Solterre",
     "Adresse2":" ",
@@ -2666,7 +2666,7 @@
        "coordinates":  [ 0.5296383,48.0429133 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Thorigné)",
+    "Name":"DEPUSSAY (Thorigné)",
     "Brand":"gregoire",
     "Adresse1":"38 Rue de Connerre",
     "Adresse2":" ",
@@ -2685,7 +2685,7 @@
        "coordinates":  [ 0.1131235,47.9420605 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BMS 72",
+    "Name":"BMS 72",
     "Brand":"gregoire",
     "Adresse1":"24 D23",
     "Adresse2":" ",
@@ -2704,7 +2704,7 @@
        "coordinates":  [ -0.0985615,47.8127992 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI CONSO",
+    "Name":"AGRI CONSO",
     "Brand":"gregoire",
     "Adresse1":"ZA Les Belles Poules",
     "Adresse2":" ",
@@ -2723,7 +2723,7 @@
        "coordinates":  [ 0.0920752,48.3498102 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TAMISIER 72",
+    "Name":"TAMISIER 72",
     "Brand":"gregoire",
     "Adresse1":"La route",
     "Adresse2":" ",
@@ -2742,7 +2742,7 @@
        "coordinates":  [ 0.075727,47.702931 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VLG",
+    "Name":"VLG",
     "Brand":"gregoire",
     "Adresse1":"Zone artisanale",
     "Adresse2":" ",
@@ -2761,7 +2761,7 @@
        "coordinates":  [ 0.2920275,47.6227369 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MAISA LANDAIS 72",
+    "Name":"MAISA LANDAIS 72",
     "Brand":"gregoire",
     "Adresse1":"2 Rue de l'Église",
     "Adresse2":" ",
@@ -2780,7 +2780,7 @@
        "coordinates":  [ 2.9284823,48.9520229 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRISANTERRE (Meaux)",
+    "Name":"AGRISANTERRE (Meaux)",
     "Brand":"gregoire",
     "Adresse1":"40-52 Allée des Platanes",
     "Adresse2":" ",
@@ -2799,7 +2799,7 @@
        "coordinates":  [ 3.0885022,48.8026413 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MONNERAT",
+    "Name":"MONNERAT",
     "Brand":"rabe",
     "Adresse1":"2 Rue de l'Orgeval",
     "Adresse2":" ",
@@ -2818,7 +2818,7 @@
        "coordinates":  [ 3.0349435,48.5606929 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Nangis)",
+    "Name":"DEPUSSAY (Nangis)",
     "Brand":"gregoire",
     "Adresse1":"5 Rue de la Commune de Paris",
     "Adresse2":" ",
@@ -2837,7 +2837,7 @@
        "coordinates":  [ 2.5465866,48.1916387 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Arville)",
+    "Name":"DEPUSSAY (Arville)",
     "Brand":"gregoire",
     "Adresse1":"3 Route de Nemours",
     "Adresse2":" ",
@@ -2856,7 +2856,7 @@
        "coordinates":  [ 1.6462799,48.7958084 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Bazainville)",
+    "Name":"DEPUSSAY (Bazainville)",
     "Brand":"gregoire",
     "Adresse1":"D912 LE LIEVRE",
     "Adresse2":"80 Avenue de Paris",
@@ -2875,7 +2875,7 @@
        "coordinates":  [ 2.1798482,48.4364505 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LOURIOU",
+    "Name":"LOURIOU",
     "Brand":"gregoire",
     "Adresse1":"12 Rue du Hameau de Bretagne",
     "Adresse2":" ",
@@ -2894,7 +2894,7 @@
        "coordinates":  [ 1.9997397,48.3176119 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY (Angerville)",
+    "Name":"DEPUSSAY (Angerville)",
     "Brand":"gregoire",
     "Adresse1":"14 Bis Rue du Pont Lafleur",
     "Adresse2":" ",
@@ -2913,7 +2913,7 @@
        "coordinates":  [ 4.4418285,49.5761165 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS TERREA",
+    "Name":"ETS TERREA",
     "Brand":"gregoire",
     "Adresse1":"6 Rue Mongourdin",
     "Adresse2":" ",
@@ -2932,7 +2932,7 @@
        "coordinates":  [ 4.031696,49.258329 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS MORTIER",
+    "Name":"ETS MORTIER",
     "Brand":"gregoire",
     "Adresse1":"4 Rue de Reims",
     "Adresse2":" ",
@@ -2951,7 +2951,7 @@
        "coordinates":  [ 4.1122793,48.3985035 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PM-PRO (Pont Ste Marie)",
+    "Name":"PM-PRO (Pont Ste Marie)",
     "Brand":"rabe",
     "Adresse1":"Route de Charmon",
     "Adresse2":" ",
@@ -2970,7 +2970,7 @@
        "coordinates":  [ 4.7151499,48.2224338 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CAC (Coopérative agricole de Champagne)",
+    "Name":"CAC (Coopérative agricole de Champagne)",
     "Brand":"gregoire",
     "Adresse1":"Rue de l'Europe",
     "Adresse2":" ",
@@ -2989,7 +2989,7 @@
        "coordinates":  [ 3.9703265,48.5694027 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PONCELET",
+    "Name":"PONCELET",
     "Brand":"gregoire",
     "Adresse1":"25 Rue des Cloyères",
     "Adresse2":" ",
@@ -3008,7 +3008,7 @@
        "coordinates":  [ 3.9737482,48.5723743 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARTEL CSA",
+    "Name":"MARTEL CSA",
     "Brand":"gregoire",
     "Adresse1":"10 Route de Champfleury",
     "Adresse2":" ",
@@ -3027,7 +3027,7 @@
        "coordinates":  [ 5.1486951,47.2383843 ]
     },
     "properties": {
-    "Name of the dealer / importer":"WALTER",
+    "Name":"WALTER",
     "Brand":"gregoire",
     "Adresse1":"D 31",
     "Adresse2":" ",
@@ -3046,7 +3046,7 @@
        "coordinates":  [ 5.1158306,47.5302878 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GAUVAIN",
+    "Name":"GAUVAIN",
     "Brand":"gregoire",
     "Adresse1":"Rue François Mitterrand",
     "Adresse2":" ",
@@ -3065,7 +3065,7 @@
        "coordinates":  [ 4.398808,47.490291 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AXE EQUIPEMENT 21 (JUILLY)",
+    "Name":"AXE EQUIPEMENT 21 (JUILLY)",
     "Brand":"gregoire",
     "Adresse1":"Village",
     "Adresse2":" ",
@@ -3084,7 +3084,7 @@
        "coordinates":  [ 4.4716724,47.5453289 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOUCHERON 21 (VENAREY)",
+    "Name":"BOUCHERON 21 (VENAREY)",
     "Brand":"gregoire",
     "Adresse1":"Rue de l'Oze",
     "Adresse2":" ",
@@ -3103,7 +3103,7 @@
        "coordinates":  [ 4.637113,47.028866 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MANIÈRE AGRI VITI",
+    "Name":"MANIÈRE AGRI VITI",
     "Brand":"group",
     "Adresse1":"Village",
     "Adresse2":" ",
@@ -3122,7 +3122,7 @@
        "coordinates":  [ 4.578637,47.368405 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LEVEQUE",
+    "Name":"LEVEQUE",
     "Brand":"gregoire",
     "Adresse1":"7 Cher",
     "Adresse2":" ",
@@ -3141,7 +3141,7 @@
        "coordinates":  [ 5.2075045,47.1307584 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BRAZEY MOTOCULTURE",
+    "Name":"BRAZEY MOTOCULTURE",
     "Brand":"gregoire",
     "Adresse1":"Route de Nuits Saint-Georges",
     "Adresse2":" ",
@@ -3160,7 +3160,7 @@
        "coordinates":  [ 3.352245,49.369325 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PM-Pro 02 (Soissons)",
+    "Name":"PM-Pro 02 (Soissons)",
     "Brand":"rabe",
     "Adresse1":"Rue des grands prés",
     "Adresse2":" ",
@@ -3179,7 +3179,7 @@
        "coordinates":  [ 3.9065535,48.8422847 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RAVILLON",
+    "Name":"RAVILLON",
     "Brand":"gregoire",
     "Adresse1":"7 Rue du Général de Gaulle",
     "Adresse2":" ",
@@ -3198,7 +3198,7 @@
        "coordinates":  [ 3.6972581,49.307174 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PM-PRO 02 (Fismes)",
+    "Name":"PM-PRO 02 (Fismes)",
     "Brand":"rabe",
     "Adresse1":"Route de Reims",
     "Adresse2":" ",
@@ -3217,7 +3217,7 @@
        "coordinates":  [ 3.911515,48.730877 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARTEL (51)",
+    "Name":"MARTEL (51)",
     "Brand":"gregoire",
     "Adresse1":"L'ermitage",
     "Adresse2":" ",
@@ -3236,7 +3236,7 @@
        "coordinates":  [ 4.2401592,49.1963414 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI 51",
+    "Name":"AGRI 51",
     "Brand":"gregoire",
     "Adresse1":"Rue des 3 Cantons",
     "Adresse2":" ",
@@ -3255,7 +3255,7 @@
        "coordinates":  [ 4.2858766,49.3061896 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SARL Semas 51 Selles",
+    "Name":"SARL Semas 51 Selles",
     "Brand":"rabe",
     "Adresse1":"Route Départementale Nord 20",
     "Adresse2":" ",
@@ -3274,7 +3274,7 @@
        "coordinates":  [ 4.2315653,48.9963459 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PM-PRO 51 (Matougues)",
+    "Name":"PM-PRO 51 (Matougues)",
     "Brand":"rabe",
     "Adresse1":"Chemin d'Aulnay",
     "Adresse2":" ",
@@ -3293,7 +3293,7 @@
        "coordinates":  [ 4.0421459,49.0094208 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RAVILLON CHAMP'AGRI",
+    "Name":"RAVILLON CHAMP'AGRI",
     "Brand":"gregoire",
     "Adresse1":"Rue des Ormissets",
     "Adresse2":" ",
@@ -3312,7 +3312,7 @@
        "coordinates":  [ 5.141196,48.202076 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Comptoir Agricole de Bologne",
+    "Name":"Comptoir Agricole de Bologne",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Grande Voie",
     "Adresse2":" ",
@@ -3331,7 +3331,7 @@
        "coordinates":  [ 5.2989252,48.2437489 ]
     },
     "properties": {
-    "Name of the dealer / importer":"EMC2",
+    "Name":"EMC2",
     "Brand":"gregoire",
     "Adresse1":"Avenue de Verdun",
     "Adresse2":" ",
@@ -3350,7 +3350,7 @@
        "coordinates":  [ 5.9270895,48.700857 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CAL (Coopérative agricole de Lorraine)",
+    "Name":"CAL (Coopérative agricole de Lorraine)",
     "Brand":"gregoire",
     "Adresse1":"235 Rue de la Marchanderie",
     "Adresse2":" ",
@@ -3369,7 +3369,7 @@
        "coordinates":  [ 6.5404704,48.5906181 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VAUTRIN (Chanteheux)",
+    "Name":"VAUTRIN (Chanteheux)",
     "Brand":"gregoire",
     "Adresse1":"62 route Nationale 4",
     "Adresse2":" ",
@@ -3388,7 +3388,7 @@
        "coordinates":  [ 5.5254539,48.9006314 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GROUPE CHEVAL",
+    "Name":"GROUPE CHEVAL",
     "Brand":"gregoire",
     "Adresse1":"r. du 150ème R.I",
     "Adresse2":" ",
@@ -3407,7 +3407,7 @@
        "coordinates":  [ 6.0914088,49.0716615 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SARL MARTIN (57)",
+    "Name":"SARL MARTIN (57)",
     "Brand":"group",
     "Adresse1":"56 Bis Rue de Metz",
     "Adresse2":" ",
@@ -3426,7 +3426,7 @@
        "coordinates":  [ 6.53545,49.1629538 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VAUTRIN (Succursale)",
+    "Name":"VAUTRIN (Succursale)",
     "Brand":"gregoire",
     "Adresse1":"4 Rue des Orchidées",
     "Adresse2":" ",
@@ -3445,7 +3445,7 @@
        "coordinates":  [ 6.410933,49.4519583 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Ets Lellig 57480 Merschweiller",
+    "Name":"Ets Lellig 57480 Merschweiller",
     "Brand":"rabe",
     "Adresse1":"14 Rue Principale",
     "Adresse2":" ",
@@ -3464,7 +3464,7 @@
        "coordinates":  [ 6.3915498,49.100197 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS SIMON (57)",
+    "Name":"ETS SIMON (57)",
     "Brand":"gregoire",
     "Adresse1":"Route de la Scierie",
     "Adresse2":" ",
@@ -3483,7 +3483,7 @@
        "coordinates":  [ 6.2753531,49.3232912 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LEMAT SERVICE",
+    "Name":"LEMAT SERVICE",
     "Brand":"gregoire",
     "Adresse1":"28 Boucle Bernard Hinault",
     "Adresse2":" ",
@@ -3502,7 +3502,7 @@
        "coordinates":  [ 2.9220021,49.6484179 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ITT VIMO (Ecuvilly)",
+    "Name":"ITT VIMO (Ecuvilly)",
     "Brand":"rabe",
     "Adresse1":"3 Place de la Mairie",
     "Adresse2":" ",
@@ -3521,7 +3521,7 @@
        "coordinates":  [ 2.6826681,49.3114832 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Taveau ETS (Jacques)",
+    "Name":"Taveau ETS (Jacques)",
     "Brand":"rabe",
     "Adresse1":"Zone Artisanale",
     "Adresse2":"627 Rue des Cerisiers Roussel",
@@ -3540,7 +3540,7 @@
        "coordinates":  [ 1.8155145,50.904284 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Henon motoculture",
+    "Name":"Henon motoculture",
     "Brand":"rabe",
     "Adresse1":"3403 Rue principale",
     "Adresse2":" ",
@@ -3559,7 +3559,7 @@
        "coordinates":  [ 1.930526,50.787994 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LORGNIER SARL",
+    "Name":"LORGNIER SARL",
     "Brand":"rabe",
     "Adresse1":"359 Rue de l'Abbé Pruvost",
     "Adresse2":" ",
@@ -3578,7 +3578,7 @@
        "coordinates":  [ 7.5442915,48.6368579 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HEITZ JOSEPH",
+    "Name":"HEITZ JOSEPH",
     "Brand":"rabe",
     "Adresse1":"19 Rue de Schnersheim",
     "Adresse2":" ",
@@ -3597,7 +3597,7 @@
        "coordinates":  [ 8.0700857,48.9462265 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BURCKBUCHLER",
+    "Name":"BURCKBUCHLER",
     "Brand":"gregoire",
     "Adresse1":"24 Rue de la Libération",
     "Adresse2":" ",
@@ -3616,7 +3616,7 @@
        "coordinates":  [ 7.5888257,48.3744135 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CROVISIER",
+    "Name":"CROVISIER",
     "Brand":"rabe",
     "Adresse1":"3 rue des antiquaires",
     "Adresse2":" ",
@@ -3635,7 +3635,7 @@
        "coordinates":  [ 7.9440084,48.9331847 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NIESS AGRICULTURE",
+    "Name":"NIESS AGRICULTURE",
     "Brand":"rabe",
     "Adresse1":"20 Rue du Sable",
     "Adresse2":" ",
@@ -3654,7 +3654,7 @@
        "coordinates":  [ 7.0650027,48.8814158 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI MECANIQUE",
+    "Name":"AGRI MECANIQUE",
     "Brand":"gregoire",
     "Adresse1":"1 Rue de la Gare",
     "Adresse2":" ",
@@ -3673,7 +3673,7 @@
        "coordinates":  [ 7.5859622,48.7547984 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRIMAT",
+    "Name":"AGRIMAT",
     "Brand":"gregoire",
     "Adresse1":"35 Route de Strasbourg",
     "Adresse2":" ",
@@ -3692,7 +3692,7 @@
        "coordinates":  [ 7.498889,48.3051938 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SCHNELL RAYMOND SARL",
+    "Name":"SCHNELL RAYMOND SARL",
     "Brand":"rabe",
     "Adresse1":"21 Route nationale",
     "Adresse2":" ",
@@ -3711,7 +3711,7 @@
        "coordinates":  [ 7.6502898,48.7580803 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Bas Rhin motoculture 67 Mommenheim",
+    "Name":"Bas Rhin motoculture 67 Mommenheim",
     "Brand":"rabe",
     "Adresse1":"29 Rue de Haguenau",
     "Adresse2":" ",
@@ -3730,7 +3730,7 @@
        "coordinates":  [ 7.971187,48.90236 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LANG STE D'EXPLOITATION",
+    "Name":"LANG STE D'EXPLOITATION",
     "Brand":"rabe",
     "Adresse1":"Rue Principale",
     "Adresse2":" ",
@@ -3749,7 +3749,7 @@
        "coordinates":  [ 7.116499,47.6303283 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VIRON",
+    "Name":"VIRON",
     "Brand":"rabe",
     "Adresse1":"15 Rue de Belfort",
     "Adresse2":" ",
@@ -3768,7 +3768,7 @@
        "coordinates":  [ 7.1267233,47.6310209 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ALSATERR SARL",
+    "Name":"ALSATERR SARL",
     "Brand":"rabe",
     "Adresse1":"46 Bis Rue de Bâle",
     "Adresse2":" ",
@@ -3787,7 +3787,7 @@
        "coordinates":  [ 7.5374757,48.1155238 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TROMPETER",
+    "Name":"TROMPETER",
     "Brand":"rabe",
     "Adresse1":"4 rue des Vosges",
     "Adresse2":" ",
@@ -3806,7 +3806,7 @@
        "coordinates":  [ 7.4770468,48.1012576 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Schaechtelin et Cie",
+    "Name":"Schaechtelin et Cie",
     "Brand":"gregoire",
     "Adresse1":"40 Rue Principale",
     "Adresse2":" ",
@@ -3825,7 +3825,7 @@
        "coordinates":  [ 7.4245132,47.6915206 ]
     },
     "properties": {
-    "Name of the dealer / importer":"J-F AGI",
+    "Name":"J-F AGI",
     "Brand":"rabe",
     "Adresse1":"ZA Technoparc",
     "Adresse2":"2 Allée de la Hardt",
@@ -3844,7 +3844,7 @@
        "coordinates":  [ 7.2244008,47.8518539 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MULLER 68 (Berrwiller)",
+    "Name":"MULLER 68 (Berrwiller)",
     "Brand":"rabe",
     "Adresse1":"11 Rue des Prés",
     "Adresse2":" ",
@@ -3863,7 +3863,7 @@
        "coordinates":  [ 7.3785294,47.6501932 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FUCHS H",
+    "Name":"FUCHS H",
     "Brand":"gregoire",
     "Adresse1":"19 Rue de Mulhouse",
     "Adresse2":" ",
@@ -3882,7 +3882,7 @@
        "coordinates":  [ 6.164683,47.61666 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PAGOT CAPUS (Vesoul)",
+    "Name":"PAGOT CAPUS (Vesoul)",
     "Brand":"gregoire",
     "Adresse1":"Rue Henri Poincaré",
     "Adresse2":" ",
@@ -3901,7 +3901,7 @@
        "coordinates":  [ 6.0692897,47.4317999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRICULTURE RIOLAISE",
+    "Name":"AGRICULTURE RIOLAISE",
     "Brand":"gregoire",
     "Adresse1":"Zone Artisanale Charrières",
     "Adresse2":" ",
@@ -3920,7 +3920,7 @@
        "coordinates":  [ 5.9295192,47.7999912 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LORA DISTRIBUTION (Gevigney et Mercey)",
+    "Name":"LORA DISTRIBUTION (Gevigney et Mercey)",
     "Brand":"gregoire",
     "Adresse1":"Rue de Jussey",
     "Adresse2":" ",
@@ -3939,7 +3939,7 @@
        "coordinates":  [ 6.2039478,47.8107977 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LORA DISTRIBUTION (Conflans sur Lanterne)",
+    "Name":"LORA DISTRIBUTION (Conflans sur Lanterne)",
     "Brand":"gregoire",
     "Adresse1":"Avenue Parmentier",
     "Adresse2":" ",
@@ -3958,7 +3958,7 @@
        "coordinates":  [ 2.4705556,48.1305154 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LENOBLE",
+    "Name":"LENOBLE",
     "Brand":"rabe",
     "Adresse1":"9 Route de Gaubertin",
     "Adresse2":" ",
@@ -3977,7 +3977,7 @@
        "coordinates":  [ 2.7096247,49.8262184 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Thierart-agri 80 Rosière",
+    "Name":"Thierart-agri 80 Rosière",
     "Brand":"rabe",
     "Adresse1":"ZI Nord",
     "Adresse2":"Avenue du Fossé Pierret",
@@ -3996,7 +3996,7 @@
        "coordinates":  [ 3.0117093,49.7923823 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CBMIH",
+    "Name":"CBMIH",
     "Brand":"rabe",
     "Adresse1":"60 Rue nationale",
     "Adresse2":" ",
@@ -4015,7 +4015,7 @@
        "coordinates":  [ 2.1256306,49.8497116 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Maréchal Philippe",
+    "Name":"Maréchal Philippe",
     "Brand":"rabe",
     "Adresse1":"31 route d'Amiens",
     "Adresse2":" ",
@@ -4034,7 +4034,7 @@
        "coordinates":  [ 4.3713752,49.4034405 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HAS 08 Juniville",
+    "Name":"HAS 08 Juniville",
     "Brand":"rabe",
     "Adresse1":"2 bis route de perthes",
     "Adresse2":" ",
@@ -4053,7 +4053,7 @@
        "coordinates":  [ 6.2182031,48.2192324 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS ANTOINE",
+    "Name":"ETS ANTOINE",
     "Brand":"gregoire",
     "Adresse1":"292 Avenue Lieutenant Guigon",
     "Adresse2":" ",
@@ -4072,7 +4072,7 @@
        "coordinates":  [ 5.6785547,48.3610406 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GARAGE BOULANGER",
+    "Name":"GARAGE BOULANGER",
     "Brand":"gregoire",
     "Adresse1":"ZI des Torrières",
     "Adresse2":" ",
@@ -4091,7 +4091,7 @@
        "coordinates":  [ 5.893117,48.2252747 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS CLAUDE AGRI",
+    "Name":"ETS CLAUDE AGRI",
     "Brand":"gregoire",
     "Adresse1":"251 Rue Machoit",
     "Adresse2":" ",
@@ -4110,7 +4110,7 @@
        "coordinates":  [ 3.2833169,48.1952802 ]
     },
     "properties": {
-    "Name of the dealer / importer":"EUROPAGRI SAS",
+    "Name":"EUROPAGRI SAS",
     "Brand":"gregoire",
     "Adresse1":"3 Ter Rue de la République",
     "Adresse2":" ",
@@ -4129,7 +4129,7 @@
        "coordinates":  [ 7.0829403,47.5622262 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BF AGRI",
+    "Name":"BF AGRI",
     "Brand":"rabe",
     "Adresse1":"38 Rue Principale",
     "Adresse2":" ",
@@ -4148,7 +4148,7 @@
        "coordinates":  [ 5.4582689,45.7984129 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SERRIERES-VITI-AGRI",
+    "Name":"SERRIERES-VITI-AGRI",
     "Brand":"gregoire",
     "Adresse1":"Route de Serrières",
     "Adresse2":" ",
@@ -4167,7 +4167,7 @@
        "coordinates":  [ 4.8062357,46.0282967 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DOMBES-SAVOIE-AGRI",
+    "Name":"DOMBES-SAVOIE-AGRI",
     "Brand":"gregoire",
     "Adresse1":"297 Route de Villeneuve",
     "Adresse2":" ",
@@ -4186,7 +4186,7 @@
        "coordinates":  [ 5.5196351,45.7340549 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUILLERMIN",
+    "Name":"GUILLERMIN",
     "Brand":"gregoire",
     "Adresse1":"Rix",
     "Adresse2":" ",
@@ -4205,7 +4205,7 @@
        "coordinates":  [ 5.0135911,46.1589188 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MUZY",
+    "Name":"MUZY",
     "Brand":"gregoire",
     "Adresse1":"Route de Condeissiat",
     "Adresse2":" ",
@@ -4224,7 +4224,7 @@
        "coordinates":  [ 3.37883,46.350972 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VACHER 03 (St POURCAIN)",
+    "Name":"VACHER 03 (St POURCAIN)",
     "Brand":"gregoire",
     "Adresse1":"Zone artisanale La Carmone",
     "Adresse2":" ",
@@ -4243,7 +4243,7 @@
        "coordinates":  [ 2.9070687,46.5478532 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI MAT SERVICE",
+    "Name":"AGRI MAT SERVICE",
     "Brand":"gregoire",
     "Adresse1":"7 Route de Bourbon",
     "Adresse2":" ",
@@ -4262,7 +4262,7 @@
        "coordinates":  [ 2.6799471,46.3980287 ]
     },
     "properties": {
-    "Name of the dealer / importer":"METROT",
+    "Name":"METROT",
     "Brand":"gregoire",
     "Adresse1":"7 les Audevants",
     "Adresse2":" ",
@@ -4281,7 +4281,7 @@
        "coordinates":  [ 3.0690719,45.024094 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHANSON",
+    "Name":"CHANSON",
     "Brand":"gregoire",
     "Adresse1":"Volzac",
     "Adresse2":" ",
@@ -4300,7 +4300,7 @@
        "coordinates":  [ 2.4762523,45.3362332 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SMA 15",
+    "Name":"SMA 15",
     "Brand":"gregoire",
     "Adresse1":"17 rue des écoles",
     "Adresse2":" ",
@@ -4319,7 +4319,7 @@
        "coordinates":  [ 2.319545,44.936352 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FAURE",
+    "Name":"FAURE",
     "Brand":"gregoire",
     "Adresse1":"ZA DE GARRIGOUX",
     "Adresse2":" ",
@@ -4338,7 +4338,7 @@
        "coordinates":  [ 2.476125,45.003354 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GIRAUDET",
+    "Name":"GIRAUDET",
     "Brand":"gregoire",
     "Adresse1":"La Campagne",
     "Adresse2":" ",
@@ -4357,7 +4357,7 @@
        "coordinates":  [ 2.381238,44.6942227 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LOUBIERE",
+    "Name":"LOUBIERE",
     "Brand":"gregoire",
     "Adresse1":"14 Route de Conques",
     "Adresse2":" ",
@@ -4376,7 +4376,7 @@
        "coordinates":  [ 3.141725,45.131723 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUILLIN",
+    "Name":"GUILLIN",
     "Brand":"gregoire",
     "Adresse1":"Loubinet",
     "Adresse2":" ",
@@ -4395,7 +4395,7 @@
        "coordinates":  [ 2.5342164,46.7218874 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CENTRAGRI 18 (St Amand)",
+    "Name":"CENTRAGRI 18 (St Amand)",
     "Brand":"gregoire",
     "Adresse1":"Route de Charenton",
     "Adresse2":"La Verne de L'Henriette",
@@ -4414,7 +4414,7 @@
        "coordinates":  [ 2.5097894,47.2967669 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HUMEZ 18 (HENRICHEMONT)",
+    "Name":"HUMEZ 18 (HENRICHEMONT)",
     "Brand":"gregoire",
     "Adresse1":"Route d'Achères",
     "Adresse2":" ",
@@ -4433,7 +4433,7 @@
        "coordinates":  [ 2.6442632,47.4585209 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GALLIOT",
+    "Name":"GALLIOT",
     "Brand":"gregoire",
     "Adresse1":"Route Concressault",
     "Adresse2":" ",
@@ -4452,7 +4452,7 @@
        "coordinates":  [ 2.3470143,46.5486476 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARIE",
+    "Name":"MARIE",
     "Brand":"gregoire",
     "Adresse1":"18 Route du Châtelet",
     "Adresse2":" ",
@@ -4471,7 +4471,7 @@
        "coordinates":  [ 2.8597992,47.3389933 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARECHAL 18 (St Satur)",
+    "Name":"MARECHAL 18 (St Satur)",
     "Brand":"gregoire",
     "Adresse1":"58 Rue des Ponts",
     "Adresse2":" ",
@@ -4490,7 +4490,7 @@
        "coordinates":  [ 2.4546765,47.0963525 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CENTRAGRI 18 (ST GERMAIN)",
+    "Name":"CENTRAGRI 18 (ST GERMAIN)",
     "Brand":"gregoire",
     "Adresse1":"Rue de La Sente à Rabot",
     "Adresse2":"Route de La Charité",
@@ -4509,7 +4509,7 @@
        "coordinates":  [ 2.2923162,45.6013257 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BONNET",
+    "Name":"BONNET",
     "Brand":"gregoire",
     "Adresse1":"Daubech",
     "Adresse2":" ",
@@ -4528,7 +4528,7 @@
        "coordinates":  [ 1.416555,45.449974 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHEVALIER 19 (LUBERSAC)",
+    "Name":"CHEVALIER 19 (LUBERSAC)",
     "Brand":"gregoire",
     "Adresse1":"Touvent",
     "Adresse2":" ",
@@ -4547,7 +4547,7 @@
        "coordinates":  [ 1.3206368,45.3240858 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHEVALIER 19 (JUILLAC)",
+    "Name":"CHEVALIER 19 (JUILLAC)",
     "Brand":"gregoire",
     "Adresse1":"Plumoiseau",
     "Adresse2":" ",
@@ -4566,7 +4566,7 @@
        "coordinates":  [ 1.7022215,45.3701924 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JUILLARD CONDAT",
+    "Name":"JUILLARD CONDAT",
     "Brand":"gregoire",
     "Adresse1":"1 chemin de la Valette",
     "Adresse2":" ",
@@ -4585,7 +4585,7 @@
        "coordinates":  [ 4.5782622,47.8694602 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SV PRO",
+    "Name":"SV PRO",
     "Brand":"gregoire",
     "Adresse1":"Avenue du Président Coty",
     "Adresse2":" ",
@@ -4604,7 +4604,7 @@
        "coordinates":  [ 5.1190037,47.3444927 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CLAAS RESEAU AGRICOLE",
+    "Name":"CLAAS RESEAU AGRICOLE",
     "Brand":"gregoire",
     "Adresse1":"Route de Gray",
     "Adresse2":" ",
@@ -4623,7 +4623,7 @@
        "coordinates":  [ 2.4125813,46.1188989 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOUDET",
+    "Name":"BOUDET",
     "Brand":"gregoire",
     "Adresse1":"25 Rue de la Fontaine",
     "Adresse2":" ",
@@ -4642,7 +4642,7 @@
        "coordinates":  [ 1.4671211,46.3545617 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUBRANLE 23 (AZERABLES)",
+    "Name":"DUBRANLE 23 (AZERABLES)",
     "Brand":"gregoire",
     "Adresse1":"86 Rue Grande",
     "Adresse2":"Les Genêts",
@@ -4661,7 +4661,7 @@
        "coordinates":  [ 1.856127,45.996859 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUBRANLE 23 (PONTARION)",
+    "Name":"DUBRANLE 23 (PONTARION)",
     "Brand":"gregoire",
     "Adresse1":"Sous l'Étang",
     "Adresse2":" ",
@@ -4680,7 +4680,7 @@
        "coordinates":  [ 1.7524613,46.1424904 ]
     },
     "properties": {
-    "Name of the dealer / importer":"COURTY",
+    "Name":"COURTY",
     "Brand":"gregoire",
     "Adresse1":"18 Rue de la Gartempe",
     "Adresse2":" ",
@@ -4699,7 +4699,7 @@
        "coordinates":  [ 1.6046584,46.2891117 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARIDAT (23)",
+    "Name":"MARIDAT (23)",
     "Brand":"gregoire",
     "Adresse1":"67 grande rue",
     "Adresse2":" ",
@@ -4718,7 +4718,7 @@
        "coordinates":  [ 6.1352652,46.9547024 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GARNIER",
+    "Name":"GARNIER",
     "Brand":"gregoire",
     "Adresse1":"1 Rue de la Petite Côté",
     "Adresse2":" ",
@@ -4737,7 +4737,7 @@
        "coordinates":  [ 1.713491,46.88092 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRICENTRE",
+    "Name":"AGRICENTRE",
     "Brand":"gregoire",
     "Adresse1":"Route de Coings",
     "Adresse2":" ",
@@ -4756,7 +4756,7 @@
        "coordinates":  [ 1.6685633,46.8192894 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HUMEZ 36 (St MAUR)",
+    "Name":"HUMEZ 36 (St MAUR)",
     "Brand":"gregoire",
     "Adresse1":"217 Avenue de Tours",
     "Adresse2":" ",
@@ -4775,7 +4775,7 @@
        "coordinates":  [ 1.7405152,46.7917955 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VIOUX DUBOIS",
+    "Name":"VIOUX DUBOIS",
     "Brand":"gregoire",
     "Adresse1":"Route de Monluçon",
     "Adresse2":" ",
@@ -4794,7 +4794,7 @@
        "coordinates":  [ 1.4561777,47.1346251 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUBREUIL",
+    "Name":"DUBREUIL",
     "Brand":"gregoire",
     "Adresse1":"Beauvais",
     "Adresse2":" ",
@@ -4813,7 +4813,7 @@
        "coordinates":  [ 2.1379904,46.6301823 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BASTARD",
+    "Name":"BASTARD",
     "Brand":"gregoire",
     "Adresse1":"36 Route de la Châtre",
     "Adresse2":" ",
@@ -4832,7 +4832,7 @@
        "coordinates":  [ 1.3836463,46.6348418 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUPIN (36)",
+    "Name":"DUPIN (36)",
     "Brand":"gregoire",
     "Adresse1":"19 Rue Pierre Vincent",
     "Adresse2":" ",
@@ -4851,7 +4851,7 @@
        "coordinates":  [ 5.4939568,45.3415909 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BONFILS 38 (RENAGE)",
+    "Name":"BONFILS 38 (RENAGE)",
     "Brand":"gregoire",
     "Adresse1":"17 Rue Paul Langevin",
     "Adresse2":" ",
@@ -4870,7 +4870,7 @@
        "coordinates":  [ 5.0412212,45.3248452 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BONFILS BIEVRE SERVICES",
+    "Name":"BONFILS BIEVRE SERVICES",
     "Brand":"gregoire",
     "Adresse1":"ZI PRE-MORNAY 2",
     "Adresse2":" ",
@@ -4889,7 +4889,7 @@
        "coordinates":  [ 5.3150951,45.5836502 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BONFILS 38 (RUY)",
+    "Name":"BONFILS 38 (RUY)",
     "Brand":"gregoire",
     "Adresse1":"7 Impasse de la Vie Étroite",
     "Adresse2":" ",
@@ -4908,7 +4908,7 @@
        "coordinates":  [ 5.2706647,46.9618486 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ROUSSOT",
+    "Name":"ROUSSOT",
     "Brand":"gregoire",
     "Adresse1":"7 route nationale",
     "Adresse2":" ",
@@ -4927,7 +4927,7 @@
        "coordinates":  [ 5.503145,46.941752 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS BRUN ET FILS",
+    "Name":"ETS BRUN ET FILS",
     "Brand":"gregoire",
     "Adresse1":"Route de Lons le Saunier",
     "Adresse2":" ",
@@ -4946,7 +4946,7 @@
        "coordinates":  [ 4.2181971,45.771822 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUYONNET",
+    "Name":"GUYONNET",
     "Brand":"gregoire",
     "Adresse1":"5 rue de l'industrie ZA",
     "Adresse2":" ",
@@ -4965,7 +4965,7 @@
        "coordinates":  [ 4.5697458,45.2953452 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BASTY",
+    "Name":"BASTY",
     "Brand":"gregoire",
     "Adresse1":"La Gare",
     "Adresse2":" ",
@@ -4984,7 +4984,7 @@
        "coordinates":  [ 4.5160568,45.4907501 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PICARD FRERES",
+    "Name":"PICARD FRERES",
     "Brand":"gregoire",
     "Adresse1":"19 Chemin de Peyrard",
     "Adresse2":" ",
@@ -5003,7 +5003,7 @@
        "coordinates":  [ 4.1756717,45.91313 ]
     },
     "properties": {
-    "Name of the dealer / importer":"Jeannet débit",
+    "Name":"Jeannet débit",
     "Brand":"gregoire",
     "Adresse1":"Les Bruyères",
     "Adresse2":" ",
@@ -5022,7 +5022,7 @@
        "coordinates":  [ 4.1917451,45.2757753 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FAUCON",
+    "Name":"FAUCON",
     "Brand":"gregoire",
     "Adresse1":"ZI Chavanon",
     "Adresse2":" ",
@@ -5041,7 +5041,7 @@
        "coordinates":  [ 3.5518281,44.9565859 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ROY ET FILS",
+    "Name":"ROY ET FILS",
     "Brand":"gregoire",
     "Adresse1":"Route du Puy",
     "Adresse2":" ",
@@ -5060,7 +5060,7 @@
        "coordinates":  [ 3.2748298,45.3797661 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AMATHE",
+    "Name":"AMATHE",
     "Brand":"gregoire",
     "Adresse1":"ZI",
     "Adresse2":" ",
@@ -5079,7 +5079,7 @@
        "coordinates":  [ 3.846232,45.3353029 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHAPUIS CHARLES",
+    "Name":"CHAPUIS CHARLES",
     "Brand":"gregoire",
     "Adresse1":"10 Route de Soulagés",
     "Adresse2":" ",
@@ -5098,7 +5098,7 @@
        "coordinates":  [ -1.36199,48.699314 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GARAGE DE CROTZ",
+    "Name":"GARAGE DE CROTZ",
     "Brand":"gregoire",
     "Adresse1":"Crotz",
     "Adresse2":" ",
@@ -5117,7 +5117,7 @@
        "coordinates":  [ 3.1943287,46.998418 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DEPUSSAY 58 (St ELOI)",
+    "Name":"DEPUSSAY 58 (St ELOI)",
     "Brand":"gregoire",
     "Adresse1":"La bardouillère",
     "Adresse2":"13 route de la ZI",
@@ -5136,7 +5136,7 @@
        "coordinates":  [ 3.705013,47.1145799 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AXE EQUIPEMENT 58 (Aunay)",
+    "Name":"AXE EQUIPEMENT 58 (Aunay)",
     "Brand":"gregoire",
     "Adresse1":"Le Bourg",
     "Adresse2":" ",
@@ -5155,7 +5155,7 @@
        "coordinates":  [ 3.58265,47.364377 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SUREAU 58 (TANNAY)",
+    "Name":"SUREAU 58 (TANNAY)",
     "Brand":"gregoire",
     "Adresse1":"Champs de Saint-Didier",
     "Adresse2":" ",
@@ -5174,7 +5174,7 @@
        "coordinates":  [ 3.1297543,47.3749713 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARECHAL 58 (DONZY)",
+    "Name":"MARECHAL 58 (DONZY)",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Belle Étoile",
     "Adresse2":" ",
@@ -5193,7 +5193,7 @@
        "coordinates":  [ 3.29802,45.701273 ]
     },
     "properties": {
-    "Name of the dealer / importer":"REOL",
+    "Name":"REOL",
     "Brand":"gregoire",
     "Adresse1":"Les Patureaux",
     "Adresse2":"Contournat",
@@ -5212,7 +5212,7 @@
        "coordinates":  [ 3.1246585,45.9059353 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VACHER 63 (RIOM)",
+    "Name":"VACHER 63 (RIOM)",
     "Brand":"gregoire",
     "Adresse1":"Zone d'aménagement concerté Layat",
     "Adresse2":" ",
@@ -5231,7 +5231,7 @@
        "coordinates":  [ 3.388328,45.999352 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DIONNET GORSE",
+    "Name":"DIONNET GORSE",
     "Brand":"gregoire",
     "Adresse1":"2 Rue du Beaumont",
     "Adresse2":" ",
@@ -5250,7 +5250,7 @@
        "coordinates":  [ 2.696808,45.857735 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MOUTARDE",
+    "Name":"MOUTARDE",
     "Brand":"gregoire",
     "Adresse1":"Marcoueix",
     "Adresse2":" ",
@@ -5269,7 +5269,7 @@
        "coordinates":  [ 3.265034,45.552786 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ABRAHAM MEYNIEL",
+    "Name":"ABRAHAM MEYNIEL",
     "Brand":"gregoire",
     "Adresse1":"Rue Robert Schumann",
     "Adresse2":" ",
@@ -5288,7 +5288,7 @@
        "coordinates":  [ 4.714048,45.654722 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GRILLON",
+    "Name":"GRILLON",
     "Brand":"gregoire",
     "Adresse1":"164 Route du Pontet",
     "Adresse2":" ",
@@ -5307,7 +5307,7 @@
        "coordinates":  [ 4.4637244,45.6345188 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FAYOLLE",
+    "Name":"FAYOLLE",
     "Brand":"gregoire",
     "Adresse1":"111 le Haut de la Guilletière",
     "Adresse2":" ",
@@ -5326,7 +5326,7 @@
        "coordinates":  [ 4.4902085,45.7578959 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DELORME",
+    "Name":"DELORME",
     "Brand":"gregoire",
     "Adresse1":"La Pierre Noire",
     "Adresse2":" ",
@@ -5345,7 +5345,7 @@
        "coordinates":  [ 4.244365,46.47004 ]
     },
     "properties": {
-    "Name of the dealer / importer":"RAVE",
+    "Name":"RAVE",
     "Brand":"gregoire",
     "Adresse1":"Le Bourg",
     "Adresse2":" ",
@@ -5364,7 +5364,7 @@
        "coordinates":  [ 4.3215399,46.2084567 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CMAC",
+    "Name":"CMAC",
     "Brand":"gregoire",
     "Adresse1":"Route de la Clayette",
     "Adresse2":" ",
@@ -5383,7 +5383,7 @@
        "coordinates":  [ 5.2341026,46.751498 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GAUTHIER",
+    "Name":"GAUTHIER",
     "Brand":"gregoire",
     "Adresse1":"49 Route de Chalon",
     "Adresse2":" ",
@@ -5402,7 +5402,7 @@
        "coordinates":  [ 5.1183461,46.5166145 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DONGUY AGRI 71 (ROMENAY)",
+    "Name":"DONGUY AGRI 71 (ROMENAY)",
     "Brand":"gregoire",
     "Adresse1":"73 La Rippe des Monts",
     "Adresse2":" ",
@@ -5421,7 +5421,7 @@
        "coordinates":  [ 5.079307,46.5873513 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DONGUY AGRI 71 (BRANGES)",
+    "Name":"DONGUY AGRI 71 (BRANGES)",
     "Brand":"gregoire",
     "Adresse1":"Route de Louhans",
     "Adresse2":" ",
@@ -5440,7 +5440,7 @@
        "coordinates":  [ 4.0303173,47.4728963 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BSA",
+    "Name":"BSA",
     "Brand":"gregoire",
     "Adresse1":"12 Rue de la Terre Plaine",
     "Adresse2":" ",
@@ -5459,7 +5459,7 @@
        "coordinates":  [ 6.1112636,45.4607175 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BONFILS - THOUVARD",
+    "Name":"BONFILS - THOUVARD",
     "Brand":"gregoire",
     "Adresse1":"8 Chemin des Chaudannes",
     "Adresse2":" ",
@@ -5478,7 +5478,7 @@
        "coordinates":  [ 5.9633657,45.844396 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SAVOIE-MOTOCULTURE",
+    "Name":"SAVOIE-MOTOCULTURE",
     "Brand":"gregoire",
     "Adresse1":"32 Rue Jean Moulin",
     "Adresse2":" ",
@@ -5497,7 +5497,7 @@
        "coordinates":  [ 6.2982516,46.1794786 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOSSON",
+    "Name":"BOSSON",
     "Brand":"gregoire",
     "Adresse1":"123 Route de la Bergue",
     "Adresse2":" ",
@@ -5516,7 +5516,7 @@
        "coordinates":  [ 5.9833809,45.809302 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BONFILS TERRE DE SAVOIE",
+    "Name":"BONFILS TERRE DE SAVOIE",
     "Brand":"gregoire",
     "Adresse1":"1250 Route d'Annecy",
     "Adresse2":" ",
@@ -5535,7 +5535,7 @@
        "coordinates":  [ 5.8210178,45.9472587 ]
     },
     "properties": {
-    "Name of the dealer / importer":"COMESTAZ",
+    "Name":"COMESTAZ",
     "Brand":"gregoire",
     "Adresse1":"1081 route de la Barotte",
     "Adresse2":"lieu dit Talaud",
@@ -5554,7 +5554,7 @@
        "coordinates":  [ 3.2892332,47.7423726 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DAFP",
+    "Name":"DAFP",
     "Brand":"gregoire",
     "Adresse1":"13 Chemin de Ronde",
     "Adresse2":" ",
@@ -5573,7 +5573,7 @@
        "coordinates":  [ 4.0861134,47.8031209 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOUCHERON 89 (LEZINNES)",
+    "Name":"BOUCHERON 89 (LEZINNES)",
     "Brand":"gregoire",
     "Adresse1":"9 Route nationale",
     "Adresse2":" ",
@@ -5592,7 +5592,7 @@
        "coordinates":  [ 3.922972,47.496251 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SUREAU 89 (AVALLON)",
+    "Name":"SUREAU 89 (AVALLON)",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Croix Verte",
     "Adresse2":" ",
@@ -5611,7 +5611,7 @@
        "coordinates":  [ 3.4766165,48.137473 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DE BRUIN",
+    "Name":"DE BRUIN",
     "Brand":"gregoire",
     "Adresse1":"15 Route de Paris",
     "Adresse2":" ",
@@ -5630,7 +5630,7 @@
        "coordinates":  [ 3.4194322,47.6577067 ]
     },
     "properties": {
-    "Name of the dealer / importer":"OUANNE AGRI",
+    "Name":"OUANNE AGRI",
     "Brand":"gregoire",
     "Adresse1":"22 Rue des Vignes",
     "Adresse2":" ",
@@ -5649,7 +5649,7 @@
        "coordinates":  [ -2.9583553,48.4826975 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LE MOAL",
+    "Name":"LE MOAL",
     "Brand":"gregoire",
     "Adresse1":"14 Rue de Kermaria",
     "Adresse2":" ",
@@ -5668,7 +5668,7 @@
        "coordinates":  [ -3.286909,48.7948021 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LE BOUGEANT",
+    "Name":"LE BOUGEANT",
     "Brand":"gregoire",
     "Adresse1":"Za Kroas Ar Braban",
     "Adresse2":" ",
@@ -5687,7 +5687,7 @@
        "coordinates":  [ -2.4005396,48.193039 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CAMPION",
+    "Name":"CAMPION",
     "Brand":"gregoire",
     "Adresse1":"13 Rue de la Fontaine Saint-Nicolas",
     "Adresse2":" ",
@@ -5706,7 +5706,7 @@
        "coordinates":  [ -2.2930267,48.3435252 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MAT AGRI 22",
+    "Name":"MAT AGRI 22",
     "Brand":"rabe",
     "Adresse1":"Les Dineux",
     "Adresse2":" ",
@@ -5725,7 +5725,7 @@
        "coordinates":  [ -2.793988,48.4807603 ]
     },
     "properties": {
-    "Name of the dealer / importer":"OUEST MOTOCULTURE",
+    "Name":"OUEST MOTOCULTURE",
     "Brand":"gregoire",
     "Adresse1":"3 Rue de la Loge",
     "Adresse2":" ",
@@ -5744,7 +5744,7 @@
        "coordinates":  [ -3.040388,48.750646 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MS EQUIPEMENT 22",
+    "Name":"MS EQUIPEMENT 22",
     "Brand":"gregoire",
     "Adresse1":"Z.A. de Kerfot",
     "Adresse2":" ",
@@ -5763,7 +5763,7 @@
        "coordinates":  [ -4.760807,48.3593647 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FOREST",
+    "Name":"FOREST",
     "Brand":"gregoire",
     "Adresse1":"Route de Brest",
     "Adresse2":" ",
@@ -5782,7 +5782,7 @@
        "coordinates":  [ -4.143285,48.675973 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LE SAOUT",
+    "Name":"LE SAOUT",
     "Brand":"gregoire",
     "Adresse1":"Créac'h Oalec",
     "Adresse2":" ",
@@ -5801,7 +5801,7 @@
        "coordinates":  [ -3.7946262,48.4794334 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOSSEUR",
+    "Name":"BOSSEUR",
     "Brand":"gregoire",
     "Adresse1":"12 Rue de la Libération",
     "Adresse2":" ",
@@ -5820,7 +5820,7 @@
        "coordinates":  [ -3.9867143,48.0042247 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DOUARIN",
+    "Name":"DOUARIN",
     "Brand":"gregoire",
     "Adresse1":"Route de Kerdevot",
     "Adresse2":" ",
@@ -5839,7 +5839,7 @@
        "coordinates":  [ -4.02739,48.1049438 ]
     },
     "properties": {
-    "Name of the dealer / importer":"L'ARMORICAINE",
+    "Name":"L'ARMORICAINE",
     "Brand":"rabe",
     "Adresse1":"1 Bis Z.A. de Lumunoch",
     "Adresse2":" ",
@@ -5858,7 +5858,7 @@
        "coordinates":  [ -4.0760817,48.1044837 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LE BERRE",
+    "Name":"LE BERRE",
     "Brand":"gregoire",
     "Adresse1":"8 Moulin du Lay",
     "Adresse2":" ",
@@ -5877,7 +5877,7 @@
        "coordinates":  [ -4.2356273,48.1507184 ]
     },
     "properties": {
-    "Name of the dealer / importer":"EMEDY",
+    "Name":"EMEDY",
     "Brand":"gregoire",
     "Adresse1":"Toul Fil",
     "Adresse2":" ",
@@ -5896,7 +5896,7 @@
        "coordinates":  [ -4.2363012,48.4325604 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOFIMAT",
+    "Name":"SOFIMAT",
     "Brand":"gregoire",
     "Adresse1":"Keravel",
     "Adresse2":" ",
@@ -5915,7 +5915,7 @@
        "coordinates":  [ -4.3490543,48.6441859 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CORLOSQUET",
+    "Name":"CORLOSQUET",
     "Brand":"gregoire",
     "Adresse1":"D10 - Kéradennec",
     "Adresse2":" ",
@@ -5934,7 +5934,7 @@
        "coordinates":  [ -1.7482876,48.5430363 ]
     },
     "properties": {
-    "Name of the dealer / importer":"WERSCHUREN",
+    "Name":"WERSCHUREN",
     "Brand":"gregoire",
     "Adresse1":"49 Rue Pierre Semar",
     "Adresse2":" ",
@@ -5953,7 +5953,7 @@
        "coordinates":  [ -1.7061027,48.0246631 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GRUEL",
+    "Name":"GRUEL",
     "Brand":"gregoire",
     "Adresse1":"Pont de la Seiche",
     "Adresse2":" ",
@@ -5972,7 +5972,7 @@
        "coordinates":  [ -1.932941,48.179502 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BDAGRI",
+    "Name":"BDAGRI",
     "Brand":"gregoire",
     "Adresse1":"z a la touche",
     "Adresse2":"Rue de Rennes",
@@ -5991,7 +5991,7 @@
        "coordinates":  [ -1.3089646,48.2955717 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LEBOSSE",
+    "Name":"LEBOSSE",
     "Brand":"gregoire",
     "Adresse1":"Le Haut du Champ",
     "Adresse2":" ",
@@ -6010,7 +6010,7 @@
        "coordinates":  [ -1.543023,47.979188 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AJIMATERIEL",
+    "Name":"AJIMATERIEL",
     "Brand":"gregoire",
     "Adresse1":"La Houzais",
     "Adresse2":" ",
@@ -6029,7 +6029,7 @@
        "coordinates":  [ -1.370221,47.896629 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BELLOIR",
+    "Name":"BELLOIR",
     "Brand":"gregoire",
     "Adresse1":"za Bellevue-Le Houssay",
     "Adresse2":"1 impasse André Citroën",
@@ -6048,7 +6048,7 @@
        "coordinates":  [ -1.6779048,47.8676606 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GREFFIER",
+    "Name":"GREFFIER",
     "Brand":"gregoire",
     "Adresse1":"102 Rue de Rennes",
     "Adresse2":" ",
@@ -6067,7 +6067,7 @@
        "coordinates":  [ -1.4707425,48.4525933 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ets champion",
+    "Name":"ets champion",
     "Brand":"gregoire",
     "Adresse1":"Le Vivier",
     "Adresse2":" ",
@@ -6086,7 +6086,7 @@
        "coordinates":  [ -1.7787757,48.1443511 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CBM CLOUARD",
+    "Name":"CBM CLOUARD",
     "Brand":"gregoire",
     "Adresse1":"21 Boulevard Nominoë",
     "Adresse2":" ",
@@ -6105,7 +6105,7 @@
        "coordinates":  [ -0.5891897,48.0105924 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GRANDIN",
+    "Name":"GRANDIN",
     "Brand":"gregoire",
     "Adresse1":"Zone artisanale du Clos Macé",
     "Adresse2":" ",
@@ -6124,7 +6124,7 @@
        "coordinates":  [ -0.5494009,47.9566704 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MECANIC2000",
+    "Name":"MECANIC2000",
     "Brand":"gregoire",
     "Adresse1":"La Guiternière",
     "Adresse2":" ",
@@ -6143,7 +6143,7 @@
        "coordinates":  [ -0.913988,47.942573 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BRETAGRI",
+    "Name":"BRETAGRI",
     "Brand":"gregoire",
     "Adresse1":"61 Rue de Nantes",
     "Adresse2":" ",
@@ -6162,7 +6162,7 @@
        "coordinates":  [ -0.6289233,48.4151322 ]
     },
     "properties": {
-    "Name of the dealer / importer":"POTTIER",
+    "Name":"POTTIER",
     "Brand":"gregoire",
     "Adresse1":"43 Rue de Montaton",
     "Adresse2":" ",
@@ -6181,7 +6181,7 @@
        "coordinates":  [ -1.04263,47.892276 ]
     },
     "properties": {
-    "Name of the dealer / importer":"HAUBOIS BRIERE",
+    "Name":"HAUBOIS BRIERE",
     "Brand":"gregoire",
     "Adresse1":"14 Route de Craon",
     "Adresse2":" ",
@@ -6200,7 +6200,7 @@
        "coordinates":  [ -0.377683,48.190629 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DURET (Ste Gemmes)",
+    "Name":"DURET (Ste Gemmes)",
     "Brand":"gregoire",
     "Adresse1":"Z.A. des Ormes",
     "Adresse2":" ",
@@ -6219,7 +6219,7 @@
        "coordinates":  [ -2.3655579,47.810251 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LE NORMAND",
+    "Name":"LE NORMAND",
     "Brand":"gregoire",
     "Adresse1":"La Garmanière",
     "Adresse2":" ",
@@ -6238,7 +6238,7 @@
        "coordinates":  [ -2.3568583,47.6381937 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GUILLO",
+    "Name":"GUILLO",
     "Brand":"rabe",
     "Adresse1":"19 Rue de la Mairie",
     "Adresse2":" ",
@@ -6257,7 +6257,7 @@
        "coordinates":  [ -2.960657,48.041781 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BERNARD 56",
+    "Name":"BERNARD 56",
     "Brand":"gregoire",
     "Adresse1":"38 Rue Colbert",
     "Adresse2":" ",
@@ -6276,7 +6276,7 @@
        "coordinates":  [ -2.963796,48.038096 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MS EQUIPEMENT 56",
+    "Name":"MS EQUIPEMENT 56",
     "Brand":"gregoire",
     "Adresse1":"2 Rue de Signan",
     "Adresse2":" ",
@@ -6295,7 +6295,7 @@
        "coordinates":  [ -2.826601,47.9394289 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AUDO",
+    "Name":"AUDO",
     "Brand":"gregoire",
     "Adresse1":"La croix blanche",
     "Adresse2":" ",
@@ -6314,7 +6314,7 @@
        "coordinates":  [ -2.8020733,47.9431357 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LAMOUR",
+    "Name":"LAMOUR",
     "Brand":"gregoire",
     "Adresse1":"D180",
     "Adresse2":" ",
@@ -6333,7 +6333,7 @@
        "coordinates":  [ -2.9223508,48.0944666 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOMIA",
+    "Name":"SOMIA",
     "Brand":"gregoire",
     "Adresse1":"Joli Coeur",
     "Adresse2":" ",
@@ -6352,7 +6352,7 @@
        "coordinates":  [ 5.7826214,43.8337993 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BLANC ET ROCHEBOIS 04",
+    "Name":"BLANC ET ROCHEBOIS 04",
     "Brand":"group",
     "Adresse1":"Place de l'Hôtel de ville",
     "Adresse2":" ",
@@ -6371,7 +6371,7 @@
        "coordinates":  [ 6.1075145,43.8422067 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BORDA",
+    "Name":"BORDA",
     "Brand":"gregoire",
     "Adresse1":"Route de Digne",
     "Adresse2":" ",
@@ -6390,7 +6390,7 @@
        "coordinates":  [ 5.9069947,43.9225397 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NOVA 04",
+    "Name":"NOVA 04",
     "Brand":"gregoire",
     "Adresse1":"Rue Font De Durance",
     "Adresse2":" ",
@@ -6409,7 +6409,7 @@
        "coordinates":  [ 5.8911898,43.9230003 ]
     },
     "properties": {
-    "Name of the dealer / importer":"S.A.M.A. (Oraison)",
+    "Name":"S.A.M.A. (Oraison)",
     "Brand":"gregoire",
     "Adresse1":"Zone artisanale",
     "Adresse2":" ",
@@ -6428,7 +6428,7 @@
        "coordinates":  [ 6.0432013,44.5118935 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NOVA 05 (Gap)",
+    "Name":"NOVA 05 (Gap)",
     "Brand":"gregoire",
     "Adresse1":"ZA Ouest",
     "Adresse2":"Plaine de Lachaup",
@@ -6447,7 +6447,7 @@
        "coordinates":  [ 5.952943,44.410578 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ALPES-OCCASIONS-SERVICE",
+    "Name":"ALPES-OCCASIONS-SERVICE",
     "Brand":"gregoire",
     "Adresse1":"Plan de Vitrolles",
     "Adresse2":" ",
@@ -6466,7 +6466,7 @@
        "coordinates":  [ 4.645106,44.893344 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VERNOUX-MOTOCULTURE",
+    "Name":"VERNOUX-MOTOCULTURE",
     "Brand":"gregoire",
     "Adresse1":"Rue de l'Hôpital",
     "Adresse2":" ",
@@ -6485,7 +6485,7 @@
        "coordinates":  [ 4.686735,45.189345 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PEILLET 07",
+    "Name":"PEILLET 07",
     "Brand":"gregoire",
     "Adresse1":"Le village",
     "Adresse2":" ",
@@ -6504,7 +6504,7 @@
        "coordinates":  [ 4.5532689,44.4810016 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SEDEC",
+    "Name":"SEDEC",
     "Brand":"gregoire",
     "Adresse1":"Intras",
     "Adresse2":" ",
@@ -6523,7 +6523,7 @@
        "coordinates":  [ 1.6244942,43.0951625 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARCHAND",
+    "Name":"MARCHAND",
     "Brand":"gregoire",
     "Adresse1":"23 Avenue des Pyrénées RN 20",
     "Adresse2":" ",
@@ -6542,7 +6542,7 @@
        "coordinates":  [ 2.7888484,43.205313 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CALVET SA",
+    "Name":"CALVET SA",
     "Brand":"gregoire",
     "Adresse1":"Route nationale 113 rte Narbonne",
     "Adresse2":" ",
@@ -6561,7 +6561,7 @@
        "coordinates":  [ 2.081501,44.335628 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LAGARRIGUE (Morlon)",
+    "Name":"LAGARRIGUE (Morlon)",
     "Brand":"gregoire",
     "Adresse1":"Le Pouget",
     "Adresse2":" ",
@@ -6580,7 +6580,7 @@
        "coordinates":  [ 2.8137221,43.8900117 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CAUQUIL",
+    "Name":"CAUQUIL",
     "Brand":"rabe",
     "Adresse1":"1907 Le Moulin Neuf",
     "Adresse2":" ",
@@ -6599,7 +6599,7 @@
        "coordinates":  [ 2.776193,43.875636 ]
     },
     "properties": {
-    "Name of the dealer / importer":"POLYMAT",
+    "Name":"POLYMAT",
     "Brand":"gregoire",
     "Adresse1":"Saint Pierre",
     "Adresse2":" ",
@@ -6618,7 +6618,7 @@
        "coordinates":  [ 2.853744,44.198784 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MARTIN Ets",
+    "Name":"MARTIN Ets",
     "Brand":"gregoire",
     "Adresse1":"route des artisans",
     "Adresse2":" ",
@@ -6637,7 +6637,7 @@
        "coordinates":  [ 2.558443,44.314825 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LAGARRIGUE (La Primaude)",
+    "Name":"LAGARRIGUE (La Primaude)",
     "Brand":"gregoire",
     "Adresse1":"Les Cazals",
     "Adresse2":" ",
@@ -6656,7 +6656,7 @@
        "coordinates":  [ 2.515446,44.286738 ]
     },
     "properties": {
-    "Name of the dealer / importer":"OCCAMAT",
+    "Name":"OCCAMAT",
     "Brand":"gregoire",
     "Adresse1":"Les Molinieres",
     "Adresse2":" ",
@@ -6675,7 +6675,7 @@
        "coordinates":  [ 5.4293368,43.2813214 ]
     },
     "properties": {
-    "Name of the dealer / importer":"S.A.M.A. (Lazer)",
+    "Name":"S.A.M.A. (Lazer)",
     "Brand":"gregoire",
     "Adresse1":"Les Résolues",
     "Adresse2":" ",
@@ -6694,7 +6694,7 @@
        "coordinates":  [ 4.59685,43.678661 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NOVA 13 (Arles)",
+    "Name":"NOVA 13 (Arles)",
     "Brand":"gregoire",
     "Adresse1":"Chemin de Séverin",
     "Adresse2":" ",
@@ -6713,7 +6713,7 @@
        "coordinates":  [ 5.3170485,43.6127229 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NOVA 13 (St Cannnat)",
+    "Name":"NOVA 13 (St Cannnat)",
     "Brand":"gregoire",
     "Adresse1":"514. Avenue Jean Monnet - ZAE La Pile Budéou",
     "Adresse2":"",
@@ -6732,7 +6732,7 @@
        "coordinates":  [ 9.4103587,42.0227689 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOCODIMAT",
+    "Name":"SOCODIMAT",
     "Brand":"gregoire",
     "Adresse1":"1725 Avenue du 9 Septembre",
     "Adresse2":" ",
@@ -6751,7 +6751,7 @@
        "coordinates":  [ 5.0473314,45.0474665 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PEILLET 26 (Romans)",
+    "Name":"PEILLET 26 (Romans)",
     "Brand":"gregoire",
     "Adresse1":"ZI le Grand Chasse",
     "Adresse2":" ",
@@ -6770,7 +6770,7 @@
        "coordinates":  [ 5.0801344,44.9126307 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BROTTES",
+    "Name":"BROTTES",
     "Brand":"gregoire",
     "Adresse1":"150 Grangeneuve",
     "Adresse2":" ",
@@ -6789,7 +6789,7 @@
        "coordinates":  [ 4.885645,45.2946389 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SRV FOMBONNE",
+    "Name":"SRV FOMBONNE",
     "Brand":"gregoire",
     "Adresse1":"La Brûla",
     "Adresse2":" ",
@@ -6808,7 +6808,7 @@
        "coordinates":  [ 5.4157414,44.6571894 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GAUTHIER AGRICULTURE",
+    "Name":"GAUTHIER AGRICULTURE",
     "Brand":"gregoire",
     "Adresse1":"La Condamine",
     "Adresse2":" ",
@@ -6827,7 +6827,7 @@
        "coordinates":  [ 5.0712216,45.2198949 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DURAND",
+    "Name":"DURAND",
     "Brand":"gregoire",
     "Adresse1":"Le Village",
     "Adresse2":" ",
@@ -6846,7 +6846,7 @@
        "coordinates":  [ 5.0352994,44.7230574 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PEILLET 26 (Crest)",
+    "Name":"PEILLET 26 (Crest)",
     "Brand":"gregoire",
     "Adresse1":"Quartier Mazore",
     "Adresse2":" ",
@@ -6865,7 +6865,7 @@
        "coordinates":  [ 4.8662664,45.015941 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TRANCHARD",
+    "Name":"TRANCHARD",
     "Brand":"group",
     "Adresse1":"zac les vinays rue pierre de Gilles",
     "Adresse2":" ",
@@ -6884,7 +6884,7 @@
        "coordinates":  [ 4.711785,44.056545 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NOVA 30 (St laurent)",
+    "Name":"NOVA 30 (St laurent)",
     "Brand":"gregoire",
     "Adresse1":"214 Rue des Mourvèdres",
     "Adresse2":" ",
@@ -6903,7 +6903,7 @@
        "coordinates":  [ 4.1076659,44.0929748 ]
     },
     "properties": {
-    "Name of the dealer / importer":"NOVA 30 (St Hilaire)",
+    "Name":"NOVA 30 (St Hilaire)",
     "Brand":"gregoire",
     "Adresse1":"1660 Route de Nîmes",
     "Adresse2":" ",
@@ -6922,7 +6922,7 @@
        "coordinates":  [ 1.4361798,43.3647367 ]
     },
     "properties": {
-    "Name of the dealer / importer":"T3M LAVAIL",
+    "Name":"T3M LAVAIL",
     "Brand":"rabe",
     "Adresse1":"ZI Pompignal",
     "Adresse2":" ",
@@ -6941,7 +6941,7 @@
        "coordinates":  [ 2.1952,43.464646 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MOTOCULTURE REVELOISE",
+    "Name":"MOTOCULTURE REVELOISE",
     "Brand":"gregoire",
     "Adresse1":"Chemin du Petit Train",
     "Adresse2":" ",
@@ -6960,7 +6960,7 @@
        "coordinates":  [ 1.2003181,43.2566187 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AMTP CAVAILLEZ",
+    "Name":"AMTP CAVAILLEZ",
     "Brand":"rabe",
     "Adresse1":"Rue Mirepoix",
     "Adresse2":" ",
@@ -6979,7 +6979,7 @@
        "coordinates":  [ 1.1274319,43.4129488 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VIDAL (Rieumes)",
+    "Name":"VIDAL (Rieumes)",
     "Brand":"gregoire",
     "Adresse1":"25 Route de Poucharramet",
     "Adresse2":" ",
@@ -6998,7 +6998,7 @@
        "coordinates":  [ 1.5285866,43.7654059 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI EQUIPEMENT",
+    "Name":"AGRI EQUIPEMENT",
     "Brand":"gregoire",
     "Adresse1":"Route de Toulouse",
     "Adresse2":"Varennes",
@@ -7017,7 +7017,7 @@
        "coordinates":  [ -0.098043,43.7477324 ]
     },
     "properties": {
-    "Name of the dealer / importer":"EUROSAMA",
+    "Name":"EUROSAMA",
     "Brand":"gregoire",
     "Adresse1":"Rte Dept 931",
     "Adresse2":" ",
@@ -7036,7 +7036,7 @@
        "coordinates":  [ 0.8800944,43.6142567 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SOUMEILLAN sarl",
+    "Name":"SOUMEILLAN sarl",
     "Brand":"gregoire",
     "Adresse1":"Route de Samatan",
     "Adresse2":" ",
@@ -7055,7 +7055,7 @@
        "coordinates":  [ 0.9208412,43.4674945 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MONTAUT et Fils",
+    "Name":"MONTAUT et Fils",
     "Brand":"gregoire",
     "Adresse1":"ZA La Romondière",
     "Adresse2":" ",
@@ -7074,7 +7074,7 @@
        "coordinates":  [ -0.14963,43.902684 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LAPORTE (32)",
+    "Name":"LAPORTE (32)",
     "Brand":"gregoire",
     "Adresse1":"Village",
     "Adresse2":" ",
@@ -7093,7 +7093,7 @@
        "coordinates":  [ 0.3383718,43.5789399 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS LASPORTES",
+    "Name":"ETS LASPORTES",
     "Brand":"gregoire",
     "Adresse1":"A Barres",
     "Adresse2":" ",
@@ -7112,7 +7112,7 @@
        "coordinates":  [ 0.550421,43.813659 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS VIVES",
+    "Name":"ETS VIVES",
     "Brand":"gregoire",
     "Adresse1":"Village",
     "Adresse2":" ",
@@ -7131,7 +7131,7 @@
        "coordinates":  [ 0.649347,44.01589 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS GRISO",
+    "Name":"ETS GRISO",
     "Brand":"gregoire",
     "Adresse1":"Lieu-dit La Bourdasse",
     "Adresse2":" ",
@@ -7150,7 +7150,7 @@
        "coordinates":  [ -0.181451,44.662149 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI'LOCC",
+    "Name":"AGRI'LOCC",
     "Brand":"gregoire",
     "Adresse1":"Rue de la Vallée",
     "Adresse2":" ",
@@ -7169,7 +7169,7 @@
        "coordinates":  [ -0.7215904,44.7664841 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI 33",
+    "Name":"AGRI 33",
     "Brand":"gregoire",
     "Adresse1":"1 Chemin d'Arnauton",
     "Adresse2":" ",
@@ -7188,7 +7188,7 @@
        "coordinates":  [ 3.1471458,43.2963352 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MATHA",
+    "Name":"MATHA",
     "Brand":"gregoire",
     "Adresse1":"Route Narbonne RN 113/9",
     "Adresse2":" ",
@@ -7207,7 +7207,7 @@
        "coordinates":  [ -1.023566,43.6987411 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ADOUR MOTOCULTURE (Narosse)",
+    "Name":"ADOUR MOTOCULTURE (Narosse)",
     "Brand":"gregoire",
     "Adresse1":"79 Route des Pyrénées",
     "Adresse2":" ",
@@ -7226,7 +7226,7 @@
        "coordinates":  [ -1.0299718,43.706422 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUVIGNAU",
+    "Name":"DUVIGNAU",
     "Brand":"gregoire",
     "Adresse1":"Route de Montfort",
     "Adresse2":" ",
@@ -7245,7 +7245,7 @@
        "coordinates":  [ -0.9263173,44.2065701 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI 40",
+    "Name":"AGRI 40",
     "Brand":"gregoire",
     "Adresse1":"Rue Jean Jaurès",
     "Adresse2":" ",
@@ -7264,7 +7264,7 @@
        "coordinates":  [ -1.1325145,43.5523638 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ADOUR MOTOCULTURE (Peyrehorade)",
+    "Name":"ADOUR MOTOCULTURE (Peyrehorade)",
     "Brand":"gregoire",
     "Adresse1":"70 Rue Marcel Molter",
     "Adresse2":" ",
@@ -7283,7 +7283,7 @@
        "coordinates":  [ -0.5678697,43.7744911 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ST SEVER AGRICULTURE",
+    "Name":"ST SEVER AGRICULTURE",
     "Brand":"gregoire",
     "Adresse1":"Route de Mont de Marsan",
     "Adresse2":" ",
@@ -7302,7 +7302,7 @@
        "coordinates":  [ 1.925497,44.728024 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LAGARRIGUE (Lacapelle)",
+    "Name":"LAGARRIGUE (Lacapelle)",
     "Brand":"gregoire",
     "Adresse1":"Zone artisanale",
     "Adresse2":" ",
@@ -7321,7 +7321,7 @@
        "coordinates":  [ 0.1196158,44.5183308 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI 47 (Ste Bazeille)",
+    "Name":"AGRI 47 (Ste Bazeille)",
     "Brand":"gregoire",
     "Adresse1":"Les Pièces Hautes",
     "Adresse2":"D813",
@@ -7340,7 +7340,7 @@
        "coordinates":  [ 0.210008,44.503221 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TONON (Virazeil)",
+    "Name":"TONON (Virazeil)",
     "Brand":"gregoire",
     "Adresse1":"Lanauze",
     "Adresse2":" ",
@@ -7359,7 +7359,7 @@
        "coordinates":  [ 0.701235,44.569393 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LOMPECH",
+    "Name":"LOMPECH",
     "Brand":"gregoire",
     "Adresse1":"Saint Vivien",
     "Adresse2":" ",
@@ -7378,7 +7378,7 @@
        "coordinates":  [ 0.6816783,44.1789718 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRI 47 (Bon encontre)",
+    "Name":"AGRI 47 (Bon encontre)",
     "Brand":"gregoire",
     "Adresse1":"2 Rue Louis Armand",
     "Adresse2":" ",
@@ -7397,7 +7397,7 @@
        "coordinates":  [ 0.6866603,44.1722089 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TONON (Pont du Casse)",
+    "Name":"TONON (Pont du Casse)",
     "Brand":"gregoire",
     "Adresse1":"Z-A Carbouneres",
     "Adresse2":"route du Canal",
@@ -7416,7 +7416,7 @@
        "coordinates":  [ 0.453729,44.627366 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TONON (Lauzun)",
+    "Name":"TONON (Lauzun)",
     "Brand":"gregoire",
     "Adresse1":"Avenue Miramont",
     "Adresse2":" ",
@@ -7435,7 +7435,7 @@
        "coordinates":  [ 3.278571,44.8041984 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GIRAL MOTOCULTURE",
+    "Name":"GIRAL MOTOCULTURE",
     "Brand":"gregoire",
     "Adresse1":"19 Rue de la Chicane",
     "Adresse2":" ",
@@ -7454,7 +7454,7 @@
        "coordinates":  [ 3.447547,44.650929 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TERRISSON (Saint Amans)",
+    "Name":"TERRISSON (Saint Amans)",
     "Brand":"gregoire",
     "Adresse1":"Avenue Ampère - ZI de l'Erette",
     "Adresse2":" ",
@@ -7473,7 +7473,7 @@
        "coordinates":  [ -1.014423,43.333208 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MOTOCULTURE BASCO BEARNAISE",
+    "Name":"MOTOCULTURE BASCO BEARNAISE",
     "Brand":"gregoire",
     "Adresse1":"1354 RD 933 - Route de Sauveterre",
     "Adresse2":" ",
@@ -7492,7 +7492,7 @@
        "coordinates":  [ -0.1277776,43.3249566 ]
     },
     "properties": {
-    "Name of the dealer / importer":"GRABE BIDAU (Lombia)",
+    "Name":"GRABE BIDAU (Lombia)",
     "Brand":"gregoire",
     "Adresse1":"Chemin Milhe",
     "Adresse2":" ",
@@ -7511,7 +7511,7 @@
        "coordinates":  [ -0.5639867,43.393722 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MBB",
+    "Name":"MBB",
     "Brand":"gregoire",
     "Adresse1":"136 Avenue de la République",
     "Adresse2":" ",
@@ -7530,7 +7530,7 @@
        "coordinates":  [ -0.7569584,43.3221446 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DUPLAA",
+    "Name":"DUPLAA",
     "Brand":"gregoire",
     "Adresse1":"Avenue d'Orthez",
     "Adresse2":" ",
@@ -7549,7 +7549,7 @@
        "coordinates":  [ -0.7957043,43.5202999 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CHRESTIA",
+    "Name":"CHRESTIA",
     "Brand":"gregoire",
     "Adresse1":"1070 Route d'Orthez",
     "Adresse2":" ",
@@ -7568,7 +7568,7 @@
        "coordinates":  [ -0.097376,43.5489261 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ST MARTIN",
+    "Name":"ST MARTIN",
     "Brand":"gregoire",
     "Adresse1":"2 chemin Tillet",
     "Adresse2":" ",
@@ -7587,7 +7587,7 @@
        "coordinates":  [ 0.33954,43.32258 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BAUTE",
+    "Name":"BAUTE",
     "Brand":"gregoire",
     "Adresse1":"Village",
     "Adresse2":" ",
@@ -7606,7 +7606,7 @@
        "coordinates":  [ -0.1204542,43.2505628 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BOURDA-VERGEZ",
+    "Name":"BOURDA-VERGEZ",
     "Brand":"gregoire",
     "Adresse1":"6 D817",
     "Adresse2":" ",
@@ -7625,7 +7625,7 @@
        "coordinates":  [ -0.0199087,43.5111743 ]
     },
     "properties": {
-    "Name of the dealer / importer":"VERDIER",
+    "Name":"VERDIER",
     "Brand":"gregoire",
     "Adresse1":"38 Route de la Gare",
     "Adresse2":" ",
@@ -7644,7 +7644,7 @@
        "coordinates":  [ 2.8327035,42.5326696 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS GALY",
+    "Name":"ETS GALY",
     "Brand":"gregoire",
     "Adresse1":"15 bis Rue des Vignes",
     "Adresse2":" ",
@@ -7663,7 +7663,7 @@
        "coordinates":  [ 2.1635803,43.5136629 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SEGUIER FOULQUIER",
+    "Name":"SEGUIER FOULQUIER",
     "Brand":"gregoire",
     "Adresse1":"Catelane",
     "Adresse2":" ",
@@ -7682,7 +7682,7 @@
        "coordinates":  [ 2.190527,43.827452 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BORIES EQUIPEMENT",
+    "Name":"BORIES EQUIPEMENT",
     "Brand":"gregoire",
     "Adresse1":"Mousquette",
     "Adresse2":"RD612 - Dénat",
@@ -7701,7 +7701,7 @@
        "coordinates":  [ 2.1634467,43.8922159 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ALBI Motoculture",
+    "Name":"ALBI Motoculture",
     "Brand":"gregoire",
     "Adresse1":"10 Rue Pasteur",
     "Adresse2":" ",
@@ -7720,7 +7720,7 @@
        "coordinates":  [ 1.088553,44.1706379 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FREJABISE (Montesquieu)",
+    "Name":"FREJABISE (Montesquieu)",
     "Brand":"gregoire",
     "Adresse1":"Cigalou",
     "Adresse2":" ",
@@ -7739,7 +7739,7 @@
        "coordinates":  [ 1.5513844,44.161749 ]
     },
     "properties": {
-    "Name of the dealer / importer":"LAGARRIGUE (Monteils)",
+    "Name":"LAGARRIGUE (Monteils)",
     "Brand":"gregoire",
     "Adresse1":"72 Avenue des Lumières",
     "Adresse2":" ",
@@ -7758,7 +7758,7 @@
        "coordinates":  [ 1.3147209,43.9134171 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FREJABISE (Labastide)",
+    "Name":"FREJABISE (Labastide)",
     "Brand":"gregoire",
     "Adresse1":"Rue de Trévise",
     "Adresse2":" ",
@@ -7777,7 +7777,7 @@
        "coordinates":  [ 6.0325888,43.4085869 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BLANC ET ROCHEBOIS 83",
+    "Name":"BLANC ET ROCHEBOIS 83",
     "Brand":"gregoire",
     "Adresse1":"RN 7 - Route d'Aix CS20095",
     "Adresse2":" ",
@@ -7796,7 +7796,7 @@
        "coordinates":  [ 5.886374,43.450558 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JANSOULIN 83 (St Maximin)",
+    "Name":"JANSOULIN 83 (St Maximin)",
     "Brand":"gregoire",
     "Adresse1":"Route de Bras",
     "Adresse2":"Quartier Bonneval",
@@ -7815,7 +7815,7 @@
        "coordinates":  [ 6.4094041,43.4055236 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JANSOULIN 83 (Vidauban)",
+    "Name":"JANSOULIN 83 (Vidauban)",
     "Brand":"gregoire",
     "Adresse1":"303 Chemin de Ramatuelle",
     "Adresse2":" ",
@@ -7834,7 +7834,7 @@
        "coordinates":  [ 5.7606665,43.1958607 ]
     },
     "properties": {
-    "Name of the dealer / importer":"JANSOULIN 83 (La Cadière)",
+    "Name":"JANSOULIN 83 (La Cadière)",
     "Brand":"gregoire",
     "Adresse1":"342 Chemin Beaumes",
     "Adresse2":" ",
@@ -7853,7 +7853,7 @@
        "coordinates":  [ 4.9178921,44.0041544 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FOSSATI",
+    "Name":"FOSSATI",
     "Brand":"gregoire",
     "Adresse1":"465 Route de Sorgues",
     "Adresse2":" ",
@@ -7872,7 +7872,7 @@
        "coordinates":  [ 4.709396,44.263137 ]
     },
     "properties": {
-    "Name of the dealer / importer":"PEILLET 84",
+    "Name":"PEILLET 84",
     "Brand":"gregoire",
     "Adresse1":"Le Cairon",
     "Adresse2":" ",
@@ -7891,7 +7891,7 @@
        "coordinates":  [ 2.1768952,43.7705707 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRICAT",
+    "Name":"AGRICAT",
     "Brand":"gregoire",
     "Adresse1":"Route de Graulhet",
     "Adresse2":" ",
@@ -7910,7 +7910,7 @@
        "coordinates":  [ 4.7788606,50.6361189 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS FADEUR",
+    "Name":"ETS FADEUR",
     "Brand":"gregoire",
     "Adresse1":"Rue Chapelle à la Barre 99/B",
     "Adresse2":" ",
@@ -7929,7 +7929,7 @@
        "coordinates":  [ 3.3442604,49.3909613 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ITT VIMO (Soisson)",
+    "Name":"ITT VIMO (Soisson)",
     "Brand":"gregoire",
     "Adresse1":"36 Rue Abélard",
     "Adresse2":" ",
@@ -7948,7 +7948,7 @@
        "coordinates":  [ 3.1797343,49.4085268 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS REBEROT",
+    "Name":"ETS REBEROT",
     "Brand":"rabe",
     "Adresse1":"Rue de Vic sur Aisne",
     "Adresse2":" ",
@@ -7967,7 +7967,7 @@
        "coordinates":  [ 3.4407186,49.0390862 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS PUBLIER",
+    "Name":"ETS PUBLIER",
     "Brand":"rabe",
     "Adresse1":"1 Route nationale",
     "Adresse2":" ",
@@ -7986,7 +7986,7 @@
        "coordinates":  [ 3.5352251,50.2492075 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AVESNOIS MOTOCULTURE",
+    "Name":"AVESNOIS MOTOCULTURE",
     "Brand":"rabe",
     "Adresse1":"Rue du Tordoir",
     "Adresse2":" ",
@@ -8005,7 +8005,7 @@
        "coordinates":  [ 2.2620819,50.9171355 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FLANDRE MOTOCULTURE",
+    "Name":"FLANDRE MOTOCULTURE",
     "Brand":"rabe",
     "Adresse1":"470 Route de Bourbourg",
     "Adresse2":" ",
@@ -8024,7 +8024,7 @@
        "coordinates":  [ 3.4831796,50.1904706 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SARL NORD AGRI",
+    "Name":"SARL NORD AGRI",
     "Brand":"gregoire",
     "Adresse1":"5 Rue de Cambrai",
     "Adresse2":" ",
@@ -8043,7 +8043,7 @@
        "coordinates":  [ 2.8741046,50.6789338 ]
     },
     "properties": {
-    "Name of the dealer / importer":"TEAM 3 SERVICES 02",
+    "Name":"TEAM 3 SERVICES 02",
     "Brand":"gregoire",
     "Adresse1":"24 avenue Marle",
     "Adresse2":" ",
@@ -8062,7 +8062,7 @@
        "coordinates":  [ 2.0975609,49.456268 ]
     },
     "properties": {
-    "Name of the dealer / importer":"BLANCARD (Beauvais)",
+    "Name":"BLANCARD (Beauvais)",
     "Brand":"gregoire",
     "Adresse1":"Avenue des Pommerets",
     "Adresse2":" ",
@@ -8081,7 +8081,7 @@
        "coordinates":  [ 2.1195483,49.4295914 ]
     },
     "properties": {
-    "Name of the dealer / importer":"MOTOCULTURE DE L'OISE",
+    "Name":"MOTOCULTURE DE L'OISE",
     "Brand":"gregoire",
     "Adresse1":"265 Rue de Clermont",
     "Adresse2":" ",
@@ -8100,7 +8100,7 @@
        "coordinates":  [ 1.7359984,49.6506489 ]
     },
     "properties": {
-    "Name of the dealer / importer":"FREULET",
+    "Name":"FREULET",
     "Brand":"gregoire",
     "Adresse1":"3 Rue d'Amiens",
     "Adresse2":" ",
@@ -8119,7 +8119,7 @@
        "coordinates":  [ 2.3192417,49.582714 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS TAVEAU",
+    "Name":"ETS TAVEAU",
     "Brand":"rabe",
     "Adresse1":"1 Rue de l'Argillière",
     "Adresse2":" ",
@@ -8138,7 +8138,7 @@
        "coordinates":  [ 1.9760374,50.6435028 ]
     },
     "properties": {
-    "Name of the dealer / importer":"DAUSQUE AGRI",
+    "Name":"DAUSQUE AGRI",
     "Brand":"gregoire",
     "Adresse1":"60 Chaussée Brunehaut",
     "Adresse2":" ",
@@ -8157,7 +8157,7 @@
        "coordinates":  [ 2.308526,50.474535 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CODEVELLE SARL",
+    "Name":"CODEVELLE SARL",
     "Brand":"gregoire",
     "Adresse1":"Rue de Pernes",
     "Adresse2":" ",
@@ -8176,7 +8176,7 @@
        "coordinates":  [ 2.809821,50.2867 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CASA SERVICE MACHINE",
+    "Name":"CASA SERVICE MACHINE",
     "Brand":"gregoire",
     "Adresse1":"Avenue d'Immercourt",
     "Adresse2":" ",
@@ -8195,7 +8195,7 @@
        "coordinates":  [ 2.7613658,50.3121135 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ARTOIS MOTOCULTURE",
+    "Name":"ARTOIS MOTOCULTURE",
     "Brand":"rabe",
     "Adresse1":"79 Route de Béthune",
     "Adresse2":" ",
@@ -8214,7 +8214,7 @@
        "coordinates":  [ 2.27819,50.7165139 ]
     },
     "properties": {
-    "Name of the dealer / importer":"CRA SAINT OMER",
+    "Name":"CRA SAINT OMER",
     "Brand":"",
     "Adresse1":"",
     "Adresse2":" ",
@@ -8233,7 +8233,7 @@
        "coordinates":  [ 2.1644465,50.417283 ]
     },
     "properties": {
-    "Name of the dealer / importer":"SAS WILLEMAN",
+    "Name":"SAS WILLEMAN",
     "Brand":"gregoire",
     "Adresse1":"65 Rue d'Hesdin",
     "Adresse2":" ",
@@ -8252,7 +8252,7 @@
        "coordinates":  [ 1.857344,50.3937482 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGROTECH 62",
+    "Name":"AGROTECH 62",
     "Brand":"gregoire",
     "Adresse1":"Chemin Départemental 129",
     "Adresse2":" ",
@@ -8271,7 +8271,7 @@
        "coordinates":  [ 2.1662492,50.7876132 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS BAYARD",
+    "Name":"ETS BAYARD",
     "Brand":"gregoire",
     "Adresse1":"D943",
     "Adresse2":" ",
@@ -8290,7 +8290,7 @@
        "coordinates":  [ 2.6915826,49.3985943 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRISANTERRE (Arsy)",
+    "Name":"AGRISANTERRE (Arsy)",
     "Brand":"gregoire",
     "Adresse1":"13 Rue de la Plaine",
     "Adresse2":" ",
@@ -8309,7 +8309,7 @@
        "coordinates":  [ 2.7584841,49.7103079 ]
     },
     "properties": {
-    "Name of the dealer / importer":"AGRISANTERRE (Roye)",
+    "Name":"AGRISANTERRE (Roye)",
     "Brand":"gregoire",
     "Adresse1":"Z.I Ouest",
     "Adresse2":"Rue du Champ Macret",
@@ -8328,7 +8328,7 @@
        "coordinates":  [ 2.1452278,48.7142277 ]
     },
     "properties": {
-    "Name of the dealer / importer":"ETS Halloy",
+    "Name":"ETS Halloy",
     "Brand":"gregoire",
     "Adresse1":"Rue du Fourneau 12",
     "Adresse2":" ",
@@ -8347,7 +8347,7 @@
        "coordinates":  [ 1.9710691,49.1482091 ]
     },
     "properties": {
-    "Name of the dealer / importer":"THOMAS MOTOCULTURE (Marines)",
+    "Name":"THOMAS MOTOCULTURE (Marines)",
     "Brand":"gregoire",
     "Adresse1":"25 boulevard Gambette",
     "Adresse2":" ",
