@@ -8283,6 +8283,500 @@
     "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
     }
   },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8918531,50.8166046 ]
+    },
+    "properties": {
+    "Name":"AGRI LEMAHIEU",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Voormezele, Rijselseweg 164",
+    "Adresse2":"",
+    "City":"Ieper",
+    "Zip_code":8902,
+    "Country":"Belgique",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1050085,49.7970817 ]
+    },
+    "properties": {
+    "Name":"AGRICOM DEVERBAND",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"3, rue François Krack",
+    "Adresse2":"",
+    "City":"Colmar Berg",
+    "Zip_code":7737,
+    "Country":"Luxembourg",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2351501,49.5635545 ]
+    },
+    "properties": {
+    "Name":"AGRISANTERRE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Route de Noyers Saint Martin",
+    "Adresse2":"",
+    "City":"Froissy",
+    "Zip_code":60480,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9524526,49.9136952 ]
+    },
+    "properties": {
+    "Name":"AGRISANTERRE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"D901",
+    "Adresse2":"",
+    "City":"Warlus",
+    "Zip_code":80270,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3653,49.764171 ]
+    },
+    "properties": {
+    "Name":"AGRISANTERRE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"ZI Guyencourt",
+    "Adresse2":"",
+    "City":"Ailly sur Noye",
+    "Zip_code":80250,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5702313,50.0432508 ]
+    },
+    "properties": {
+    "Name":"AGRISANTERRE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"7 rue d'Albert",
+    "Adresse2":"",
+    "City":"Hédauville",
+    "Zip_code":80560,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7581711,50.0615631 ]
+    },
+    "properties": {
+    "Name":"AGROTECH",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"70 rue de Behen",
+    "Adresse2":"",
+    "City":"Moyenneville",
+    "Zip_code":80870,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.5335173,50.0928044 ]
+    },
+    "properties": {
+    "Name":"CASA SERVICE MACHINE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"50 Av Mal de Lattre de Tassigny",
+    "Adresse2":"",
+    "City":"Cateau Cambrésis",
+    "Zip_code":59360,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.9016478,50.141529 ]
+    },
+    "properties": {
+    "Name":"CASA SERVICE MACHINE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"11 Route d'Aulnoye",
+    "Adresse2":"",
+    "City":"Saint Hilaire sur Helpe",
+    "Zip_code":59440,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2383844,50.3690647 ]
+    },
+    "properties": {
+    "Name":"CRA BEAUVOIS",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"11 rue de Croisette",
+    "Adresse2":"",
+    "City":"Beauvois",
+    "Zip_code":62130,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5382936,50.752663 ]
+    },
+    "properties": {
+    "Name":"CRA HONDEGHEM",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Rue de Caestre",
+    "Adresse2":"",
+    "City":"Hondeghem",
+    "Zip_code":59190,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2510171,50.713206 ]
+    },
+    "properties": {
+    "Name":"CRA SAINT OMER",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"14 rue Jules Verne ZI de Wins",
+    "Adresse2":"",
+    "City":"Blandecques",
+    "Zip_code":62575,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0030832,50.7045835 ]
+    },
+    "properties": {
+    "Name":"ETS NOTTEAU",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"139 rue de la Tannerie",
+    "Adresse2":"",
+    "City":"Quesnoy sur Deûle",
+    "Zip_code":59890,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2302643,50.1217497 ]
+    },
+    "properties": {
+    "Name":"FIENVILLERS",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"64 rue du 11 novembre 1918",
+    "Adresse2":"",
+    "City":"Fienvillers",
+    "Zip_code":80750,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.8588173,49.5268994 ]
+    },
+    "properties": {
+    "Name":"ITT VIMO",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"6 Route de la Malmaison",
+    "Adresse2":"",
+    "City":"Saint Erme Outre et Ramecourt",
+    "Zip_code":2820,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0313083,49.0225935 ]
+    },
+    "properties": {
+    "Name":"MOTOCULTURE DE L'OISE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"25 Av de la gare",
+    "Adresse2":"",
+    "City":"Lisy sur Ourcq",
+    "Zip_code":77440,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4366955,49.4966322 ]
+    },
+    "properties": {
+    "Name":"MOTOCULTURE DE L'OISE",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"59 rue Auguste Bonamy",
+    "Adresse2":"",
+    "City":"Saint Just en Chaussée",
+    "Zip_code":60130,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7719708,49.7480461 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"24 Av Carnot",
+    "Adresse2":"",
+    "City":"Marle",
+    "Zip_code":2250,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.336039,49.8102639 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Route d'Urvillers",
+    "Adresse2":"",
+    "City":"Itancourt",
+    "Zip_code":2240,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.2001617,49.8253431 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Rue de Brunehamel",
+    "Adresse2":"",
+    "City":"Aubenton",
+    "Zip_code":2500,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.67737,49.918138 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Ham de la ferme Bono",
+    "Adresse2":"",
+    "City":"Villers les Guise",
+    "Zip_code":2120,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8159351,49.8720044 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Rue de Chaulne",
+    "Adresse2":"",
+    "City":"Estrée Deniecourt",
+    "Zip_code":80200,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.078165,49.8192807 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"1 rue des Zentes",
+    "Adresse2":"",
+    "City":"Quevauvillers",
+    "Zip_code":80710,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8399023,50.1292795 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Rue Nationnale",
+    "Adresse2":"",
+    "City":"Sapignies",
+    "Zip_code":62121,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2931394,50.2620097 ]
+    },
+    "properties": {
+    "Name":"TEAM 3 SERVICES",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"Route de Doullens",
+    "Adresse2":"",
+    "City":"Frévent",
+    "Zip_code":62270,
+    "Country":"France",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.8360701,50.546003 ]
+    },
+    "properties": {
+    "Name":"VIDTS ET FILS SPRL",
+    "Brand":"Grégoire Besson",
+    "Adresse1":"6 rue de Chiévres",
+    "Adresse2":"",
+    "City":"Herchies (Jurbise)",
+    "Zip_code":7050,
+    "Country":"Belgique",
+    "GBgroup_salesman":"Xavier Vasseur",
+    "GBgroup_salesman_Phonenumber":"06 80 21 67 36",
+    "GBgroup_salesman_eMail":"x.vasseur@gb-group.co"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
