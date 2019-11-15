@@ -19433,6 +19433,186 @@
     "GBgroup_salesman_eMail":"office@tvsagrotechnika.ru"
     }
   },
+    {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 56.2703611,58.020973 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Пермский край",
+    "Brand":"gregoire",
+    "Adresse1":"ул.Степана Разина, 34",
+    "Adresse2":"",
+    "Zip_code":614060,
+    "City":"Пермь",
+    "Country":"Россия",
+    "e-Mail_adress":"chupina@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 922 521 66 22",
+    "GBgroup_salesman_eMail":"chupina@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.198502,56.8068389 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\"  Удмуртия",
+    "Brand":"gregoire",
+    "Adresse1":"ул.Пойма, 19 г",
+    "Adresse2":"",
+    "Zip_code":426006,
+    "City":"Ижевск",
+    "Country":"Россия",
+    "e-Mail_adress":"dupin@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 929 279 86 34",
+    "GBgroup_salesman_eMail":"dupin@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.3817041,55.803055 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Татарстан",
+    "Brand":"gregoire",
+    "Adresse1":"Пестречинский район, д. Званка, ул. Зеленая, 24",
+    "Adresse2":"",
+    "Zip_code":422772,
+    "City":"Званка",
+    "Country":"Россия",
+    "e-Mail_adress":"galiullin@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 927 042 65 37",
+    "GBgroup_salesman_eMail":"galiullin@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.7936467,54.6900246 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Башкортостан",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Якуба Коласа, 127",
+    "Adresse2":"",
+    "Zip_code":450095,
+    "City":"Уфа",
+    "Country":"Россия",
+    "e-Mail_adress":"trofimov@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7  937 321 06 72",
+    "GBgroup_salesman_eMail":"trofimov@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.081837,51.6945065 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Оренбургская область",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Донгузская, 110",
+    "Adresse2":"",
+    "Zip_code":460048,
+    "City":"Оренбург",
+    "Country":"Россия",
+    "e-Mail_adress":"golenkov@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 922 898 06 85",
+    "GBgroup_salesman_eMail":"golenkov@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 61.3850076,55.189484 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Челябинская область",
+    "Brand":"gregoire",
+    "Adresse1":"пр. Новгородский, тр. 68",
+    "Adresse2":"",
+    "Zip_code":454008,
+    "City":"Челябинск",
+    "Country":"Россия",
+    "e-Mail_adress":"mihaylov@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 922 751 55 09",
+    "GBgroup_salesman_eMail":"mihaylov@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 65.35771199999999,55.455192 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Курганская область",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Омская, 133",
+    "Adresse2":"",
+    "Zip_code":640007,
+    "City":"Курган",
+    "Country":"Россия",
+    "e-Mail_adress":"klokov@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 922 670 43 42",
+    "GBgroup_salesman_eMail":"klokov@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 65.79191759999999,56.9637077 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Тюменская область",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Агротехническая, 1",
+    "Adresse2":"",
+    "Zip_code":625000,
+    "City":"Винзили",
+    "Country":"Россия",
+    "e-Mail_adress":"Telegin@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 932 489 05 38",
+    "GBgroup_salesman_eMail":"Telegin@agroprof.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 60.7783265,56.9247826 ]
+    },
+    "properties": {
+    "Name":"ООО \"Агропроф\" Свердловская область",
+    "Brand":"gregoire",
+    "Adresse1":"Западная промзона, 8",
+    "Adresse2":"",
+    "Zip_code":623700,
+    "City":"Березовский",
+    "Country":"Россия",
+    "e-Mail_adress":"Batrakov@agroprof.com",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"7 922 201 59 60",
+    "GBgroup_salesman_eMail":"Batrakov@agroprof.com"
+    }
+  }
   {
     "type": "Feature",
     "geometry": {
