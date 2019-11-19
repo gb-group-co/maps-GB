@@ -19613,6 +19613,406 @@
     "GBgroup_salesman_eMail":"Batrakov@agroprof.com"
     }
   },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2352146,52.31623459999999 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Иркутск",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Трактовая, 17В",
+    "Adresse2":"",
+    "Zip_code":664020,
+    "City":"Иркутск",
+    "Country":"Россия",
+    "e-Mail_adress":"MihailLevchenko@tmbk.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (3952) 482-460, 482-462",
+    "GBgroup_salesman_eMail":"MihailLevchenko@tmbk.ru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.9451852,56.0724937 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Красноярск",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Полигонная, 10",
+    "Adresse2":"",
+    "Zip_code":660118,
+    "City":"Красноярск",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (391) 273-71-81, 204-00-81",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.7405552,56.2928684 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Братск",
+    "Brand":"gregoire",
+    "Adresse1":"Падунский р-н, Промплощадка, 1",
+    "Adresse2":"",
+    "Zip_code":665702,
+    "City":"Братск",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (3953) 371-372, 372-373",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7314846,57.9688449 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Усть-Илимск",
+    "Brand":"gregoire",
+    "Adresse1":"Усть-Илимское шоссе, 8А/6",
+    "Adresse2":"",
+    "Zip_code":666683,
+    "City":"Усть-Илимск",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (39535) 6-58-38, 6-57-33",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5127081,51.842516 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Бурятия",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Строителей, 42",
+    "Adresse2":"",
+    "Zip_code":670023,
+    "City":"Улан-Удэ",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (3012) 204-034",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3883321,56.0271755 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Назарово",
+    "Brand":"gregoire",
+    "Adresse1":"микрорайон Промышленный узел, 8Б",
+    "Adresse2":"",
+    "Zip_code":662202,
+    "City":"Назарово",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (39155) 7-38-38",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.913444,56.8058349 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Усть-Кут",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Заречная, 45Б",
+    "Adresse2":"",
+    "Zip_code":666785,
+    "City":"Усть-Кут",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.50693679999999,53.6892346 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Хакасия",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Кирпичная, 5",
+    "Adresse2":"",
+    "Zip_code":655670,
+    "City":"Абакан",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.52837149999999,58.1690672 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Лесосибирск",
+    "Brand":"gregoire",
+    "Adresse1":"пер. Травяной, 45",
+    "Adresse2":"",
+    "Zip_code":662544,
+    "City":"Лесосибирск",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.44999999999999,58.366667 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Красноярский край",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Партизанская, 113, зд. 2, пом. 1",
+    "Adresse2":"",
+    "Zip_code":663430,
+    "City":"с. Богучаны",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (39162) 22-162",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4329905,56.16425590000001 ]
+    },
+    "properties": {
+    "Name":"ООО «Тимбермаш Байкал»  Иркутская область",
+    "Brand":"gregoire",
+    "Adresse1":"Казачинско-ленский район, п. Магистральный, ул. 17 съезда ВЛКСМ, 64",
+    "Adresse2":"",
+    "Zip_code":666505,
+    "City":"п. Магистральный",
+    "Country":"Россия",
+    "e-Mail_adress":"",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (3953) 371-372, 372-373",
+    "GBgroup_salesman_eMail":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.011068,43.9289368 ]
+    },
+    "properties": {
+    "Name":"ООО «Тейт» Приморский край",
+    "Brand":"gregoire",
+    "Adresse1":"Приморский край, с. Михайловка, ул. Паровозная, 33А",
+    "Adresse2":"",
+    "Zip_code":692651,
+    "City":"с. Михайловка",
+    "Country":"Россия",
+    "e-Mail_adress":"info@tate.su",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (4234) 35-96-34",
+    "GBgroup_salesman_eMail":"info@tate.su"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.1011706,48.5157837 ]
+    },
+    "properties": {
+    "Name":"ООО «Тейт» Хабаровский край",
+    "Brand":"gregoire",
+    "Adresse1":"",
+    "Adresse2":"",
+    "Zip_code":null,
+    "City":"Хабаровск",
+    "Country":"Россия",
+    "e-Mail_adress":"info@tate.su",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (4234) 35-96-34",
+    "GBgroup_salesman_eMail":"info@tate.su"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.9130744,48.78035740000001 ]
+    },
+    "properties": {
+    "Name":"ООО «Тейт» Еврейская автономная область",
+    "Brand":"gregoire",
+    "Adresse1":"",
+    "Adresse2":"",
+    "Zip_code":null,
+    "City":"Биробиджан",
+    "Country":"Россия",
+    "e-Mail_adress":"info@tate.su",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (4234) 35-96-34",
+    "GBgroup_salesman_eMail":"info@tate.su"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.869684,56.307332 ]
+    },
+    "properties": {
+    "Name":"ООО «Агротехпарк» Нижегородская область",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Кузбасская, 7а",
+    "Adresse2":"",
+    "Zip_code":603950,
+    "City":"Нижний Новгород",
+    "Country":"Россия",
+    "e-Mail_adress":"info@agrotechpark.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (831) 279-78-61",
+    "GBgroup_salesman_eMail":"info@agrotechpark.ru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1792549,54.20578219999999 ]
+    },
+    "properties": {
+    "Name":"ООО «Агротехпарк» Республика Мордовия",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Пролетарская, д.142, стр. 4",
+    "Adresse2":"",
+    "Zip_code":430006,
+    "City":"Саранск",
+    "Country":"Россия",
+    "e-Mail_adress":"info@agrotechpark.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 800 222 35 40",
+    "GBgroup_salesman_eMail":"info@agrotechpark.ru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.2593456,54.2548356 ]
+    },
+    "properties": {
+    "Name":"ООО «Агротехпарк» Ульяновская область",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Хваткова, 26",
+    "Adresse2":"",
+    "Zip_code":432018,
+    "City":"Ульяновск",
+    "Country":"Россия",
+    "e-Mail_adress":"info@agrotechpark.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 800 222 35 40",
+    "GBgroup_salesman_eMail":"info@agrotechpark.ru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.2700433,56.11588620000001 ]
+    },
+    "properties": {
+    "Name":"ООО «Агротехпарк» Республика Чувашия",
+    "Brand":"gregoire",
+    "Adresse1":"Проспект Мира, 54 а",
+    "Adresse2":"",
+    "Zip_code":428024,
+    "City":"Чебоксары",
+    "Country":"Россия",
+    "e-Mail_adress":"info@agrotechpark.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 800 222 35 40",
+    "GBgroup_salesman_eMail":"info@agrotechpark.ru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.9458529,56.63441599999999 ]
+    },
+    "properties": {
+    "Name":"ООО «Агротехпарк» Республика Марий Эл",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Мира, д. 30",
+    "Adresse2":"",
+    "Zip_code":424005,
+    "City":"Йошкар-Ола",
+    "Country":"Россия",
+    "e-Mail_adress":"info@agrotechpark.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 800 222 35 40",
+    "GBgroup_salesman_eMail":"info@agrotechpark.ru"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.5287447,50.2900564 ]
+    },
+    "properties": {
+    "Name":"АО «Дальтимбермаш» Благовещенск",
+    "Brand":"gregoire",
+    "Adresse1":"ул. Магистральная, 24Б",
+    "Adresse2":"",
+    "Zip_code":675000,
+    "City":"Благовещенск",
+    "Country":"Россия",
+    "e-Mail_adress":"PavelKalina@daltm.ru",
+    "GBgroup_salesman":"",
+    "GBgroup_salesman_Phonenumber":"8 (4162) 500-698",
+    "GBgroup_salesman_eMail":"PavelKalina@daltm.ru"
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
