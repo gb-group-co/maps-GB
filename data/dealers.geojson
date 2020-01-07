@@ -20132,6 +20132,50 @@
       "GBgroup_salesman_Phonenumber": "+7 (7172) 55-47-11",
       "GBgroup_salesman_eMail":"vassiliy.demenkov@eurasia.kz"
     }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+      "Name":"ООО \"ЭкоНива-Сибирь\"",
+      "Brand":"gregoire",
+      "Adresse1":"Новосибирская обл.",
+      "Adresse2":" Краснозерский р-н",
+      "Zip_code":" р.п. Краснозерское",
+      "City":" ул. Промышленная",
+      "Country":" д. 2",
+      "GBgroup_salesman":"632901",
+      "GBgroup_salesman_Phonenumber":"Краснозерское",
+      "GBgroup_salesman_eMail":"Россия"
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[
+        79.253276,
+        54.002725
+      ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+      "Name":"ООО \"ЭкоНива-Сибирь\" Кемерово ",
+      "Brand":"gregoire",
+      "Adresse1":"Кемеровская обл.",
+      "Adresse2":" п. Металлплощадка",
+      "Zip_code":" ул. Спортивная",
+      "City":" д. 1 а",
+      "e-Mail_adress":"650517",
+      "GBgroup_salesman":"Металлплощадка",
+      "GBgroup_salesman_Phonenumber":"Россия",
+      "GBgroup_salesman_eMail":"kemerovo@ekoniva.com"
+    },
+    "geometry":{
+      "type":"Point",
+      "coordinates":[
+        86.204457,
+        55.31999
+      ]
+    }
   }
 ]
 
