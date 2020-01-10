@@ -23270,10 +23270,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРІСТАР» Центральний офіс\n",
+      "Name":"ТОВ «АГРІСТАР» Центральний офіс\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Метрологічна, 44",
-      "Zip code":"3143",
+      "Zip_code":"3143",
       "City":"м. Київ",
       "Country":"Україна",
       "e-Mail_adress":"info@agristar.com.ua",
@@ -23291,10 +23291,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРІСТАР»",
+      "Name":"ТОВ «АГРІСТАР»",
       "Brand":"gregoire",
       "Adresse1":"вул. Радужна, 3",
-      "Zip code":"63513",
+      "Zip_code":"63513",
       "City":"смт. Кочеток, область Харківська ",
       "Country":"Україна",
       "e-Mail_adress":"tokarchuksergiy@agristar.com.ua",
@@ -23312,10 +23312,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРІСТАР»",
+      "Name":"ТОВ «АГРІСТАР»",
       "Brand":"gregoire",
       "Adresse1":"вул. Надії, 15",
-      "Zip code":"62416",
+      "Zip_code":"62416",
       "City":"смт. Пісочин, область Харківська \n",
       "Country":"Україна",
       "e-Mail_adress":"romanecsergiy@agristar.com.ua",
@@ -23333,10 +23333,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРІСТАР»",
+      "Name":"ТОВ «АГРІСТАР»",
       "Brand":"gregoire",
       "Adresse1":"вул. Соборна, 15",
-      "Zip code":"64603",
+      "Zip_code":"64603",
       "City":"м. Лозова",
       "Country":"Україна",
       "e-Mail_adress":"falynskyymaksym@agristar.com.ua",
@@ -23354,10 +23354,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРІСТАР»",
+      "Name":"ТОВ «АГРІСТАР»",
       "Brand":"gregoire",
       "Adresse1":"вул. Серьогіна, 1",
-      "Zip code":"36000",
+      "Zip_code":"36000",
       "City":"м. Полтава",
       "Country":"Україна",
       "e-Mail_adress":"bytandriy@agristar.com.ua",
@@ -23375,10 +23375,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРІСТАР»",
+      "Name":"ТОВ «АГРІСТАР»",
       "Brand":"gregoire",
       "Adresse1":"вул. Вишневицьких, 4",
-      "Zip code":"37500",
+      "Zip_code":"37500",
       "City":"м. Лубни",
       "Country":"Україна",
       "e-Mail_adress":"shreyterpavlo@agristar.com.ua",
@@ -23396,10 +23396,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОСЕМ» Центральний офіс",
+      "Name":"ТОВ «АГРОСЕМ» Центральний офіс",
       "Brand":"gregoire",
       "Adresse1":"проспект Героїв Сталінграда, буд. 6 А",
-      "Zip code":"4210",
+      "Zip_code":"4210",
       "City":"м. Київ",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
@@ -23417,10 +23417,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОСЕМ»",
+      "Name":"ТОВ «АГРОСЕМ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Курчатова, 123",
-      "Zip code":"29025",
+      "Zip_code":"29025",
       "City":"м. Хмельницький ",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
@@ -23438,10 +23438,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОСЕМ»",
+      "Name":"ТОВ «АГРОСЕМ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Підгаєцька, 3",
-      "Zip code":"43020",
+      "Zip_code":"43020",
       "City":"м. Луцьк, область Волинська",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
@@ -23459,10 +23459,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОСЕМ»",
+      "Name":"ТОВ «АГРОСЕМ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Старе Село, 101",
-      "Zip code":"81100",
+      "Zip_code":"81100",
       "City":"с. Кам’янопіль, район Пустомитівський, область Львівська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
@@ -23480,10 +23480,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОСЕМ»",
+      "Name":"ТОВ «АГРОСЕМ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Тернопільська, 2Б",
-      "Zip code":"47717",
+      "Zip_code":"47717",
       "City":"с. Смиківці, область Тернопілська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
@@ -23501,10 +23501,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОСЕМ»",
+      "Name":"ТОВ «АГРОСЕМ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Галицька, 104",
-      "Zip code":"77401",
+      "Zip_code":"77401",
       "City":"м. Тисмениця, область Івано-Франківська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
@@ -23522,10 +23522,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК» Головний офіс\n",
+      "Name":"ТОВ «АГРОТЕК» Головний офіс\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Шосейна, 48",
-      "Zip code":"52002",
+      "Zip_code":"52002",
       "City":"м. Підгородне,  область Дніпропетровська\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23543,10 +23543,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Гетьмана Сагайдачного, 51",
-      "Zip code":"72310",
+      "Zip_code":"72310",
       "City":"м. Мелітополь, область Запорізька\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23564,10 +23564,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Фортечна, 2В",
-      "Zip code":"69000",
+      "Zip_code":"69000",
       "City":"м. Запоріжжя",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23585,10 +23585,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Олекси Тихого, 41/43",
-      "Zip code":"84313",
+      "Zip_code":"84313",
       "City":"м. Краматорськ",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23606,10 +23606,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Бородича, 1б",
-      "Zip code":"50086",
+      "Zip_code":"50086",
       "City":"м. Кривий Ріг, область Дніпропетровська\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23627,10 +23627,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Незалежності, 29в",
-      "Zip code":"74988",
+      "Zip_code":"74988",
       "City":"м. Таврійськ, область Херсонська\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23648,10 +23648,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Гвардійська, 153-А",
-      "Zip code":"75101",
+      "Zip_code":"75101",
       "City":"м. Олешки",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23669,10 +23669,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Шевцової, 9 А/1",
-      "Zip code":"85700",
+      "Zip_code":"85700",
       "City":"м. Волноваха",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23690,10 +23690,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «АГРОТЕК»",
+      "Name":"ТОВ «АГРОТЕК»",
       "Brand":"gregoire",
       "Adresse1":"вул. Сигнальна, 101а",
-      "Zip code":"70615",
+      "Zip_code":"70615",
       "City":"м. Пологи",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
@@ -23711,10 +23711,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ» Центральний офіс\n",
+      "Name":"ТОВ «ЛАНДТЕХ» Центральний офіс\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Ельворті, буд. 7",
-      "Zip code":"25002",
+      "Zip_code":"25002",
       "City":"м. Кропивницький, область Кіровоградська \n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23732,10 +23732,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ»",
+      "Name":"ТОВ «ЛАНДТЕХ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Баштанське шосе, 3",
-      "Zip code":"57214",
+      "Zip_code":"57214",
       "City":"с. Мішково-Погорілове, район Вітовський, область Миколаївська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23753,10 +23753,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ»",
+      "Name":"ТОВ «ЛАНДТЕХ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Ангарська, 17",
-      "Zip code":"67806",
+      "Zip_code":"67806",
       "City":"смт. Авангард, район Овідіопольський, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23774,10 +23774,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ»",
+      "Name":"ТОВ «ЛАНДТЕХ»",
       "Brand":"gregoire",
       "Adresse1":"вул. 13-й км автошляху Р06",
-      "Zip code":"55235",
+      "Zip_code":"55235",
       "City":"с. Лукашівка, район Первомайський, область Миколаївська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23795,10 +23795,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ»",
+      "Name":"ТОВ «ЛАНДТЕХ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Соборна, 214-О",
-      "Zip code":"66302",
+      "Zip_code":"66302",
       "City":"м. Подільськ, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23816,10 +23816,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ»",
+      "Name":"ТОВ «ЛАНДТЕХ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Промзона, 6",
-      "Zip code":"68200",
+      "Zip_code":"68200",
       "City":"смт. Сарата, район Саратський, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23837,10 +23837,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЛАНДТЕХ»",
+      "Name":"ТОВ «ЛАНДТЕХ»",
       "Brand":"gregoire",
       "Adresse1":"вул. Зелена, 34",
-      "Zip code":"68670",
+      "Zip_code":"68670",
       "City":"с. Саф’яни, район Ізмаїльський, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
@@ -23858,10 +23858,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Центральний офіс ",
+      "Name":"ТОВ «РДО УКРАЇНА» Центральний офіс ",
       "Brand":"gregoire",
       "Adresse1":"Бізнес центр «Golden River», 4 поверх, вул. Соборна, 2-В\n",
-      "Zip code":"8130",
+      "Zip_code":"8130",
       "City":"с. Петропавлівська Борщагівка, район Києво-Святошинський, область Київська \n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -23879,10 +23879,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Вінницька регіональна дирекція\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Вінницька регіональна дирекція\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Житомирське шосе, 6",
-      "Zip code":"21022",
+      "Zip_code":"21022",
       "City":"м. Вінниця",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -23900,10 +23900,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Черкаська регіональна дирекція\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Черкаська регіональна дирекція\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Смілянська, 164/5",
-      "Zip code":"18000",
+      "Zip_code":"18000",
       "City":"м. Черкаси",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -23921,10 +23921,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Житомирська регіональна дирекція\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Житомирська регіональна дирекція\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Жуйка, 43",
-      "Zip code":"10002",
+      "Zip_code":"10002",
       "City":"м. Житомир",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -23942,10 +23942,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Уманська регіональна дирекція\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Уманська регіональна дирекція\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Дерев’янка, 4",
-      "Zip code":"20331",
+      "Zip_code":"20331",
       "City":"м. Умань",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -23963,10 +23963,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Незалежності, 257-А",
-      "Zip code":"24240",
+      "Zip_code":"24240",
       "City":"смт. Вапнярка, область Вінницька\n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -23984,10 +23984,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
       "Brand":"gregoire",
       "Adresse1":"Вул. Січових Стрільців, 2",
-      "Zip code":"13133",
+      "Zip_code":"13133",
       "City":"с. Старий Любар, область Житомирська\n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -24005,10 +24005,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
+      "Name":"ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
       "Brand":"gregoire",
       "Adresse1":"вул. Благовісна, 92А",
-      "Zip code":"20202",
+      "Zip_code":"20202",
       "City":"м. Звенигородка, область Черкаська\n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
@@ -24026,10 +24026,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС» Головний офіс\n",
+      "Name":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС» Головний офіс\n",
       "Brand":"gregoire",
       "Adresse1":"проспект Голосіївський, 132",
-      "Zip code":"3127",
+      "Zip_code":"3127",
       "City":"м. Київ",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
@@ -24047,10 +24047,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Name":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
       "Brand":"gregoire",
       "Adresse1":"вул. Боровкова, 78/1",
-      "Zip code":"8710",
+      "Zip_code":"8710",
       "City":"с. Підгірці, район Обухівський, область Київська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
@@ -24068,10 +24068,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Name":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
       "Brand":"gregoire",
       "Adresse1":"вул. Льва Толстого, 40",
-      "Zip code":"9109",
+      "Zip_code":"9109",
       "City":"м. Біла Церква, область Київська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
@@ -24089,10 +24089,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Name":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
       "Brand":"gregoire",
       "Adresse1":"вул. Курська, 147, 4-й поверх",
-      "Zip code":"40031",
+      "Zip_code":"40031",
       "City":"м. Суми",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
@@ -24110,10 +24110,10 @@
   {
     "type":"Feature",
     "properties":{
-      "Name of the dealer / importer":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Name":"ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
       "Brand":"gregoire",
       "Adresse1":"вул. Березанська, 159а",
-      "Zip code":"16600",
+      "Zip_code":"16600",
       "City":"м. Ніжин",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
