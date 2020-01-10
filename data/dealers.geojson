@@ -23277,8 +23277,8 @@
       "City":"м. Київ",
       "Country":"Україна",
       "e-Mail_adress":"info@agristar.com.ua",
-      "GB-group_salesman_Phonenumber":"0 800 210 242",
-      "GB-group_salesman_eMail":"info@agristar.com.ua"
+      "GBgroup_salesman_Phonenumber":"0 800 210 242",
+      "GBgroup_salesman_eMail":"info@agristar.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23298,8 +23298,8 @@
       "City":"смт. Кочеток, область Харківська ",
       "Country":"Україна",
       "e-Mail_adress":"tokarchuksergiy@agristar.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 328 92 19",
-      "GB-group_salesman_eMail":"tokarchuksergiy@agristar.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 328 92 19",
+      "GBgroup_salesman_eMail":"tokarchuksergiy@agristar.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23319,8 +23319,8 @@
       "City":"смт. Пісочин, область Харківська \n",
       "Country":"Україна",
       "e-Mail_adress":"romanecsergiy@agristar.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 618 76 70",
-      "GB-group_salesman_eMail":"romanecsergiy@agristar.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 618 76 70",
+      "GBgroup_salesman_eMail":"romanecsergiy@agristar.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23340,8 +23340,8 @@
       "City":"м. Лозова",
       "Country":"Україна",
       "e-Mail_adress":"falynskyymaksym@agristar.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 323 08 01",
-      "GB-group_salesman_eMail":"falynskyymaksym@agristar.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 323 08 01",
+      "GBgroup_salesman_eMail":"falynskyymaksym@agristar.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23361,8 +23361,8 @@
       "City":"м. Полтава",
       "Country":"Україна",
       "e-Mail_adress":"bytandriy@agristar.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 328 92 15",
-      "GB-group_salesman_eMail":"bytandriy@agristar.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 328 92 15",
+      "GBgroup_salesman_eMail":"bytandriy@agristar.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23382,8 +23382,8 @@
       "City":"м. Лубни",
       "Country":"Україна",
       "e-Mail_adress":"shreyterpavlo@agristar.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 328 92 26",
-      "GB-group_salesman_eMail":"shreyterpavlo@agristar.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 328 92 26",
+      "GBgroup_salesman_eMail":"shreyterpavlo@agristar.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23403,8 +23403,8 @@
       "City":"м. Київ",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
-      "GB-group_salesman_Phonenumber":"38 (044) 583 07 25",
-      "GB-group_salesman_eMail":"info@agrosem.ua"
+      "GBgroup_salesman_Phonenumber":"38 (044) 583 07 25",
+      "GBgroup_salesman_eMail":"info@agrosem.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23424,8 +23424,8 @@
       "City":"м. Хмельницький ",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
-      "GB-group_salesman_Phonenumber":"38 (097) 843 36 43",
-      "GB-group_salesman_eMail":"info@agrosem.ua"
+      "GBgroup_salesman_Phonenumber":"38 (097) 843 36 43",
+      "GBgroup_salesman_eMail":"info@agrosem.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23445,8 +23445,8 @@
       "City":"м. Луцьк, область Волинська",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 320 71 23 (техніка)\n38 (067) 407 24 04 (сервіс)\n",
-      "GB-group_salesman_eMail":"info@agrosem.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 320 71 23 (техніка)\n38 (067) 407 24 04 (сервіс)\n",
+      "GBgroup_salesman_eMail":"info@agrosem.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23466,8 +23466,8 @@
       "City":"с. Кам’янопіль, район Пустомитівський, область Львівська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 159 90 41 (техніка)\n38 (067) 563 29 57 (сервіс)\n",
-      "GB-group_salesman_eMail":"info@agrosem.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 159 90 41 (техніка)\n38 (067) 563 29 57 (сервіс)\n",
+      "GBgroup_salesman_eMail":"info@agrosem.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23487,8 +23487,8 @@
       "City":"с. Смиківці, область Тернопілська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
-      "GB-group_salesman_Phonenumber":"38 (097) 843 36 43 (техніка)\n38 (067) 679 51 58 (сервіс)\n",
-      "GB-group_salesman_eMail":"info@agrosem.ua"
+      "GBgroup_salesman_Phonenumber":"38 (097) 843 36 43 (техніка)\n38 (067) 679 51 58 (сервіс)\n",
+      "GBgroup_salesman_eMail":"info@agrosem.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23508,8 +23508,8 @@
       "City":"м. Тисмениця, область Івано-Франківська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@agrosem.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 159 90 41 (техніка)\n38 (067) 392 65 45 (сервіс)\n",
-      "GB-group_salesman_eMail":"info@agrosem.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 159 90 41 (техніка)\n38 (067) 392 65 45 (сервіс)\n",
+      "GBgroup_salesman_eMail":"info@agrosem.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23529,8 +23529,8 @@
       "City":"м. Підгородне,  область Дніпропетровська\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(056) 790 09 32",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(056) 790 09 32",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23550,8 +23550,8 @@
       "City":"м. Мелітополь, область Запорізька\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(061) 942 62 20",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(061) 942 62 20",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23571,8 +23571,8 @@
       "City":"м. Запоріжжя",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(056) 790 09 32",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(056) 790 09 32",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23592,8 +23592,8 @@
       "City":"м. Краматорськ",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(067) 564 91 56",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(067) 564 91 56",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23613,8 +23613,8 @@
       "City":"м. Кривий Ріг, область Дніпропетровська\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(056) 405 21 19",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(056) 405 21 19",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23634,8 +23634,8 @@
       "City":"м. Таврійськ, область Херсонська\n",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(056) 55 497 39 27",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(056) 55 497 39 27",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23655,8 +23655,8 @@
       "City":"м. Олешки",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(067) 639 88 84",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(067) 639 88 84",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23676,8 +23676,8 @@
       "City":"м. Волноваха",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(067) 564 91 56",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(067) 564 91 56",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23697,8 +23697,8 @@
       "City":"м. Пологи",
       "Country":"Україна",
       "e-Mail_adress":"agrotek@agrotek.org.ua",
-      "GB-group_salesman_Phonenumber":"38(061) 942 62 20",
-      "GB-group_salesman_eMail":"agrotek@agrotek.org.ua"
+      "GBgroup_salesman_Phonenumber":"38(061) 942 62 20",
+      "GBgroup_salesman_eMail":"agrotek@agrotek.org.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23718,8 +23718,8 @@
       "City":"м. Кропивницький, область Кіровоградська \n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (0522) 35 40 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (0522) 35 40 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23739,8 +23739,8 @@
       "City":"с. Мішково-Погорілове, район Вітовський, область Миколаївська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (050) 500 00 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (050) 500 00 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23760,8 +23760,8 @@
       "City":"смт. Авангард, район Овідіопольський, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (050) 500 00 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (050) 500 00 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23781,8 +23781,8 @@
       "City":"с. Лукашівка, район Первомайський, область Миколаївська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (050) 500 00 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (050) 500 00 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23802,8 +23802,8 @@
       "City":"м. Подільськ, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (050) 500 00 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (050) 500 00 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23823,8 +23823,8 @@
       "City":"смт. Сарата, район Саратський, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (050) 500 00 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (050) 500 00 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23844,8 +23844,8 @@
       "City":"с. Саф’яни, район Ізмаїльський, область Одеська\n",
       "Country":"Україна",
       "e-Mail_adress":"landtech@landtech-ukraine.com",
-      "GB-group_salesman_Phonenumber":"38 (050) 500 00 04",
-      "GB-group_salesman_eMail":"landtech@landtech-ukraine.com"
+      "GBgroup_salesman_Phonenumber":"38 (050) 500 00 04",
+      "GBgroup_salesman_eMail":"landtech@landtech-ukraine.com"
     },
     "geometry":{
       "type":"Point",
@@ -23865,8 +23865,8 @@
       "City":"с. Петропавлівська Борщагівка, район Києво-Святошинський, область Київська \n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 487 11 11",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 487 11 11",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23886,8 +23886,8 @@
       "City":"м. Вінниця",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 481 81 12",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 481 81 12",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23907,8 +23907,8 @@
       "City":"м. Черкаси",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 489 26 96",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 489 26 96",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23928,8 +23928,8 @@
       "City":"м. Житомир",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 489 29 54",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 489 29 54",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23949,8 +23949,8 @@
       "City":"м. Умань",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 471 13 95",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 471 13 95",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23970,8 +23970,8 @@
       "City":"смт. Вапнярка, область Вінницька\n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 310 85 17",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 310 85 17",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -23991,8 +23991,8 @@
       "City":"с. Старий Любар, область Житомирська\n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 485 44 53",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 485 44 53",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -24012,8 +24012,8 @@
       "City":"м. Звенигородка, область Черкаська\n",
       "Country":"Україна",
       "e-Mail_adress":"office@rdo.ua",
-      "GB-group_salesman_Phonenumber":"38 (067) 448 98 77",
-      "GB-group_salesman_eMail":"office@rdo.ua"
+      "GBgroup_salesman_Phonenumber":"38 (067) 448 98 77",
+      "GBgroup_salesman_eMail":"office@rdo.ua"
     },
     "geometry":{
       "type":"Point",
@@ -24033,8 +24033,8 @@
       "City":"м. Київ",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (044) 290 28 33",
-      "GB-group_salesman_eMail":"info@jupiter9.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (044) 290 28 33",
+      "GBgroup_salesman_eMail":"info@jupiter9.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -24054,8 +24054,8 @@
       "City":"с. Підгірці, район Обухівський, область Київська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (050) 307 38 19",
-      "GB-group_salesman_eMail":"info@jupiter9.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (050) 307 38 19",
+      "GBgroup_salesman_eMail":"info@jupiter9.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -24075,8 +24075,8 @@
       "City":"м. Біла Церква, область Київська\n",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (050) 407 95 25",
-      "GB-group_salesman_eMail":"info@jupiter9.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (050) 407 95 25",
+      "GBgroup_salesman_eMail":"info@jupiter9.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -24096,8 +24096,8 @@
       "City":"м. Суми",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (050) 307 37 26",
-      "GB-group_salesman_eMail":"info@jupiter9.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (050) 307 37 26",
+      "GBgroup_salesman_eMail":"info@jupiter9.com.ua"
     },
     "geometry":{
       "type":"Point",
@@ -24117,8 +24117,8 @@
       "City":"м. Ніжин",
       "Country":"Україна",
       "e-Mail_adress":"info@jupiter9.com.ua",
-      "GB-group_salesman_Phonenumber":"38 (046) 317 80 08",
-      "GB-group_salesman_eMail":"info@jupiter9.com.ua"
+      "GBgroup_salesman_Phonenumber":"38 (046) 317 80 08",
+      "GBgroup_salesman_eMail":"info@jupiter9.com.ua"
     },
     "geometry":{
       "type":"Point",
