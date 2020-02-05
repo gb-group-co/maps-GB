@@ -23230,10 +23230,10 @@
       "Brand":"gregoire",
       "Adresse1":"Новосибирская обл., Краснозерский р-н, р.п. Краснозерское, ул. Промышленная, д. 2",
       "Adresse2":"",
-      "Zip_code":"",
+      "Zip_code":"632901",
       "City":"Краснозерское",
       "Country":"Россия",
-      "GBgroup_salesman":"632901",
+      "GBgroup_salesman":"",
       "GBgroup_salesman_Phonenumber":"8 (38357) 42-545",
       "GBgroup_salesman_eMail":"novosibirsk@ekoniva.com"
     },
@@ -23254,7 +23254,7 @@
       "Adresse2":"",
       "Zip_code":"650517",
       "City":"Россия",
-      "e-Mail_adress":"650517",
+      "e-Mail_adress":"",
       "GBgroup_salesman":"Металлплощадка",
       "GBgroup_salesman_Phonenumber":"8 (3842) 74-33-11",
       "GBgroup_salesman_eMail":"kemerovo@ekoniva.com"
