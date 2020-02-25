@@ -4,7 +4,7 @@
 https://odileeds.github.io/CSV2GeoJSON/
 
 
-This what an object should looks like (props names !!!):
+This is what an object should looks like (props names !!!):
 ```json
   {
     "type":"Feature",
