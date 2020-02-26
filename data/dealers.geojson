@@ -14764,29 +14764,6 @@
     "geometry":{
       "type":"Point",
       "coordinates":[
-        -7.2314197,
-        52.655358
-      ]
-    },
-    "properties":{
-      "Name":"I.A.M.",
-      "Brand":"rabe",
-      "Adresse1":"Agr. Machinery Ltd.,",
-      "Adresse2":"Hebron Ind. Estate",
-      "Zip_code":"R95RT2A",
-      "City":"Kilkenny",
-      "Country":"IRLAND",
-      "e-Mail_adress":"lyn.murphy@iam.ie",
-      "GBgroup_salesman":"GB Germany",
-      "GBgroup_salesman_Phonenumber":"",
-      "GBgroup_salesman_eMail":""
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
         -3.7159646,
         42.2840543
       ]
@@ -19180,29 +19157,6 @@
     "geometry":{
       "type":"Point",
       "coordinates":[
-        -7.232428499999999,
-        52.6563092
-      ]
-    },
-    "properties":{
-      "Name":"I A M",
-      "Brand":"group",
-      "Adresse1":"HEBRON IND ESTATE",
-      "Adresse2":"HEBRON ROAD, BLANCHFIELDSLAND",
-      "Zip_code":"R95 R2TA ",
-      "City":"KILKENNY",
-      "Country":"IRELANDE",
-      "e-Mail_adress":"pat.kenny@iam.ie",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail":"r.thurketlle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
         -103.4792999,
         25.5845283
       ]
@@ -19403,2099 +19357,6 @@
       "GBgroup_salesman":"Edouard Patin",
       "GBgroup_salesman_Phonenumber":"0033 2 41 64 72 67",
       "GBgroup_salesman_eMail":"e.patin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.7469606000000001,
-        50.9776784
-      ]
-    },
-    "properties":{
-      "Name":"FAROL LTD",
-      "Brand":"gregoire",
-      "Adresse1":"HOLMBUSH HOUSE",
-      "Adresse2":"HOLMBUSH INDUSTRIAL ESTATE ",
-      "Zip_code":"GU299XY",
-      "City":"Midhurst",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        1.1756272,
-        51.1480731
-      ]
-    },
-    "properties":{
-      "Name":"Agwood Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Swingfield",
-      "Adresse2":"",
-      "Zip_code":"CT15 7HF",
-      "City":"Dover",
-      "Country":"England",
-      "e-Mail_adress":"ian.wood@agwood.co.uk ",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.014753,
-        55.7893152
-      ]
-    },
-    "properties":{
-      "Name":"Ancroft Tractors Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Windmill Way West",
-      "Adresse2":"Ramparts Business Park ",
-      "Zip_code":"TD15 1TB",
-      "City":"Berwick-upon-tweed",
-      "Country":"England",
-      "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.8913642,
-        55.946869
-      ]
-    },
-    "properties":{
-      "Name":"Ancroft Tractors Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Unit 1 & 2 Macmerry Industrial Estate",
-      "Adresse2":"Macmerry Tranent",
-      "Zip_code":"EH33 1RD",
-      "City":"",
-      "Country":"Scotland",
-      "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.4248718,
-        55.5898747
-      ]
-    },
-    "properties":{
-      "Name":"Ancroft Tractors Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Pinacclehill Industrial Estate",
-      "Adresse2":"Kelso",
-      "Zip_code":"TD5 8DW",
-      "City":"Kelso",
-      "Country":"Scotland",
-      "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.951159999999959,
-        53.21005359999999
-      ]
-    },
-    "properties":{
-      "Name":"Atkinson Tractors",
-      "Brand":"gregoire",
-      "Adresse1":"Wayside",
-      "Adresse2":"Capenhurst Lane ",
-      "Zip_code":"CH1 6HE",
-      "City":"Capenhurst",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        1.3078007,
-        52.6120899
-      ]
-    },
-    "properties":{
-      "Name":"Ben Burgess & Co (Norwich)",
-      "Brand":"gregoire",
-      "Adresse1":"38 Europa Way",
-      "Adresse2":"Martineau Lane ",
-      "Zip_code":"NR1 2EN",
-      "City":"Norwich",
-      "Country":"England",
-      "e-Mail_adress":"helentalbot@benburgess.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        1.266345,
-        52.803377
-      ]
-    },
-    "properties":{
-      "Name":"Ben Burgess (Aylsham)",
-      "Brand":"gregoire",
-      "Adresse1":"Aylesham Industrial Estate",
-      "Adresse2":"Dunkirk ",
-      "Zip_code":"NR11 6SU",
-      "City":"Aylesham",
-      "Country":"England",
-      "e-Mail_adress":"helentalbot@benburgess.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.8311839999999999,
-        52.70112
-      ]
-    },
-    "properties":{
-      "Name":"Ben Burgess (Beeston)",
-      "Brand":"gregoire",
-      "Adresse1":"Dereham Road,",
-      "Adresse2":"Beeston ",
-      "Zip_code":"PE32 2LE",
-      "City":"Kings Lynn",
-      "Country":"England",
-      "e-Mail_adress":"helentalbot@benburgess.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.0495818,
-        52.5717078
-      ]
-    },
-    "properties":{
-      "Name":"Ben Burgess Coates",
-      "Brand":"gregoire",
-      "Adresse1":"Eldernell Lane",
-      "Adresse2":"Coates ",
-      "Zip_code":"PE7 2DD",
-      "City":"Peterborough",
-      "Country":"England",
-      "e-Mail_adress":"helentalbot@benburgess.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.303099,
-        52.334754
-      ]
-    },
-    "properties":{
-      "Name":"Ben Burgess Ellington",
-      "Brand":"gregoire",
-      "Adresse1":"Brook Farm Industrial Estate",
-      "Adresse2":"Ellington ",
-      "Zip_code":"PE28 0AE",
-      "City":"Huntingdon",
-      "Country":"England",
-      "e-Mail_adress":"helentalbot@benburgess.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.3870581,
-        52.2681055
-      ]
-    },
-    "properties":{
-      "Name":"Ben Burgess Newmarket Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Windmill Hill",
-      "Adresse2":"Exning ",
-      "Zip_code":"CB8 7NP",
-      "City":"Newmarket",
-      "Country":"England",
-      "e-Mail_adress":"helentalbot@benburgess.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.9644203,
-        52.0511138
-      ]
-    },
-    "properties":{
-      "Name":"Brad Farm Machinery Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"41C Lady Lane Ind Estate",
-      "Adresse2":"Hadleigh ",
-      "Zip_code":"IP7 6BQ",
-      "City":"Ipswich",
-      "Country":"England",
-      "e-Mail_adress":"sales@bradfarm.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.3581846,
-        54.1822487
-      ]
-    },
-    "properties":{
-      "Name":"Brockhills of Yorkshire Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Dalton Lane",
-      "Adresse2":"Dalton ",
-      "Zip_code":"YO7 3HR",
-      "City":"Thirsk",
-      "Country":"England",
-      "e-Mail_adress":"sales@brockhills.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.4596983,
-        52.0821913
-      ]
-    },
-    "properties":{
-      "Name":"Bruce Hopkins Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Shenington Airfield",
-      "Adresse2":"Banbury ",
-      "Zip_code":"OX15 6NZ",
-      "City":"Oxon",
-      "Country":"England",
-      "e-Mail_adress":"bruce@brucehopkins.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.6469827,
-        51.3243776
-      ]
-    },
-    "properties":{
-      "Name":"Burden Bros Agri Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Church Farm",
-      "Adresse2":"Church Lane        ",
-      "Zip_code":"ME9 7RD",
-      "City":"Stockbury",
-      "Country":"England",
-      "e-Mail_adress":"paul.gasson@burdenbross.com",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.0974027,
-        52.1489652
-      ]
-    },
-    "properties":{
-      "Name":"Cambridge Farm Machinery Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Church Road",
-      "Adresse2":"Hauxton        ",
-      "Zip_code":"CB2 5HS",
-      "City":"Cambridge ",
-      "Country":"England",
-      "e-Mail_adress":"jnoble@cambridgefarmmachinery.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.8909132,
-        54.8917307
-      ]
-    },
-    "properties":{
-      "Name":"Carrs Billington Agri (Sales)",
-      "Brand":"gregoire",
-      "Adresse1":"Montgomery Way",
-      "Adresse2":"Rosehill Industrial Estate ",
-      "Zip_code":"CA1 2UY",
-      "City":"Carlisle",
-      "Country":"England",
-      "e-Mail_adress":"dexter.hubbard@carrs-billington.com",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        1.1197779,
-        52.4776073
-      ]
-    },
-    "properties":{
-      "Name":"Chris Girdlestone Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"White Lodge Farm",
-      "Adresse2":"Fen Road Carleton Rode ",
-      "Zip_code":"NR16 1RT",
-      "City":"Norwich",
-      "Country":"England",
-      "e-Mail_adress":"chrisgirdlestone@unicombox",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.6250081,
-        53.8525761
-      ]
-    },
-    "properties":{
-      "Name":"Clayton Farm Machinery Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Holwood Barn",
-      "Adresse2":"Back Lane Goosnargh ",
-      "Zip_code":"PR3 2WD",
-      "City":"Preston",
-      "Country":"England",
-      "e-Mail_adress":"claytonsmachinery@tiscali.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.6628465,
-        54.6982803
-      ]
-    },
-    "properties":{
-      "Name":"D W Toppin",
-      "Brand":"gregoire",
-      "Adresse1":"Green Lane Workshops",
-      "Adresse2":"Langwathby ",
-      "Zip_code":"CA10 1NB",
-      "City":"Penrith",
-      "Country":"England",
-      "e-Mail_adress":"sales@dwtoppin.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.7324796,
-        52.3111969
-      ]
-    },
-    "properties":{
-      "Name":"Day & Coles (Agri) Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Newton Close",
-      "Adresse2":"Park Farm Ind Estate ",
-      "Zip_code":"NN8 6UW",
-      "City":"Wellingborough",
-      "Country":"England",
-      "e-Mail_adress":"c.white@dayandcoles.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.5594292,
-        55.93234
-      ]
-    },
-    "properties":{
-      "Name":"DKR Agricultural Services Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Westfield",
-      "Adresse2":"Coulter        ",
-      "Zip_code":"ML12 6HN",
-      "City":"Biggar",
-      "Country":"England",
-      "e-Mail_adress":"david@dkragricultural.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.9819026,
-        51.0828827
-      ]
-    },
-    "properties":{
-      "Name":"Drews of Dinton Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Hindon Road",
-      "Adresse2":"Dinton ",
-      "Zip_code":"SP3 5EH",
-      "City":"Salisbury",
-      "Country":"England",
-      "e-Mail_adress":"sales@drewsofdinton.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.4726156,
-        52.1816833
-      ]
-    },
-    "properties":{
-      "Name":"Ellis Machinery",
-      "Brand":"gregoire",
-      "Adresse1":"Gaydon Farm",
-      "Adresse2":"Gaydon ",
-      "Zip_code":"CV35 0EP",
-      "City":"Warwick",
-      "Country":"England",
-      "e-Mail_adress":"sales@ellismachinery.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.6280884000000001,
-        51.7610122
-      ]
-    },
-    "properties":{
-      "Name":"Ernest Doe & Sons Limited",
-      "Brand":"gregoire",
-      "Adresse1":"Ulting",
-      "Adresse2":"Maldon",
-      "Zip_code":"CM9 6QH",
-      "City":"Maldon",
-      "Country":"England",
-      "e-Mail_adress":"geraldsilvey@ernestdoe.com ",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.1023601,
-        54.9752397
-      ]
-    },
-    "properties":{
-      "Name":"Everitt & Marshall Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"24 Haugh Lane Industrial Estate",
-      "Adresse2":"Hexham",
-      "Zip_code":"NE46 3PU",
-      "City":"Hexham",
-      "Country":"England",
-      "e-Mail_adress":"adrian@hexham.eri",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.0434863,
-        51.7284808
-      ]
-    },
-    "properties":{
-      "Name":"Farol Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Rycote Lane Farm",
-      "Adresse2":"Milton Common ",
-      "Zip_code":"OX9 2NX",
-      "City":"Thame",
-      "Country":"England",
-      "e-Mail_adress":"purchase@farol.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.7469606000000001,
-        50.9776784
-      ]
-    },
-    "properties":{
-      "Name":"Farol Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Holmbush House",
-      "Adresse2":"Holmbush Industrial Estate ",
-      "Zip_code":"GU29 9XY",
-      "City":"Midhurst",
-      "Country":"England",
-      "e-Mail_adress":"purchase@farol.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.4002151,
-        52.5374184
-      ]
-    },
-    "properties":{
-      "Name":"Farol Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Wharf Farm",
-      "Adresse2":"Coventry Road ",
-      "Zip_code":"LE10 0NB",
-      "City":"Hinckley",
-      "Country":"England",
-      "e-Mail_adress":"purchase@farol.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.2480417,
-        52.1773209
-      ]
-    },
-    "properties":{
-      "Name":"Farol Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Boddington Road",
-      "Adresse2":"Byfield",
-      "Zip_code":"NN11 6FL",
-      "City":"Daventry",
-      "Country":"England",
-      "e-Mail_adress":"purchase@farol.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.4672313,
-        51.4634362
-      ]
-    },
-    "properties":{
-      "Name":"Farol Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Coldridge Copse",
-      "Adresse2":"Shefford Woodland ",
-      "Zip_code":"RG17 7AB",
-      "City":"Hungerford",
-      "Country":"England",
-      "e-Mail_adress":"purchase@farol.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.1383898,
-        52.8103636
-      ]
-    },
-    "properties":{
-      "Name":"G & J Peck Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Elsom Way",
-      "Adresse2":"Wardentree Park       ",
-      "Zip_code":"PE11 3JG",
-      "City":"Pinchbeck",
-      "Country":"England",
-      "e-Mail_adress":"stewartb@peck.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.2268859999999999,
-        52.38681529999999
-      ]
-    },
-    "properties":{
-      "Name":"G & J Peck Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"90 Lancaster Way",
-      "Adresse2":"Business Park ",
-      "Zip_code":"CB6 3NX",
-      "City":"Ely ",
-      "Country":"England",
-      "e-Mail_adress":"ian@peck.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.1470411,
-        52.49531289999999
-      ]
-    },
-    "properties":{
-      "Name":"G & J Peck Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"456a Herne Road",
-      "Adresse2":"Ramsey St Mary's ",
-      "Zip_code":"PE26 2TJ",
-      "City":"Huntingdon",
-      "Country":"England",
-      "e-Mail_adress":"darren@peck.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.4628284,
-        56.2011104
-      ]
-    },
-    "properties":{
-      "Name":"George Colliar Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Middle Balado",
-      "Adresse2":"Balado ",
-      "Zip_code":"KY13 0NH",
-      "City":"Kinross",
-      "Country":"Scotland",
-      "e-Mail_adress":"duncan@balado.org",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.207882,
-        50.9843535
-      ]
-    },
-    "properties":{
-      "Name":"H Curtis & Sons",
-      "Brand":"gregoire",
-      "Adresse1":"Unit C3-4 Monument View",
-      "Adresse2":"Chelston Business Park ",
-      "Zip_code":"TA21 9ND",
-      "City":"Wellington",
-      "Country":"England",
-      "e-Mail_adress":"ian@hcurtis.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.3137015,
-        52.7720566
-      ]
-    },
-    "properties":{
-      "Name":"Horsch UK Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Spalding Road",
-      "Adresse2":"Bourne",
-      "Zip_code":"PE10 0AU",
-      "City":"Bourne",
-      "Country":"England",
-      "e-Mail_adress":"david.goodin@horsch.com",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -7.2314197,
-        52.65535879999999
-      ]
-    },
-    "properties":{
-      "Name":"I.A.M Agri Machinery Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Hebron Industrial Estate",
-      "Adresse2":"Kilkenny Kilkenny",
-      "Zip_code":"",
-      "City":"Kilkenny",
-      "Country":"Ireland",
-      "e-Mail_adress":"pat.kenny@iam.ie",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.3733674,
-        52.7570271
-      ]
-    },
-    "properties":{
-      "Name":"J J Mac Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"2 Tilia Way",
-      "Adresse2":"Bourne",
-      "Zip_code":"PE10 0QR",
-      "City":"Bourne",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -5.145740099999999,
-        51.72028419999999
-      ]
-    },
-    "properties":{
-      "Name":"J Llewellin & Co",
-      "Brand":"gregoire",
-      "Adresse1":"Trewarren Farm",
-      "Adresse2":"St Ishmaels        ",
-      "Zip_code":"SA62 3TJ",
-      "City":"Haverfordwest",
-      "Country":"England",
-      "e-Mail_adress":"mail@jllewellin.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.0474644,
-        53.0424512
-      ]
-    },
-    "properties":{
-      "Name":"J S Peake & Sons",
-      "Brand":"gregoire",
-      "Adresse1":"Hill Farm",
-      "Adresse2":"Chapel Lane        ",
-      "Zip_code":"NG14 6AQ",
-      "City":"Epperstone",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.0247136,
-        52.7491701
-      ]
-    },
-    "properties":{
-      "Name":"J W Doubleday Ltd - Holbeach",
-      "Brand":"gregoire",
-      "Adresse1":"Old Fendyke",
-      "Adresse2":"Holbeach St John",
-      "Zip_code":"PE12 8SQ",
-      "City":"Spalding",
-      "Country":"England",
-      "e-Mail_adress":"accounts@doubledaygroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.3612528,
-        52.7009971
-      ]
-    },
-    "properties":{
-      "Name":"J W Doubleday Ltd - Kings Lynn",
-      "Brand":"gregoire",
-      "Adresse1":"Lynn Road",
-      "Adresse2":"St Germans",
-      "Zip_code":"PE34 3EU",
-      "City":"Kings Lynn",
-      "Country":"England",
-      "e-Mail_adress":"accounts@doubledaygroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.1774997,
-        52.9596884
-      ]
-    },
-    "properties":{
-      "Name":"J W Doubleday Ltd - Swineshead",
-      "Brand":"gregoire",
-      "Adresse1":"Station Road",
-      "Adresse2":"Swineshead ",
-      "Zip_code":"PE20 3PN",
-      "City":"Swineshead",
-      "Country":"England",
-      "e-Mail_adress":"accounts@doubledaygroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.876956,
-        52.292509
-      ]
-    },
-    "properties":{
-      "Name":"James Green Farm Machinery",
-      "Brand":"gregoire",
-      "Adresse1":"Brookfields Farm",
-      "Adresse2":"Haye Lane ",
-      "Zip_code":"B80 7BU",
-      "City":"Studley",
-      "Country":"England",
-      "e-Mail_adress":"james@jgfm.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.8371124,
-        52.4441267
-      ]
-    },
-    "properties":{
-      "Name":"Jim Price Machinery Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Farmore Mills",
-      "Adresse2":"Craven Arms",
-      "Zip_code":"SY7 9QG",
-      "City":"Craven Arms",
-      "Country":"England",
-      "e-Mail_adress":"sales@jimpricemachinery.couk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.4073209,
-        52.6488042
-      ]
-    },
-    "properties":{
-      "Name":"Keith Davies Agricultural Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Hem Manor Farm",
-      "Adresse2":"Hem Lane ",
-      "Zip_code":"TF11 9PT",
-      "City":"Shifnal",
-      "Country":"England",
-      "e-Mail_adress":"keith@keithdaviesagricultural.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.598218,
-        52.608233
-      ]
-    },
-    "properties":{
-      "Name":"Knight Farm Machinery Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Wireless Hill Ind Estate",
-      "Adresse2":"South Luffenham        ",
-      "Zip_code":"LE15 8NF",
-      "City":"Oakham",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.9490117,
-        54.9226422
-      ]
-    },
-    "properties":{
-      "Name":"Lloyd Group",
-      "Brand":"gregoire",
-      "Adresse1":"Kingstown Broadway",
-      "Adresse2":"Carlisle",
-      "Zip_code":"CA3 0EF",
-      "City":"Carlisle",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.8906807,
-        55.9472771
-      ]
-    },
-    "properties":{
-      "Name":"Lothian Tractors Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"No 5 Macmerry Ind Est",
-      "Adresse2":"Tranent        ",
-      "Zip_code":"EH33 1RD",
-      "City":"East Lothian",
-      "Country":"Scotland",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.325932,
-        50.7040884
-      ]
-    },
-    "properties":{
-      "Name":"M J Fry Agricultural Engineering",
-      "Brand":"gregoire",
-      "Adresse1":"HIgher Woodsford",
-      "Adresse2":"Crossways ",
-      "Zip_code":"DT2 8BL",
-      "City":"Dorchester",
-      "Country":"England",
-      "e-Mail_adress":"ben@mjfry.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.0008542,
-        52.21860119999999
-      ]
-    },
-    "properties":{
-      "Name":"Mark Weatherhead Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Ashworth House",
-      "Adresse2":"St Neots Road ",
-      "Zip_code":"CB23 7QL",
-      "City":"Hardwick",
-      "Country":"England",
-      "e-Mail_adress":"sandier@markweatherhead.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.4389273,
-        52.0413357
-      ]
-    },
-    "properties":{
-      "Name":"Mark Weatherhead Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Helions Road",
-      "Adresse2":"Steeple Bumpstead ",
-      "Zip_code":"CB9 7DU",
-      "City":"Haverhill",
-      "Country":"England",
-      "e-Mail_adress":"sandier@markweatherhead.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -4.4404319,
-        57.5992317
-      ]
-    },
-    "properties":{
-      "Name":"McLaren Tractors",
-      "Brand":"gregoire",
-      "Adresse1":"Strathpeffer Road",
-      "Adresse2":"Dingwall ",
-      "Zip_code":"IV15 9QF",
-      "City":"Ross-shire",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.4792149,
-        50.9041741
-      ]
-    },
-    "properties":{
-      "Name":"Medland, Sanders & Twose Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Blundells Road",
-      "Adresse2":"Tiverton",
-      "Zip_code":"EX16 4DA",
-      "City":"Tiverton",
-      "Country":"England",
-      "e-Mail_adress":"mark.lyes@mstgroup.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.878878,
-        53.6567334
-      ]
-    },
-    "properties":{
-      "Name":"Nigel Quinn (AMS) Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"89 The Marshes Lane",
-      "Adresse2":"Mere Brow ",
-      "Zip_code":"PR4 6JR",
-      "City":"Preston",
-      "Country":"England",
-      "e-Mail_adress":"nigelq@btconnect.com",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.0067275,
-        56.7148358
-      ]
-    },
-    "properties":{
-      "Name":"Norman F Ogg",
-      "Brand":"gregoire",
-      "Adresse1":"West Kinwhirrie",
-      "Adresse2":"by Kirriemuir ",
-      "Zip_code":"DD8 4QB",
-      "City":"Tayside",
-      "Country":"Scotland",
-      "e-Mail_adress":"kinwhirrie@gmail.com",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.8689629,
-        55.1288668
-      ]
-    },
-    "properties":{
-      "Name":"North Country Services",
-      "Brand":"gregoire",
-      "Adresse1":"SW House",
-      "Adresse2":"Bolam Belsay  ",
-      "Zip_code":"NE20 0HE",
-      "City":"Newcastle",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        1.2470542,
-        52.268999
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Worlingworth",
-      "Adresse2":"Woodbridge",
-      "Zip_code":"IP13 7HU",
-      "City":"Woodbridge",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.9820553,
-        51.9172662
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Ardleigh Hall",
-      "Adresse2":"Ardleigh ",
-      "Zip_code":"CO7 7LG",
-      "City":"Colchester",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.1280732,
-        51.91763049999999
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"High Street",
-      "Adresse2":"Cromer",
-      "Zip_code":"SG2 7QA",
-      "City":"Stevenage",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.4638216000000001,
-        52.01812690000001
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"New Road",
-      "Adresse2":"Maulden        ",
-      "Zip_code":"MK45 2BG",
-      "City":"Maulden",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.3721742,
-        51.8658155
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Ind Est",
-      "Adresse2":"Chelmsford Road        ",
-      "Zip_code":"CM6 1HD",
-      "City":"Gt Dunmow",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.5932393,
-        51.6058105
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Rawreth Ind Est",
-      "Adresse2":"Rawreth Lane ",
-      "Zip_code":"SS6 9RL",
-      "City":"Rayleigh",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.7505006,
-        52.04140659999999
-      ]
-    },
-    "properties":{
-      "Name":"P Tuckwell Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Windham Road",
-      "Adresse2":"Chilton Ind Est",
-      "Zip_code":"CO10 2XD",
-      "City":"Sudbury",
-      "Country":"England",
-      "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.610692,
-        52.926246
-      ]
-    },
-    "properties":{
-      "Name":"R C Setchfield",
-      "Brand":"gregoire",
-      "Adresse1":"Unit 10",
-      "Adresse2":"Withambrook Ind Park ",
-      "Zip_code":"NG31 9ST",
-      "City":"Grantham",
-      "Country":"England",
-      "e-Mail_adress":"ian@setchfield.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.4189327,
-        51.1402387
-      ]
-    },
-    "properties":{
-      "Name":"R Hunt (Agric Eng) Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"St Martins Lane",
-      "Adresse2":"Chilbolton ",
-      "Zip_code":"SO20 6BL",
-      "City":"Stockbridge",
-      "Country":"England",
-      "e-Mail_adress":"tim@rhunt.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.277927,
-        50.6543035
-      ]
-    },
-    "properties":{
-      "Name":"R Hunt (Agric Eng) Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Pritchetts Way",
-      "Adresse2":"Rookley Ind Est  ",
-      "Zip_code":"PO38 3LT",
-      "City":"Rookley Ventor",
-      "Country":"England",
-      "e-Mail_adress":"jim@rhunt.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.67589,
-        53.862595
-      ]
-    },
-    "properties":{
-      "Name":"RBM Agricultural Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Holme Road",
-      "Adresse2":"Market Weighton        ",
-      "Zip_code":"YO43 3EW",
-      "City":"York",
-      "Country":"England",
-      "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.8143668,
-        54.12604229999999
-      ]
-    },
-    "properties":{
-      "Name":"RBM Agricultural Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Derwent Road",
-      "Adresse2":"Malton",
-      "Zip_code":"YO17 6YB",
-      "City":"Malton",
-      "Country":"England",
-      "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.8929024999999999,
-        53.3508431
-      ]
-    },
-    "properties":{
-      "Name":"RBM Agricultural Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Clarborough Hill",
-      "Adresse2":"Retford",
-      "Zip_code":"DN22 9EA",
-      "City":"Retford",
-      "Country":"England",
-      "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.4812392,
-        53.5477561
-      ]
-    },
-    "properties":{
-      "Name":"RBM Agricultural Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Westrum Lane",
-      "Adresse2":"Brigg",
-      "Zip_code":"DN20 9EU",
-      "City":"Brigg",
-      "Country":"England",
-      "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.0078055,
-        53.38354589999999
-      ]
-    },
-    "properties":{
-      "Name":"RBM Agricultural Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"19 Bollingbroke Road",
-      "Adresse2":"Fairfield Industrial Estate        ",
-      "Zip_code":"LN11 0WA",
-      "City":"Louth",
-      "Country":"England",
-      "e-Mail_adress":"sandrataylor@rbmagricultural.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.2670163,
-        50.7851991
-      ]
-    },
-    "properties":{
-      "Name":"Redlynch Agric Eng Ltd RABE",
-      "Brand":"gregoire",
-      "Adresse1":"Deverel Farm",
-      "Adresse2":"Milborne St Andrew        ",
-      "Zip_code":"DT11 0HX",
-      "City":"Blandford",
-      "Country":"England",
-      "e-Mail_adress":"martin@redlynchtractors.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.9884537,
-        56.3239958
-      ]
-    },
-    "properties":{
-      "Name":"Reekie Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Cupar Trading Estate",
-      "Adresse2":"Cupar ",
-      "Zip_code":"KY15 4SX",
-      "City":"Fife",
-      "Country":"Scotland",
-      "e-Mail_adress":"bhamilton@reekie.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.4815455,
-        56.4176728
-      ]
-    },
-    "properties":{
-      "Name":"Reekie Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Ruthvenfield Road",
-      "Adresse2":"Inveralmond Ind Estate ",
-      "Zip_code":"PH1 3EE",
-      "City":"Perth",
-      "Country":"Scotland",
-      "e-Mail_adress":"smercer@reekie.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        0.2431696,
-        52.6572
-      ]
-    },
-    "properties":{
-      "Name":"Richard Askew Agri Supplies RA",
-      "Brand":"gregoire",
-      "Adresse1":"344 Smeeth Road",
-      "Adresse2":"Marshland St James        ",
-      "Zip_code":"PE14 8EP",
-      "City":"Wisbech",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -4.834702,
-        55.2630358
-      ]
-    },
-    "properties":{
-      "Name":"Robert Cook",
-      "Brand":"gregoire",
-      "Adresse1":"Unit 12 Grangestone Industrial Estate",
-      "Adresse2":"Ladywell Avenue        ",
-      "Zip_code":"KA26 9PF",
-      "City":"Girvan",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.4168836,
-        56.7773052
-      ]
-    },
-    "properties":{
-      "Name":"Ross Agri Services Limited",
-      "Brand":"gregoire",
-      "Adresse1":"Invergarry",
-      "Adresse2":"St Cyrus        ",
-      "Zip_code":"DD10 0DE",
-      "City":"Montrose",
-      "Country":"Scotland",
-      "e-Mail_adress":"martin@rossagri.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -4.3535077,
-        50.8207505
-      ]
-    },
-    "properties":{
-      "Name":"Smallridge Bros Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Neet Way",
-      "Adresse2":"Holsworthy Ind. Est. ",
-      "Zip_code":"EX22 6ES",
-      "City":"Holsworthy",
-      "Country":"England",
-      "e-Mail_adress":"paul@smallridgebros.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -4.076214999999999,
-        51.039171
-      ]
-    },
-    "properties":{
-      "Name":"Smallridge Bros Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"East Collabear",
-      "Adresse2":"Tawstock ",
-      "Zip_code":"EX31 3JZ",
-      "City":"Barnstable",
-      "Country":"England",
-      "e-Mail_adress":"sales@smallridgebros.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.3903386,
-        50.7704979
-      ]
-    },
-    "properties":{
-      "Name":"Smart Ag Services Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Unit 51 Enterprise Park",
-      "Adresse2":"Piddlehinton ",
-      "Zip_code":"DT2 7UA",
-      "City":"Dorchester",
-      "Country":"England",
-      "e-Mail_adress":"colin@smartagservices.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.3137015,
-        52.7720566
-      ]
-    },
-    "properties":{
-      "Name":"Sulky Burel UK Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Spalding Road",
-      "Adresse2":"Bourne",
-      "Zip_code":"PE10 0AU",
-      "City":"Bourne",
-      "Country":"England",
-      "e-Mail_adress":"parts@sulky-burel.co.uk",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.94677,
-        52.09214900000001
-      ]
-    },
-    "properties":{
-      "Name":"Tallis Amos Group Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Hinton On The Green",
-      "Adresse2":"Evesham",
-      "Zip_code":"WR11 6QT",
-      "City":"Evesham",
-      "Country":"England",
-      "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.7352,
-        52.2175156
-      ]
-    },
-    "properties":{
-      "Name":"Tallis Amos Group Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Southern Avenue",
-      "Adresse2":"Leominster",
-      "Zip_code":"HR6 0QB",
-      "City":"Leominster",
-      "Country":"England",
-      "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -1.8563049,
-        51.7587424
-      ]
-    },
-    "properties":{
-      "Name":"Tallis Amos Group Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Meadowlands",
-      "Adresse2":"Bibury        ",
-      "Zip_code":"GL7 5LZ",
-      "City":"Cirencester",
-      "Country":"England",
-      "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.357508,
-        55.6714551
-      ]
-    },
-    "properties":{
-      "Name":"Thomas Sherriff & Co Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Orange Lane",
-      "Adresse2":"Leitholm ",
-      "Zip_code":"TD12 4LY",
-      "City":"Coldstream",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"44774164396",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -0.4000199,
-        53.0082878
-      ]
-    },
-    "properties":{
-      "Name":"TRP (Scotland) Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"Pride Parkway",
-      "Adresse2":"Enterprise Park        ",
-      "Zip_code":"NG34 8GL",
-      "City":"Sleaford",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Harvey Sherwin",
-      "GBgroup_salesman_Phonenumber":"447891634994",
-      "GBgroup_salesman_eMail":"h.sherwin@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -2.7593017,
-        53.8744094
-      ]
-    },
-    "properties":{
-      "Name":"Whittinghams Farm Supplies Ltd",
-      "Brand":"gregoire",
-      "Adresse1":"119 Garstang Road",
-      "Adresse2":"Claughton on Brocks",
-      "Zip_code":"PR3 0PH",
-      "City":"Preston",
-      "Country":"England",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
-    }
-  },
-  {
-    "type":"Feature",
-    "geometry":{
-      "type":"Point",
-      "coordinates":[
-        -3.4726791,
-        56.5307408
-      ]
-    },
-    "properties":{
-      "Name":"Wilks Brothers",
-      "Brand":"gregoire",
-      "Adresse1":"Murthly",
-      "Adresse2":"Perthshire",
-      "Zip_code":"PH1 4HG",
-      "City":"Perthshire",
-      "Country":"Scotland",
-      "e-Mail_adress":"",
-      "GBgroup_salesman":"Rob Thurkettle",
-      "GBgroup_salesman_Phonenumber":"447741643968",
-      "GBgroup_salesman_eMail":"r.thurkettle@gb-group.co"
     }
   },
   {
@@ -24128,5 +21989,979 @@
         51.065525
       ]
     }
-  }
+  },
+  {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ancroft Tractors Ltd",
+            "Latitude":"55.7893152",
+            "Longitude":"-2.014753",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Windmill Way West",
+            "Adresse2":"Ramparts Business Park ",
+            "Zip code":"TD15 1TB",
+            "City":"Berwick-upon-tweed",
+            "Country":"England",
+            "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.014753,
+               55.789315
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ancroft Tractors Ltd",
+            "Latitude":"55.946869",
+            "Longitude":"-2.8913642",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Unit 1 & 2 Macmerry Industrial Estate",
+            "Adresse2":"Macmerry Tranent",
+            "Zip code":"EH33 1RD",
+            "Country":"Scotland",
+            "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.891364,
+               55.946869
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ancroft Tractors Ltd",
+            "Latitude":"55.5898747",
+            "Longitude":"-2.4248718",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Pinacclehill Industrial Estate",
+            "Adresse2":"Kelso",
+            "Zip code":"TD5 8DW",
+            "City":"Kelso",
+            "Country":"Scotland",
+            "e-Mail_adress":"yvonne@ancroft-tractors.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.424872,
+               55.589875
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ben Burgess & Co (Norwich)",
+            "Latitude":"52.6120899",
+            "Longitude":"1.3078007",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"38 Europa Way",
+            "Adresse2":"Martineau Lane ",
+            "Zip code":"NR1 2EN",
+            "City":"Norwich",
+            "Country":"England",
+            "e-Mail_adress":"helentalbot@benburgess.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.307801,
+               52.61209
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ben Burgess (Aylsham)",
+            "Latitude":"52.803377",
+            "Longitude":"1.266345",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Aylesham Industrial Estate",
+            "Adresse2":"Dunkirk ",
+            "Zip code":"NR11 6SU",
+            "City":"Aylesham",
+            "Country":"England",
+            "e-Mail_adress":"helentalbot@benburgess.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.266345,
+               52.803377
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ben Burgess (Beeston)",
+            "Latitude":"52.70112",
+            "Longitude":"0.8311839999999999",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Dereham Road,",
+            "Adresse2":"Beeston ",
+            "Zip code":"PE32 2LE",
+            "City":"Kings Lynn",
+            "Country":"England",
+            "e-Mail_adress":"helentalbot@benburgess.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.831184,
+               52.70112
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ben Burgess Coates",
+            "Latitude":"52.5717078",
+            "Longitude":"-0.0495818",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Eldernell Lane",
+            "Adresse2":"Coates ",
+            "Zip code":"PE7 2DD",
+            "City":"Peterborough",
+            "Country":"England",
+            "e-Mail_adress":"helentalbot@benburgess.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.049582,
+               52.571708
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ben Burgess Ellington",
+            "Latitude":"52.334754",
+            "Longitude":"-0.303099",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Brook Farm Industrial Estate",
+            "Adresse2":"Ellington ",
+            "Zip code":"PE28 0AE",
+            "City":"Huntingdon",
+            "Country":"England",
+            "e-Mail_adress":"helentalbot@benburgess.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.303099,
+               52.334754
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ben Burgess Newmarket Ltd",
+            "Latitude":"52.2681055",
+            "Longitude":"0.3870581",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Windmill Hill",
+            "Adresse2":"Exning ",
+            "Zip code":"CB8 7NP",
+            "City":"Newmarket",
+            "Country":"England",
+            "e-Mail_adress":"helentalbot@benburgess.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.387058,
+               52.268105
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Brockhills of Yorkshire Ltd",
+            "Latitude":"54.1822487",
+            "Longitude":"-1.3581846",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Dalton Lane",
+            "Adresse2":"Dalton ",
+            "Zip code":"YO7 3HR",
+            "City":"Thirsk",
+            "Country":"England",
+            "e-Mail_adress":"sales@brockhills.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.358185,
+               54.182249
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Cambridge Farm Machinery Ltd",
+            "Latitude":"52.1489652",
+            "Longitude":"0.0974027",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Church Road",
+            "Adresse2":"Hauxton        ",
+            "Zip code":"CB2 5HS",
+            "City":"Cambridge ",
+            "Country":"England",
+            "e-Mail_adress":"jnoble@cambridgefarmmachinery.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.097403,
+               52.148965
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ernest Doe & Sons Limited",
+            "Latitude":"51.7610122",
+            "Longitude":"0.6280884000000001",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Ulting",
+            "Adresse2":"Maldon",
+            "Zip code":"CM9 6QH",
+            "City":"Maldon",
+            "Country":"England",
+            "e-Mail_adress":"geraldsilvey@ernestdoe.com ",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.628088,
+               51.761012
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Farol Ltd",
+            "Latitude":"51.7284808",
+            "Longitude":"-1.0434863",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Rycote Lane Farm",
+            "Adresse2":"Milton Common ",
+            "Zip code":"OX9 2NX",
+            "City":"Thame",
+            "Country":"England",
+            "e-Mail_adress":"purchase@farol.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.043486,
+               51.728481
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Farol Ltd",
+            "Latitude":"50.9776784",
+            "Longitude":"-0.7469606000000001",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Holmbush House",
+            "Adresse2":"Holmbush Industrial Estate ",
+            "Zip code":"GU29 9XY",
+            "City":"Midhurst",
+            "Country":"England",
+            "e-Mail_adress":"purchase@farol.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.746961,
+               50.977678
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Farol Ltd",
+            "Latitude":"52.5374184",
+            "Longitude":"-1.4002151",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Wharf Farm",
+            "Adresse2":"Coventry Road ",
+            "Zip code":"LE10 0NB",
+            "City":"Hinckley",
+            "Country":"England",
+            "e-Mail_adress":"purchase@farol.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.400215,
+               52.537418
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Farol Ltd",
+            "Latitude":"52.1773209",
+            "Longitude":"-1.2480417",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Boddington Road",
+            "Adresse2":"Byfield",
+            "Zip code":"NN11 6FL",
+            "City":"Daventry",
+            "Country":"England",
+            "e-Mail_adress":"purchase@farol.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.248042,
+               52.177321
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Farol Ltd",
+            "Latitude":"51.4634362",
+            "Longitude":"-1.4672313",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Coldridge Copse",
+            "Adresse2":"Shefford Woodland ",
+            "Zip code":"RG17 7AB",
+            "City":"Hungerford",
+            "Country":"England",
+            "e-Mail_adress":"purchase@farol.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.467231,
+               51.463436
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"J W Doubleday Ltd - Holbeach",
+            "Latitude":"52.7491701",
+            "Longitude":"0.0247136",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Old Fendyke",
+            "Adresse2":"Holbeach St John",
+            "Zip code":"PE12 8SQ",
+            "City":"Spalding",
+            "Country":"England",
+            "e-Mail_adress":"accounts@doubledaygroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.024714,
+               52.74917
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"J W Doubleday Ltd - Kings Lynn",
+            "Latitude":"52.7009971",
+            "Longitude":"0.3612528",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Lynn Road",
+            "Adresse2":"St Germans        ",
+            "Zip code":"PE34 3EU",
+            "City":"Kings Lynn",
+            "Country":"England",
+            "e-Mail_adress":"accounts@doubledaygroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.361253,
+               52.700997
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"J W Doubleday Ltd - Swineshead",
+            "Latitude":"52.9596884",
+            "Longitude":"-0.1774997",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Station Road",
+            "Adresse2":"Swineshead ",
+            "Zip code":"PE20 3PN",
+            "City":"Swineshead",
+            "Country":"England",
+            "e-Mail_adress":"accounts@doubledaygroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.1775,
+               52.959688
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"52.268999",
+            "Longitude":"1.2470542",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Worlingworth",
+            "Adresse2":"Woodbridge",
+            "Zip code":"IP13 7HU",
+            "City":"Woodbridge",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.247054,
+               52.268999
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"51.9172662",
+            "Longitude":"0.9820553",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Ardleigh Hall",
+            "Adresse2":"Ardleigh ",
+            "Zip code":"CO7 7LG",
+            "City":"Colchester",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.982055,
+               51.917266
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"51.91763049999999",
+            "Longitude":"-0.1280732",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"High Street",
+            "Adresse2":"Cromer",
+            "Zip code":"SG2 7QA",
+            "City":"Stevenage",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.128073,
+               51.91763
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"52.01812690000001",
+            "Longitude":"-0.4638216000000001",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"New Road",
+            "Adresse2":"Maulden        ",
+            "Zip code":"MK45 2BG",
+            "City":"Maulden",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.463822,
+               52.018127
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"51.8658155",
+            "Longitude":"0.3721742",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Ind Est",
+            "Adresse2":"Chelmsford Road        ",
+            "Zip code":"CM6 1HD",
+            "City":"Gt Dunmow",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.372174,
+               51.865815
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"51.6058105",
+            "Longitude":"0.5932393",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Rawreth Ind Est",
+            "Adresse2":"Rawreth Lane ",
+            "Zip code":"SS6 9RL",
+            "City":"Rayleigh",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.593239,
+               51.60581
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"P Tuckwell Ltd",
+            "Latitude":"52.04140659999999",
+            "Longitude":"0.7505006",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Windham Road",
+            "Adresse2":"Chilton Ind Est",
+            "Zip code":"CO10 2XD",
+            "City":"Sudbury",
+            "Country":"England",
+            "e-Mail_adress":"lsmith@tuckwellgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               0.750501,
+               52.041407
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"REA Valley tractors",
+            "Latitude":"52.73499",
+            "Longitude":"-2.700528",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Seven acres - Newport road",
+            "Adresse2":"Shropshire",
+            "Zip code":"SY4 4RR",
+            "City":"Shrewsbury",
+            "Country":"England",
+            "e-Mail_adress":"melgregory@reavalleytractors.com",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.700528,
+               52.73499
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"REA Valley tractors",
+            "Latitude":"52.762055",
+            "Longitude":"-2.364046",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Audley avenue industrial estate",
+            "Adresse2":"Shropshire",
+            "Zip code":"TF10 7BX",
+            "City":"Newport",
+            "Country":"England",
+            "e-Mail_adress":"melgregory@reavalleytractors.com",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.364046,
+               52.762055
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"REA Valley tractors",
+            "Latitude":"52.9939",
+            "Longitude":"-1.718",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Ashacres industrial park",
+            "Adresse2":"Draycott in the clay - Derbyshire",
+            "Zip code":"DE6 5GX",
+            "City":"Sudbury",
+            "Country":"England",
+            "e-Mail_adress":"melgregory@reavalleytractors.com",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.718,
+               52.9939
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ripon farm services ltd",
+            "Latitude":"53.862679",
+            "Longitude":"-0.675221",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Holme road market weighton",
+            "Adresse2":"North Yorkshire",
+            "Zip code":"YO43 3EW",
+            "City":"York",
+            "Country":"England",
+            "e-Mail_adress":"adriandenner@rbmagricultural.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.675221,
+               53.862679
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ripon farm services ltd",
+            "Latitude":"54.126467",
+            "Longitude":"-0.815529",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Derwent road",
+            "Adresse2":"North Yorkshire",
+            "Zip code":"YO17 6YB",
+            "City":"Malton",
+            "Country":"England",
+            "e-Mail_adress":"benmoseley@rbmagricultural.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.815529,
+               54.126467
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ripon farm services ltd",
+            "Latitude":"53.348529",
+            "Longitude":"-0.893282",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Clarborough hill",
+            "Adresse2":"Nottinghamshire",
+            "Zip code":"DN22 9EA",
+            "City":"Retford",
+            "Country":"England",
+            "e-Mail_adress":"adriandenner@rbmagricultural.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.893282,
+               53.348529
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ripon farm services ltd",
+            "Latitude":"53.547898",
+            "Longitude":"-0.480781",
+            "Brand":"Gregoire-besson",
+            "Adresse1":" Westrum lane",
+            "Adresse2":"North east Lincolnshire",
+            "Zip code":"DN20 9EY",
+            "City":"Brigg",
+            "Country":"England",
+            "e-Mail_adress":"benmoseley@rbmagricultural.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.480781,
+               53.547898
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ripon farm services ltd",
+            "Latitude":"53.383151",
+            "Longitude":"-0.007775",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"19 bollingbroke road fairfield industrial estate",
+            "Adresse2":"North east Lincolnshire",
+            "Zip code":"LN11 0WA",
+            "City":"Louth",
+            "Country":"England",
+            "e-Mail_adress":"adriandenner@rbmagricultural.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -0.007775,
+               53.383151
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Ross Agri Services Limited",
+            "Latitude":"56.7773052",
+            "Longitude":"-2.4168836",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Invergarry",
+            "Adresse2":"St Cyrus        ",
+            "Zip code":"DD10 0DE",
+            "City":"Montrose",
+            "Country":"Scotland",
+            "e-Mail_adress":"martin@rossagri.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.416884,
+               56.777305
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Tallis Amos Group Ltd",
+            "Latitude":"52.09214900000001",
+            "Longitude":"-1.94677",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Hinton On The Green",
+            "Adresse2":"Evesham",
+            "Zip code":"WR11 6QT",
+            "City":"Evesham",
+            "Country":"England",
+            "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.94677,
+               52.092149
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Tallis Amos Group Ltd",
+            "Latitude":"52.2175156",
+            "Longitude":"-2.7352",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Southern Avenue",
+            "Adresse2":"Leominster",
+            "Zip code":"HR6 0QB",
+            "City":"Leominster",
+            "Country":"England",
+            "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -2.7352,
+               52.217516
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name of the dealer / importer":"Tallis Amos Group Ltd",
+            "Latitude":"51.7587424",
+            "Longitude":"-1.8563049",
+            "Brand":"Gregoire-besson",
+            "Adresse1":"Meadowlands",
+            "Adresse2":"Bibury        ",
+            "Zip code":"GL7 5LZ",
+            "City":"Cirencester",
+            "Country":"England",
+            "e-Mail_adress":"rachel.donaldson@tallisamosgroup.co.uk",
+            "GB-group_salesman":"Joran Le Magueresse",
+            "GB-group_salesman_Phonenumber":"330241647267",
+            "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -1.856305,
+               51.758742
+            ]
+         }
+      }
 ]
