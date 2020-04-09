@@ -15757,146 +15757,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [26.378806, 59.341444]
-    },
-    "properties": {
-      "Name": "Agroproff OÜ",
-      "Brand": "rabe",
-      "Adresse1": "Piiri 12",
-      "Adresse2": "Lääne Virumaa",
-      "Zip_code": "44312",
-      "City": "Rakvere",
-      "Country": "Estonia",
-      "e-Mail_adress": "info@agroproff.ee",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [25.286794, 54.710655]
-    },
-    "properties": {
-      "Name": "UAB Rovaltra",
-      "Brand": "gregoire",
-      "Adresse1": "Kalvarijų g. 125-602",
-      "Adresse2": "",
-      "Zip_code": "LT-08221",
-      "City": "Vilnius",
-      "Country": "Lithuania",
-      "e-Mail_adress": "justas@rovaltra.lt/jonas@rovaltra.lt",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [26.402603, 58.738322]
-    },
-    "properties": {
-      "Name": "A.Tammel AS",
-      "Brand": "gregoire",
-      "Adresse1": "Turu 7",
-      "Adresse2": "",
-      "Zip_code": "48303",
-      "City": "Jõgeva",
-      "Country": "Estonia",
-      "e-Mail_adress": "info@atammel.ee",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [23.6344252, 56.4192661]
-    },
-    "properties": {
-      "Name": "LPKS LATRAPS",
-      "Brand": "gregoire",
-      "Adresse1": "Lietuvas street 16A,",
-      "Adresse2": "",
-      "Zip_code": "LV-3023",
-      "City": "Eleja, Elejas,",
-      "Country": "Latvia",
-      "e-Mail_adress": "aigars@latraps.com",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [16.213148, 58.5934641]
-    },
-    "properties": {
-      "Name": "Nordfarm Maskin AB",
-      "Brand": "gregoire",
-      "Adresse1": "Surgatan",
-      "Adresse2": "",
-      "Zip_code": "SE-601 14",
-      "City": "Norrköping",
-      "Country": "Sweden",
-      "e-Mail_adress": "info@nordfarm.se",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [25.5972212, 55.9401953]
-    },
-    "properties": {
-      "Name": "UAB IVABALTĖ",
-      "Brand": "rabe",
-      "Adresse1": "Stoties g. 23,",
-      "Adresse2": "",
-      "Zip_code": "LT 42164",
-      "City": "Rokiškis",
-      "Country": "Lithuania",
-      "e-Mail_adress": "ivabalte@ivabalte.lt; sigitas@ivabalte.lt",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [24.245258, 56.7702819]
-    },
-    "properties": {
-      "Name": "SIA DOJUS Latvija",
-      "Brand": "rabe",
-      "Adresse1": "„Ceļa zeme”, Ķekavas pagasts",
-      "Adresse2": "",
-      "Zip_code": "LV-2123",
-      "City": "Ķekavas",
-      "Country": "Latvia",
-      "e-Mail_adress": "info@dojuslatvija.lv; mantvydas.bauras@dojusgroup.lt",
-      "GBgroup_salesman": "Linas Karalkevicius",
-      "GBgroup_salesman_Phonenumber": "37061616168",
-      "GBgroup_salesman_eMail": "l.karalkevicius@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [18.9846004, 46.1846158]
     },
     "properties": {
@@ -16197,106 +16057,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [27.599188, -26.854541]
-    },
-    "properties": {
-      "Name": "VALTRAC LTD",
-      "Brand": "gregoire",
-      "Adresse1": "R59 Road",
-      "Adresse2": "",
-      "Zip_code": "9785",
-      "City": "PARYS",
-      "Country": "AFRIQUE DU SUD",
-      "e-Mail_adress": "george@valtrac.co.za",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [3.28034, 36.757562]
-    },
-    "properties": {
-      "Name": "ETS ROUIBA MATERIEL",
-      "Brand": "gregoire",
-      "Adresse1": "04 Rue Hassiba Ben Bouali",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "ROUIBA",
-      "Country": "ALGERIE",
-      "e-Mail_adress": "rouibamatagri@yahoo.fr",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [31.249187, 30.048344]
-    },
-    "properties": {
-      "Name": "ECAD",
-      "Brand": "gregoire",
-      "Adresse1": "105 Abdel Aziz Al Seoud st.Manial",
-      "Adresse2": "",
-      "Zip_code": "11451",
-      "City": "CAIRO",
-      "Country": "EGYPTE",
-      "e-Mail_adress": "omar.elhefny@ecadeg.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [38.775685, 8.892182]
-    },
-    "properties": {
-      "Name": "MGK MAKONNEN",
-      "Brand": "gregoire",
-      "Adresse1": "House No.108 Akaki Kality Subcity",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "ADDIS ABABA",
-      "Country": "ETHIOPIE",
-      "e-Mail_adress": "mgkethiopia@gmail.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [37.310126, -3.332111]
-    },
-    "properties": {
-      "Name": "TPC LIMITED",
-      "Brand": "gregoire",
-      "Adresse1": "P.O. Box 93 Moshi",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "KILIMANJARO",
-      "Country": "TANZANIE",
-      "e-Mail_adress": "negoce@tsd-export.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-0.161681, 5.637829]
     },
     "properties": {
@@ -16308,226 +16068,6 @@
       "City": "ACCRA",
       "Country": "GHANA",
       "e-Mail_adress": "d.amoah@gelgh.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-61.5565, 16.25304]
-    },
-    "properties": {
-      "Name": "SODIMAT",
-      "Brand": "gregoire",
-      "Adresse1": "Rue Th. Edison",
-      "Adresse2": "",
-      "Zip_code": "97122",
-      "City": "BAIE-MAHAULT",
-      "Country": "GUADELOUPE",
-      "e-Mail_adress": "cpioche@sodimatgp.fr",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-52.330667, 4.895092]
-    },
-    "properties": {
-      "Name": "MACHDEAL",
-      "Brand": "gregoire",
-      "Adresse1": "Carrefour Du Larivot",
-      "Adresse2": "",
-      "Zip_code": "97351",
-      "City": "MATOURY",
-      "Country": "GUYANE FRANCAISE",
-      "e-Mail_adress": "yana.wadycki@machdeal.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-52.333257, 4.894354]
-    },
-    "properties": {
-      "Name": "SORELOC",
-      "Brand": "gregoire",
-      "Adresse1": "8 Lot Dalmazir",
-      "Adresse2": "",
-      "Zip_code": "97351",
-      "City": "MATOURY",
-      "Country": "GUYANE FRANCAISE",
-      "e-Mail_adress": "natacha.misran@soreloc-guyane.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [36.819026, -1.290084]
-    },
-    "properties": {
-      "Name": "TOYOTA TUSHO",
-      "Brand": "gregoire",
-      "Adresse1": "Toyata Building Uhuru Highway",
-      "Adresse2": "",
-      "Zip_code": "               OO100",
-      "City": "NAIROBI",
-      "Country": "KENYA",
-      "e-Mail_adress": "ian.allen@ttea.co.ke",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [55.621653, -20.913672]
-    },
-    "properties": {
-      "Name": "FOUCQUE MATERIEL",
-      "Brand": "gregoire",
-      "Adresse1": "1 Ter Rue de l'Adour",
-      "Adresse2": "",
-      "Zip_code": "97441",
-      "City": "SAINTE-SUZANNE",
-      "Country": "LA REUNION",
-      "e-Mail_adress": "d.lacaille@foucque.fr",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-60.945742, 14.676371]
-    },
-    "properties": {
-      "Name": "AMS/AGRI-TP",
-      "Brand": "gregoire",
-      "Adresse1": "Mansarde Catalogne",
-      "Adresse2": "",
-      "Zip_code": "97231",
-      "City": "LE ROBERT",
-      "Country": "MARTINIQUE",
-      "e-Mail_adress": "r.adelaide@amsantilles.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [166.469583, -22.247454]
-    },
-    "properties": {
-      "Name": "CIPAC",
-      "Brand": "gregoire",
-      "Adresse1": "210 Rue Gervolino",
-      "Adresse2": "",
-      "Zip_code": "9800",
-      "City": "NOUMEA",
-      "Country": "NOUVELLE CALEDONIE",
-      "e-Mail_adress": "mblancheton@cipac-industrie.nc",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [10.226981, 36.764373]
-    },
-    "properties": {
-      "Name": "MOTEUR DIESEL",
-      "Brand": "gregoire",
-      "Adresse1": "Avenue de Paris",
-      "Adresse2": "",
-      "Zip_code": "2033",
-      "City": "MEGRINE",
-      "Country": "TUNISIE",
-      "e-Mail_adress": "maniaci.massimo@moteurdiesel.com.tn",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.559927, 15.519678]
-    },
-    "properties": {
-      "Name": "ICS SUDAN",
-      "Brand": "gregoire",
-      "Adresse1": "",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "KHARTOUM",
-      "Country": "SOUDAN",
-      "e-Mail_adress": "phguyon.ics@gmail.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [17.470754, 14.718472]
-    },
-    "properties": {
-      "Name": "ICS SENEGAL",
-      "Brand": "gregoire",
-      "Adresse1": "Sacré-coeur 3",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "DAKAR",
-      "Country": "SENEGAL",
-      "e-Mail_adress": "jmv.ics@gmail.com",
-      "GBgroup_salesman": "Ricci Francesco",
-      "GBgroup_salesman_Phonenumber": "0033 624291639",
-      "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-7.914509, 12.663046]
-    },
-    "properties": {
-      "Name": "ICS MALI",
-      "Brand": "gregoire",
-      "Adresse1": "Quartier Sotuba",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "BAMAKO",
-      "Country": "MALI",
-      "e-Mail_adress": "jmv.ics@gmail.com",
       "GBgroup_salesman": "Ricci Francesco",
       "GBgroup_salesman_Phonenumber": "0033 624291639",
       "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
@@ -16551,964 +16091,6 @@
       "GBgroup_salesman": "Ricci Francesco",
       "GBgroup_salesman_Phonenumber": "0033 624291639",
       "GBgroup_salesman_eMail": "f.ricci@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [22.8015174, 40.6717164]
-    },
-    "properties": {
-      "Name": "AGER",
-      "Brand": "gregoire",
-      "Adresse1": "8 TH KM THESSALONIKI ATHENS",
-      "Adresse2": "PO BOX 154",
-      "Zip_code": "57400",
-      "City": "SINDOS",
-      "Country": "GREECE",
-      "e-Mail_adress": "ager@otenet.gr",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-3.7159646, 42.2840543]
-    },
-    "properties": {
-      "Name": "MOWERS IBERICA 2008",
-      "Brand": "group",
-      "Adresse1": "POL IND EL CLAVILLO",
-      "Adresse2": "C/RIO OCA, 10-14",
-      "Zip_code": "9195",
-      "City": "VILLARIEZO",
-      "Country": "SPAIN",
-      "e-Mail_adress": "dacero@mowersiberica.com",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-103.4792999, 25.5845283]
-    },
-    "properties": {
-      "Name": "AGROSERVICIOS DEL NORTE / ANSA",
-      "Brand": "gregoire",
-      "Adresse1": "Perif Torreón Gómez Lerdo km 3.5",
-      "Adresse2": "DURANGO",
-      "Zip_code": "35078",
-      "City": "GOMEZ PALACIO",
-      "Country": "MEXICO",
-      "e-Mail_adress": "norte@ansamex.com",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [141.339958, 43.06072]
-    },
-    "properties": {
-      "Name": "HFT JAPAN",
-      "Brand": "gregoire",
-      "Adresse1": "Takeda Sapporo Building 6F",
-      "Adresse2": "4, Kita 1, Nishi 13, Chuo-ku",
-      "Zip_code": "060-0001",
-      "City": "SAPPORO",
-      "Country": "JAPAN",
-      "e-Mail_adress": "sapporo-homeoffice@nh-hft.co.jp",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [144.7538016, -37.8135673]
-    },
-    "properties": {
-      "Name": "FARMGUARD",
-      "Brand": "group",
-      "Adresse1": "15 Paraweena Dr, ",
-      "Adresse2": "",
-      "Zip_code": "VIC 3029",
-      "City": "TRUGANINA",
-      "Country": "AUSTRALIA",
-      "e-Mail_adress": "sales@farmgard.com.au",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [146.2984621, -36.36315829999999]
-    },
-    "properties": {
-      "Name": "BURDER INDUSTRIE",
-      "Brand": "rabe",
-      "Adresse1": "4-8 Kerr St.",
-      "Adresse2": "",
-      "Zip_code": "VIC 6377",
-      "City": "WANGARATTA",
-      "Country": "AUSTRALIA",
-      "e-Mail_adress": "sales@burder.com.au",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [35.3376617, 32.63671540000001]
-    },
-    "properties": {
-      "Name": "Zach Agricultural Equipment Afula, LTD",
-      "Brand": "gregoire",
-      "Adresse1": "Industrial Zone Afula Yilit Haoreg St. No. 4,",
-      "Adresse2": "",
-      "Zip_code": "18121",
-      "City": "AFULA",
-      "Country": "ISRAEL",
-      "e-Mail_adress": "eli@zach-agri.com",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [143.0877989, 42.9281616]
-    },
-    "properties": {
-      "Name": "AGRIDIRECT",
-      "Brand": "rabe",
-      "Adresse1": "Nord Nord Lignes 18 - 7",
-      "Adresse2": "",
-      "Zip_code": "082-0004 ",
-      "City": "District de Hokkaido Kasai Shigubocho Tobudai",
-      "Country": "JAPAN",
-      "e-Mail_adress": "hoge@agridirect.jp",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [6.9285546, 46.8095253]
-    },
-    "properties": {
-      "Name": "AGRIDUBEY",
-      "Brand": "gregoire",
-      "Adresse1": "19 rue de chatelard",
-      "Adresse2": "",
-      "Zip_code": "1530",
-      "City": "PAYERNE",
-      "Country": "SUISSE",
-      "e-Mail_adress": "pierre-alain.dubey@agridubey.ch",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "0033 6 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [104.195397, 35.86166]
-    },
-    "properties": {
-      "Name": "GB CHINA",
-      "Brand": "group",
-      "Adresse1": "",
-      "Adresse2": "",
-      "Zip_code": "",
-      "City": "",
-      "Country": "CHINE",
-      "e-Mail_adress": "gregoirebessonchina@126.com",
-      "GBgroup_salesman": "JACQUES",
-      "GBgroup_salesman_Phonenumber": "861065080640",
-      "GBgroup_salesman_eMail": "gregoirebessonchina@126.com"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [171.471, -43.9232]
-    },
-    "properties": {
-      "Name": "NEW ZEALAND TRACTORS",
-      "Brand": "gregoire",
-      "Adresse1": "Spring Farm, Winslow, No.5 R.D",
-      "Adresse2": "",
-      "Zip_code": "7775",
-      "City": "ASHBURTON",
-      "Country": "NEW ZEALAND",
-      "e-Mail_adress": "info@nzt.nz",
-      "GBgroup_salesman": "Edouard Patin",
-      "GBgroup_salesman_Phonenumber": "0033 2 41 64 72 67",
-      "GBgroup_salesman_eMail": "e.patin@gb-group.co"
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРІСТАР Центральний офіс",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Метрологічна, 44",
-      "Zip_code": "3143",
-      "City": "м. Київ",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agristar.com.ua",
-      "GBgroup_salesman_Phonenumber": "0 800 210 242",
-      "GBgroup_salesman_eMail": "info@agristar.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.476462, 50.348959]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРІСТАР",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Радужна, 3",
-      "Zip_code": "63513",
-      "City": "смт. Кочеток, область Харківська ",
-      "Country": "Україна",
-      "e-Mail_adress": "tokarchuksergiy@agristar.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 328 92 19",
-      "GBgroup_salesman_eMail": "tokarchuksergiy@agristar.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [36.713894, 49.868699]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРІСТАР",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Надії, 15",
-      "Zip_code": "62416",
-      "City": "смт. Пісочин, область Харківська",
-      "Country": "Україна",
-      "e-Mail_adress": "romanecsergiy@agristar.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 618 76 70",
-      "GBgroup_salesman_eMail": "romanecsergiy@agristar.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [36.124371, 49.95351]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРІСТАР",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Соборна, 15",
-      "Zip_code": "64603",
-      "City": "м. Лозова",
-      "Country": "Україна",
-      "e-Mail_adress": "falynskyymaksym@agristar.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 323 08 01",
-      "GBgroup_salesman_eMail": "falynskyymaksym@agristar.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [36.313714, 48.889523]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРІСТАР",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Серьогіна, 1",
-      "Zip_code": "36000",
-      "City": "м. Полтава",
-      "Country": "Україна",
-      "e-Mail_adress": "bytandriy@agristar.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 328 92 15",
-      "GBgroup_salesman_eMail": "bytandriy@agristar.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [34.51015, 49.56096]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРІСТАР",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Вишневицьких, 4",
-      "Zip_code": "37500",
-      "City": "м. Лубни",
-      "Country": "Україна",
-      "e-Mail_adress": "shreyterpavlo@agristar.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 328 92 26",
-      "GBgroup_salesman_eMail": "shreyterpavlo@agristar.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.990844, 50.017317]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОСЕМ Центральний офіс",
-      "Brand": "gregoire",
-      "Adresse1": "проспект Героїв Сталінграда, буд. 6 А",
-      "Zip_code": "4210",
-      "City": "м. Київ",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agrosem.ua",
-      "GBgroup_salesman_Phonenumber": "38 (044) 583 07 25",
-      "GBgroup_salesman_eMail": "info@agrosem.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.520662, 50.495152]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОСЕМ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Курчатова, 123",
-      "Zip_code": "29025",
-      "City": "м. Хмельницький ",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agrosem.ua",
-      "GBgroup_salesman_Phonenumber": "38 (097) 843 36 43",
-      "GBgroup_salesman_eMail": "info@agrosem.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [26.911605, 49.453193]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОСЕМ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Підгаєцька, 3",
-      "Zip_code": "43020",
-      "City": "м. Луцьк, область Волинська",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agrosem.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 320 71 23 (техніка) 38 (067) 407 24 04 (сервіс)",
-      "GBgroup_salesman_eMail": "info@agrosem.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [25.388681, 50.746435]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОСЕМ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Старе Село, 101",
-      "Zip_code": "81100",
-      "City": "с. Кам’янопіль, район Пустомитівський, область Львівська",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agrosem.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 159 90 41 (техніка) 38 (067) 563 29 57 (сервіс)",
-      "GBgroup_salesman_eMail": "info@agrosem.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [24.187821, 49.711577]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОСЕМ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Тернопільська, 2Б",
-      "Zip_code": "47717",
-      "City": "с. Смиківці, область Тернопілська",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agrosem.ua",
-      "GBgroup_salesman_Phonenumber": "38 (097) 843 36 43 (техніка) 38 (067) 679 51 58 (сервіс)",
-      "GBgroup_salesman_eMail": "info@agrosem.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [25.560732, 49.558092]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОСЕМ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Галицька, 104",
-      "Zip_code": "77401",
-      "City": "м. Тисмениця, область Івано-Франківська",
-      "Country": "Україна",
-      "e-Mail_adress": "info@agrosem.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 159 90 41 (техніка) 38 (067) 392 65 45 (сервіс)",
-      "GBgroup_salesman_eMail": "info@agrosem.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [24.833365, 48.90422]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК Головний офіс",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Шосейна, 48",
-      "Zip_code": "52002",
-      "City": "м. Підгородне,  область Дніпропетровська",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(056) 790 09 32",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [35.139792, 48.585783]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Гетьмана Сагайдачного, 51",
-      "Zip_code": "72310",
-      "City": "м. Мелітополь, область Запорізька",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(061) 942 62 20",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [35.364287, 46.854985]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Фортечна, 2В",
-      "Zip_code": "69000",
-      "City": "м. Запоріжжя",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(056) 790 09 32",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [35.164747, 47.817489]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Олекси Тихого, 41/43",
-      "Zip_code": "84313",
-      "City": "м. Краматорськ",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(067) 564 91 56",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [37.561113, 48.719555]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Бородича, 1б",
-      "Zip_code": "50086",
-      "City": "м. Кривий Ріг, область Дніпропетровська",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(056) 405 21 19",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [33.423033, 47.907612]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Незалежності, 29в",
-      "Zip_code": "74988",
-      "City": "м. Таврійськ, область Херсонська",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(056) 55 497 39 27",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [33.412341, 46.753381]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Гвардійська, 153-А",
-      "Zip_code": "75101",
-      "City": "м. Олешки",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(067) 639 88 84",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.759094, 46.631876]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Шевцової, 9 А/1",
-      "Zip_code": "85700",
-      "City": "м. Волноваха",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(067) 564 91 56",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [37.544471, 47.71406]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ АГРОТЕК",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Сигнальна, 101а",
-      "Zip_code": "70615",
-      "City": "м. Пологи",
-      "Country": "Україна",
-      "e-Mail_adress": "agrotek@agrotek.org.ua",
-      "GBgroup_salesman_Phonenumber": "38(061) 942 62 20",
-      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [36.260763, 47.499713]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ Центральний офіс",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Ельворті, буд. 7",
-      "Zip_code": "25002",
-      "City": "м. Кропивницький, область Кіровоградська ",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (0522) 35 40 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.262749, 48.51748]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Баштанське шосе, 3",
-      "Zip_code": "57214",
-      "City": "с. Мішково-Погорілове, район Вітовський, область Миколаївська",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.126856, 46.990488]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Ангарська, 17",
-      "Zip_code": "67806",
-      "City": "смт. Авангард, район Овідіопольський, область Одеська",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.617582, 46.471091]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. 13-й км автошляху Р06",
-      "Zip_code": "55235",
-      "City": "с. Лукашівка, район Первомайський, область Миколаївська",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.936991, 48.045227]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Соборна, 214-О",
-      "Zip_code": "66302",
-      "City": "м. Подільськ, область Одеська",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [29.542517, 47.7342]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Промзона, 6",
-      "Zip_code": "68200",
-      "City": "смт. Сарата, район Саратський, область Одеська",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [29.673438, 46.019936]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЛАНДТЕХ",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Зелена, 34",
-      "Zip_code": "68670",
-      "City": "с. Саф’яни, район Ізмаїльський, область Одеська",
-      "Country": "Україна",
-      "e-Mail_adress": "landtech@landtech-ukraine.com",
-      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
-      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [28.869747, 45.403506]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Центральний офіс ",
-      "Brand": "gregoire",
-      "Adresse1": "Бізнес центр Golden River, 4 поверх, вул. Соборна, 2-В",
-      "Zip_code": "8130",
-      "City": "с. Петропавлівська Борщагівка, район Києво-Святошинський, область Київська ",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 487 11 11",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.355954, 50.436858]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Вінницька регіональна дирекція",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Житомирське шосе, 6",
-      "Zip_code": "21022",
-      "City": "м. Вінниця",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 481 81 12",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [28.499694, 49.282524]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Черкаська регіональна дирекція",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Смілянська, 164/5",
-      "Zip_code": "18000",
-      "City": "м. Черкаси",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 489 26 96",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.013154, 49.402067]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Житомирська регіональна дирекція",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Жуйка, 43",
-      "Zip_code": "10002",
-      "City": "м. Житомир",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 489 29 54",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [28.679826, 50.238039]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Уманська регіональна дирекція",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Дерев’янка, 4",
-      "Zip_code": "20331",
-      "City": "м. Умань",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 471 13 95",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.185656, 48.735046]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Склад запасних частин",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Незалежності, 257-А",
-      "Zip_code": "24240",
-      "City": "смт. Вапнярка, область Вінницька",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 310 85 17",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [28.741636, 48.533479]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Склад запасних частин",
-      "Brand": "gregoire",
-      "Adresse1": "Вул. Січових Стрільців, 2",
-      "Zip_code": "13133",
-      "City": "с. Старий Любар, область Житомирська",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 485 44 53",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [27.733112, 49.922571]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ РДО УКРАЇНА Склад запасних частин",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Благовісна, 92А",
-      "Zip_code": "20202",
-      "City": "м. Звенигородка, область Черкаська",
-      "Country": "Україна",
-      "e-Mail_adress": "office@rdo.ua",
-      "GBgroup_salesman_Phonenumber": "38 (067) 448 98 77",
-      "GBgroup_salesman_eMail": "office@rdo.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [32.041219, 49.448661]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЮПІТЕР 9 АГРОСЕРВІС Головний офіс",
-      "Brand": "gregoire",
-      "Adresse1": "проспект Голосіївський, 132",
-      "Zip_code": "3127",
-      "City": "м. Київ",
-      "Country": "Україна",
-      "e-Mail_adress": "info@jupiter9.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (044) 290 28 33",
-      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.509784, 50.397849]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЮПІТЕР 9 АГРОСЕРВІС",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Боровкова, 78/1",
-      "Zip_code": "8710",
-      "City": "с. Підгірці, район Обухівський, область Київська",
-      "Country": "Україна",
-      "e-Mail_adress": "info@jupiter9.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (050) 307 38 19",
-      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.545565, 50.239411]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЮПІТЕР 9 АГРОСЕРВІС",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Льва Толстого, 40",
-      "Zip_code": "9109",
-      "City": "м. Біла Церква, область Київська",
-      "Country": "Україна",
-      "e-Mail_adress": "info@jupiter9.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (050) 407 95 25",
-      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [30.109829, 49.826731]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЮПІТЕР 9 АГРОСЕРВІС",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Курська, 147, 4-й поверх",
-      "Zip_code": "40031",
-      "City": "м. Суми",
-      "Country": "Україна",
-      "e-Mail_adress": "info@jupiter9.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (050) 307 37 26",
-      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [34.787896, 50.934003]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ТОВ ЮПІТЕР 9 АГРОСЕРВІС",
-      "Brand": "gregoire",
-      "Adresse1": "вул. Березанська, 159а",
-      "Zip_code": "16600",
-      "City": "м. Ніжин",
-      "Country": "Україна",
-      "e-Mail_adress": "info@jupiter9.com.ua",
-      "GBgroup_salesman_Phonenumber": "38 (046) 317 80 08",
-      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [31.904091, 51.065525]
     }
   },
   {
@@ -17876,7 +16458,7 @@
       "Name": "J W Doubleday Ltd - Kings Lynn",
       "Brand": "gregoire",
       "Adresse1": "Lynn Road",
-      "Adresse2": "St Germans        ",
+      "Adresse2": "St Germans",
       "Zip_code": "PE34 3EU",
       "City": "Kings Lynn",
       "Country": "England",
@@ -19720,6 +18302,1574 @@
     "geometry": {
       "type": "Point",
       "coordinates": [27.778268, 53.955415]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "«Конвекс Интернэшнл» ",
+      "Brand": "gregoire",
+      "Adresse1": "Минская обл., Минский р-н, пос.Колодищи, ул. Минская, 5, здание «Технопарка», этаж 6",
+      "Zip_code": "223051",
+      "City": "Минск",
+      "Country": "Беларусь",
+      "e-Mail_adress": "belinfo@convexintl.de",
+      "GBgroup_salesman_Phonenumber": "375 17 508-14-62",
+      "GBgroup_salesman_eMail": "belinfo@convexintl.de"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.778268, 53.955415]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "GREGOIRE-BESSON POLSKA Sp. z o.o.",
+      "Brand": "GB",
+      "Adresse1": "Kowanówko",
+      "Adresse2": "ul. Obornicka 1A",
+      "Zip_code": "64-600",
+      "City": "Oborniki",
+      "Country": "Poland",
+      "e-Mail_adress": "gbesson@poczta.onet.pl",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "61 297 75 30",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [16.846662, 52.667903]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРІСТАР» Центральний офіс\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Метрологічна, 44",
+      "Zip_code": "3143",
+      "City": "м. Київ",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agristar.com.ua",
+      "GBgroup_salesman_Phonenumber": "0 800 210 242",
+      "GBgroup_salesman_eMail": "info@agristar.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.476462, 50.348959]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРІСТАР»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Радужна, 3",
+      "Zip_code": "63513",
+      "City": "смт. Кочеток, область Харківська ",
+      "Country": "Україна",
+      "e-Mail_adress": "tokarchuksergiy@agristar.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 328 92 19",
+      "GBgroup_salesman_eMail": "tokarchuksergiy@agristar.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.713894, 49.868699]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРІСТАР»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Надії, 15",
+      "Zip_code": "62416",
+      "City": "смт. Пісочин, область Харківська \n",
+      "Country": "Україна",
+      "e-Mail_adress": "romanecsergiy@agristar.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 618 76 70",
+      "GBgroup_salesman_eMail": "romanecsergiy@agristar.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.124371, 49.95351]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРІСТАР»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Соборна, 15",
+      "Zip_code": "64603",
+      "City": "м. Лозова",
+      "Country": "Україна",
+      "e-Mail_adress": "falynskyymaksym@agristar.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 323 08 01",
+      "GBgroup_salesman_eMail": "falynskyymaksym@agristar.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.313714, 48.889523]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРІСТАР»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Серьогіна, 1",
+      "Zip_code": "36000",
+      "City": "м. Полтава",
+      "Country": "Україна",
+      "e-Mail_adress": "bytandriy@agristar.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 328 92 15",
+      "GBgroup_salesman_eMail": "bytandriy@agristar.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.51015, 49.56096]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРІСТАР»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Вишневицьких, 4",
+      "Zip_code": "37500",
+      "City": "м. Лубни",
+      "Country": "Україна",
+      "e-Mail_adress": "shreyterpavlo@agristar.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 328 92 26",
+      "GBgroup_salesman_eMail": "shreyterpavlo@agristar.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.990844, 50.017317]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОСЕМ» Центральний офіс",
+      "Brand": "gregoire",
+      "Adresse1": "проспект Героїв Сталінграда, буд. 6 А",
+      "Zip_code": "4210",
+      "City": "м. Київ",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 (044) 583 07 25",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.520662, 50.495152]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОСЕМ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Курчатова, 123",
+      "Zip_code": "29025",
+      "City": "м. Хмельницький ",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 (097) 843 36 43",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.911605, 49.453193]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОСЕМ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Підгаєцька, 3",
+      "Zip_code": "43020",
+      "City": "м. Луцьк, область Волинська",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 320 71 23 (техніка)\n38 (067) 407 24 04 (сервіс)\n",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.388681, 50.746435]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОСЕМ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Старе Село, 101",
+      "Zip_code": "81100",
+      "City": "с. Кам’янопіль, район Пустомитівський, область Львівська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 159 90 41 (техніка)\n38 (067) 563 29 57 (сервіс)\n",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.187821, 49.711577]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОСЕМ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Тернопільська, 2Б",
+      "Zip_code": "47717",
+      "City": "с. Смиківці, область Тернопілська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 (097) 843 36 43 (техніка)\n38 (067) 679 51 58 (сервіс)\n",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.560732, 49.558092]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОСЕМ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Галицька, 104",
+      "Zip_code": "77401",
+      "City": "м. Тисмениця, область Івано-Франківська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 159 90 41 (техніка)\n38 (067) 392 65 45 (сервіс)\n",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.833365, 48.90422]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК» Головний офіс\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Шосейна, 48",
+      "Zip_code": "52002",
+      "City": "м. Підгородне,  область Дніпропетровська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(056) 790 09 32",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.139792, 48.585783]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Гетьмана Сагайдачного, 51",
+      "Zip_code": "72310",
+      "City": "м. Мелітополь, область Запорізька\n",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(061) 942 62 20",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.364287, 46.854985]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Фортечна, 2В",
+      "Zip_code": "69000",
+      "City": "м. Запоріжжя",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(056) 790 09 32",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.164747, 47.817489]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Олекси Тихого, 41/43",
+      "Zip_code": "84313",
+      "City": "м. Краматорськ",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(067) 564 91 56",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.561113, 48.719555]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Бородича, 1б",
+      "Zip_code": "50086",
+      "City": "м. Кривий Ріг, область Дніпропетровська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(056) 405 21 19",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.423033, 47.907612]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Незалежності, 29в",
+      "Zip_code": "74988",
+      "City": "м. Таврійськ, область Херсонська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(056) 55 497 39 27",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.412341, 46.753381]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Гвардійська, 153-А",
+      "Zip_code": "75101",
+      "City": "м. Олешки",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(067) 639 88 84",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.759094, 46.631876]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Шевцової, 9 А/1",
+      "Zip_code": "85700",
+      "City": "м. Волноваха",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(067) 564 91 56",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.544471, 47.71406]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «АГРОТЕК»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Сигнальна, 101а",
+      "Zip_code": "70615",
+      "City": "м. Пологи",
+      "Country": "Україна",
+      "e-Mail_adress": "agrotek@agrotek.org.ua",
+      "GBgroup_salesman_Phonenumber": "38(061) 942 62 20",
+      "GBgroup_salesman_eMail": "agrotek@agrotek.org.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.260763, 47.499713]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ» Центральний офіс\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Ельворті, буд. 7",
+      "Zip_code": "25002",
+      "City": "м. Кропивницький, область Кіровоградська \n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (0522) 35 40 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.262749, 48.51748]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Баштанське шосе, 3",
+      "Zip_code": "57214",
+      "City": "с. Мішково-Погорілове, район Вітовський, область Миколаївська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.126856, 46.990488]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Ангарська, 17",
+      "Zip_code": "67806",
+      "City": "смт. Авангард, район Овідіопольський, область Одеська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.617582, 46.471091]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. 13-й км автошляху Р06",
+      "Zip_code": "55235",
+      "City": "с. Лукашівка, район Первомайський, область Миколаївська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.936991, 48.045227]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Соборна, 214-О",
+      "Zip_code": "66302",
+      "City": "м. Подільськ, область Одеська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.542517, 47.7342]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Промзона, 6",
+      "Zip_code": "68200",
+      "City": "смт. Сарата, район Саратський, область Одеська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.673438, 46.019936]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЛАНДТЕХ»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Зелена, 34",
+      "Zip_code": "68670",
+      "City": "с. Саф’яни, район Ізмаїльський, область Одеська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "landtech@landtech-ukraine.com",
+      "GBgroup_salesman_Phonenumber": "38 (050) 500 00 04",
+      "GBgroup_salesman_eMail": "landtech@landtech-ukraine.com"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.869747, 45.403506]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Центральний офіс ",
+      "Brand": "gregoire",
+      "Adresse1": "Бізнес центр «Golden River», 4 поверх, вул. Соборна, 2-В\n",
+      "Zip_code": "8130",
+      "City": "с. Петропавлівська Борщагівка, район Києво-Святошинський, область Київська \n",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 487 11 11",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.355954, 50.436858]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Вінницька регіональна дирекція\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Житомирське шосе, 6",
+      "Zip_code": "21022",
+      "City": "м. Вінниця",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 481 81 12",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.499694, 49.282524]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Черкаська регіональна дирекція\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Смілянська, 164/5",
+      "Zip_code": "18000",
+      "City": "м. Черкаси",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 489 26 96",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.013154, 49.402067]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Житомирська регіональна дирекція\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Жуйка, 43",
+      "Zip_code": "10002",
+      "City": "м. Житомир",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 489 29 54",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.679826, 50.238039]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Уманська регіональна дирекція\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Дерев’янка, 4",
+      "Zip_code": "20331",
+      "City": "м. Умань",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 471 13 95",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.185656, 48.735046]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Незалежності, 257-А",
+      "Zip_code": "24240",
+      "City": "смт. Вапнярка, область Вінницька\n",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 310 85 17",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.741636, 48.533479]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
+      "Brand": "gregoire",
+      "Adresse1": "Вул. Січових Стрільців, 2",
+      "Zip_code": "13133",
+      "City": "с. Старий Любар, область Житомирська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 485 44 53",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.733112, 49.922571]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «РДО УКРАЇНА» Склад запасних частин\n",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Благовісна, 92А",
+      "Zip_code": "20202",
+      "City": "м. Звенигородка, область Черкаська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "office@rdo.ua",
+      "GBgroup_salesman_Phonenumber": "38 (067) 448 98 77",
+      "GBgroup_salesman_eMail": "office@rdo.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.041219, 49.448661]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЮПІТЕР 9 АГРОСЕРВІС» Головний офіс\n",
+      "Brand": "gregoire",
+      "Adresse1": "проспект Голосіївський, 132",
+      "Zip_code": "3127",
+      "City": "м. Київ",
+      "Country": "Україна",
+      "e-Mail_adress": "info@jupiter9.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (044) 290 28 33",
+      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.509784, 50.397849]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Боровкова, 78/1",
+      "Zip_code": "8710",
+      "City": "с. Підгірці, район Обухівський, область Київська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "info@jupiter9.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (050) 307 38 19",
+      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.545565, 50.239411]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Льва Толстого, 40",
+      "Zip_code": "9109",
+      "City": "м. Біла Церква, область Київська\n",
+      "Country": "Україна",
+      "e-Mail_adress": "info@jupiter9.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (050) 407 95 25",
+      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.109829, 49.826731]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Курська, 147, 4-й поверх",
+      "Zip_code": "40031",
+      "City": "м. Суми",
+      "Country": "Україна",
+      "e-Mail_adress": "info@jupiter9.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (050) 307 37 26",
+      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.787896, 50.934003]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "ТОВ «ЮПІТЕР 9 АГРОСЕРВІС»",
+      "Brand": "gregoire",
+      "Adresse1": "вул. Березанська, 159а",
+      "Zip_code": "16600",
+      "City": "м. Ніжин",
+      "Country": "Україна",
+      "e-Mail_adress": "info@jupiter9.com.ua",
+      "GBgroup_salesman_Phonenumber": "38 (046) 317 80 08",
+      "GBgroup_salesman_eMail": "info@jupiter9.com.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [31.904091, 51.065525]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Agroproff OÜ",
+      "Brand": "Rabe",
+      "Adresse1": "Piiri 12",
+      "Adresse2": "Lääne Virumaa",
+      "Zip_code": "44312",
+      "City": "Rakvere",
+      "Country": "Estonia",
+      "e-Mail_adress": "info@agroproff.ee",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "48603138568",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.378806, 59.341444]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "A.Tammel AS",
+      "Brand": "GB",
+      "Adresse1": "Turu 7",
+      "Zip_code": "48303",
+      "City": "Jõgeva",
+      "Country": "Estonia",
+      "e-Mail_adress": "info@atammel.ee",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "48603138568",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [26.402603, 58.738322]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "UAB \"Rovaltra\"",
+      "Brand": "Gregoire-Besson",
+      "Adresse1": "Kalvarijų g. 125-602",
+      "Zip_code": "LT-08221",
+      "City": "Vilnius",
+      "Country": "Lithuania",
+      "e-Mail_adress": "justas@rovaltra.lt/jonas@rovaltra.lt",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "48603138568",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.286794, 54.710655]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "UAB IVABALTĖ",
+      "Brand": "Rabe",
+      "Adresse1": "Stoties g. 23,",
+      "Zip_code": "LT 42164",
+      "City": "Rokiškis",
+      "Country": "Lithuania",
+      "e-Mail_adress": "ivabalte@ivabalte.lt; sigitas@ivabalte.lt",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "48603138568",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.597221, 55.940195]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "LPKS LATRAPS",
+      "Brand": "GB",
+      "Adresse1": "Lietuvas street 16A,",
+      "Zip_code": "LV-3023",
+      "City": "Eleja, Elejas,",
+      "Country": "Latvia",
+      "e-Mail_adress": "aigars@latraps.com",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "48603138568",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.634425, 56.419266]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SIA DOJUS Latvija",
+      "Brand": "Rabe",
+      "Adresse1": "„Ceļa zeme”, Ķekavas pagasts",
+      "Zip_code": "LV-2123",
+      "City": "Ķekavas",
+      "Country": "Latvia",
+      "e-Mail_adress": "info@dojuslatvija.lv; mantvydas.bauras@dojusgroup.lt",
+      "GB-group_salesman": "Eric de Gouville",
+      "GB-group_salesman_Phonenumber": "48603138568",
+      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.245258, 56.770282]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"Nordfarm Maskin AB",
+        "Brand":"GB",
+        "Adresse1":"Surgatan",
+        "Zip_code":"SE-601 14",
+        "City":"Norrköping",
+        "Country":"Sweden",
+        "e-Mail_adress":"info@nordfarm.se",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"33680216743",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            16.213148,
+            58.593464
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"VALTRAC LTD",
+        "Brand":"GB",
+        "Adresse1":"R59 Road",
+        "Zip_code":"9785",
+        "City":"PARYS",
+        "Country":"AFRIQUE DU SUD",
+        "e-Mail_adress":"george@valtrac.co.za",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            27.599188,
+            -26.854541
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"ETS ROUIBA MATERIEL",
+        "Brand":"GB",
+        "Adresse1":"04 Rue Hassiba Ben Bouali",
+        "City":"ROUIBA",
+        "Country":"ALGERIE",
+        "e-Mail_adress":"rouibamatagri@yahoo.fr",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            3.28034,
+            36.757562
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"ECAD",
+        "Brand":"GB",
+        "Adresse1":"105 Abdel Aziz Al Seoud st.Manial",
+        "Zip_code":"11451",
+        "City":"CAIRO",
+        "Country":"EGYPTE",
+        "e-Mail_adress":"omar.elhefny@ecadeg.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            31.249187,
+            30.048344
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"MGK MAKONNEN",
+        "Brand":"GB",
+        "Adresse1":"House No.108 Akaki Kality Subcity",
+        "City":"ADDIS ABABA",
+        "Country":"ETHIOPIE",
+        "e-Mail_adress":"mgkethiopia@gmail.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            38.775685,
+            8.892182
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"TPC LIMITED",
+        "Brand":"GB",
+        "Adresse1":"P.O. Box 93 Moshi",
+        "City":"KILIMANJARO",
+        "Country":"TANZANIE",
+        "e-Mail_adress":"negoce@tsd-export.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            37.310126,
+            -3.332111
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"GOLDEN EXOTICS LTD",
+        "Brand":"GB",
+        "Adresse1":"P.O. Box K.I.A.",
+        "Zip_code":"16105",
+        "City":"ACCRA",
+        "Country":"GHANA",
+        "e-Mail_adress":"d.amoah@gelgh.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -0.161681,
+            5.637829
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"SODIMAT",
+        "Brand":"GB",
+        "Adresse1":"Rue Th. Edison",
+        "Zip_code":"97122",
+        "City":"BAIE-MAHAULT",
+        "Country":"GUADELOUPE",
+        "e-Mail_adress":"cpioche@sodimatgp.fr",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -61.5565,
+            16.25304
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"MACHDEAL",
+        "Brand":"GB",
+        "Adresse1":"Carrefour Du Larivot",
+        "Zip_code":"97351",
+        "City":"MATOURY",
+        "Country":"GUYANE FRANCAISE",
+        "e-Mail_adress":"yana.wadycki@machdeal.com",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -52.330667,
+            4.895092
+        ]
+    }
+},
+{
+    "type":"Feature",
+    "properties":{
+        "Name":"SORELOC",
+        "Brand":"GB",
+        "Adresse1":"8 Lot Dalmazir",
+        "Zip_code":"97351",
+        "City":"MATOURY",
+        "Country":"GUYANE FRANCAISE",
+        "e-Mail_adress":"natacha.misran@soreloc-guyane.com",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -52.333257,
+            4.894354
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"TOYOTA TUSHO",
+        "Brand":"GB",
+        "Adresse1":"Toyata Building Uhuru Highway",
+        "Zip_code":"OO100",
+        "City":"NAIROBI",
+        "Country":"KENYA",
+        "e-Mail_adress":"ian.allen@ttea.co.ke",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            36.819026,
+            -1.290084
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"FOUCQUE MATERIEL",
+        "Brand":"GB",
+        "Adresse1":"1 Ter Rue de l'Adour",
+        "Zip_code":"97441",
+        "City":"SAINTE-SUZANNE",
+        "Country":"LA REUNION",
+        "e-Mail_adress":"d.lacaille@foucque.fr",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            55.621653,
+            -20.913672
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"AMS/AGRI-TP",
+        "Brand":"GB",
+        "Adresse1":"Mansarde Catalogne",
+        "Zip_code":"97231",
+        "City":"LE ROBERT",
+        "Country":"MARTINIQUE",
+        "e-Mail_adress":"r.adelaide@amsantilles.com",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -60.945742,
+            14.676371
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"CIPAC",
+        "Brand":"GB",
+        "Adresse1":"210 Rue Gervolino",
+        "Zip_code":"9800",
+        "City":"NOUMEA",
+        "Country":"NOUVELLE CALEDONIE",
+        "e-Mail_adress":"mblancheton@cipac-industrie.nc",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            166.469583,
+            -22.247454
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"MOTEUR DIESEL",
+        "Brand":"GB",
+        "Adresse1":"Avenue de Paris",
+        "Zip_code":"2033",
+        "City":"MEGRINE",
+        "Country":"TUNISIE",
+        "e-Mail_adress":"maniaci.massimo@moteurdiesel.com.tn",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            10.226981,
+            36.764373
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"ICS SUDAN",
+        "Brand":"GB",
+        "City":"KHARTOUM",
+        "Country":"SOUDAN",
+        "e-Mail_adress":"phguyon.ics@gmail.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            32.559927,
+            15.519678
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"ICS SENEGAL",
+        "Brand":"GB",
+        "Adresse1":"Sacré-coeur 3",
+        "City":"DAKAR",
+        "Country":"SENEGAL",
+        "e-Mail_adress":"jmv.ics@gmail.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            17.470754,
+            14.718472
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"ICS MALI",
+        "Brand":"GB",
+        "Adresse1":"Quartier Sotuba",
+        "City":"BAMAKO",
+        "Country":"MALI",
+        "e-Mail_adress":"jmv.ics@gmail.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -7.914509,
+            12.663046
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"ICS SAUDIA ARABIA",
+        "Brand":"GB",
+        "Adresse1":"P.O. BOX 25867",
+        "Zip_code":"11476",
+        "City":"RIYADH",
+        "Country":"ARABIE SAOUDITE",
+        "e-Mail_adress":"muneer@ics-can.com.sa",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            46.739227,
+            24.758272
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"AGER",
+        "Brand":"GB",
+        "Adresse1":"8 TH KM THESSALONIKI ATHENS",
+        "Adresse2":"PO BOX 154",
+        "Zip_code":"57400",
+        "City":"SINDOS",
+        "Country":"GREECE",
+        "e-Mail_adress":"ager@otenet.gr",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            22.801517,
+            40.671716
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"MOWERS IBERICA 2008",
+        "Brand":"GB + RABE",
+        "Adresse1":"POL IND EL CLAVILLO",
+        "Adresse2":"C/RIO OCA, 10-14",
+        "Zip_code":"9195",
+        "City":"VILLARIEZO",
+        "Country":"SPAIN",
+        "e-Mail_adress":"dacero@mowersiberica.com",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -3.715965,
+            42.284054
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"I A M",
+        "Brand":"GB + RABE",
+        "Adresse1":"HEBRON IND ESTATE",
+        "Adresse2":"HEBRON ROAD, BLANCHFIELDSLAND",
+        "Zip_code":"R95 R2TA ",
+        "City":"KILKENNY",
+        "Country":"IRELAND",
+        "e-Mail_adress":"pat.kenny@iam.ie",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -7.232428,
+            52.656309
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"AGROSERVICIOS DEL NORTE / ANSA",
+        "Brand":"GB",
+        "Adresse1":"Perif Torreón Gómez Lerdo km 3.5",
+        "Adresse2":"DURANGO",
+        "Zip_code":"35078",
+        "City":"GOMEZ PALACIO",
+        "Country":"MEXICO",
+        "e-Mail_adress":"norte@ansamex.com",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -103.4793,
+            25.584528
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"HFT JAPAN",
+        "Brand":"GB",
+        "Adresse1":"Takeda Sapporo Building 6F",
+        "Adresse2":"4, Kita 1, Nishi 13, Chuo-ku",
+        "Zip_code":"060-0001",
+        "City":"SAPPORO",
+        "Country":"JAPAN",
+        "e-Mail_adress":"sapporo-homeoffice@nh-hft.co.jp",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            141.339958,
+            43.06072
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"AGRIDIRECT",
+        "Brand":"RABE",
+        "Adresse1":"Nord Nord Lignes 18 - 7",
+        "Zip_code":"082-0004 ",
+        "City":"District de Hokkaido Kasai Shigubocho Tobudai",
+        "Country":"JAPAN",
+        "e-Mail_adress":"hoge@agridirect.jp",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            143.087799,
+            42.928162
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"FARMGUARD",
+        "Brand":"GB + AGRIWAY",
+        "Adresse1":"15 Paraweena Dr, ",
+        "Zip_code":"VIC 3029",
+        "City":"TRUGANINA",
+        "Country":"AUSTRALIA",
+        "e-Mail_adress":"sales@farmgard.com.au",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            144.753802,
+            -37.813567
+        ]
+    }
+},
+{
+    "type":"Feature",
+    "properties":{
+        "Name":"BURDER INDUSTRIE",
+        "Brand":"RABE",
+        "Adresse1":"4-8 Kerr St.",
+        "Zip_code":"VIC 6377",
+        "City":"WANGARATTA",
+        "Country":"AUSTRALIA",
+        "e-Mail_adress":"sales@burder.com.au",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            146.298462,
+            -36.363158
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"Zach Agricultural Equipment Afula, LTD",
+        "Brand":"GB",
+        "Adresse1":"Industrial Zone Afula Yilit Haoreg St. No. 4,",
+        "Zip_code":"18121",
+        "City":"AFULA",
+        "Country":"ISRAEL",
+        "e-Mail_adress":"eli@zach-agri.com",
+        "GB-group_salesman":"Michele Bifani",
+        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            35.337662,
+            32.636715
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"AGRIDUBEY",
+        "Brand":"GB",
+        "Adresse1":"19 rue de chatelard",
+        "Zip_code":"1530",
+        "City":"PAYERNE",
+        "Country":"SUISSE",
+        "e-Mail_adress":"pierre-alain.dubey@agridubey.ch",
+        "GB-group_salesman":"René Morales",
+        "GB-group_salesman_Phonenumber":"0033 6 07 18 26 99",
+        "GB-group_salesman_eMail":"r.morales@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            6.928555,
+            46.809525
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"GB CHINA",
+        "Brand":"GB + RABE",
+        "Country":"CHINE",
+        "e-Mail_adress":"gregoirebessonchina@126.com",
+        "GB-group_salesman":"Jacques Yang",
+        "GB-group_salesman_Phonenumber":"861065080640",
+        "GB-group_salesman_eMail":"gregoirebessonchina@126.com"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            104.195397,
+            35.86166
+        ]
+    }
+  },
+  {
+    "type":"Feature",
+    "properties":{
+        "Name":"NEW ZEALAND TRACTORS",
+        "Brand":"GB",
+        "Adresse1":"Spring Farm, Winslow, No.5 R.D",
+        "Zip_code":"7775",
+        "City":"ASHBURTON",
+        "Country":"NEW ZEALAND",
+        "e-Mail_adress":"info@nzt.nz",
+        "GB-group_salesman":"Joran Le Magueresse",
+        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+    },
+    "geometry":{
+        "type":"Point",
+        "coordinates":[
+            -110.697357,
+            35.024187
+        ]
     }
   }
 ]
