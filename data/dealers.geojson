@@ -18694,7 +18694,7 @@
     "type": "Feature",
     "properties": {
       "Name": "GREGOIRE-BESSON POLSKA Sp. z o.o.",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "Kowanówko",
       "Adresse2": "ul. Obornicka 1A",
       "Zip_code": "64-600",
@@ -19472,7 +19472,7 @@
     "type": "Feature",
     "properties": {
       "Name": "A.Tammel AS",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "Turu 7",
       "Zip_code": "48303",
       "City": "Jõgeva",
@@ -19529,7 +19529,7 @@
     "type": "Feature",
     "properties": {
       "Name": "LPKS LATRAPS",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "Lietuvas street 16A,",
       "Zip_code": "LV-3023",
       "City": "Eleja, Elejas,",
@@ -19567,7 +19567,7 @@
     "type":"Feature",
     "properties":{
         "Name":"Nordfarm Maskin AB",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Surgatan",
         "Zip_code":"SE-601 14",
         "City":"Norrköping",
@@ -19589,7 +19589,7 @@
     "type":"Feature",
     "properties":{
         "Name":"VALTRAC LTD",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"R59 Road",
         "Zip_code":"9785",
         "City":"PARYS",
@@ -19611,7 +19611,7 @@
     "type":"Feature",
     "properties":{
         "Name":"ETS ROUIBA MATERIEL",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"04 Rue Hassiba Ben Bouali",
         "City":"ROUIBA",
         "Country":"ALGERIE",
@@ -19632,7 +19632,7 @@
     "type":"Feature",
     "properties":{
         "Name":"ECAD",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"105 Abdel Aziz Al Seoud st.Manial",
         "Zip_code":"11451",
         "City":"CAIRO",
@@ -19654,7 +19654,7 @@
     "type":"Feature",
     "properties":{
         "Name":"MGK MAKONNEN",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"House No.108 Akaki Kality Subcity",
         "City":"ADDIS ABABA",
         "Country":"ETHIOPIE",
@@ -19675,7 +19675,7 @@
     "type":"Feature",
     "properties":{
         "Name":"TPC LIMITED",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"P.O. Box 93 Moshi",
         "City":"KILIMANJARO",
         "Country":"TANZANIE",
@@ -19696,7 +19696,7 @@
     "type":"Feature",
     "properties":{
         "Name":"GOLDEN EXOTICS LTD",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"P.O. Box K.I.A.",
         "Zip_code":"16105",
         "City":"ACCRA",
@@ -19718,7 +19718,7 @@
     "type":"Feature",
     "properties":{
         "Name":"SODIMAT",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Rue Th. Edison",
         "Zip_code":"97122",
         "City":"BAIE-MAHAULT",
@@ -19740,7 +19740,7 @@
     "type":"Feature",
     "properties":{
         "Name":"MACHDEAL",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Carrefour Du Larivot",
         "Zip_code":"97351",
         "City":"MATOURY",
@@ -19762,7 +19762,7 @@
     "type":"Feature",
     "properties":{
         "Name":"SORELOC",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"8 Lot Dalmazir",
         "Zip_code":"97351",
         "City":"MATOURY",
@@ -19784,7 +19784,7 @@
     "type":"Feature",
     "properties":{
         "Name":"TOYOTA TUSHO",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Toyata Building Uhuru Highway",
         "Zip_code":"OO100",
         "City":"NAIROBI",
@@ -19806,7 +19806,7 @@
     "type":"Feature",
     "properties":{
         "Name":"FOUCQUE MATERIEL",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"1 Ter Rue de l'Adour",
         "Zip_code":"97441",
         "City":"SAINTE-SUZANNE",
@@ -19828,7 +19828,7 @@
     "type":"Feature",
     "properties":{
         "Name":"AMS/AGRI-TP",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Mansarde Catalogne",
         "Zip_code":"97231",
         "City":"LE ROBERT",
@@ -19850,7 +19850,7 @@
     "type":"Feature",
     "properties":{
         "Name":"CIPAC",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"210 Rue Gervolino",
         "Zip_code":"9800",
         "City":"NOUMEA",
@@ -19872,7 +19872,7 @@
     "type":"Feature",
     "properties":{
         "Name":"MOTEUR DIESEL",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Avenue de Paris",
         "Zip_code":"2033",
         "City":"MEGRINE",
@@ -19894,7 +19894,7 @@
     "type":"Feature",
     "properties":{
         "Name":"ICS SUDAN",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "City":"KHARTOUM",
         "Country":"SOUDAN",
         "e-Mail_adress":"phguyon.ics@gmail.com",
@@ -19914,7 +19914,7 @@
     "type":"Feature",
     "properties":{
         "Name":"ICS SENEGAL",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Sacré-coeur 3",
         "City":"DAKAR",
         "Country":"SENEGAL",
@@ -19935,7 +19935,7 @@
     "type":"Feature",
     "properties":{
         "Name":"ICS MALI",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Quartier Sotuba",
         "City":"BAMAKO",
         "Country":"MALI",
@@ -19956,7 +19956,7 @@
     "type":"Feature",
     "properties":{
         "Name":"ICS SAUDIA ARABIA",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"P.O. BOX 25867",
         "Zip_code":"11476",
         "City":"RIYADH",
@@ -19978,7 +19978,7 @@
     "type":"Feature",
     "properties":{
         "Name":"AGER",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"8 TH KM THESSALONIKI ATHENS",
         "Adresse2":"PO BOX 154",
         "Zip_code":"57400",
@@ -20001,7 +20001,7 @@
     "type":"Feature",
     "properties":{
         "Name":"MOWERS IBERICA 2008",
-        "Brand":"GB + RABE",
+        "Brand":"group",
         "Adresse1":"POL IND EL CLAVILLO",
         "Adresse2":"C/RIO OCA, 10-14",
         "Zip_code":"9195",
@@ -20024,7 +20024,7 @@
     "type":"Feature",
     "properties":{
         "Name":"I A M",
-        "Brand":"GB + RABE",
+        "Brand":"group",
         "Adresse1":"HEBRON IND ESTATE",
         "Adresse2":"HEBRON ROAD, BLANCHFIELDSLAND",
         "Zip_code":"R95 R2TA ",
@@ -20047,7 +20047,7 @@
     "type":"Feature",
     "properties":{
         "Name":"AGROSERVICIOS DEL NORTE / ANSA",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Perif Torreón Gómez Lerdo km 3.5",
         "Adresse2":"DURANGO",
         "Zip_code":"35078",
@@ -20070,7 +20070,7 @@
     "type":"Feature",
     "properties":{
         "Name":"HFT JAPAN",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Takeda Sapporo Building 6F",
         "Adresse2":"4, Kita 1, Nishi 13, Chuo-ku",
         "Zip_code":"060-0001",
@@ -20159,7 +20159,7 @@
     "type":"Feature",
     "properties":{
         "Name":"Zach Agricultural Equipment Afula, LTD",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Industrial Zone Afula Yilit Haoreg St. No. 4,",
         "Zip_code":"18121",
         "City":"AFULA",
@@ -20181,7 +20181,7 @@
     "type":"Feature",
     "properties":{
         "Name":"AGRIDUBEY",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"19 rue de chatelard",
         "Zip_code":"1530",
         "City":"PAYERNE",
@@ -20203,7 +20203,7 @@
     "type":"Feature",
     "properties":{
         "Name":"GB CHINA",
-        "Brand":"GB + RABE",
+        "Brand":"group",
         "Country":"CHINE",
         "e-Mail_adress":"gregoirebessonchina@126.com",
         "GBgroup_salesman":"Jacques Yang",
@@ -20222,7 +20222,7 @@
     "type":"Feature",
     "properties":{
         "Name":"NEW ZEALAND TRACTORS",
-        "Brand":"GB",
+        "Brand":"gregoire",
         "Adresse1":"Spring Farm, Winslow, No.5 R.D",
         "Zip_code":"7775",
         "City":"ASHBURTON",
