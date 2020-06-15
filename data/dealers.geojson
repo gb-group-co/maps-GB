@@ -18701,9 +18701,9 @@
       "City": "Oborniki",
       "Country": "Poland",
       "e-Mail_adress": "gbesson@poczta.onet.pl",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "61 297 75 30",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "61 297 75 30",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19459,9 +19459,9 @@
       "City": "Rakvere",
       "Country": "Estonia",
       "e-Mail_adress": "info@agroproff.ee",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "48603138568",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "48603138568",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19478,9 +19478,9 @@
       "City": "Jõgeva",
       "Country": "Estonia",
       "e-Mail_adress": "info@atammel.ee",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "48603138568",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "48603138568",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19497,9 +19497,9 @@
       "City": "Vilnius",
       "Country": "Lithuania",
       "e-Mail_adress": "justas@rovaltra.lt/jonas@rovaltra.lt",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "48603138568",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "48603138568",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19516,9 +19516,9 @@
       "City": "Rokiškis",
       "Country": "Lithuania",
       "e-Mail_adress": "ivabalte@ivabalte.lt; sigitas@ivabalte.lt",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "48603138568",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "48603138568",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19535,9 +19535,9 @@
       "City": "Eleja, Elejas,",
       "Country": "Latvia",
       "e-Mail_adress": "aigars@latraps.com",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "48603138568",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "48603138568",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19554,9 +19554,9 @@
       "City": "Ķekavas",
       "Country": "Latvia",
       "e-Mail_adress": "info@dojuslatvija.lv; mantvydas.bauras@dojusgroup.lt",
-      "GB-group_salesman": "Eric de Gouville",
-      "GB-group_salesman_Phonenumber": "48603138568",
-      "GB-group_salesman_eMail": "e.degouville@gb-group.co"
+      "GBgroup_salesman": "Eric de Gouville",
+      "GBgroup_salesman_Phonenumber": "48603138568",
+      "GBgroup_salesman_eMail": "e.degouville@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -19573,9 +19573,9 @@
         "City":"Norrköping",
         "Country":"Sweden",
         "e-Mail_adress":"info@nordfarm.se",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"33680216743",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"33680216743",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19595,9 +19595,9 @@
         "City":"PARYS",
         "Country":"AFRIQUE DU SUD",
         "e-Mail_adress":"george@valtrac.co.za",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19616,9 +19616,9 @@
         "City":"ROUIBA",
         "Country":"ALGERIE",
         "e-Mail_adress":"rouibamatagri@yahoo.fr",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19638,9 +19638,9 @@
         "City":"CAIRO",
         "Country":"EGYPTE",
         "e-Mail_adress":"omar.elhefny@ecadeg.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19659,9 +19659,9 @@
         "City":"ADDIS ABABA",
         "Country":"ETHIOPIE",
         "e-Mail_adress":"mgkethiopia@gmail.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19680,9 +19680,9 @@
         "City":"KILIMANJARO",
         "Country":"TANZANIE",
         "e-Mail_adress":"negoce@tsd-export.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19702,9 +19702,9 @@
         "City":"ACCRA",
         "Country":"GHANA",
         "e-Mail_adress":"d.amoah@gelgh.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19724,9 +19724,9 @@
         "City":"BAIE-MAHAULT",
         "Country":"GUADELOUPE",
         "e-Mail_adress":"cpioche@sodimatgp.fr",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19746,9 +19746,9 @@
         "City":"MATOURY",
         "Country":"GUYANE FRANCAISE",
         "e-Mail_adress":"yana.wadycki@machdeal.com",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19768,9 +19768,9 @@
         "City":"MATOURY",
         "Country":"GUYANE FRANCAISE",
         "e-Mail_adress":"natacha.misran@soreloc-guyane.com",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19790,9 +19790,9 @@
         "City":"NAIROBI",
         "Country":"KENYA",
         "e-Mail_adress":"ian.allen@ttea.co.ke",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19812,9 +19812,9 @@
         "City":"SAINTE-SUZANNE",
         "Country":"LA REUNION",
         "e-Mail_adress":"d.lacaille@foucque.fr",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19834,9 +19834,9 @@
         "City":"LE ROBERT",
         "Country":"MARTINIQUE",
         "e-Mail_adress":"r.adelaide@amsantilles.com",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19856,9 +19856,9 @@
         "City":"NOUMEA",
         "Country":"NOUVELLE CALEDONIE",
         "e-Mail_adress":"mblancheton@cipac-industrie.nc",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19878,9 +19878,9 @@
         "City":"MEGRINE",
         "Country":"TUNISIE",
         "e-Mail_adress":"maniaci.massimo@moteurdiesel.com.tn",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19898,9 +19898,9 @@
         "City":"KHARTOUM",
         "Country":"SOUDAN",
         "e-Mail_adress":"phguyon.ics@gmail.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19919,9 +19919,9 @@
         "City":"DAKAR",
         "Country":"SENEGAL",
         "e-Mail_adress":"jmv.ics@gmail.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19940,9 +19940,9 @@
         "City":"BAMAKO",
         "Country":"MALI",
         "e-Mail_adress":"jmv.ics@gmail.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19962,9 +19962,9 @@
         "City":"RIYADH",
         "Country":"ARABIE SAOUDITE",
         "e-Mail_adress":"muneer@ics-can.com.sa",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -19985,9 +19985,9 @@
         "City":"SINDOS",
         "Country":"GREECE",
         "e-Mail_adress":"ager@otenet.gr",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20008,9 +20008,9 @@
         "City":"VILLARIEZO",
         "Country":"SPAIN",
         "e-Mail_adress":"dacero@mowersiberica.com",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20031,9 +20031,9 @@
         "City":"KILKENNY",
         "Country":"IRELAND",
         "e-Mail_adress":"pat.kenny@iam.ie",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20054,9 +20054,9 @@
         "City":"GOMEZ PALACIO",
         "Country":"MEXICO",
         "e-Mail_adress":"norte@ansamex.com",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20077,9 +20077,9 @@
         "City":"SAPPORO",
         "Country":"JAPAN",
         "e-Mail_adress":"sapporo-homeoffice@nh-hft.co.jp",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20099,9 +20099,9 @@
         "City":"District de Hokkaido Kasai Shigubocho Tobudai",
         "Country":"JAPAN",
         "e-Mail_adress":"hoge@agridirect.jp",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20121,9 +20121,9 @@
         "City":"TRUGANINA",
         "Country":"AUSTRALIA",
         "e-Mail_adress":"sales@farmgard.com.au",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20143,9 +20143,9 @@
         "City":"WANGARATTA",
         "Country":"AUSTRALIA",
         "e-Mail_adress":"sales@burder.com.au",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20165,9 +20165,9 @@
         "City":"AFULA",
         "Country":"ISRAEL",
         "e-Mail_adress":"eli@zach-agri.com",
-        "GB-group_salesman":"Michele Bifani",
-        "GB-group_salesman_Phonenumber":"0039 0731 37 59 70",
-        "GB-group_salesman_eMail":"m.bifani@gb-group.co"
+        "GBgroup_salesman":"Michele Bifani",
+        "GBgroup_salesman_Phonenumber":"0039 0731 37 59 70",
+        "GBgroup_salesman_eMail":"m.bifani@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20187,9 +20187,9 @@
         "City":"PAYERNE",
         "Country":"SUISSE",
         "e-Mail_adress":"pierre-alain.dubey@agridubey.ch",
-        "GB-group_salesman":"René Morales",
-        "GB-group_salesman_Phonenumber":"0033 6 07 18 26 99",
-        "GB-group_salesman_eMail":"r.morales@gb-group.co"
+        "GBgroup_salesman":"René Morales",
+        "GBgroup_salesman_Phonenumber":"0033 6 07 18 26 99",
+        "GBgroup_salesman_eMail":"r.morales@gb-group.co"
     },
     "geometry":{
         "type":"Point",
@@ -20206,9 +20206,9 @@
         "Brand":"GB + RABE",
         "Country":"CHINE",
         "e-Mail_adress":"gregoirebessonchina@126.com",
-        "GB-group_salesman":"Jacques Yang",
-        "GB-group_salesman_Phonenumber":"861065080640",
-        "GB-group_salesman_eMail":"gregoirebessonchina@126.com"
+        "GBgroup_salesman":"Jacques Yang",
+        "GBgroup_salesman_Phonenumber":"861065080640",
+        "GBgroup_salesman_eMail":"gregoirebessonchina@126.com"
     },
     "geometry":{
         "type":"Point",
@@ -20228,9 +20228,9 @@
         "City":"ASHBURTON",
         "Country":"NEW ZEALAND",
         "e-Mail_adress":"info@nzt.nz",
-        "GB-group_salesman":"Joran Le Magueresse",
-        "GB-group_salesman_Phonenumber":"0033 6 80 21 67 43",
-        "GB-group_salesman_eMail":"j.lemagueresse@gb-group.co"
+        "GBgroup_salesman":"Joran Le Magueresse",
+        "GBgroup_salesman_Phonenumber":"0033 6 80 21 67 43",
+        "GBgroup_salesman_eMail":"j.lemagueresse@gb-group.co"
     },
     "geometry":{
         "type":"Point",
