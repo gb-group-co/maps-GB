@@ -18505,27 +18505,6 @@
   {
       "type":"Feature",
       "properties":{
-          "Name":"ООО \"Арий\"",
-          "Brand":"gregoire",
-          "Adresse1":"Краснодарский край, Динской район, ст.Новотитаровская, ул.Широкая, 2А",
-          "Zip_code":"353211",
-          "City":"Краснодар",
-          "Country":"Россия",
-          "e-Mail_adress":"import@aryy.ru",
-          "GBgroup_salesman_Phonenumber":"8 918 419 76 95",
-          "GBgroup_salesman_eMail":"import@aryy.ru"
-      },
-      "geometry":{
-          "type":"Point",
-          "coordinates":[
-              38.999218,
-              45.232501
-          ]
-      }
-  },
-  {
-      "type":"Feature",
-      "properties":{
           "Name":"ООО \"ААА-техника\"",
           "Brand":"gregoire",
           "Adresse1":"Краснодарский край, г. Тимашевск, ул. Выборная, 68, А   ",
@@ -18547,9 +18526,9 @@
   {
       "type":"Feature",
       "properties":{
-          "Name":"ООО \"Агродраверы\"",
+          "Name":"ООО \"Агродрайверы\"",
           "Brand":"gregoire",
-          "Adresse1":"Ростовская обл, Аксайский р-н, г. Аксай, ул. Западная, дом 2Д  ",
+          "Adresse1":"Ростовская обл, Аксайский р-н, г. Аксай, ул. Западная, дом 2Д",
           "Zip_code":"346720",
           "City":"Аксай ",
           "Country":"Россия",
@@ -18562,6 +18541,27 @@
           "coordinates":[
               39.84937,
               47.255611
+          ]
+      }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+          "Name": "ООО \"Кронос Агро\"",
+          "Brand": "gregoire",
+          "Adresse1": "ул.Дмитриевская Дамба, дом 5, офис 203 Краснодар, Краснодарский край",
+          "Zip_code": "350033",
+          "City": "Краснодар",
+          "Country": "Россия",
+          "e-Mail_adress": "romanenkoSA@agrodrivers.com ",
+          "GBgroup_salesman_Phonenumber": "8 964 900 3770",
+          "GBgroup_salesman_eMail": ""
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.990840,
+            45.029120
           ]
       }
   },
