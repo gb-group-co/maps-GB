@@ -1339,9 +1339,9 @@
       "Zip_code": "Saint-Étienne-de-Mer-Morte",
       "City": "44270",
       "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+      "GBgroup_salesman": "Laurent Guillon",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 95",
+      "GBgroup_salesman_eMail": "l.guillon@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -1358,9 +1358,9 @@
       "Zip_code": "La Limouzinière",
       "City": "44310",
       "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+      "GBgroup_salesman": "Laurent Guillon",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 95",
+      "GBgroup_salesman_eMail": "l.guillon@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -1377,9 +1377,9 @@
       "Zip_code": "Saint-Père-en-Retz",
       "City": "44320",
       "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+      "GBgroup_salesman": "Laurent Guillon",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 95",
+      "GBgroup_salesman_eMail": "l.guillon@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -1396,9 +1396,9 @@
       "Zip_code": "Saint-Julien-de-Concelles",
       "City": "44450",
       "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+      "GBgroup_salesman": "Laurent Guillon",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 95",
+      "GBgroup_salesman_eMail": "l.guillon@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -1434,9 +1434,9 @@
       "Zip_code": "Saint-Hilaire-de-Chaléons",
       "City": "44680",
       "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+      "GBgroup_salesman": "Laurent Guillon",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 95",
+      "GBgroup_salesman_eMail": "l.guillon@gb-group.co"
     },
     "geometry": {
       "type": "Point",
@@ -2642,7 +2642,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "KM Agri",
+      "Name": "KM AGRI",
       "Brand": "gregoire",
       "Adresse1": "588 Route de Solterre",
       "Adresse2": " ",
@@ -3003,25 +3003,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "MARTEL CSA",
-      "Brand": "gregoire",
-      "Adresse1": "10 Route de Champfleury",
-      "Adresse2": " ",
-      "Zip_code": "Plancy-l'Abbaye",
-      "City": "10380",
-      "Country": "France",
-      "GBgroup_salesman": "Joseph Brenckle",
-      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
-      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [3.973748, 48.572374]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "WALTER",
       "Brand": "gregoire",
       "Adresse1": "D 31",
@@ -3060,7 +3041,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "AXE EQUIPEMENT 21 (JUILLY)",
+      "Name": "AXE EQUIPEMENT 21 (Juilly)",
       "Brand": "gregoire",
       "Adresse1": "Village",
       "Adresse2": " ",
@@ -3079,7 +3060,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "BOUCHERON 21 (VENAREY)",
+      "Name": "BOUCHERON 21 (Venarey)",
       "Brand": "gregoire",
       "Adresse1": "Rue de l'Oze",
       "Adresse2": " ",
@@ -3212,25 +3193,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "MARTEL (51)",
-      "Brand": "gregoire",
-      "Adresse1": "L'ermitage",
-      "Adresse2": " ",
-      "Zip_code": "Connantre",
-      "City": "51230",
-      "Country": "France",
-      "GBgroup_salesman": "Joseph Brenckle",
-      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
-      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [3.911515, 48.730877]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "AGRI 51",
       "Brand": "gregoire",
       "Adresse1": "Rue des 3 Cantons",
@@ -3307,7 +3269,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Comptoir Agricole de Bologne",
+      "Name": "COMPTOIRE AGRICOLE DE BOLOGNE",
       "Brand": "gregoire",
       "Adresse1": "Rue de la Grande Voie",
       "Adresse2": " ",
@@ -3422,7 +3384,7 @@
     "type": "Feature",
     "properties": {
       "Name": "VAUTRIN (Succursale)",
-      "Brand": "gregoire",
+      "Brand": "rabe",
       "Adresse1": "4 Rue des Orchidées",
       "Adresse2": " ",
       "Zip_code": "Momerstroff",
@@ -3440,8 +3402,8 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Ets Lellig 57480 Merschweiller",
-      "Brand": "rabe",
+      "Name": "ETS LELLIG (Merschweiller)",
+      "Brand": "gregoire",
       "Adresse1": "14 Rue Principale",
       "Adresse2": " ",
       "Zip_code": "Merschweiller",
@@ -3516,8 +3478,8 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Taveau ETS (Jacques)",
-      "Brand": "rabe",
+      "Name": "ETS TAVEAU (Jacques)",
+      "Brand": "gregoire",
       "Adresse1": "Zone Artisanale",
       "Adresse2": "627 Rue des Cerisiers Roussel",
       "Zip_code": "Pontpoint",
@@ -3535,7 +3497,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Henon motoculture",
+      "Name": "HENON MOTOCULTURE",
       "Brand": "rabe",
       "Adresse1": "3403 Rue principale",
       "Adresse2": " ",
@@ -3650,7 +3612,7 @@
     "type": "Feature",
     "properties": {
       "Name": "AGRI MECANIQUE",
-      "Brand": "gregoire",
+      "Brand": "rabe",
       "Adresse1": "1 Rue de la Gare",
       "Adresse2": " ",
       "Zip_code": "Wolfskirchen",
@@ -3706,7 +3668,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Bas Rhin motoculture 67 Mommenheim",
+      "Name": "BAS RHIN MOTOCULTURE (Mommenheim)",
       "Brand": "rabe",
       "Adresse1": "29 Rue de Haguenau",
       "Adresse2": " ",
@@ -3801,7 +3763,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Schaechtelin et Cie",
+      "Name": "SCHAECHTELIN ET CIE",
       "Brand": "gregoire",
       "Adresse1": "40 Rue Principale",
       "Adresse2": " ",
@@ -3972,7 +3934,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Thierart-agri 80 Rosière",
+      "Name": "THIERART-AGRI (Rosières)",
       "Brand": "rabe",
       "Adresse1": "ZI Nord",
       "Adresse2": "Avenue du Fossé Pierret",
@@ -4010,7 +3972,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Maréchal Philippe",
+      "Name": "MARECHAL Philippe",
       "Brand": "rabe",
       "Adresse1": "31 route d'Amiens",
       "Adresse2": " ",
@@ -4029,7 +3991,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "HAS 08 Juniville",
+      "Name": "HORIZON AGRICOLE SERVICE",
       "Brand": "rabe",
       "Adresse1": "2 bis route de perthes",
       "Adresse2": " ",
@@ -4062,25 +4024,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [6.218203, 48.219232]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "GARAGE BOULANGER",
-      "Brand": "gregoire",
-      "Adresse1": "ZI des Torrières",
-      "Adresse2": " ",
-      "Zip_code": "Neufchâteau",
-      "City": "88300",
-      "Country": "France",
-      "GBgroup_salesman": "Joseph Brenckle",
-      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
-      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [5.678555, 48.361041]
     }
   },
   {
@@ -4119,25 +4062,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [3.283317, 48.19528]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "BF AGRI",
-      "Brand": "rabe",
-      "Adresse1": "38 Rue Principale",
-      "Adresse2": " ",
-      "Zip_code": "Suarce",
-      "City": "90100",
-      "Country": "France",
-      "GBgroup_salesman": "Joseph Brenckle",
-      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
-      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [7.08294, 47.562226]
     }
   },
   {
@@ -4219,7 +4143,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "VACHER 03 (St POURCAIN)",
+      "Name": "VACHER (St Pourçain)",
       "Brand": "gregoire",
       "Adresse1": "Zone artisanale La Carmone",
       "Adresse2": " ",
@@ -4409,7 +4333,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "HUMEZ 18 (HENRICHEMONT)",
+      "Name": "HUMEZ 18 (Henrichemont)",
       "Brand": "gregoire",
       "Adresse1": "Route d'Achères",
       "Adresse2": " ",
@@ -4485,7 +4409,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "CENTRAGRI 18 (ST GERMAIN)",
+      "Name": "CENTRAGRI 18 (St Germain)",
       "Brand": "gregoire",
       "Adresse1": "Rue de La Sente à Rabot",
       "Adresse2": "Route de La Charité",
@@ -4523,7 +4447,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "CHEVALIER 19 (LUBERSAC)",
+      "Name": "CHEVALIER 19 (Lubersac)",
       "Brand": "gregoire",
       "Adresse1": "Touvent",
       "Adresse2": " ",
@@ -4542,7 +4466,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "CHEVALIER 19 (JUILLAC)",
+      "Name": "CHEVALIER 19 (Juillac)",
       "Brand": "gregoire",
       "Adresse1": "Plumoiseau",
       "Adresse2": " ",
@@ -4637,7 +4561,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "DUBRANLE 23 (AZERABLES)",
+      "Name": "DUBRANLE 23 (Azerables)",
       "Brand": "gregoire",
       "Adresse1": "86 Rue Grande",
       "Adresse2": "Les Genêts",
@@ -4656,7 +4580,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "DUBRANLE 23 (PONTARION)",
+      "Name": "DUBRANLE 23 (Pontarion)",
       "Brand": "gregoire",
       "Adresse1": "Sous l'Étang",
       "Adresse2": " ",
@@ -4751,7 +4675,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "HUMEZ 36 (St MAUR)",
+      "Name": "HUMEZ 36 (St Maur)",
       "Brand": "gregoire",
       "Adresse1": "217 Avenue de Tours",
       "Adresse2": " ",
@@ -4846,7 +4770,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "BONFILS 38 (RENAGE)",
+      "Name": "BONFILS 38 (Renage)",
       "Brand": "gregoire",
       "Adresse1": "17 Rue Paul Langevin",
       "Adresse2": " ",
@@ -4884,7 +4808,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "BONFILS 38 (RUY)",
+      "Name": "BONFILS 38 (Ruy)",
       "Brand": "gregoire",
       "Adresse1": "7 Impasse de la Vie Étroite",
       "Adresse2": " ",
@@ -4998,7 +4922,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "Jeannet débit",
+      "Name": "JEANNET DEBIT",
       "Brand": "gregoire",
       "Adresse1": "Les Bruyères",
       "Adresse2": " ",
@@ -5112,7 +5036,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "DEPUSSAY 58 (St ELOI)",
+      "Name": "DEPUSSAY 58 (St Eloi)",
       "Brand": "gregoire",
       "Adresse1": "La bardouillère",
       "Adresse2": "13 route de la ZI",
@@ -5150,7 +5074,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "SUREAU 58 (TANNAY)",
+      "Name": "SUREAU 58 (Tannay)",
       "Brand": "gregoire",
       "Adresse1": "Champs de Saint-Didier",
       "Adresse2": " ",
@@ -5169,7 +5093,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "MARECHAL 58 (DONZY)",
+      "Name": "MARECHAL 58 (Donzy)",
       "Brand": "gregoire",
       "Adresse1": "Rue de la Belle Étoile",
       "Adresse2": " ",
@@ -5207,7 +5131,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "VACHER 63 (RIOM)",
+      "Name": "VACHER 63 (Riom)",
       "Brand": "gregoire",
       "Adresse1": "Zone d'aménagement concerté Layat",
       "Adresse2": " ",
@@ -5397,7 +5321,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "DONGUY AGRI 71 (ROMENAY)",
+      "Name": "DONGUY AGRI 71 (Romenay)",
       "Brand": "gregoire",
       "Adresse1": "73 La Rippe des Monts",
       "Adresse2": " ",
@@ -5416,7 +5340,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "DONGUY AGRI 71 (BRANGES)",
+      "Name": "DONGUY AGRI 71 (Branges)",
       "Brand": "gregoire",
       "Adresse1": "Route de Louhans",
       "Adresse2": " ",
@@ -5568,7 +5492,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "BOUCHERON 89 (LEZINNES)",
+      "Name": "BOUCHERON 89 (Lezinnes)",
       "Brand": "gregoire",
       "Adresse1": "9 Route nationale",
       "Adresse2": " ",
@@ -5587,7 +5511,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "SUREAU 89 (AVALLON)",
+      "Name": "SUREAU 89 (Avallon)",
       "Brand": "gregoire",
       "Adresse1": "Rue de la Croix Verte",
       "Adresse2": " ",
@@ -6062,7 +5986,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "ets champion",
+      "Name": "ETS CHAMPION",
       "Brand": "gregoire",
       "Adresse1": "Le Vivier",
       "Adresse2": " ",
@@ -6349,7 +6273,7 @@
     "properties": {
       "Name": "BLANC ET ROCHEBOIS 04",
       "Brand": "group",
-      "Adresse1": "Place de l'Hôtel de ville",
+      "Adresse1": "Z-I St Joseph",
       "Adresse2": " ",
       "Zip_code": "Manosque",
       "City": "04100",
@@ -6423,25 +6347,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "NOVA 05 (Gap)",
-      "Brand": "gregoire",
-      "Adresse1": "ZA Ouest",
-      "Adresse2": "Plaine de Lachaup",
-      "Zip_code": "Gap",
-      "City": "05000",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [6.043201, 44.511893]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "ALPES-OCCASIONS-SERVICE",
       "Brand": "gregoire",
       "Adresse1": "Plan de Vitrolles",
@@ -6463,7 +6368,7 @@
     "properties": {
       "Name": "VERNOUX-MOTOCULTURE",
       "Brand": "gregoire",
-      "Adresse1": "Rue de l'Hôpital",
+      "Adresse1": "Plaine Pointe",
       "Adresse2": " ",
       "Zip_code": "Vernoux-en-Vivarais",
       "City": "07240",
@@ -6475,25 +6380,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [4.645106, 44.893344]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "PEILLET 07",
-      "Brand": "gregoire",
-      "Adresse1": "Le village",
-      "Adresse2": " ",
-      "Zip_code": "Quintenas",
-      "City": "07290",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [4.686735, 45.189345]
     }
   },
   {
@@ -6537,25 +6423,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "CALVET SA",
-      "Brand": "gregoire",
-      "Adresse1": "Route nationale 113 rte Narbonne",
-      "Adresse2": " ",
-      "Zip_code": "Lézignan-Corbières",
-      "City": "11200",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [2.788848, 43.205313]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "LAGARRIGUE (Morlon)",
       "Brand": "gregoire",
       "Adresse1": "Le Pouget",
@@ -6576,7 +6443,7 @@
     "type": "Feature",
     "properties": {
       "Name": "CAUQUIL",
-      "Brand": "rabe",
+      "Brand": "gregoire ",
       "Adresse1": "1907 Le Moulin Neuf",
       "Adresse2": " ",
       "Zip_code": "Montlaur",
@@ -6670,25 +6537,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "S.A.M.A. (Lazer)",
-      "Brand": "gregoire",
-      "Adresse1": "Les Résolues",
-      "Adresse2": " ",
-      "Zip_code": "Marseille",
-      "City": "13010",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [5.429337, 43.281321]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "NOVA 13 (Arles)",
       "Brand": "gregoire",
       "Adresse1": "Chemin de Séverin",
@@ -6745,12 +6593,11 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "PEILLET 26 (Romans)",
+      "Name": "C.A.C. (Comptoir Agricole Corse)",
       "Brand": "gregoire",
-      "Adresse1": "ZI le Grand Chasse",
-      "Adresse2": " ",
-      "Zip_code": "Romans-sur-Isère",
-      "City": "26100",
+      "Adresse1": "Lieu dit Valicella",
+      "Zip_code": "Vescovato",
+      "City": "20215",
       "Country": "France",
       "GBgroup_salesman": "René Morales",
       "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
@@ -6758,7 +6605,7 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [5.047331, 45.047466]
+      "coordinates": [9.409, 42.45093]
     }
   },
   {
@@ -6766,9 +6613,9 @@
     "properties": {
       "Name": "BROTTES",
       "Brand": "gregoire",
-      "Adresse1": "150 Grangeneuve",
+      "Adresse1": "35 Rte de Morbos ",
       "Adresse2": " ",
-      "Zip_code": "Châteaudouble",
+      "Zip_code": "Chabeuil",
       "City": "26120",
       "Country": "France",
       "GBgroup_salesman": "René Morales",
@@ -6840,25 +6687,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "PEILLET 26 (Crest)",
-      "Brand": "gregoire",
-      "Adresse1": "Quartier Mazore",
-      "Adresse2": " ",
-      "Zip_code": "Crest",
-      "City": "26400",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [5.035299, 44.723057]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "TRANCHARD",
       "Brand": "group",
       "Adresse1": "zac les vinays rue pierre de Gilles",
@@ -6873,25 +6701,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [4.866266, 45.015941]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "NOVA 30 (St laurent)",
-      "Brand": "gregoire",
-      "Adresse1": "214 Rue des Mourvèdres",
-      "Adresse2": " ",
-      "Zip_code": "Saint-Laurent-des-Arbres",
-      "City": "30126",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [4.711785, 44.056545]
     }
   },
   {
@@ -6935,7 +6744,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "MOTOCULTURE REVELOISE",
+      "Name": "MANAGER",
       "Brand": "gregoire",
       "Adresse1": "Chemin du Petit Train",
       "Adresse2": " ",
@@ -6949,25 +6758,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [2.1952, 43.464646]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "AMTP CAVAILLEZ",
-      "Brand": "rabe",
-      "Adresse1": "Rue Mirepoix",
-      "Adresse2": " ",
-      "Zip_code": "Rieux-Volvestre",
-      "City": "31310",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [1.200318, 43.256619]
     }
   },
   {
@@ -7144,28 +6934,9 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "AGRI'LOCC",
-      "Brand": "gregoire",
-      "Adresse1": "Rue de la Vallée",
-      "Adresse2": " ",
-      "Zip_code": "Gornac",
-      "City": "33540",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.181451, 44.662149]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "AGRI 33",
       "Brand": "gregoire",
-      "Adresse1": "1 Chemin d'Arnauton",
+      "Adresse1": "Z-A JARRY IV , 13 Ch. St Eloi De Noyon",
       "Adresse2": " ",
       "Zip_code": "Cestas",
       "City": "33610",
@@ -7196,25 +6967,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [3.147146, 43.296335]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ADOUR MOTOCULTURE (Narosse)",
-      "Brand": "gregoire",
-      "Adresse1": "79 Route des Pyrénées",
-      "Adresse2": " ",
-      "Zip_code": "Narrosse",
-      "City": "40180",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.023566, 43.698741]
     }
   },
   {
@@ -7253,25 +7005,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-0.926317, 44.20657]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ADOUR MOTOCULTURE (Peyrehorade)",
-      "Brand": "gregoire",
-      "Adresse1": "70 Rue Marcel Molter",
-      "Adresse2": " ",
-      "Zip_code": "Peyrehorade",
-      "City": "40300",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.132515, 43.552364]
     }
   },
   {
@@ -7467,25 +7200,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "MOTOCULTURE BASCO BEARNAISE",
-      "Brand": "gregoire",
-      "Adresse1": "1354 RD 933 - Route de Sauveterre",
-      "Adresse2": " ",
-      "Zip_code": "Saint-Palais",
-      "City": "64120",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.014423, 43.333208]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "GRABE BIDAU (Lombia)",
       "Brand": "gregoire",
       "Adresse1": "Chemin Milhe",
@@ -7500,25 +7214,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-0.127778, 43.324957]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "MBB",
-      "Brand": "gregoire",
-      "Adresse1": "136 Avenue de la République",
-      "Adresse2": " ",
-      "Zip_code": "Artix",
-      "City": "64170",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.563987, 43.393722]
     }
   },
   {
@@ -7695,25 +7390,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "ALBI Motoculture",
-      "Brand": "gregoire",
-      "Adresse1": "10 Rue Pasteur",
-      "Adresse2": " ",
-      "Zip_code": "Puygouzon",
-      "City": "81990",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [2.163447, 43.892216]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "FREJABISE (Montesquieu)",
       "Brand": "gregoire",
       "Adresse1": "Cigalou",
@@ -7766,25 +7442,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [1.314721, 43.913417]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "BLANC ET ROCHEBOIS 83",
-      "Brand": "gregoire",
-      "Adresse1": "RN 7 - Route d'Aix CS20095",
-      "Adresse2": " ",
-      "Zip_code": "Brignoles",
-      "City": "83170",
-      "Country": "France",
-      "GBgroup_salesman": "René Morales",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 99",
-      "GBgroup_salesman_eMail": "r.morales@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [6.032589, 43.408587]
     }
   },
   {
@@ -8114,7 +7771,7 @@
     "type": "Feature",
     "properties": {
       "Name": "ETS TAVEAU",
-      "Brand": "rabe",
+      "Brand": "gregoire",
       "Adresse1": "1 Rue de l'Argillière",
       "Adresse2": " ",
       "Zip_code": "Saint-André-Farivillers",
@@ -8321,7 +7978,7 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "ETS Halloy",
+      "Name": "ETS HALLOY",
       "Brand": "gregoire",
       "Adresse1": "Rue du Fourneau 12",
       "Adresse2": " ",
@@ -8354,6 +8011,78 @@
     "geometry": {
       "type": "Point",
       "coordinates": [1.971069, 49.148209]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "EURO AGRAR",
+      "Brand": "gregoire",
+      "Adresse1": "3, rue de la gare",
+      "Zip_code": "Muespach le Haut",
+      "City": "68640",
+      "Country": "France",
+      "GBgroup_salesman": "Joseph Brenckle",
+      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
+      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.41016, 47.55183]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "COLLET LOUIS DAVIGNON",
+      "Brand": "gregoire",
+      "Adresse1": "16, rue du Bataillon",
+      "Zip_code": "Belleville sur Meuse",
+      "City": "55430",
+      "Country": "France",
+      "GBgroup_salesman": "Joseph Brenckle",
+      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
+      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.37118, 49.18464]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "LORRAINE AGRI SERVICE",
+      "Brand": "gregoire",
+      "Adresse1": "1, route de Drouville",
+      "Zip_code": "Maixe",
+      "City": "54370",
+      "Country": "France",
+      "GBgroup_salesman": "Joseph Brenckle",
+      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
+      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.43344, 48.64818]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "COLLET MANUTENTION",
+      "Brand": "gregoire",
+      "Adresse1": "Zone le Bouvret",
+      "Zip_code": "Dun sur Meuse",
+      "City": "55167",
+      "Country": "France",
+      "GBgroup_salesman": "Joseph Brenckle",
+      "GBgroup_salesman_Phonenumber": "06 27 75 71 10",
+      "GBgroup_salesman_eMail": "j.brenckle@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.17774, 49.39175]
     }
   },
   {
