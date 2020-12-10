@@ -394,8 +394,8 @@ const logo = (brand) => {
 const createContent = (data) => {
   content ='<div id="content" class="infowindow">'+
   '<h6 id="firstHeading" class="text-center">' + data.properties.Name + '</h6>'+
-  '<p class="infoWindowPara"><strong>Adresse :</strong> ' + data.properties.Adresse1 + ', ' + data.properties.Adresse2 + '</br>'+
-  '<strong>Code Postal :</strong> ' + data.properties.Zip_code + '</br>'+
+  '<p class="infoWindowPara"><strong>Adresse :</strong> ' + data.properties.Adresse1 + (data.properties.Adresse2  ?  ', ' + data.properties.Adresse2 : '' ) + '</br>'+
+  '<strong>Code Postal :</strong> ' + (data.properties.Zip_code ?  data.properties.Zip_code : '-') + '</br>'+
   '<strong>Ville :</strong> ' + data.properties.City + '</br>' +
   '<strong>Pays :</strong> ' + data.properties.Country + ' </br>' +
   '<strong> Marque distribuée : ' + logo(data.properties.Brand) +
