@@ -16991,13 +16991,13 @@
     "properties": {
       "Name": "ООО \"Агропроф\" Татарстан",
       "Brand": "gregoire",
-      "Adresse1": "Пестречинский район, д. Званка, ул. Зеленая, 24",
+      "Adresse1": "Пестречинский район, д. Званка, ул. Зеленая, 26, к1",
       "Zip_code": "422772",
       "City": "Званка",
       "Country": "Россия",
-      "e-Mail_adress": "galiullin@agroprof.com",
-      "GBgroup_salesman_Phonenumber": "8 927 042 65 37",
-      "GBgroup_salesman_eMail": "galiullin@agroprof.com"
+      "e-Mail_adress": "salihovravil@agroprof.com ",
+      "GBgroup_salesman_Phonenumber": "8 937 779 00 78",
+      "GBgroup_salesman_eMail": "salihovravil@agroprof.com "
     },
     "geometry": {
       "type": "Point",
@@ -17455,7 +17455,7 @@
       "City": "Тимашевск",
       "Country": "Россия",
       "e-Mail_adress": "aa@aaa-tehnika.com",
-      "GBgroup_salesman_Phonenumber": "8 86130 9 07 88, 8 918 146 20 26",
+      "GBgroup_salesman_Phonenumber": "8 800 234 97 99, 8 918 146 20 26",
       "GBgroup_salesman_eMail": "aa@aaa-tehnika.com"
     },
     "geometry": {
@@ -17586,22 +17586,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [106.901585, 47.921958]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "ООО «Кронос Агро»",
-      "Brand": "gregoire",
-      "Adresse1": "ул.Дмитриевская Дамба, дом 5, офис 203 Краснодар, Краснодарский край",
-      "Zip_code": "350033",
-      "City": "Краснодар",
-      "Country": "Россия",
-      "GBgroup_salesman_Phonenumber": "8 964 900 3770"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [38.990406, 45.02817]
     }
   },
   {
