@@ -18640,7 +18640,7 @@
     "type": "Feature",
     "properties": {
       "Name": "MACHDEAL",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "Carrefour Du Larivot",
       "Zip_code": "97351",
       "City": "MATOURY",
@@ -18659,7 +18659,7 @@
     "type": "Feature",
     "properties": {
       "Name": "SORELOC",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "8 Lot Dalmazir",
       "Zip_code": "97351",
       "City": "MATOURY",
@@ -18678,7 +18678,7 @@
     "type": "Feature",
     "properties": {
       "Name": "FOUCQUE MATERIEL",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "1 Ter Rue de l'Adour",
       "Zip_code": "97441",
       "City": "SAINTE-SUZANNE",
@@ -18697,7 +18697,7 @@
     "type": "Feature",
     "properties": {
       "Name": "AMS/AGRI-TP",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "Mansarde Catalogne",
       "Zip_code": "97231",
       "City": "LE ROBERT",
@@ -18716,7 +18716,7 @@
     "type": "Feature",
     "properties": {
       "Name": "CIPAC",
-      "Brand": "GB",
+      "Brand": "gregoire",
       "Adresse1": "210 Rue Gervolino",
       "Zip_code": "9800",
       "City": "NOUMEA",
