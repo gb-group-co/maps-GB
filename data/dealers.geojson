@@ -17307,6 +17307,24 @@
   {
     "type": "Feature",
     "properties": {
+      "Name": "ТОВ «АГРОСЕМ» Центральний офіс",
+      "Brand": "gregoire",
+      "Adresse1": "проспект Степана Бандери, буд. 9 В",
+      "Zip_code": "4073",
+      "City": "м. Київ",
+      "Country": "Україна",
+      "e-Mail_adress": "info@agrosem.ua",
+      "GBgroup_salesman_Phonenumber": "38 0 800 50 17 17",
+      "GBgroup_salesman_eMail": "info@agrosem.ua"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.4791535, 50.4892962]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "Name": "ТОВ «АГРІСТАР»",
       "Brand": "gregoire",
       "Adresse1": "вул. Радужна, 3",
@@ -18459,6 +18477,234 @@
     "geometry": {
       "type": "Point",
       "coordinates": [171.6726347, -43.9449705]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.702904, -30.568765]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.659626, 28.033886]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.730991, 26.859299]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [40.489674, 9.145000]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.888821, -6.369028]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.032715, 7.449624]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.837158, -1.406109]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.503174, 35.478565]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.190430, 15.538376]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-14.655762, 14.944785]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-0.637207, 17.476432]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "AGRIWAY Srl",
+      "Brand": "gregoire",
+      "Adresse1": "Via dell'Industria 9",
+      "Zip_code": "60030",
+      "City": "MONTE ROBERTO (AN)",
+      "Country": "ITALY",
+      "e-Mail_adress": "italy.contact@gb-group.co",
+      "GBgroup_salesman": "Mr Michele Bifani",
+      "GBgroup_salesman_Phonenumber": "0039 0731 37 59 70",
+      "GBgroup_salesman_eMail": "m.bifani@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [44.868164, 23.563987]
     }
   }
 ]
