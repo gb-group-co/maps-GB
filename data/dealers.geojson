@@ -2,6 +2,348 @@
   {
     "type": "Feature",
     "properties": {
+      "Name": "SM3 CLAAS Fleury",
+      "Brand": "gregoire",
+      "Adresse1": "46 Rte de Granville",
+      "Adresse2": " ",
+      "City": "Fleury",
+      "Zip_code": "50800",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.84385420601607, -1.262404463377841]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Valognes",
+      "Brand": "gregoire",
+      "Adresse1": "Zone Artisanale Armanville",
+      "Adresse2": " ",
+      "City": "Valognes",
+      "Zip_code": "50700",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [49.51024842119354, -1.4920294638671716]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Périers",
+      "Brand": "gregoire",
+      "Adresse1": " ",
+      "Adresse2": " ",
+      "City": "Périers",
+      "Zip_code": "50190",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [49.18973506004276, -1.4169348602874694]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Pontorson",
+      "Brand": "gregoire",
+      "Adresse1": "Rue des Roseaux",
+      "Adresse2": " ",
+      "City": "Pontorson",
+      "Zip_code": "50170",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.549034417864384, -1.510057446041685]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Dompierre",
+      "Brand": "gregoire",
+      "Adresse1": "Chp du Chemin",
+      "Adresse2": " ",
+      "City": "Dompierre",
+      "Zip_code": "61700",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.634588242015184, -0.5559954097606455]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Le Castelet",
+      "Brand": "gregoire",
+      "Adresse1": "RN 158 - LORGUICHON ST AIGNAN DE CRAMESNIL",
+      "Adresse2": " ",
+      "City": "Le Castelet",
+      "Zip_code": "14540",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [49.091084874550674, -0.30608691534883875]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Lisieux",
+      "Brand": "gregoire",
+      "Adresse1": "Rue du Lieu Doré",
+      "Adresse2": " ",
+      "City": "Saint-Martin-de-la-Lieue",
+      "Zip_code": "14100",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [49.1083529672194, 0.21352146204428438]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Laval",
+      "Brand": "gregoire",
+      "Adresse1": "Rte du Mans",
+      "Adresse2": " ",
+      "City": "Bonchamp-lès-Laval",
+      "Zip_code": "53960",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.07294115614858, -0.7235766442106027]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Gorron",
+      "Brand": "gregoire",
+      "Adresse1": "Av. de l'Abbé Angot",
+      "Adresse2": " ",
+      "City": "Gorron",
+      "Zip_code": "53120",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.41378858269183, -0.8283595135232087]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Saint-Fraimbault-de-Prières",
+      "Brand": "gregoire",
+      "Adresse1": "La Giraudière",
+      "Adresse2": " ",
+      "City": "Saint-Fraimbault-de-Prières",
+      "Zip_code": "53300",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.328027311652356, -0.5686915404264347]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Azé",
+      "Brand": "gregoire",
+      "Adresse1": "44 Rte de Sablé",
+      "Adresse2": " ",
+      "City": "Azé",
+      "Zip_code": "53200",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [47.83424108029603, -0.6777720014747034]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Noyal-sur-Vilaine",
+      "Brand": "gregoire",
+      "Adresse1": " ",
+      "Adresse2": " ",
+      "City": "Noyal-sur-Vilaine",
+      "Zip_code": "35530",
+      "Country": "France",
+      "GBgroup_salesman": "Mickaël Le Roy",
+      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
+      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.10575570338821, -1.5075073828466352]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Dol-de-Bretagne",
+      "Brand": "gregoire",
+      "Adresse1": "11 Rue de l'Armée Patton",
+      "Adresse2": " ",
+      "City": "Dol-de-Bretagne",
+      "Zip_code": "35120",
+      "Country": "France",
+      "GBgroup_salesman": "Mickaël Le Roy",
+      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
+      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.55375931306328, -1.7338202540062868]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bay Shore Sales LLC",
+      "Brand": "gregoire",
+      "Adresse1": "890 Bay Park Rd",
+      "Adresse2": " ",
+      "City": "Unionville, MI",
+      "Zip_code": "48767",
+      "Country": "États-Unis",
+      "GBgroup_salesman": "Julien Cadiou",
+      "GBgroup_salesman_Phonenumber": "+1 450-799-5615",
+      "GBgroup_salesman_eMail": "j.cadiou@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.653351157188304, -83.54243694616527]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "Preferred Grain Systems",
+      "Brand": "gregoire",
+      "Adresse1": "12394 Bradt Rd",
+      "Adresse2": " ",
+      "City": "Cato, NY",
+      "Zip_code": "13033",
+      "Country": "États-Unis",
+      "GBgroup_salesman": "Julien Cadiou",
+      "GBgroup_salesman_Phonenumber": "+1 450-799-5615",
+      "GBgroup_salesman_eMail": "j.cadiou@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.21415975869154, -76.56543258666248]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Mortagne-au-Perche",
+      "Brand": "gregoire",
+      "Adresse1": "59 Rue du Faubourg Saint-Eloi",
+      "Adresse2": " ",
+      "City": "Mortagne-au-Perche",
+      "Zip_code": "61400",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.523723010239976, 0.5377907788435904]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Carrouges",
+      "Brand": "gregoire",
+      "Adresse1": "Avenue Mar Leclerc",
+      "Adresse2": " ",
+      "City": "Carrouges",
+      "Zip_code": "61320",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.569324781664704, -0.15011253346387285]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Name": "SM3 CLAAS Sablons-sur-Huisne",
+      "Brand": "gregoire",
+      "Adresse1": "La Fourche",
+      "Adresse2": " ",
+      "City": "Sablons-sur-Huisne",
+      "Zip_code": "61110",
+      "Country": "France",
+      "GBgroup_salesman": "David Louveau",
+      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
+      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.37698129459105, 0.8878719975370565]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "Name": "RUAUX AGRI",
       "Brand": "gregoire",
       "Adresse1": "85 Chemin des Carrières",
