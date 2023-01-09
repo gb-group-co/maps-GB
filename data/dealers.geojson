@@ -21,25 +21,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "LETELLIER",
-      "Brand": "gregoire",
-      "Adresse1": "Impasse du stade",
-      "Adresse2": " ",
-      "City": "Le Breuil-en-Auge",
-      "Zip_code": "14130",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [0.221883, 49.229162]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "HOCHET TOUCHARD",
       "Brand": "gregoire",
       "Adresse1": "31 Rue du Commerce",
@@ -78,25 +59,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "AGRI BELLAMY",
-      "Brand": "gregoire",
-      "Adresse1": "Parc des Estuaire",
-      "Adresse2": " ",
-      "City": "Villers-Bocage",
-      "Zip_code": "14310",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.657892, 49.08421]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "SEIGNEUR",
       "Brand": "gregoire",
       "Adresse1": "Route d'Aunay",
@@ -111,25 +73,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-0.678028, 48.855672]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "SM3 CAEN",
-      "Brand": "gregoire",
-      "Adresse1": "RN 158 - LORGUICHON",
-      "Adresse2": " ",
-      "City": "Saint-Aignan-de-Cramesnil",
-      "Zip_code": "14540",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.306253, 49.089048]
     }
   },
   {
@@ -363,44 +306,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "LEBEURRIER",
-      "Brand": "gregoire",
-      "Adresse1": "La gollerie",
-      "Adresse2": " ",
-      "City": "Percy",
-      "Zip_code": "50410",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.195706, 48.911381]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "HARDY",
-      "Brand": "gregoire",
-      "Adresse1": "43 Route de Périers",
-      "Adresse2": " ",
-      "City": "Carentan",
-      "Zip_code": "50500",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.258422, 49.291201]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "LCMA",
       "Brand": "gregoire",
       "Adresse1": "26A Route de Brécey",
@@ -415,25 +320,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-1.137605, 48.744649]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "BELLAMY Michel",
-      "Brand": "gregoire",
-      "Adresse1": "1 Le Bas des Landes",
-      "Adresse2": " ",
-      "City": "Saint-Clair-sur-l'Elle",
-      "Zip_code": "50680",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.041534, 49.189559]
     }
   },
   {
@@ -477,25 +363,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "LH AGRI",
-      "Brand": "gregoire",
-      "Adresse1": "Route de la Haye Pesnel",
-      "Adresse2": " ",
-      "City": "Subligny",
-      "Zip_code": "50870",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.354762, 48.756915]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "GUILLET",
       "Brand": "gregoire",
       "Adresse1": "2 La Causcanière",
@@ -529,44 +396,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-0.845519, 47.986725]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "SODEMAGRI",
-      "Brand": "gregoire",
-      "Adresse1": "Rue Aubusson",
-      "Adresse2": " ",
-      "City": "Saint-Georges-des-Groseillers",
-      "Zip_code": "61100",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.565181, 48.77688]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "HUARD GERARD",
-      "Brand": "gregoire",
-      "Adresse1": "Rue de la Glycine",
-      "Adresse2": " ",
-      "City": "Bellou-en-Houlme",
-      "Zip_code": "61220",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.441623, 48.691914]
     }
   },
   {
@@ -648,25 +477,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "CHANU MICHEL",
-      "Brand": "gregoire",
-      "Adresse1": "Lande Collet",
-      "Adresse2": " ",
-      "City": "Athis-de-l'Orne",
-      "Zip_code": "61430",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.502964, 48.80183]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "LOUVEL",
       "Brand": "gregoire",
       "Adresse1": "Zoning Industriel",
@@ -681,25 +491,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [0.339652, 48.894471]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "MORINEAU",
-      "Brand": "gregoire",
-      "Adresse1": "Rue du Bourg-Joli",
-      "Adresse2": " ",
-      "City": "Chailloué",
-      "Zip_code": "61500",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [0.193632, 48.651265]
     }
   },
   {
@@ -5929,25 +5720,6 @@
   {
     "type": "Feature",
     "properties": {
-      "Name": "AJIMATERIEL",
-      "Brand": "gregoire",
-      "Adresse1": "La Houzais",
-      "Adresse2": " ",
-      "City": "Corps-Nuds",
-      "Zip_code": "35150",
-      "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.543023, 47.979188]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "Name": "BELLOIR",
       "Brand": "gregoire",
       "Adresse1": "za Bellevue-Le Houssay",
@@ -5962,25 +5734,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-1.370221, 47.896629]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "GREFFIER",
-      "Brand": "gregoire",
-      "Adresse1": "102 Rue de Rennes",
-      "Adresse2": " ",
-      "City": "Pléchâtel",
-      "Zip_code": "35470",
-      "Country": "France",
-      "GBgroup_salesman": "Mickaël Le Roy",
-      "GBgroup_salesman_Phonenumber": "06 80 21 67 36",
-      "GBgroup_salesman_eMail": "m.leroy@gb-group-co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-1.677905, 47.867661]
     }
   },
   {
@@ -6019,25 +5772,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [-1.778776, 48.144351]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "Name": "GRANDIN",
-      "Brand": "gregoire",
-      "Adresse1": "Zone artisanale du Clos Macé",
-      "Adresse2": " ",
-      "City": "Bazougers",
-      "Zip_code": "53170",
-      "Country": "France",
-      "GBgroup_salesman": "David Louveau",
-      "GBgroup_salesman_Phonenumber": "06 07 18 26 93",
-      "GBgroup_salesman_eMail": "d.louveau@gb-group.co"
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-0.58919, 48.010592]
     }
   },
   {
