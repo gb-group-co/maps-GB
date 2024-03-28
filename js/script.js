@@ -381,12 +381,8 @@ function initMap(dealers, filter) {
 }
 
 const logo = (brand) => {
-  if (brand === "rabe") {
-     var logo = '<a href="http://www.rabe-gb.de/fr/" target="_blank"><img src="img/rabe.png" alt="Rabe"></a>'
-  } else if (brand === "gregoire") {
+  if (brand === "gregoire") {
     logo = '<a href="https://www.gregoire-besson.com/fr" target="_blank"><img src="img/gregoire-besson.png" alt="Gregoire-Besson"></a>'
-  } else {
-    logo = '<a href="https://www.gregoire-besson.com/fr" target="_blank"><img src="img/gregoire-besson.png" alt="GB-group"></a>&nbsp;&nbsp;<a href="http://www.rabe-gb.de/fr/" target="_blank"><img src="img/rabe.png" alt="Rabe"></a>'
   }
   return logo;
 }
@@ -418,12 +414,6 @@ const setMarkers = (dealers, map, filter) => {
   };
 
   var image = {
-    rabe: {
-        path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
-        scale: 4,
-        strokeWeight:2,
-        strokeColor:"#0076BD"
-    },
     gregoire: {
         path: google.maps.SymbolPath.BACKWARD_CLOSED_ARROW,
         scale: 4,
